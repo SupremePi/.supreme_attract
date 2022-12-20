@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up);Akumajou Dracula - Shikkokutaru Zensoukyoku (Speed Up);Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Castlevania - Legends by Silver X (Speed);Castlevania - Legends by Silver X (Speed);Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Castlevania Adventure, The (Graphics Improved);Castlevania Adventure, The (Graphics Improved);Nintendo Game Boy Hacks;;1989;Konami;Action / Adventure;1;;;;;;;;;
+Castlevania II - Belmont's Revenge (Speed Up);Castlevania II - Belmont's Revenge (Speed Up);Nintendo Game Boy Hacks;;1991;Konami;Platform;1;;;;;;;;;
+Castlevania Legends (Speed Up);Castlevania Legends (Speed Up);Nintendo Game Boy Hacks;;1998;Konami;Action / Adventure;1;;;;;;;;;
+Legend of Zelda, The - Link's Awakening (Restored Edition);Legend of Zelda, The - Link's Awakening (Restored Edition);Nintendo Game Boy Hacks;;1993;Nintendo;Adventure;1;;;;;;;;;
+Metroid II - Return of Samus (Incandescent Color Theme);Metroid II - Return of Samus (Incandescent Color Theme);Nintendo Game Boy Hacks;;1991;Nintendo;Action / Adventure;1;;;;;;;;;
+Metroid II DX by Redrum;Metroid II DX by Redrum;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Blue Upgrade;Pokemon Blue Upgrade;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon II;Pokemon II;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Neo - Adventure;Pokemon Neo - Adventure;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Platinum;Pokemon Platinum;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Red Upgrade;Pokemon Red Upgrade;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Rocket - Jessie Version;Pokemon Rocket - Jessie Version;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Pokemon Z V3.0;Pokemon Z V3.0;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Rockman World 4;Rockman World 4;Nintendo Game Boy Hacks;;1993;Capcom;Action / Adventure;1;;;;;;;;;
+Super Mario Land (New GFX Color Edition);Super Mario Land (New GFX Color Edition);Nintendo Game Boy Hacks;;1989;Nintendo;Platform;1;;;;;;;;;
+Super Mario Land 2 DX;Super Mario Land 2 DX;Nintendo Game Boy Hacks;;;;;;;;;;;;;;
+Super Pika Land;Super Pika Land;Nintendo Game Boy Hacks;;;;;;;;;;;;;;

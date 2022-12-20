@@ -1,0 +1,11 @@
+hulk;The Incredible Hulk (Euro, USA);Final Burn Alpha;;1994;U.S. Gold;;;;;;0;;;;;
+Incredible Hulk, The (Europe);Incredible Hulk, The (Europe);Sega Master System;;1994;U.S. Gold;Platform;;;;;0;;;;;
+Incredible Hulk, The - The Pantheon Saga (USA);Incredible Hulk, The - The Pantheon Saga (USA);Sony PlayStation;;1996;Eidos;Beat-'Em-Up;;;;;0;;;;;
+Incredible Hulk, The - The Pantheon Saga (USA);Incredible Hulk, The - The Pantheon Saga (USA);Sony PSP;;1996;Eidos;Beat-'Em-Up;;;;;0;;;;;
+Incredible Hulk, The (USA) (En,Fr,De,Es,It);Incredible Hulk, The;Nintendo DS;;;;;;;;;0;;;;;
+Incredible Hulk, The (USA, Europe);Incredible Hulk, The (USA, Europe);Sega Game Gear;;1995;U.S. Gold;Action;;;;;0;;;;;
+Incredible Hulk, The (USA, Europe);Incredible Hulk, The (USA, Europe);Sega Genesis;;1994;Probe Entertainment;Platform;;;;;0;;;;;
+Incredible Hulk, The (USA);Incredible Hulk, The (USA);Nintendo Game Boy Advance;;2003;Universal Interactive;Platform;;;;;0;;;;;
+Incredible Hulk, The (USA);Incredible Hulk, The (USA);Super Nintendo Entertainment System;;1994;U.S. Gold;Platform;;;;;0;;;;;
+Questprobe 1 - The Hulk (Europe);Questprobe 1 - The Hulk (Europe);Sinclair ZX Spectrum;;1984;Adventure International;Adventure;;;;;0;;;;;
+Questprobe 1 - The Incredible Hulk (USA);Questprobe 1 - The Incredible Hulk (USA);Commodore 64;;1984;Commodore;Adventure;;;;;0;;;;;

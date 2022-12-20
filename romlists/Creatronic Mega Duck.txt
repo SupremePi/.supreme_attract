@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+2nd Space (Europe);2nd Space (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Ant Soldiers (Europe);Ant Soldiers (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Arctic Zone (Europe);Arctic Zone (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Armour Force (Europe);Armour Force (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Beast Fighter (Europe);Beast Fighter (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Black Forest Tale (Europe);Black Forest Tale (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Bomb Disposer (Europe);Bomb Disposer (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Brick Wall, The (Europe);Brick Wall, The (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Captain Knick Knack (Europe);Captain Knick Knack (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Commin 5 in 1 (Europe);Commin 5 in 1 (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Magic Maze (Europe);Magic Maze (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Magical Tower (Europe);Magical Tower (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Mega Duck 4 in 1 (Europe);Mega Duck 4 in 1 (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Pile Wonder (Europe);Pile Wonder (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Puppet Knight (Europe);Puppet Knight (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Railway (Europe);Railway (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Snake Roy (Europe);Snake Roy (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Street Rider (Europe);Street Rider (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Suleiman's Treasure (Europe);Suleiman's Treasure (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Trap and Turn (Europe);Trap and Turn (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Vex (Europe);Vex (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Worm Visitor (Europe);Worm Visitor (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;
+Zipball (Europe);Zipball (Europe);Creatronic Mega Duck;;;;;;;;;;;;;;

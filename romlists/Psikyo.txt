@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+daraku;The Fallen Angels;Arcade;;;;;;;;;0;;;;;
+dragnblz;Dragon Blaze;Arcade;;;;;;;;;0;;;;;
+gnbarich;Gunbarich;Arcade;;;;;;;;;0;;;;;
+gunbird;Gunbird;Arcade;;;;;;;;;0;;;;;
+gunbird2;Gunbird 2;Arcade;;;;;;;;;0;;;;;
+loderndf;Lode Runner The Dig Fight;Arcade;;;;;;;;;0;;;;;
+loderndfa;Lode Runner The Dig Fight (vb);Arcade;;;;;;;;;0;;;;;
+s1945a;1945;Arcade;;;;;;;;;0;;;;;
+s1945ii;1945 2;Arcade;;;;;;;;;0;;;;;
+s1945iii;1945 3;Arcade;;;;;;;;;0;;;;;
+s1945p;1945 Plus;Arcade;;;;;;;;;0;;;;;
+samuraia;Samurai Aces;Arcade;;;;;;;;;0;;;;;
+sbomber;Space Bomber;Arcade;;;;;;;;;0;;;;;
+soldivid;Sol Divide;Arcade;;;;;;;;;0;;;;;
+tengai;Tengai;Arcade;;;;;;;;;0;;;;;

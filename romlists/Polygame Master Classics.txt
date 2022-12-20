@@ -1,0 +1,328 @@
+5clowna;Five Clown (English, set 2);MAME (Libretro);5clown;1993;IGS;Casino / Cards;1P;0;gambling;imperfect;1;raster;5clown;;;
+5clown;Five Clown (English, set 1);MAME (Libretro);;1993;IGS;Casino / Cards;1P;0;gambling;imperfect;1;raster;;;;
+5clownsp;Five Clown (Spanish hack);MAME (Libretro);5clown;1993;IGS;Casino / Cards;1P;0;gambling;imperfect;1;raster;5clown;;;
+aliencha;Alien Challenge (World);Arcade;;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+aliencha;Alien Challenge (World);Final Burn Alpha;;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+aliencha;Alien Challenge (World);MAME (Libretro);;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+alienchac;Alien Challenge (China);Arcade;aliencha;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;aliencha;;;6
+alienchac;Alien Challenge (China);Final Burn Alpha;aliencha;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;aliencha;;;6
+alienchac;Alien Challenge (China);MAME (Libretro);aliencha;1994;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;aliencha;;;
+chleague;Champion League (v220I, Poker);MAME (Libretro);;2000;IGS;Casino / Cards;1P;0;gambling;good;1;raster;;;;
+chleagul;Champion League (v220I, Lattine);MAME (Libretro);chleague;2000;IGS;Casino / Cards;1P;0;gambling;good;1;raster;chleague;;;
+cpoker;Champion Poker (v220I);MAME (Libretro);;1993?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;;;;
+cpokert;Champion Poker (v200G);MAME (Libretro);cpoker;1993?;IGS (Tuning license);Casino / Cards * Mature *;1P;0;gambling;good;1;raster;cpoker;;;
+csk227it;Champion Skill (with Ability);Arcade;;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;;;;
+csk227it;Champion Skill (with Ability);MAME (Advance);;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;;;;
+csk227it;Champion Skill (with Ability);MAME (Libretro);;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;;;;
+csk234it;Champion Skill (Ability, Poker & Symbols);Arcade;csk227it;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;csk227it;;;
+csk234it;Champion Skill (Ability, Poker & Symbols);MAME (Advance);csk227it;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;csk227it;;;
+csk234it;Champion Skill (Ability, Poker & Symbols);MAME (Libretro);csk227it;198?;IGS;Casino / Cards * Mature *;1P;0;gambling;good;1;raster;csk227it;;;
+dbc;Da Ban Cheng (Hong Kong, V027H);MAME (Libretro);lhb;1995;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;lhb;;;
+ddp2100c;DoDonPachi II - Bee Storm (China, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100c;DoDonPachi II - Bee Storm (China, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100;DoDonPachi II - Bee Storm (World, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100;DoDonPachi II - Bee Storm (World, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100j;DoDonPachi II - Bee Storm (Japan, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100j;DoDonPachi II - Bee Storm (Japan, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100k;DoDonPachi II - Bee Storm (Korea, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100k;DoDonPachi II - Bee Storm (Korea, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100t;DoDonPachi II - Bee Storm (Taiwan, ver. 100);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2100t;DoDonPachi II - Bee Storm (Taiwan, ver. 100);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101c;DoDonPachi II - Bee Storm (China, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101c;DoDonPachi II - Bee Storm (China, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101;DoDonPachi II - Bee Storm (World, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101;DoDonPachi II - Bee Storm (World, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101j;DoDonPachi II - Bee Storm (Japan, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101j;DoDonPachi II - Bee Storm (Japan, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101k;DoDonPachi II - Bee Storm (Korea, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101k;DoDonPachi II - Bee Storm (Korea, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101t;DoDonPachi II - Bee Storm (Taiwan, ver. 101);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2101t;DoDonPachi II - Bee Storm (Taiwan, ver. 101);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2c;DoDonPachi II - Bee Storm (China, ver. 102);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2c;DoDonPachi II - Bee Storm (China, ver. 102);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2;DoDonPachi II - Bee Storm (World, ver. 102);Arcade;;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;pgm;;;4
+ddp2;DoDonPachi II - Bee Storm (World, ver. 102);Final Burn Alpha;;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;pgm;;;4
+ddp2;DoDonPachi II - Bee Storm (World, ver. 102);MAME (Advance);;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;pgm;;;4
+ddp2;DoDonPachi II - Bee Storm (World, ver. 102);MAME (Libretro);;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+ddp2hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 102);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2hk;DoDonPachi II - Bee Storm (Hong Kong, ver. 102);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2j;DoDonPachi II - Bee Storm (Japan, ver. 102);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2j;DoDonPachi II - Bee Storm (Japan, ver. 102);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2k;DoDonPachi II - Bee Storm (Korea, ver. 102);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2k;DoDonPachi II - Bee Storm (Korea, ver. 102);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2t;DoDonPachi II - Bee Storm (Taiwan, ver. 102);Arcade;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddp2t;DoDonPachi II - Bee Storm (Taiwan, ver. 102);Final Burn Alpha;ddp2;2001;IGS;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ddp2;;;4
+ddz;Dou Di Zhu;MAME (Libretro);;200?;IGS?;Tabletop / Cards;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+dmnfrnta;Demon Front (68k label V102, ROM M102XX 06/19/02) (ARM label V102, ROM 05/24/02 S101XX);Arcade;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;dmnfrnt;;;4
+dmnfrnta;Demon Front (68k label V102, ROM M102XX 06/19/02) (ARM label V102, ROM 05/24/02 S101XX);Final Burn Alpha;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;dmnfrnt;;;4
+dmnfrnta;Demon Front (68k label V102, ROM M102XX 06/19/02) (ARM label V102, ROM 05/24/02 S101XX);MAME (Advance);dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;dmnfrnt;;;4
+dmnfrnta;Demon Front (68k label V102, ROM M102XX 06/19/02) (ARM label V102, ROM 05/24/02 S101XX);MAME (Libretro);dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;dmnfrnt;;;
+dmnfrntb;Demon Front (68k label V103, ROM M103XX 07/05/02) (ARM label V103, ROM 07/05/02 S103XX);Arcade;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;dmnfrnt;;;4
+dmnfrntb;Demon Front (68k label V103, ROM M103XX 07/05/02) (ARM label V103, ROM 07/05/02 S103XX);Final Burn Alpha;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;dmnfrnt;;;4
+dmnfrnt;Demon Front (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX);Arcade;;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dmnfrnt;Demon Front (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX);Final Burn Alpha;;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dmnfrnt;Demon Front (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX);MAME (Advance);;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dmnfrnt;Demon Front (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX);MAME (Libretro);;2002;IGS;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+dmnfrntpcb;Demon Front (68k label V107KR, ROM M107KR 11/03/03) (ARM label V106KR, ROM 10/16/03 S106KR) (JAMMA PCB);Arcade;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;???;0;joystick (8-way);preliminary;1;raster;dmnfrnt;;;4
+dmnfrntpcb;Demon Front (68k label V107KR, ROM M107KR 11/03/03) (ARM label V106KR, ROM 10/16/03 S106KR) (JAMMA PCB);Final Burn Alpha;dmnfrnt;2002;IGS;Platform / Shooter Scrolling;???;0;joystick (8-way);preliminary;1;raster;dmnfrnt;;;4
+drgnwrld;Dragon World (World, V040O);Arcade;;1997;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;3
+drgnwrld;Dragon World (World, V040O);MAME (Advance);;1997;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;3
+drgnwrld;Dragon World (World, V040O);MAME (Libretro);;1997;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+drgnwrldv10c;Zhong Guo Long (China, V010C);MAME (Libretro);drgnwrld;1995;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgnwrldv11h;Dong Fang Zhi Zhu (Hong Kong, V011H);MAME (Libretro);drgnwrld;1995;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgnwrldv20j;Zhong Guo Long (Japan, V020J);MAME (Libretro);drgnwrld;1995;IGS / Alta;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgnwrldv21;Dragon World (World, V021O);MAME (Libretro);drgnwrld;1995;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgnwrldv21j;Zhong Guo Long (Japan, V021J);MAME (Libretro);drgnwrld;1995;IGS / Alta;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgnwrldv30;Dragon World (World, V030O);MAME (Libretro);drgnwrld;1995;IGS;Puzzle / Match * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;drgnwrld;;;
+drgw2c;Zhong Guo Long II (ver. 100C, China);Arcade;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2c;Zhong Guo Long II (ver. 100C, China);Final Burn Alpha;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2c;Zhong Guo Long II (ver. 100C, China);MAME (Advance);drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2c;Zhong Guo Long II (ver. 100C, China);MAME (Libretro);drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;drgw2;;;
+drgw2;Dragon World II (ver. 110X, Export);Arcade;;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+drgw2;Dragon World II (ver. 110X, Export);Final Burn Alpha;;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+drgw2;Dragon World II (ver. 110X, Export);MAME (Advance);;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+drgw2;Dragon World II (ver. 110X, Export);MAME (Libretro);;1997;IGS;Puzzle / Match;1P;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+drgw2hk;Dragon World II (ver. 100H, Hong Kong [Hokg Kong]);Arcade;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);preliminary;1;raster;drgw2;;;4
+drgw2hk;Dragon World II (ver. 100H, Hong Kong [Hokg Kong]);Final Burn Alpha;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);preliminary;1;raster;drgw2;;;4
+drgw2j;Chuugokuryuu II (ver. 100J, Japan);Arcade;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2j;Chuugokuryuu II (ver. 100J, Japan);Final Burn Alpha;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2j;Chuugokuryuu II (ver. 100J, Japan);MAME (Advance);drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+drgw2j;Chuugokuryuu II (ver. 100J, Japan);MAME (Libretro);drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;drgw2;;;
+drgw3100;Chuugokuryuu 3 Special (Japan, ver. 100);MAME (Libretro);drgw3;1998;IGS;Puzzle / Match;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;drgw3;;;
+drgw3105;Dragon World 3 / Chuugokuryuu 3 Special (ver. 105);MAME (Libretro);drgw3;1998;IGS;Puzzle / Match;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;drgw3;;;
+drgw3;Dragon World 3 / Chuugokuryuu 3 Special (ver. 106);Arcade;;1998;IGS;Puzzle / Match;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+drgw3;Dragon World 3 / Chuugokuryuu 3 Special (ver. 106);MAME (Advance);;1998;IGS;Puzzle / Match;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+drgw3;Dragon World 3 / Chuugokuryuu 3 Special (ver. 106);MAME (Libretro);;1998;IGS;Puzzle / Match;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+dw2001;Chuugokuryuu 2001 [Dragon World 2001] (V100?, Japan);Arcade;;2001;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dw2001;Chuugokuryuu 2001 [Dragon World 2001] (V100?, Japan);Final Burn Alpha;;2001;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dw2001;Chuugokuryuu 2001 [Dragon World 2001] (V100?, Japan);MAME (Libretro);;2001;IGS;Puzzle / Match;1P;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+dw2v100x;Dragon World II (ver. 100X, Export);Arcade;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+dw2v100x;Dragon World II (ver. 100X, Export);Final Burn Alpha;drgw2;1997;IGS;Puzzle / Match;1P;0;joystick (8-way);imperfect;1;raster;drgw2;;;4
+dwex;Dragon World 3 EX (ver. 100);MAME (Libretro);;1998;IGS;Puzzle / Match;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+dwpc;Chuugokuryuu Pretty Chance [Dragon World Pretty Chance] (V101, Japan);Arcade;;2001;IGS;Puzzle / Match * Mature *;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+dwpc;Chuugokuryuu Pretty Chance [Dragon World Pretty Chance] (V101, Japan);Final Burn Alpha;;2001;IGS;Puzzle / Match * Mature *;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+goldstar;Golden Star;Arcade;;199?;IGS;Casino / Reels;1P;0;gambling;good;1;raster;;;;
+goldstar;Golden Star;MAME (Advance);;199?;IGS;Casino / Reels;1P;0;gambling;good;1;raster;;;;
+goldstbl;Golden Star (Blue version);Arcade;goldstar;199?;IGS;Casino / Reels;1P;0;gambling;good;1;raster;goldstar;;;
+goldstbl;Golden Star (Blue version);MAME (Advance);goldstar;199?;IGS;Casino / Reels;1P;0;gambling;good;1;raster;goldstar;;;
+grndtour;Grand Tour;Arcade;;1993;IGS;Puzzle / Drop * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;4
+grndtour;Grand Tour;MAME (Advance);;1993;IGS;Puzzle / Drop * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;4
+grndtour;Grand Tour;MAME (Libretro);;1993;IGS;Puzzle / Drop * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;4
+happy6101;Happy 6-in-1 (ver. 101CN);Arcade;happy6;2004;IGS;Multiplay / Compilation;1P;0;joystick (8-way);imperfect;1;raster;happy6;;;4
+happy6101;Happy 6-in-1 (ver. 101CN);Final Burn Alpha;happy6;2004;IGS;Multiplay / Compilation;1P;0;joystick (8-way);imperfect;1;raster;happy6;;;4
+happy6;Happy 6-in-1 (ver. 102CN);Arcade;;2004;IGS;Multiplay / Compilation;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+happy6;Happy 6-in-1 (ver. 102CN);Final Burn Alpha;;2004;IGS;Multiplay / Compilation;1P;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+happy6;Happy 6-in-1 (ver. 102CN);MAME (Libretro);;2004;IGS;Multiplay / Compilation;1P;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+iqblocka;Shu Zi Le Yuan (V127M);MAME (Libretro);iqblock;1996;IGS;Puzzle / Drop;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;iqblock;;;
+iqblockf;Shu Zi Le Yuan (V113FR);MAME (Libretro);iqblock;1996;IGS;Puzzle / Drop;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;iqblock;;;
+iqblock;IQ-Block;Arcade;;1993;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+iqblock;IQ-Block;MAME (Advance);;1993;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+iqblock;IQ-Block;MAME (Libretro);;1993;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+jackie;Happy Jackie (v110U);MAME (Libretro);;1993;IGS;Casino / Reels;1P;0;gambling;good;1;raster;;;;
+jingbell;Jingle Bell (US, V157US);MAME (Libretro);;1997;IGS;Casino / Reels * Mature *;1P;0;gambling;good;1;raster;;;;
+killbld104;The Killing Blade (ver. 104);Arcade;killbld;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;killbld;;;4
+killbld104;The Killing Blade (ver. 104);Final Burn Alpha;killbld;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;killbld;;;4
+killbld104;The Killing Blade (ver. 104);MAME (Libretro);killbld;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;killbld;;;
+killbldp;The Killing Blade Plus (China, ver. 300);Arcade;;2005;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+killbldp;The Killing Blade Plus (China, ver. 300);Final Burn Alpha;;2005;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+killbldp;The Killing Blade Plus (China, ver. 300);MAME (Libretro);;2005;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+killbld;The Killing Blade (ver. 109, Chinese Board);Arcade;;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+killbld;The Killing Blade (ver. 109, Chinese Board);Final Burn Alpha;;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+killbld;The Killing Blade (ver. 109, Chinese Board);MAME (Advance);;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+killbld;The Killing Blade (ver. 109, Chinese Board);MAME (Libretro);;1998;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+klxyj;Kuai Le Xi You Ji;MAME (Libretro);;200?;IGS;Tabletop / Mahjong;???;0;;preliminary;1;raster;;;;
+kov100;Knights of Valour / Sangoku Senki (ver. 100, Japanese Board);MAME (Libretro);kov;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;kov;;;
+kov115;Knights of Valour / Sangoku Senki (ver. 115);Arcade;kov;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kov;;;4
+kov115;Knights of Valour / Sangoku Senki (ver. 115);Final Burn Alpha;kov;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kov;;;4
+kov115;Knights of Valour / Sangoku Senki (ver. 115);MAME (Advance);kov;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kov;;;4
+kov115;Knights of Valour / Sangoku Senki (ver. 115);MAME (Libretro);kov;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kov;;;4
+kov2100;Knights of Valour 2 / Sangoku Senki 2 (ver. 100, 100, 100HK);Arcade;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2100;Knights of Valour 2 / Sangoku Senki 2 (ver. 100, 100, 100HK);Final Burn Alpha;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2100;Knights of Valour 2 / Sangoku Senki 2 (ver. 100, 100, 100HK);MAME (Libretro);kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;kov2;;;
+kov2101;Knights of Valour 2 / Sangoku Senki 2 (ver. 101, 101, 100HK);Arcade;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2101;Knights of Valour 2 / Sangoku Senki 2 (ver. 101, 101, 100HK);Final Burn Alpha;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2102;Knights of Valour 2 / Sangoku Senki 2 (ver. 102, 101, 100HK);Arcade;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2102;Knights of Valour 2 / Sangoku Senki 2 (ver. 102, 101, 100HK);Final Burn Alpha;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2102;Knights of Valour 2 / Sangoku Senki 2 (ver. 102, 101, 100HK);MAME (Libretro);kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;kov2;;;
+kov2103;Knights of Valour 2 / Sangoku Senki 2 (ver. 103, 101, 100HK);Arcade;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2103;Knights of Valour 2 / Sangoku Senki 2 (ver. 103, 101, 100HK);Final Burn Alpha;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2103;Knights of Valour 2 / Sangoku Senki 2 (ver. 103, 101, 100HK);MAME (Libretro);kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;kov2;;;
+kov2106;Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100HK);Arcade;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2106;Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100HK);Final Burn Alpha;kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2106;Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100HK);MAME (Advance);kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2;;;4
+kov2106;Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100HK);MAME (Libretro);kov2;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;kov2;;;
+kov2;Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);Arcade;;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2;Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);Final Burn Alpha;;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2;Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);MAME (Advance);;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2;Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);MAME (Libretro);;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+kov2p202;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M202XX, 200, 100CN);Arcade;kov2p;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2p;;;4
+kov2p202;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M202XX, 200, 100CN);Final Burn Alpha;kov2p;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2p;;;4
+kov2p204;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M204XX, 200, 100CN);Arcade;kov2p;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2p;;;4
+kov2p204;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M204XX, 200, 100CN);Final Burn Alpha;kov2p;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kov2p;;;4
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M205XX, 200, 100CN);Arcade;;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M205XX, 200, 100CN);Final Burn Alpha;;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M205XX, 200, 100CN);MAME (Advance);;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M205XX, 200, 100CN);MAME (Libretro);;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+kov7sprt;Knights of Valour - The Seven Spirits;Arcade;;2003;IGS / Sammy;Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+kov7sprt;Knights of Valour - The Seven Spirits;MAME (Libretro);;2003;IGS / Sammy;Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+kov;Knights of Valour / Sangoku Senki (ver. 117);Arcade;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kov;Knights of Valour / Sangoku Senki (ver. 117);Final Burn Alpha;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kov;Knights of Valour / Sangoku Senki (ver. 117);MAME (Advance);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kov;Knights of Valour / Sangoku Senki (ver. 117);MAME (Libretro);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovplusa;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 2);Arcade;kovplus;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kovplus;;;4
+kovplusa;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 2);Final Burn Alpha;kovplus;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kovplus;;;4
+kovplusa;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 2);MAME (Advance);kovplus;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kovplus;;;4
+kovplusa;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 2);MAME (Libretro);kovplus;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;kovplus;;;
+kovplus;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1);Arcade;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovplus;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1);Final Burn Alpha;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovplus;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1);MAME (Advance);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovplus;Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1);MAME (Libretro);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovsh100;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 100, CN);Arcade;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh100;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 100, CN);Final Burn Alpha;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh101;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 101, CN);Arcade;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh101;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 101, CN);Final Burn Alpha;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh102;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 102, CN);Arcade;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh102;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 102, CN);Final Burn Alpha;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh103;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 103, CN);Arcade;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh103;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 103, CN);Final Burn Alpha;kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;kovsh;;;4
+kovsh103;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 103, CN);MAME (Libretro);kovsh;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;kovsh;;;
+kovsh;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN);Arcade;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kovsh;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN);Final Burn Alpha;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kovsh;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN);MAME (Advance);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kovsh;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN);MAME (Libretro);;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+kovshpa;Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 100);Arcade;kovshp;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kovshp;;;4
+kovshpa;Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 100);Final Burn Alpha;kovshp;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;kovshp;;;4
+kovshp;Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 101);Arcade;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovshp;Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 101);Final Burn Alpha;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovshp;Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 101);MAME (Libretro);;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+kovytzy;Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (ver. 201, China);Arcade;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+kovytzy;Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (ver. 201, China);Final Burn Alpha;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+lhb2;Long Hu Bang II (Hong Kong, V185H);MAME (Libretro);;1996;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+lhb;Long Hu Bang (China, V035C);Arcade;;1995;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+lhb;Long Hu Bang (China, V035C);MAME (Advance);;1995;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+lhb;Long Hu Bang (China, V035C);MAME (Libretro);;1995;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+lhbv33c;Long Hu Bang (China, V033C);MAME (Libretro);lhb;1995;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;lhb;;;
+lhzb2a;Mahjong Long Hu Zheng Ba 2 (VS221M);MAME (Libretro);lhzb2;1998;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;lhzb2;;;
+lhzb2;Mahjong Long Hu Zheng Ba 2 (set 1);MAME (Libretro);;1998;IGS;Tabletop / Mahjong;???;0;mahjong;preliminary;1;raster;;;;
+lhzb3;Long Hu Zheng Ba 3;MAME (Libretro);;200?;IGS;Tabletop / Mahjong;???;0;;preliminary;1;raster;;;;
+lhzb4;Long Hu Zheng Ba 4;MAME (Libretro);;200?;IGS;Tabletop / Mahjong;???;0;;preliminary;1;raster;;;;
+lordgun;Lord of Gun (USA);Arcade;;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);Final Burn Alpha;;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);MAME (Advance);;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);MAME (Libretro);;1994;IGS;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+martmastc102;Martial Masters (ver. 102, 101, 101CN);Arcade;martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;martmast;;;4
+martmastc102;Martial Masters (ver. 102, 101, 101CN);Final Burn Alpha;martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;martmast;;;4
+martmastc102;Martial Masters (ver. 102, 101, 101CN);MAME (Libretro);martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;martmast;;;
+martmastc;Martial Masters (ver. 104, 102, 101CN);Arcade;martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;martmast;;;4
+martmastc;Martial Masters (ver. 104, 102, 101CN);Final Burn Alpha;martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;martmast;;;4
+martmastc;Martial Masters (ver. 104, 102, 101CN);MAME (Libretro);martmast;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;martmast;;;
+martmast;Martial Masters (ver. 104, 102, 102US);Arcade;;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+martmast;Martial Masters (ver. 104, 102, 102US);Final Burn Alpha;;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+martmast;Martial Masters (ver. 104, 102, 102US);MAME (Advance);;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+martmast;Martial Masters (ver. 104, 102, 102US);MAME (Libretro);;2001;IGS;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+mgcs;Mahjong Man Guan Cai Shen (V103CS);MAME (Libretro);;1998;IGS;Tabletop / Mahjong;???;0;mahjong;preliminary;1;raster;;;;
+mgdh;Mahjong Man Guan Da Heng (Taiwan, V125T1);MAME (Libretro);;1997;IGS;Tabletop / Mahjong;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+mgfx;Man Guan Fu Xing;MAME (Libretro);;2000;IGS;Tabletop / Mahjong;???;0;;preliminary;1;raster;;;;
+nkishusp;Mahjong Nenrikishu SP (Japan, V250J);MAME (Libretro);lhb2;1998;IGS / Alta;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;lhb2;;;
+olds100a;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 2);Arcade;olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100a;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 2);Final Burn Alpha;olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100a;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 2);MAME (Advance);olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100a;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 2);MAME (Libretro);olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;olds;;;
+olds100;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 1);Arcade;olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 1);Final Burn Alpha;olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 1);MAME (Advance);olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;olds;;;4
+olds100;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 100, set 1);MAME (Libretro);olds;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;olds;;;
+olds;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board);Arcade;;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+olds;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board);Final Burn Alpha;;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+olds;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board);MAME (Advance);;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+olds;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board);MAME (Libretro);;1998;IGS;Fighter / 2.5D;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+oldsplus;Oriental Legend Special Plus / Xi You Shi E Zhuan Super Plus;Arcade;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+oldsplus;Oriental Legend Special Plus / Xi You Shi E Zhuan Super Plus;Final Burn Alpha;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+oldsplus;Oriental Legend Special Plus / Xi You Shi E Zhuan Super Plus;MAME (Libretro);;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+orlegend105k;Oriental Legend / Xi You Shi E Zhuan (ver. 105, Korean Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend105k;Oriental Legend / Xi You Shi E Zhuan (ver. 105, Korean Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend105k;Oriental Legend / Xi You Shi E Zhuan (ver. 105, Korean Board);MAME (Libretro);orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;orlegend;;;
+orlegend111c;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Chinese Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend111c;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Chinese Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend111c;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Chinese Board);MAME (Libretro);orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;orlegend;;;
+orlegend111k;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Korean Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend111k;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Korean Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend111t;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Taiwanese Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegend111t;Oriental Legend / Xi You Shi E Zhuan (ver. 111, Taiwanese Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegendca;Oriental Legend / Xi You Shi E Zhuan (ver. ???, Chinese Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegendca;Oriental Legend / Xi You Shi E Zhuan (ver. ???, Chinese Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegendca;Oriental Legend / Xi You Shi E Zhuan (ver. ???, Chinese Board);MAME (Libretro);orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;orlegend;;;
+orlegendc;Oriental Legend / Xi You Shi E Zhuan (ver. 112, Chinese Board);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegendc;Oriental Legend / Xi You Shi E Zhuan (ver. 112, Chinese Board);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegendc;Oriental Legend / Xi You Shi E Zhuan (ver. 112, Chinese Board);MAME (Libretro);orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;orlegend;;;
+orlegende;Oriental Legend / Xi You Shi E Zhuan (ver. 112);Arcade;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegende;Oriental Legend / Xi You Shi E Zhuan (ver. 112);Final Burn Alpha;orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;orlegend;;;4
+orlegende;Oriental Legend / Xi You Shi E Zhuan (ver. 112);MAME (Libretro);orlegend;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;orlegend;;;
+orlegend;Oriental Legend / Xi You Shi E Zhuan (ver. 126);Arcade;;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+orlegend;Oriental Legend / Xi You Shi E Zhuan (ver. 126);Final Burn Alpha;;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+orlegend;Oriental Legend / Xi You Shi E Zhuan (ver. 126);MAME (Advance);;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+orlegend;Oriental Legend / Xi You Shi E Zhuan (ver. 126);MAME (Libretro);;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+photoy2k102;Photo Y2K (ver. 102, Japanese Board);Arcade;photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;photoy2k;;;4
+photoy2k102;Photo Y2K (ver. 102, Japanese Board);Final Burn Alpha;photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;photoy2k;;;4
+photoy2k102;Photo Y2K (ver. 102, Japanese Board);MAME (Libretro);photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;photoy2k;;;
+photoy2k104;Photo Y2K (ver. 104);Arcade;photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;photoy2k;;;4
+photoy2k104;Photo Y2K (ver. 104);Final Burn Alpha;photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;photoy2k;;;4
+photoy2k104;Photo Y2K (ver. 104);MAME (Libretro);photoy2k;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;photoy2k;;;
+photoy2k;Photo Y2K (ver. 105);Arcade;;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+photoy2k;Photo Y2K (ver. 105);Final Burn Alpha;;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+photoy2k;Photo Y2K (ver. 105);MAME (Advance);;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+photoy2k;Photo Y2K (ver. 105);MAME (Libretro);;1999;IGS;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+pktet346;PK Tetris (v346I);MAME (Libretro);;1993?;IGS;Casino;1P;0;gambling;good;1;raster;;;;
+puzlstar;Puzzle Star (ver. 100MG);Arcade;;1999;IGS;Puzzle / Match;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+puzlstar;Puzzle Star (ver. 100MG);Final Burn Alpha;;1999;IGS;Puzzle / Match;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+puzlstar;Puzzle Star (ver. 100MG);MAME (Advance);;1999;IGS;Puzzle / Match;???;0;joystick (8-way);preliminary;1;raster;pgm;;;4
+puzlstar;Puzzle Star (ver. 100MG);MAME (Libretro);;1999;IGS;Puzzle / Match;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+puzzli2;Puzzli 2 (ver. 100);Arcade;;1999;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+puzzli2;Puzzli 2 (ver. 100);Final Burn Alpha;;1999;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+puzzli2;Puzzli 2 (ver. 100);MAME (Advance);;1999;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+puzzli2;Puzzli 2 (ver. 100);MAME (Libretro);;1999;IGS;Puzzle / Drop;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+puzzli2s;Puzzli 2 Super (ver. 200);Arcade;puzzli2;2001;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;puzzli2;;;4
+puzzli2s;Puzzli 2 Super (ver. 200);Final Burn Alpha;puzzli2;2001;IGS;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;puzzli2;;;4
+py2k2;Photo Y2K 2;MAME (Libretro);;2001;IGS;Puzzle / Misc.;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;;;
+ryukobou;Mahjong Ryukobou (Japan, V030J);MAME (Libretro);lhb;1995;IGS / Alta;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;lhb;;;
+sddz;Super Dou Di Zhu;MAME (Libretro);;200?;IGS;Tabletop / Cards;???;0;;preliminary;1;raster;;;;
+sdmg2;Mahjong Super Da Man Guan II (China, V754C);MAME (Libretro);;1997;IGS;Tabletop / Mahjong;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+sdwx;Sheng Dan Wu Xian;MAME (Libretro);;2002;IGS;Not Classified;???;0;;preliminary;1;raster;;;;
+slqz2;Mahjong Shuang Long Qiang Zhu 2 (VS203J);MAME (Libretro);;1998;IGS;Tabletop / Mahjong;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+spk115it;Super Poker (v115IT);MAME (Libretro);spk306us;1993?;IGS;Casino / Cards;1P;0;gambling;good;1;raster;spk306us;;;
+spk116it;Super Poker (v116IT);MAME (Libretro);spk306us;1993?;IGS;Casino / Cards;1P;0;gambling;good;1;raster;spk306us;;;
+starzan;Super Tarzan (Italy, V100I);MAME (Libretro);;2000?;IGS / G.F. Gioca;Casino / Reels;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+svgpcb;S.V.G. - Spectral vs Generation (M68k label V100JP) (ARM label V100JP, ROM 05/12/05 S.V.G V100) (Japan, JAMMA PCB);Arcade;svg;2005;IGS / Idea Factory;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;svg;;;4
+svgpcb;S.V.G. - Spectral vs Generation (M68k label V100JP) (ARM label V100JP, ROM 05/12/05 S.V.G V100) (Japan, JAMMA PCB);Final Burn Alpha;svg;2005;IGS / Idea Factory;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;svg;;;4
+svg;S.V.G. - Spectral vs Generation (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201);Arcade;;2005;IGS / Idea Factory;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+svg;S.V.G. - Spectral vs Generation (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201);Final Burn Alpha;;2005;IGS / Idea Factory;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+svg;S.V.G. - Spectral vs Generation (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201);MAME (Libretro);;2005;IGS / Idea Factory;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+tarzana;Tarzan (V107);MAME (Libretro);tarzan;1999?;IGS;Casino / Reels;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;tarzan;;;
+tarzan;Tarzan (V109C);Arcade;;1999?;IGS;Casino / Reels;???;0;joystick (8-way);preliminary;1;raster;;;;5
+tarzan;Tarzan (V109C);MAME (Advance);;1999?;IGS;Casino / Reels;???;0;joystick (8-way);preliminary;1;raster;;;;5
+tarzan;Tarzan (V109C);MAME (Libretro);;1999?;IGS;Casino / Reels;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+theglad100;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V100, ROM 01/16/03 SHEN JIAN);Arcade;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+theglad100;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V100, ROM 01/16/03 SHEN JIAN);Final Burn Alpha;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+theglad101;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V101, ROM 03/13/03 SHEN JIAN);Arcade;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+theglad101;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V101, ROM 03/13/03 SHEN JIAN);Final Burn Alpha;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+thegladpcb;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V100, ROM 02/25/03 SHEN JIAN) (Japan, JAMMA PCB);Arcade;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+thegladpcb;The Gladiator / Road of the Sword / Shen Jian (M68k label V100) (ARM label V100, ROM 02/25/03 SHEN JIAN) (Japan, JAMMA PCB);Final Burn Alpha;theglad;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;theglad;;;4
+theglad;The Gladiator / Road of the Sword / Shen Jian (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107);Arcade;;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+theglad;The Gladiator / Road of the Sword / Shen Jian (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107);Final Burn Alpha;;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+theglad;The Gladiator / Road of the Sword / Shen Jian (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107);MAME (Advance);;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way);imperfect;1;raster;pgm;;;4
+theglad;The Gladiator / Road of the Sword / Shen Jian (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107);MAME (Libretro);;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;;;
+tjsb;Mahjong Tian Jiang Shen Bing (V137C);MAME (Libretro);;1997;IGS;Tabletop / Misc.;1P;0;joystick (8-way);preliminary;1;raster;;;;
+vbowlj;Virtua Bowling (Japan, V100JCM);Arcade;vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;vbowl;;;3
+vbowlj;Virtua Bowling (Japan, V100JCM);MAME (Advance);vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;vbowl;;;3
+vbowlj;Virtua Bowling (Japan, V100JCM);MAME (Libretro);vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball,joystick (8-way);imperfect;1;raster;vbowl;;;
+vbowl;Virtua Bowling (World, V101XCM);Arcade;;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+vbowl;Virtua Bowling (World, V101XCM);MAME (Advance);;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+vbowl;Virtua Bowling (World, V101XCM);MAME (Libretro);;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball,joystick (8-way);imperfect;1;raster;;;;
+wlcc;Wan Li Chang Cheng (China, V638C);MAME (Libretro);xymg;1996;IGS;Tabletop / Mahjong;1P;0;joystick (8-way);good;1;raster;xymg;;;
+xymg;Xing Yun Man Guan (China, V651C);Arcade;;1996;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+xymg;Xing Yun Man Guan (China, V651C);MAME (Advance);;1996;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;
+xymg;Xing Yun Man Guan (China, V651C);MAME (Libretro);;1996;IGS;Tabletop / Mahjong;1P;0;mahjong;good;1;raster;;;;

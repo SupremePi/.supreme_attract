@@ -1,0 +1,4 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+grim-win;Grim Fandango;ResidualVM;;;;;;;;;;;;;;
+monkey4-win;Escape From Monkey Island;ResidualVM;;;;;;;;;;;;;;
+myst3-win;Myst III;ResidualVM;;;;;;;;;;;;;;

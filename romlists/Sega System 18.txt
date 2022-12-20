@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+astormj;Alien Storm (Japan, 2 Players, FD1094 317-0146);Arcade;astorm;1990;Sega;Platform / Shooter Scrolling;;;;;0;;;;;
+bloxeed;Bloxeed (Japan, FD1094 317-0139);Arcade;;1989;Sega;Puzzle / Drop;;;;;0;;;;;
+cltchitr;Clutch Hitter (US, FD1094 317-0176);Arcade;;1991;Sega;Sports / Baseball;;;;;0;;;;;
+ddcrew;D. D. Crew (World, 3 Players, FD1094 317-0190);Arcade;;1991;Sega;Fighter / 2.5D;;;;;0;;;;;
+desertbr;Desert Breaker (World, FD1094 317-0196);Arcade;;1992;Sega;Shooter / Walking;;;;;0;;;;;
+hamaway;Hammer Away (Japan, prototype);Arcade;;1991;Sega / Santos;Shooter / Flying Vertical;;;;;0;;;;;
+lghost;Laser Ghost (World, FD1094 317-0166);Arcade;;1990;Sega;Shooter / Gun;;;;;0;;;;;
+mwalk;Michael Jackson's Moonwalker (World, FD1094/8751 317-0159);Arcade;;1990;Sega;Maze / Fighter;;;;;0;;;;;
+shdancer;Shadow Dancer (World);Arcade;;1989;Sega;Platform / Fighter Scrolling;;;;;0;;;;;
+wwallyj;Wally wo Sagase! (rev B, Japan, FD1094 317-0197B);Arcade;;1992;Sega;Multiplay / Mini-Games;;;;;0;;;;;

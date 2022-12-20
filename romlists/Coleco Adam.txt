@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+2010 - The Ultimate Text Adventure;2010 - The Ultimate Text Adventure;Coleco Adam;;;;;;;;;;;;;;
+Adam Links Golf;Adam Links Golf;Coleco Adam;;;;;;;;;;;;;;
+Addictus;Addictus;Coleco Adam;;;;;;;;;;;;;;
+B.C.s Quest for Tires II - Grogs Revenge;B.C.s Quest for Tires II - Grogs Revenge;Coleco Adam;;;;;;;;;;;;;;
+Buck Rogers - Planet of Zoom;Buck Rogers - Planet of Zoom;Coleco Adam;;;;;;;;;;;;;;
+Cabbage Patch Kids - Adventures in the Park;Cabbage Patch Kids - Adventures in the Park;Coleco Adam;;;;;;;;;;;;;;
+Campaign '84;Campaign '84;Coleco Adam;;;;;;;;;;;;;;
+Chess Champ;Chess Champ;Coleco Adam;;;;;;;;;;;;;;
+Dam Busters, The;Dam Busters, The;Coleco Adam;;;;;;;;;;;;;;
+Diablo;Diablo;Coleco Adam;;;;;;;;;;;;;;
+Donkey Kong;Donkey Kong;Coleco Adam;;;;;;;;;;;;;;
+Donkey Kong Jr;Donkey Kong Jr;Coleco Adam;;;;;;;;;;;;;;
+Dragon's Lair;Dragon's Lair;Coleco Adam;;;;;;;;;;;;;;
+Evolution;Evolution;Coleco Adam;;;;;;;;;;;;;;
+Mage Quest;Mage Quest;Coleco Adam;;;;;;;;;;;;;;
+Phrase Craze;Phrase Craze;Coleco Adam;;;;;;;;;;;;;;
+Robothief;Robothief;Coleco Adam;;;;;;;;;;;;;;
+Stratozap;Stratozap;Coleco Adam;;;;;;;;;;;;;;
+Sub Raiders;Sub Raiders;Coleco Adam;;;;;;;;;;;;;;
+Super Cosmo Fighter;Super Cosmo Fighter;Coleco Adam;;;;;;;;;;;;;;
+Super Subroc;Super Subroc;Coleco Adam;;;;;;;;;;;;;;
+Super Zaxxon;Super Zaxxon;Coleco Adam;;;;;;;;;;;;;;
+Temple of Apshai;Temple of Apshai;Coleco Adam;;;;;;;;;;;;;;
+Trolls Tale;Trolls Tale;Coleco Adam;;;;;;;;;;;;;;

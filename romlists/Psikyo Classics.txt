@@ -1,0 +1,142 @@
+btlkroad;Battle K-Road;Arcade;;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+btlkroad;Battle K-Road;Final Burn Alpha;;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+btlkroad;Battle K-Road;MAME (Advance);;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+btlkroad;Battle K-Road;MAME (Libretro);;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+btlkroadk;Battle K-Road (Korean PCB);Arcade;btlkroad;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;btlkroad;;;6
+btlkroadk;Battle K-Road (Korean PCB);Final Burn Alpha;btlkroad;1994;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;btlkroad;;;6
+cspike;Gun Spike (JPN) / Cannon Spike (USA, EXP, KOR, AUS);Arcade;;2000;Psikyo / Capcom;Shooter / Field;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomi;;;6
+cspike;Gun Spike (JPN) / Cannon Spike (USA, EXP, KOR, AUS);MAME (Libretro);;2000;Psikyo / Capcom;Shooter / Field;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomi;;;
+daraku;Daraku Tenshi - The Fallen Angels;Arcade;;1998;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+daraku;Daraku Tenshi - The Fallen Angels;Final Burn Alpha;;1998;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+daraku;Daraku Tenshi - The Fallen Angels;MAME (Advance);;1998;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+daraku;Daraku Tenshi - The Fallen Angels;MAME (Libretro);;1998;Psikyo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+dragnblz;Dragon Blaze;Arcade;;2000;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dragnblz;Dragon Blaze;Final Burn Alpha;;2000;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dragnblz;Dragon Blaze;MAME (Advance);;2000;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dragnblz;Dragon Blaze;MAME (Libretro);;2000;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gnbarich;Gunbarich;Arcade;;2001;Psikyo;Ball & Paddle / Breakout;1P;270;joystick (8-way);good;1;raster;;;;3
+gnbarich;Gunbarich;Final Burn Alpha;;2001;Psikyo;Ball & Paddle / Breakout;1P;270;joystick (8-way);good;1;raster;;;;3
+gnbarich;Gunbarich;MAME (Advance);;2001;Psikyo;Ball & Paddle / Breakout;1P;270;joystick (8-way);good;1;raster;;;;3
+gnbarich;Gunbarich;MAME (Libretro);;2001;Psikyo;Ball & Paddle / Breakout;1P;270;joystick (8-way),joystick (8-way);good;1;raster;;;;
+gunbird2;Gunbird 2;Arcade;;1998;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird2;Gunbird 2;Final Burn Alpha;;1998;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird2;Gunbird 2;MAME (Advance);;1998;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird2;Gunbird 2;MAME (Libretro);;1998;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird;Gunbird (World);Arcade;;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird;Gunbird (World);Final Burn Alpha;;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird;Gunbird (World);MAME (Advance);;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird;Gunbird (World);MAME (Libretro);;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbird;Gunbird (World);MAME (Mame4all);;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gunbirdj;Gunbird (Japan);Arcade;gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdj;Gunbird (Japan);Final Burn Alpha;gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdj;Gunbird (Japan);MAME (Advance);gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdj;Gunbird (Japan);MAME (Libretro);gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdk;Gunbird (Korea);Arcade;gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdk;Gunbird (Korea);Final Burn Alpha;gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdk;Gunbird (Korea);MAME (Advance);gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+gunbirdk;Gunbird (Korea);MAME (Libretro);gunbird;1994;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;gunbird;;;3
+hgkairak;Taisen Hot Gimmick Kairakuten (Japan);Arcade;;1998;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hgkairak;Taisen Hot Gimmick Kairakuten (Japan);Final Burn Alpha;;1998;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hgkairak;Taisen Hot Gimmick Kairakuten (Japan);MAME (Advance);;1998;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hgkairak;Taisen Hot Gimmick Kairakuten (Japan);MAME (Libretro);;1998;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotdebut;Quiz de Idol! Hot Debut (Japan);Arcade;;2000;MOSS / Psikyo;Quiz / Japanese;4P sim;0;;good;2;raster;;;;4
+hotdebut;Quiz de Idol! Hot Debut (Japan);Final Burn Alpha;;2000;MOSS / Psikyo;Quiz / Japanese;4P sim;0;;good;2;raster;;;;4
+hotdebut;Quiz de Idol! Hot Debut (Japan);MAME (Advance);;2000;MOSS / Psikyo;Quiz / Japanese;4P sim;0;;good;2;raster;;;;4
+hotdebut;Quiz de Idol! Hot Debut (Japan);MAME (Libretro);;2000;MOSS / Psikyo;Quiz / Japanese;4P sim;0;;good;2;raster;;;;4
+hotgm4ev;Taisen Hot Gimmick 4 Ever (Japan);Arcade;;2000;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgm4ev;Taisen Hot Gimmick 4 Ever (Japan);Final Burn Alpha;;2000;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgm4ev;Taisen Hot Gimmick 4 Ever (Japan);MAME (Advance);;2000;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgm4ev;Taisen Hot Gimmick 4 Ever (Japan);MAME (Libretro);;2000;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong,mahjong;good;2;raster;;;;
+hotgmck3;Taisen Hot Gimmick 3 Digital Surfing (Japan);Arcade;;1999;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck3;Taisen Hot Gimmick 3 Digital Surfing (Japan);Final Burn Alpha;;1999;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck3;Taisen Hot Gimmick 3 Digital Surfing (Japan);MAME (Advance);;1999;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck3;Taisen Hot Gimmick 3 Digital Surfing (Japan);MAME (Libretro);;1999;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmcki;Mahjong Hot Gimmick Integral (Japan);Arcade;;2001;Psikyo;Tabletop / Mahjong * Mature *;2P sim;0;mahjong;good;2;raster;;;;
+hotgmcki;Mahjong Hot Gimmick Integral (Japan);Final Burn Alpha;;2001;Psikyo;Tabletop / Mahjong * Mature *;2P sim;0;mahjong;good;2;raster;;;;
+hotgmcki;Mahjong Hot Gimmick Integral (Japan);MAME (Advance);;2001;Psikyo;Tabletop / Mahjong * Mature *;2P sim;0;mahjong;good;2;raster;;;;
+hotgmcki;Mahjong Hot Gimmick Integral (Japan);MAME (Libretro);;2001;Psikyo;Tabletop / Mahjong * Mature *;2P sim;0;mahjong,mahjong;good;2;raster;;;;
+hotgmck;Taisen Hot Gimmick (Japan);Arcade;;1997;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck;Taisen Hot Gimmick (Japan);Final Burn Alpha;;1997;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck;Taisen Hot Gimmick (Japan);MAME (Advance);;1997;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+hotgmck;Taisen Hot Gimmick (Japan);MAME (Libretro);;1997;Psikyo;Tabletop / Mahjong * Mature *;2P alt;0;mahjong;good;2;raster;;;;
+loderndfa;Lode Runner - The Dig Fight (ver. A);Arcade;loderndf;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;loderndf;;;3
+loderndfa;Lode Runner - The Dig Fight (ver. A);Final Burn Alpha;loderndf;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;loderndf;;;3
+loderndfa;Lode Runner - The Dig Fight (ver. A);MAME (Libretro);loderndf;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;loderndf;;;
+loderndf;Lode Runner - The Dig Fight (ver. B);Arcade;;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;;;;3
+loderndf;Lode Runner - The Dig Fight (ver. B);Final Burn Alpha;;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;;;;3
+loderndf;Lode Runner - The Dig Fight (ver. B);MAME (Advance);;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;;;;3
+loderndf;Lode Runner - The Dig Fight (ver. B);MAME (Libretro);;2000;Psikyo;Platform / Run Jump;2P sim;0;joystick (8-way);good;2;raster;;;;3
+mjgtaste;Mahjong G-Taste;Arcade;;2002;Psikyo;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;1
+mjgtaste;Mahjong G-Taste;Final Burn Alpha;;2002;Psikyo;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;1
+mjgtaste;Mahjong G-Taste;MAME (Advance);;2002;Psikyo;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;1
+mjgtaste;Mahjong G-Taste;MAME (Libretro);;2002;Psikyo;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+pltkidsa;Pilot Kids (Model 2A);Arcade;pltkids;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way);preliminary;1;raster;pltkids;;;4
+pltkidsa;Pilot Kids (Model 2A);MAME (Advance);pltkids;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way);preliminary;1;raster;pltkids;;;4
+pltkidsa;Pilot Kids (Model 2A);MAME (Libretro);pltkids;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;pltkids;;;
+pltkids;Pilot Kids (Model 2B, Revision A);Arcade;;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way);preliminary;1;raster;;;;4
+pltkids;Pilot Kids (Model 2B, Revision A);MAME (Advance);;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way);preliminary;1;raster;;;;4
+pltkids;Pilot Kids (Model 2B, Revision A);MAME (Libretro);;1998;Psikyo;Shooter / Flying Horizontal;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+s1945a;Strikers 1945 (Japan / World);Arcade;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945a;Strikers 1945 (Japan / World);Final Burn Alpha;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945a;Strikers 1945 (Japan / World);MAME (Advance);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945a;Strikers 1945 (Japan / World);MAME (Libretro);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;s1945;;;
+s1945iii;Strikers 1945 III (World) / Strikers 1999 (Japan);Arcade;;1999;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945iii;Strikers 1945 III (World) / Strikers 1999 (Japan);Final Burn Alpha;;1999;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945iii;Strikers 1945 III (World) / Strikers 1999 (Japan);MAME (Advance);;1999;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945iii;Strikers 1945 III (World) / Strikers 1999 (Japan);MAME (Libretro);;1999;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945ii;Strikers 1945 II;Arcade;;1997;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+s1945ii;Strikers 1945 II;Final Burn Alpha;;1997;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+s1945ii;Strikers 1945 II;MAME (Advance);;1997;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+s1945ii;Strikers 1945 II;MAME (Libretro);;1997;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+s1945jn;Strikers 1945 (Japan, unprotected);Arcade;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945jn;Strikers 1945 (Japan, unprotected);Final Burn Alpha;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945jn;Strikers 1945 (Japan, unprotected);MAME (Advance);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945jn;Strikers 1945 (Japan, unprotected);MAME (Libretro);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945j;Strikers 1945 (Japan);Arcade;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945j;Strikers 1945 (Japan);Final Burn Alpha;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945j;Strikers 1945 (Japan);MAME (Advance);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945j;Strikers 1945 (Japan);MAME (Libretro);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945k;Strikers 1945 (Korea);Arcade;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945k;Strikers 1945 (Korea);Final Burn Alpha;s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;s1945;;;3
+s1945k;Strikers 1945 (Korea);MAME (Libretro);s1945;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;s1945;;;
+s1945p;Strikers 1945 Plus;Arcade;;1999;Psikyo;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+s1945p;Strikers 1945 Plus;Final Burn Alpha;;1999;Psikyo;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+s1945p;Strikers 1945 Plus;MAME (Advance);;1999;Psikyo;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+s1945p;Strikers 1945 Plus;MAME (Libretro);;1999;Psikyo;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+s1945;Strikers 1945 (World);Arcade;;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945;Strikers 1945 (World);Final Burn Alpha;;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945;Strikers 1945 (World);MAME (Advance);;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+s1945;Strikers 1945 (World);MAME (Libretro);;1995;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+samuraia;Samurai Aces (World);Arcade;;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+samuraia;Samurai Aces (World);Final Burn Alpha;;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+samuraia;Samurai Aces (World);MAME (Advance);;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+samuraia;Samurai Aces (World);MAME (Libretro);;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+sbombera;Space Bomber;Arcade;sbomber;1998;Psikyo;Shooter / Gallery;2P sim;270;joystick (8-way);good;1;raster;sbomber;;;2
+sbombera;Space Bomber;Final Burn Alpha;sbomber;1998;Psikyo;Shooter / Gallery;2P sim;270;joystick (8-way);good;1;raster;sbomber;;;2
+sbomber;Space Bomber (ver. B);Arcade;;1998;Psikyo;Shooter / Gallery;2P sim;270;joystick (8-way);good;1;raster;;;;2
+sbomber;Space Bomber (ver. B);Final Burn Alpha;;1998;Psikyo;Shooter / Gallery;2P sim;270;joystick (8-way);good;1;raster;;;;2
+sngkace;Sengoku Ace (Japan);Arcade;samuraia;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;samuraia;;;3
+sngkace;Sengoku Ace (Japan);Final Burn Alpha;samuraia;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;samuraia;;;3
+sngkace;Sengoku Ace (Japan);MAME (Advance);samuraia;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;samuraia;;;3
+sngkace;Sengoku Ace (Japan);MAME (Libretro);samuraia;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;samuraia;;;3
+sngkace;Sengoku Ace (Japan);MAME (Mame4all);samuraia;1993;Psikyo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;samuraia;;;3
+soldivid;Sol Divide - The Sword Of Darkness;Arcade;;1997;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+soldivid;Sol Divide - The Sword Of Darkness;Final Burn Alpha;;1997;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+soldivid;Sol Divide - The Sword Of Darkness;MAME (Advance);;1997;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+soldivid;Sol Divide - The Sword Of Darkness;MAME (Libretro);;1997;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+tengaij;Sengoku Blade: Sengoku Ace Episode II / Tengai;Arcade;tengai;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;tengai;;;3
+tengaij;Sengoku Blade: Sengoku Ace Episode II / Tengai;Final Burn Alpha;tengai;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;tengai;;;3
+tengaij;Sengoku Blade: Sengoku Ace Episode II / Tengai;MAME (Libretro);tengai;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;tengai;;;
+tengai;Tengai (World);Arcade;;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+tengai;Tengai (World);Final Burn Alpha;;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+tengai;Tengai (World);MAME (Advance);;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+tengai;Tengai (World);MAME (Libretro);;1996;Psikyo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+zeroguna;Zero Gunner (Export, Model 2A);Arcade;zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;zerogun;;;4
+zeroguna;Zero Gunner (Export, Model 2A);MAME (Advance);zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;zerogun;;;4
+zeroguna;Zero Gunner (Export, Model 2A);MAME (Libretro);zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;zerogun;;;
+zerogunj;Zero Gunner (Japan, Model 2B);Arcade;zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;zerogun;;;4
+zerogunj;Zero Gunner (Japan, Model 2B);MAME (Advance);zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;zerogun;;;4
+zerogunj;Zero Gunner (Japan, Model 2B);MAME (Libretro);zerogun;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;zerogun;;;
+zerogun;Zero Gunner (Export, Model 2B);Arcade;;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;;;;4
+zerogun;Zero Gunner (Export, Model 2B);MAME (Advance);;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way);preliminary;1;raster;;;;4
+zerogun;Zero Gunner (Export, Model 2B);MAME (Libretro);;1997;Psikyo;Shooter / Flying;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;

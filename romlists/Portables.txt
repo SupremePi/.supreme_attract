@@ -1,0 +1,19 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Atari Lynx;Atari Lynx;@;;;;;;;;;0;;;;;
+Bandai Wonderswan;Bandai Wonderswan;@;;;;;;;;;0;;;;;
+Bandai Wonderswan Color;Bandai Wonderswan Color;@;;;;;;;;;0;;;;;
+Nintendo Game and Watch;Nintendo Game and Watch;@;;;;;;;;;0;;;;;
+Nintendo Game Boy;Nintendo Game Boy;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Hacks;Nintendo Game Boy Hacks;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Color;Nintendo Game Boy Color;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Advance;Nintendo Game Boy Advance;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Advance Hacks;Nintendo Game Boy Advance Hacks;@;;;;;;;;;0;;;;;
+Nintendo DS;Nintendo DS;@;;;;;;;;;0;;;;;
+Nintendo DS Drastic;Nintendo DS Drastic;@;;;;;;;;;0;;;;;
+Nintendo Virtual Boy;Nintendo Virtual Boy;@;;;;;;;;;0;;;;;
+Sega Game Gear;Sega Game Gear;@;;;;;;;;;0;;;;;
+Sega Game Gear Hacks;Sega Game Gear Hacks;@;;;;;;;;;0;;;;;
+SNK Neo Geo Pocket;SNK Neo Geo Pocket;@;;;;;;;;;0;;;;;
+SNK Neo Geo Pocket Color;SNK Neo Geo Pocket Color;@;;;;;;;;;0;;;;;
+Sony PSP;Sony PSP;@;;;;;;;;;0;;;;;
+Sony PSP Minis;Sony PSP Minis;@;;;;;;;;;0;;;;;

@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+abcop;A.B. Cop;Arcade;;2016;Sega;;;;;;0;;;;;
+aburner;After Burner;Arcade;;2016;Sega;;;;;;0;;;;;
+aburner2;After Burner II;Arcade;;2016;Sega;;;;;;0;;;;;
+gprider;GP Rider;Arcade;;2016;Sega;;;;;;0;;;;;
+lastsurv;Last Survivor;Arcade;;2016;Sega;;;;;;0;;;;;
+loffire;Line of Fire;Arcade;;2016;Sega;;;;;;0;;;;;
+rachero;Racing Hero;Arcade;;2016;Sega;;;;;;0;;;;;
+smgp;Super Monaco GP;Arcade;;2016;Sega;;;;;;0;;;;;
+thndrbld;Thunder Blade;Arcade;;2016;Sega;;;;;;0;;;;;

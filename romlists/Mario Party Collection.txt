@@ -1,0 +1,8 @@
+Mario Party (USA);Mario Party (USA);Nintendo 64;;1999;Nintendo;Party;;;;;0;;;;;
+Mario Party 2 (USA);Mario Party 2 (USA);Nintendo 64;;2000;Nintendo;Party;;;;;0;;;;;
+Mario Party 3 (USA);Mario Party 3 (USA);Nintendo 64;;2001;Nintendo;Pinball;;;;;0;;;;;
+Mario Party DS (USA);Mario Party DS;Nintendo DS;;;;;;;;;0;;;;;
+Mario Party Advance (USA);Mario Party Advance (USA);Nintendo Game Boy Advance;;2005;Nintendo;Party;;;;;0;;;;;
+Mario Party 8 (USA);Mario Party 8 (USA);Nintendo Wii;;2007;Nintendo;Party;;;;;0;;;;;
+Mario Party 9 (USA);Mario Party 9 (USA);Nintendo Wii;;2012;Nintendo;Board Game;;;;;0;;;;;
+Mario Party 10 (USA);Mario Party 10 (USA);Nintendo Wii-U;;2015;Nintendo;Party;;;;;0;;;;;

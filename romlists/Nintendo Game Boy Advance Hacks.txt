@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Advance Wars_2 - War Room C (X);Advance Wars_2 - War Room C (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Another World (Atari ST Reverse Engineering);Another World (Atari ST Reverse Engineering);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Breath of Fresh Fire II (X);Breath of Fresh Fire II (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Castlevania - Revenge On Findesiecle X;Castlevania - Revenge On Findesiecle X;Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Castlevania - Revenge On The Findesiecle (Final);Castlevania - Revenge On The Findesiecle (Final);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Final Fantasy VI Advance (X);Final Fantasy VI Advance (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Final Fantasy_Tactics - Advance (X);Final Fantasy_Tactics - Advance (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 6 - Sword of Seals (T);Fire Emblem 6 - Sword of Seals (T);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 6.5 - Shining Armor (X).gba;Fire Emblem 6.5 - Shining Armor (X).gba;Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7 - AoTM (X);Fire Emblem 7 - AoTM (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7 - Death or Glory (X);Fire Emblem 7 - Death or Glory (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7 - Ostian Princess (X);Fire Emblem 7 - Ostian Princess (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7 - Sacred Contention (X);Fire Emblem 7 - Sacred Contention (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7 - The Last Promise (X);Fire Emblem 7 - The Last Promise (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Fire Emblem 7.5 - Elibian Nights (X).gba;Fire Emblem 7.5 - Elibian Nights (X).gba;Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Golden Sun II - The Lost Age_RS (X);Golden Sun II - The Lost Age_RS (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Metroid - Other ZM;Metroid - Other ZM;Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Metroid - ZM Boss Rush (X);Metroid - ZM Boss Rush (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Metroid - ZM Disturbance (X);Metroid - ZM Disturbance (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Pokemon - Flora Sky (X);Pokemon - Flora Sky (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Pokemon - Ultra Violet (X);Pokemon - Ultra Violet (X);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Super Robot Taisen J (T);Super Robot Taisen J (T);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Super Robot Wars 2 (T);Super Robot Wars 2 (T);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Tales of the World - ND 2 (T);Tales of the World - ND 2 (T);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Tales of the World - ND 3 (T);Tales of the World - ND 3 (T);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;
+Yoshi's Island - Super Mario Advance 3 (Voice Removed);Yoshi's Island - Super Mario Advance 3 (Voice Removed);Nintendo Game Boy Advance Hacks;;;;;;;;;;;;;;

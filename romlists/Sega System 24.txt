@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+bnzabros;Bonanza Bros;Arcade;;2016;Sega;;;;;;0;;;;;
+crkdown;Crack Down;Arcade;;2016;Sega;;;;;;0;;;;;
+dcclub;Dynamic Country Club;Arcade;;2016;Sega;;;;;;0;;;;;
+gground;Gain Ground;Arcade;;2016;Sega;;;;;;0;;;;;
+hotrod;Hot Rod;Arcade;;2016;Sega;;;;;;0;;;;;
+sspirits;Scramble Spirits;Arcade;;2016;Sega;;;;;;0;;;;;
+sgmast;Super Masters Golf;Arcade;;2016;Sega;;;;;;0;;;;;

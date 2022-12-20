@@ -1,0 +1,22 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Baseball Stars v1.10 (1998)(Saurus - SNK)(en-ja);Baseball Stars v1.10 (1998)(Saurus - SNK)(en-ja);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+King of Fighters - R-1 (1998)(SNK)(en-ja);King of Fighters - R-1 (1998)(SNK)(en-ja);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Master of Syougi (1998)(ADK)(JP);Master of Syougi (1998)(ADK)(JP);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Master of Syougi (1998)(ADK)(JP)[b];Master of Syougi (1998)(ADK)(JP)[b];SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Melon Chan no Seichou Nikki (1998)(ADK)(JP);Melon Chan no Seichou Nikki (1998)(ADK)(JP);SNK Neo Geo Pocket;;;SNK;Life Simulation;1;;;;;;;Melon-chan no Seichou Nikki;;
+Neo Cherry Master (1998)(Dyna)(JP)(en-ja);Neo Cherry Master (1998)(Dyna)(JP)(en-ja);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+NeoGeo Cup '98 (1998)(SNK)(JP)(en-ja);NeoGeo Cup '98 (1998)(SNK)(JP)(en-ja);SNK Neo Geo Pocket;;;SNK;Sports;2;;;;;;;Neo Geo Cup '98;;
+NeoGeo Cup '98 Plus (1998)(SNK)(en-ja);NeoGeo Cup '98 Plus (1998)(SNK)(en-ja);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Pocket Tennis - Pocket Sports Series (1998)(Yumekobo)(en-ja);Pocket Tennis - Pocket Sports Series (1998)(Yumekobo)(en-ja);SNK Neo Geo Pocket;;;SNK;Sports;2;;;;;;;Pocket Tennis - Pocket Sports Series;;
+Samurai Shodown! - Pocket Fighting Series (1998)(SNK)(en-ja);Samurai Shodown! - Pocket Fighting Series (1998)(SNK)(en-ja);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Tsunagete Pon! (1998)(Yumekobo)(JP);Tsunagete Pon! (1998)(Yumekobo)(JP);SNK Neo Geo Pocket;;;;;;;;;;;;;;
+Baseball Stars (Japan, Europe);Baseball Stars (Japan, Europe);SNK Neo Geo Pocket;;1998;SNK;Baseball/Sports;;;;;0;;;;;
+Dokodemo Mahjong (Japan);Dokodemo Mahjong (Japan);SNK Neo Geo Pocket;;1999;ADK;Mahjong;;;;;0;;;;;
+King of Fighters R-1 (Japan, Europe);King of Fighters R-1 (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Fighter;;;;;0;;;;;
+Melon-chan no Seichou Nikki (Japan);Melon-chan no Seichou Nikki (Japan);SNK Neo Geo Pocket;;1998;ADK;Simulation;;;;;0;;;;;
+Neo Cherry Master - Real Casino Series (Japan, Europe);Neo Cherry Master - Real Casino Series (Japan, Europe);SNK Neo Geo Pocket;;1999;DYNA;Casino;;;;;0;;;;;
+Neo Geo Cup '98 (Japan, Europe);Neo Geo Cup '98 (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Soccer/Sports;;;;;0;;;;;
+Pocket Tennis - Pocket Sports Series (Japan, Europe);Pocket Tennis - Pocket Sports Series (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Tennis/Sports;;;;;0;;;;;
+Renketsu Puzzle Tsunagete Pon! (Japan);Renketsu Puzzle Tsunagete Pon! (Japan);SNK Neo Geo Pocket;;1999;SNK;Puzzle;;;;;0;;;;;
+Samurai Shodown! - Pocket Fighting Series (Japan, Europe);Samurai Shodown! - Pocket Fighting Series (Japan, Europe);SNK Neo Geo Pocket;;1998;SNK;Fighter;;;;;0;;;;;
+Shougi no Tatsujin (Japan);Shougi no Tatsujin (Japan);SNK Neo Geo Pocket;;1999;SNK;Strategy;;;;;0;;;;;

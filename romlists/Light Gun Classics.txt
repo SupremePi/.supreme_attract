@@ -1,0 +1,520 @@
+a51mxr3k;Area 51 / Maximum Force Duo (R3000);Arcade;area51mx;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51mx;;chd;1
+a51mxr3k;Area 51 / Maximum Force Duo (R3000);MAME (Advance);area51mx;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51mx;;chd;1
+a51mxr3k;Area 51 / Maximum Force Duo (R3000);MAME (Libretro);area51mx;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51mx;;chd;1
+aplatoon;Platoon V.3.1 US;Arcade;;199?;Nova?;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;3
+aplatoon;Platoon V.3.1 US;MAME (Libretro);;199?;Nova?;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;
+area51a;Area 51 (Atari Games license, Oct 25, 1995);Arcade;area51;1995;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51;;chd;1
+area51a;Area 51 (Atari Games license, Oct 25, 1995);MAME (Advance);area51;1995;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51;;chd;1
+area51a;Area 51 (Atari Games license, Oct 25, 1995);MAME (Libretro);area51;1995;Atari Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;area51;;chd;
+area51;Area 51 (R3000);Arcade;;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51;Area 51 (R3000);MAME (Advance);;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51;Area 51 (R3000);MAME (Libretro);;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51mx;Area 51 / Maximum Force Duo v2.0;Arcade;;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51mx;Area 51 / Maximum Force Duo v2.0;MAME (Advance);;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51mx;Area 51 / Maximum Force Duo v2.0;MAME (Libretro);;1998;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+area51t;Area 51 (Time Warner license, Oct 17, 1996);Arcade;area51;1995;Atari Games (Time Warner license);Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51;;chd;1
+area51t;Area 51 (Time Warner license, Oct 17, 1996);MAME (Advance);area51;1995;Atari Games (Time Warner license);Shooter / Gun;2P sim;0;lightgun;good;1;raster;area51;;chd;1
+area51t;Area 51 (Time Warner license, Oct 17, 1996);MAME (Libretro);area51;1995;Atari Games (Time Warner license);Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;area51;;chd;
+backgamn;Backgammon;MAME (Libretro);;1990;ADP;Tabletop / Misc.;???;0;joystick (8-way),lightgun;preliminary;1;raster;;;;
+bang;Bang!;Arcade;;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;Final Burn Alpha;;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;MAME (Advance);;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;MAME (Libretro);;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bangj;Gun Gabacho (Japan);Arcade;bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);Final Burn Alpha;bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);MAME (Advance);bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);MAME (Libretro);bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bbusters;Beast Busters (World);Arcade;;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;;2
+bbusters;Beast Busters (World);Final Burn Alpha;;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;;2
+bbusters;Beast Busters (World);MAME (Advance);;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;;2
+bbusters;Beast Busters (World);MAME (Libretro);;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;;2
+bbustersua;Beast Busters (US, Version 2);Arcade;bbusters;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;bbusters;;;2
+bbustersua;Beast Busters (US, Version 2);Final Burn Alpha;bbusters;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;bbusters;;;2
+bbustersu;Beast Busters (US, Version 3);Arcade;bbusters;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;bbusters;;;2
+bbustersu;Beast Busters (US, Version 3);Final Burn Alpha;bbusters;1989;SNK;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;bbusters;;;2
+bbustersu;Beast Busters (US, Version 3);MAME (Libretro);bbusters;1989;SNK;Shooter / Gun;3P sim;0;lightgun,lightgun,lightgun;imperfect;1;raster;bbusters;;;
+bonanzar2;Touchstar Bonanza (Revision 2);MAME (Libretro);bonanza;1994;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;bonanza;;;
+bonanza;Touchstar Bonanza (Revision 3);MAME (Libretro);;1994;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;;;;
+borntofi;Born To Fight;Arcade;;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball;good;1;raster;;;;2
+borntofi;Born To Fight;MAME (Advance);;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball;good;1;raster;;;;2
+borntofi;Born To Fight;MAME (Libretro);;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball,joystick (8-way),lightgun,trackball;good;1;raster;;;;
+bronx;Bronx;Arcade;cyclshtg;1986;bootleg;Shooter / Gun;1P;90;lightgun;imperfect;1;raster;cyclshtg;;;1
+bronx;Bronx;MAME (Advance);cyclshtg;1986;bootleg;Shooter / Gun;1P;90;lightgun;imperfect;1;raster;cyclshtg;;;1
+bronx;Bronx;MAME (Libretro);cyclshtg;1986;bootleg;Shooter / Gun;1P;90;lightgun;imperfect;1;raster;cyclshtg;;;
+bubbletr;Bubble Trouble (Japan, Rev C);Arcade;;1992;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+bubbletr;Bubble Trouble (Japan, Rev C);Final Burn Alpha;;1992;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+bubbletr;Bubble Trouble (Japan, Rev C);MAME (Advance);;1992;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+bubbletr;Bubble Trouble (Japan, Rev C);MAME (Libretro);;1992;Namco;Shooter / Gun;2P sim;180;lightgun,lightgun;good;1;raster;;;;
+carnevil1;CarnEvil (v1.0.1);MAME (Libretro);carnevil;1998;Midway Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;carnevil;;chd;
+carnevil;CarnEvil (v1.0.3);Arcade;;1998;Midway Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;2
+carnevil;CarnEvil (v1.0.3);MAME (Advance);;1998;Midway Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;2
+carnevil;CarnEvil (v1.0.3);MAME (Libretro);;1998;Midway Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;2
+catch22;Catch-22 (version 8.0);Arcade;combat;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;combat;;;1
+catch22;Catch-22 (version 8.0);MAME (Advance);combat;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;combat;;;1
+catch22;Catch-22 (version 8.0);MAME (Libretro);combat;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;combat;;;1
+cheyenne;Cheyenne (version 1.0);Arcade;;1984;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+cheyenne;Cheyenne (version 1.0);MAME (Advance);;1984;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+cheyenne;Cheyenne (version 1.0);MAME (Libretro);;1984;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+cheyenne;Cheyenne (version 1.0);MAME (Mame4all);;1984;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+chiller;Chiller (version 3.0);Arcade;;1986;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+chiller;Chiller (version 3.0);MAME (Advance);;1986;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+chiller;Chiller (version 3.0);MAME (Libretro);;1986;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+chiller;Chiller (version 3.0);MAME (Mame4all);;1986;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+claypign;Clay Pigeon (version 2.0);Arcade;;1986;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+claypign;Clay Pigeon (version 2.0);MAME (Advance);;1986;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+claypign;Clay Pigeon (version 2.0);MAME (Libretro);;1986;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+claypign;Clay Pigeon (version 2.0);MAME (Mame4all);;1986;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+colt;Colt;Arcade;nycaptor;1986;bootleg;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;nycaptor;;;1
+colt;Colt;MAME (Advance);nycaptor;1986;bootleg;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;nycaptor;;;1
+colt;Colt;MAME (Libretro);nycaptor;1986;bootleg;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;nycaptor;;;
+combat;Combat (version 3.0);Arcade;;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+combat;Combat (version 3.0);MAME (Advance);;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+combat;Combat (version 3.0);MAME (Libretro);;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+combat;Combat (version 3.0);MAME (Mame4all);;1985;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+confmiss;Confidential Mission (GDS-0001);Arcade;;2000;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;2
+confmiss;Confidential Mission (GDS-0001);MAME (Libretro);;2000;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;
+cracksht;Crackshot (version 2.0);Arcade;;1985;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+cracksht;Crackshot (version 2.0);MAME (Advance);;1985;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+cracksht;Crackshot (version 2.0);MAME (Libretro);;1985;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+cracksht;Crackshot (version 2.0);MAME (Mame4all);;1985;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+crimep2;Crime Patrol 2: Drug Wars v1.3;Arcade;;1993;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+crimep2;Crime Patrol 2: Drug Wars v1.3;MAME (Libretro);;1993;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+crimepat;Crime Patrol v1.51;Arcade;;1993;American Laser Games;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+crimepat;Crime Patrol v1.51;MAME (Libretro);;1993;American Laser Games;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+critcrsh;Critter Crusher (EA 951204 V1.000);Arcade;;1995;Sega;Misc.;1P;0;lightgun;imperfect;1;raster;stvbios;;;1
+critcrsh;Critter Crusher (EA 951204 V1.000);MAME (Advance);;1995;Sega;Misc.;1P;0;lightgun;imperfect;1;raster;stvbios;;;1
+critcrsh;Critter Crusher (EA 951204 V1.000);MAME (Libretro);;1995;Sega;Misc.;1P;0;lightgun;imperfect;1;raster;stvbios;;;
+crossbow;Crossbow (version 2.0);Arcade;;1983;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+crossbow;Crossbow (version 2.0);MAME (Advance);;1983;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+crossbow;Crossbow (version 2.0);MAME (Libretro);;1983;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+crossbow;Crossbow (version 2.0);MAME (Mame4all);;1983;Exidy;Shooter / Gun;1P;0;lightgun;good;1;raster;;;;1
+cryptklr;Crypt Killer (GQ420 UAA);Arcade;;1995;Konami;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;chd;2
+cryptklr;Crypt Killer (GQ420 UAA);MAME (Advance);;1995;Konami;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;chd;2
+cryptklr;Crypt Killer (GQ420 UAA);MAME (Libretro);;1995;Konami;Shooter / Gun;3P sim;0;lightgun;imperfect;1;raster;;;chd;2
+cyclshtg;Cycle Shooting;Arcade;;1986;Taito;Shooter / Gun;1P;90;lightgun;preliminary;1;raster;;;;1
+cyclshtg;Cycle Shooting;MAME (Advance);;1986;Taito;Shooter / Gun;1P;90;lightgun;preliminary;1;raster;;;;1
+cyclshtg;Cycle Shooting;MAME (Libretro);;1986;Taito;Shooter / Gun;1P;90;lightgun;preliminary;1;raster;;;;1
+deerhunta;Deer Hunting USA V4.2;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunta;Deer Hunting USA V4.2;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunta;Deer Hunting USA V4.2;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntb;Deer Hunting USA V4.0;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntb;Deer Hunting USA V4.0;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntb;Deer Hunting USA V4.0;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntc;Deer Hunting USA V3;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntc;Deer Hunting USA V3;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntc;Deer Hunting USA V3;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntd;Deer Hunting USA V2;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntd;Deer Hunting USA V2;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunt;Deer Hunting USA V4.3;Arcade;;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+deerhunt;Deer Hunting USA V4.3;Final Burn Alpha;;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+deerhunt;Deer Hunting USA V4.3;MAME (Libretro);;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;
+deerhunte;Deer Hunting USA V1;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunte;Deer Hunting USA V1;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+desertgu;Desert Gun;Arcade;;1977;Dave Nutting Associates / Midway;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+desertgu;Desert Gun;MAME (Advance);;1977;Dave Nutting Associates / Midway;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+desertgu;Desert Gun;MAME (Libretro);;1977;Dave Nutting Associates / Midway;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+desertgu;Desert Gun;MAME (Mame4all);;1977;Dave Nutting Associates / Midway;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+dragngun;Dragon Gun (US);Arcade;;1993;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+dragngun;Dragon Gun (US);MAME (Advance);;1993;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+dragngun;Dragon Gun (US);MAME (Libretro);;1993;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+duckhunt;Vs. Duck Hunt (set DH3 E);Arcade;;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+duckhunt;Vs. Duck Hunt (set DH3 E);MAME (Advance);;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+duckhunt;Vs. Duck Hunt (set DH3 E);MAME (Libretro);;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+eggventr7;Egg Venture (Release 7);MAME (Libretro);eggventr;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;eggventr;;;
+eggventr8;Egg Venture (Release 8);MAME (Libretro);eggventr;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;eggventr;;;
+eggventra;Egg Venture (A.L. Release);MAME (Libretro);eggventr;1997;The Game Room (A.L. Australia license);Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;eggventr;;;
+eggventrd;Egg Venture Deluxe;MAME (Libretro);eggventr;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;eggventr;;;
+eggventr;Egg Venture (Release 10);Arcade;;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+eggventr;Egg Venture (Release 10);MAME (Advance);;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+eggventr;Egg Venture (Release 10);MAME (Libretro);;1997;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+fashiong;Fashion Gambler (set 1);MAME (Libretro);;1997;ADP;Casino;???;0;joystick (8-way),lightgun;preliminary;1;raster;;;;
+fastdraw;Fast Draw Showdown v1.31;Arcade;;1995;American Laser Games;Shooter / Gun;???;90;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+fastdraw;Fast Draw Showdown v1.31;MAME (Libretro);;1995;American Laser Games;Shooter / Gun;???;90;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+fstation;Fun Station Spielekoffer 9 Spiele;MAME (Libretro);;2000;ADP;Casino / Cards;???;0;joystick (8-way),lightgun;preliminary;1;raster;;;;
+funcube2;Funcube 2 (v1.1);MAME (Libretro);;2001;Namco;Multiplay / Compilation;1P;0;gambling,joystick (8-way),lightgun;good;1;raster;;;;
+funcube4;Funcube 4 (v1.0);MAME (Libretro);;2001;Namco;Multiplay / Compilation;1P;0;gambling,joystick (8-way),lightgun;good;1;raster;;;;
+funlddlx;Funny Land de Luxe;MAME (Libretro);;1999;Stella;Casino;???;0;joystick (8-way),lightgun;preliminary;1;raster;;;;
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;
+gallgall;Gallagher's Gallery v2.2;Arcade;;1992;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+gallgall;Gallagher's Gallery v2.2;MAME (Libretro);;1992;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+gdfs;Mobil Suit Gundam Final Shooting (Japan);Arcade;;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);Final Burn Alpha;;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);MAME (Advance);;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);MAME (Libretro);;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,joystick (8-way),lightgun;good;1;raster;;;;
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+ghoshunt;Ghost Hunter;Arcade;;1996;Hanaho Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+ghoshunt;Ghost Hunter;MAME (Advance);;1996;Hanaho Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+ghoshunt;Ghost Hunter;MAME (Libretro);;1996;Hanaho Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;;;;
+golgo13;Golgo 13 (Japan, GLG1/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+golgo13;Golgo 13 (Japan, GLG1/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+golgo13;Golgo 13 (Japan, GLG1/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+gollygho;Golly! Ghost!;Arcade;;1990;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+gollygho;Golly! Ghost!;Final Burn Alpha;;1990;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+gollygho;Golly! Ghost!;MAME (Advance);;1990;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+gollygho;Golly! Ghost!;MAME (Libretro);;1990;Namco;Shooter / Gun;2P sim;180;lightgun;good;1;raster;;;;1
+gunbuletj;Gun Bullet (Japan, GN1);MAME (Libretro);ptblank;1994;Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;ptblank;;;
+gunbuletw;Gun Bullet (World, GN3 Rev B);MAME (Libretro);ptblank;1994;Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;ptblank;;;
+gunbustr;Gunbuster (World);Arcade;;1992;Taito Corporation Japan;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gunbustr;Gunbuster (World);MAME (Advance);;1992;Taito Corporation Japan;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gunbustr;Gunbuster (World);MAME (Libretro);;1992;Taito Corporation Japan;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+hammer;Hammer;MAME (Libretro);;2000;Andamiro;Misc.;1P;0;lightgun;good;1;raster;;;;
+hidctch3;Hidden Catch 3 (ver 1.00 / pcb ver 3.05);MAME (Libretro);;2000;Eolith;Puzzle / Misc.;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+hitnmiss2;Hit 'n Miss (version 2.0);MAME (Libretro);hitnmiss;1987;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;hitnmiss;;;
+hitnmiss;Hit 'n Miss (version 3.0);Arcade;;1987;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hitnmiss;Hit 'n Miss (version 3.0);MAME (Advance);;1987;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hitnmiss;Hit 'n Miss (version 3.0);MAME (Libretro);;1987;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hitnmiss;Hit 'n Miss (version 3.0);MAME (Mame4all);;1987;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hogalley;Vs. Hogan's Alley (set HA4-1 E-1);Arcade;;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hogalley;Vs. Hogan's Alley (set HA4-1 E-1);MAME (Advance);;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hogalley;Vs. Hogan's Alley (set HA4-1 E-1);MAME (Libretro);;1985;Nintendo;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+hotd2;House of the Dead 2 (USA);Arcade;;1998;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;hod2bios;;;2
+hotd2;House of the Dead 2 (USA);MAME (Libretro);;1998;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;hod2bios;;;
+hotd2o;House of the Dead 2;MAME (Libretro);hotd2;1998;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;hotd2;;;
+invasnab;Invasion - The Abductors (version 5.0);Arcade;;1999;Midway;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;1
+invasnab;Invasion - The Abductors (version 5.0);MAME (Libretro);;1999;Midway;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+jdreddb;Judge Dredd (Rev B Nov. 26 1997);Arcade;jdredd;1996;Acclaim;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;jdredd;;chd;2
+jdreddb;Judge Dredd (Rev B Nov. 26 1997);MAME (Libretro);jdredd;1996;Acclaim;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;jdredd;;chd;2
+jdredd;Judge Dredd (Rev C Dec. 17 1997);Arcade;;1996;Acclaim;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;acpsx;;chd;2
+jdredd;Judge Dredd (Rev C Dec. 17 1997);MAME (Advance);;1996;Acclaim;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;acpsx;;chd;2
+jdredd;Judge Dredd (Rev C Dec. 17 1997);MAME (Libretro);;1996;Acclaim;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;acpsx;;chd;2
+kdeadeye;Dead Eye (GV054 UAA01);Arcade;;1996;Konami;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;konamigv;;chd;1
+kdeadeye;Dead Eye (GV054 UAA01);MAME (Advance);;1996;Konami;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;konamigv;;chd;1
+kdeadeye;Dead Eye (GV054 UAA01);MAME (Libretro);;1996;Konami;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;konamigv;;chd;
+lastbh;The Last Bounty Hunter v1.01;Arcade;;1994;American Laser Games;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+lastbh;The Last Bounty Hunter v1.01;MAME (Libretro);;1994;American Laser Games;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+le2j;Lethal Enforcers II: The Western (ver JAA);Arcade;le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun;imperfect;1;raster;le2;;;3
+le2j;Lethal Enforcers II: The Western (ver JAA);MAME (Advance);le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun;imperfect;1;raster;le2;;;3
+le2j;Lethal Enforcers II: The Western (ver JAA);MAME (Libretro);le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun,joystick (8-way),lightgun,joystick (8-way),joystick (8-way);imperfect;1;raster;le2;;;
+le2;Lethal Enforcers II: Gun Fighters (ver EAA);Arcade;;1994;Konami;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;imperfect;1;raster;konamigx;;;3
+le2;Lethal Enforcers II: Gun Fighters (ver EAA);MAME (Advance);;1994;Konami;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;imperfect;1;raster;konamigx;;;3
+le2;Lethal Enforcers II: Gun Fighters (ver EAA);MAME (Libretro);;1994;Konami;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;imperfect;1;raster;konamigx;;;3
+le2u;Lethal Enforcers II: Gun Fighters (ver UAA);Arcade;le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun;imperfect;1;raster;le2;;;3
+le2u;Lethal Enforcers II: Gun Fighters (ver UAA);MAME (Advance);le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun;imperfect;1;raster;le2;;;3
+le2u;Lethal Enforcers II: Gun Fighters (ver UAA);MAME (Libretro);le2;1994;Konami;Shooter / Gun;2P sim;180;joystick (8-way),lightgun;imperfect;1;raster;le2;;;3
+lethaleneab;Lethal Enforcers (ver EAB, 10/14/92 19:53);Arcade;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethaleneab;Lethal Enforcers (ver EAB, 10/14/92 19:53);Final Burn Alpha;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethaleneab;Lethal Enforcers (ver EAB, 10/14/92 19:53);MAME (Libretro);lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun,lightgun;imperfect;1;raster;lethalen;;;
+lethaleneae;Lethal Enforcers (ver EAE, 11/19/92 16:24);Arcade;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethaleneae;Lethal Enforcers (ver EAE, 11/19/92 16:24);Final Burn Alpha;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethaleneae;Lethal Enforcers (ver EAE, 11/19/92 16:24);MAME (Libretro);lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun,lightgun;imperfect;1;raster;lethalen;;;
+lethalenj;Lethal Enforcers (ver JAD, 12/04/92 17:16);MAME (Libretro);lethalen;1992;Konami;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;lethalen;;;
+lethalen;Lethal Enforcers (ver UAE, 11/19/92 15:04);Arcade;;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;;;;1
+lethalen;Lethal Enforcers (ver UAE, 11/19/92 15:04);Final Burn Alpha;;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;;;;1
+lethalen;Lethal Enforcers (ver UAE, 11/19/92 15:04);MAME (Advance);;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;;;;1
+lethalen;Lethal Enforcers (ver UAE, 11/19/92 15:04);MAME (Libretro);;1992;Konami;Shooter / Gun;2P sim;180;lightgun,lightgun;imperfect;1;raster;;;;
+lethalenua;Lethal Enforcers (ver UAA, 08/17/92 21:38);Arcade;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenua;Lethal Enforcers (ver UAA, 08/17/92 21:38);Final Burn Alpha;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenua;Lethal Enforcers (ver UAA, 08/17/92 21:38);MAME (Libretro);lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun,lightgun;imperfect;1;raster;lethalen;;;
+lethalenub;Lethal Enforcers (ver UAB, 09/01/92 11:12);Arcade;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenub;Lethal Enforcers (ver UAB, 09/01/92 11:12);Final Burn Alpha;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenux;Lethal Enforcers (ver unknown, US, 08/06/92 15:11, hacked/proto?);Arcade;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenux;Lethal Enforcers (ver unknown, US, 08/06/92 15:11, hacked/proto?);Final Burn Alpha;lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun;imperfect;1;raster;lethalen;;;1
+lethalenux;Lethal Enforcers (ver unknown, US, 08/06/92 15:11, hacked/proto?);MAME (Libretro);lethalen;1992;Konami;Shooter / Gun;2P sim;180;lightgun,lightgun;imperfect;1;raster;lethalen;;;
+lethalj;Lethal Justice (Version 2.3);Arcade;;1996;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+lethalj;Lethal Justice (Version 2.3);MAME (Advance);;1996;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+lethalj;Lethal Justice (Version 2.3);MAME (Libretro);;1996;The Game Room;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+lghostd;Laser Ghost (World) (bootleg of FD1094 317-0166 set);Arcade;lghost;1990;bootleg;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostd;Laser Ghost (World) (bootleg of FD1094 317-0166 set);Final Burn Alpha;lghost;1990;bootleg;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghost;Laser Ghost (World) (FD1094 317-0166);Arcade;;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;;;;2
+lghost;Laser Ghost (World) (FD1094 317-0166);Final Burn Alpha;;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;;;;2
+lghost;Laser Ghost (World) (FD1094 317-0166);MAME (Advance);;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;;;;2
+lghost;Laser Ghost (World) (FD1094 317-0166);MAME (Libretro);;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;;;;2
+lghostud;Laser Ghost (US) (bootleg of FD1094 317-0165 set);Arcade;lghost;1990;bootleg;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostud;Laser Ghost (US) (bootleg of FD1094 317-0165 set);Final Burn Alpha;lghost;1990;bootleg;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostu;Laser Ghost (US) (FD1094 317-0165);Arcade;lghost;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostu;Laser Ghost (US) (FD1094 317-0165);Final Burn Alpha;lghost;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostu;Laser Ghost (US) (FD1094 317-0165);MAME (Advance);lghost;1990;Sega;Shooter / Gun;3P sim;0;lightgun;good;1;raster;lghost;;;2
+lghostu;Laser Ghost (US) (FD1094 317-0165);MAME (Libretro);lghost;1990;Sega;Shooter / Gun;3P sim;0;lightgun,lightgun,lightgun;good;1;raster;lghost;;;
+lockload;Locked 'n Loaded (World);Arcade;;1994;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+lockload;Locked 'n Loaded (World);MAME (Advance);;1994;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+lockload;Locked 'n Loaded (World);MAME (Libretro);;1994;Data East Corporation;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+lockloadu;Locked 'n Loaded (US, Dragon Gun conversion);MAME (Libretro);lockload;1994;Data East Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;lockload;;;
+loffired;Line of Fire / Bakudan Yarou (World) (bootleg of FD1094 317-0136 set);Arcade;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffired;Line of Fire / Bakudan Yarou (World) (bootleg of FD1094 317-0136 set);Final Burn Alpha;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirejd;Line of Fire / Bakudan Yarou (Japan) (bootleg of FD1094 317-0134 set);Arcade;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirejd;Line of Fire / Bakudan Yarou (Japan) (bootleg of FD1094 317-0134 set);Final Burn Alpha;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirej;Line of Fire / Bakudan Yarou (Japan) (FD1094 317-0134);Arcade;loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirej;Line of Fire / Bakudan Yarou (Japan) (FD1094 317-0134);Final Burn Alpha;loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirej;Line of Fire / Bakudan Yarou (Japan) (FD1094 317-0134);MAME (Advance);loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffirej;Line of Fire / Bakudan Yarou (Japan) (FD1094 317-0134);MAME (Libretro);loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;loffire;;;
+loffire;Line of Fire / Bakudan Yarou (World) (FD1094 317-0136);Arcade;;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+loffire;Line of Fire / Bakudan Yarou (World) (FD1094 317-0136);Final Burn Alpha;;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+loffire;Line of Fire / Bakudan Yarou (World) (FD1094 317-0136);MAME (Advance);;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+loffire;Line of Fire / Bakudan Yarou (World) (FD1094 317-0136);MAME (Libretro);;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+loffireud;Line of Fire / Bakudan Yarou (US) (bootleg of FD1094 317-0135 set);Arcade;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffireud;Line of Fire / Bakudan Yarou (US) (bootleg of FD1094 317-0135 set);Final Burn Alpha;loffire;1989;bootleg;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffireu;Line of Fire / Bakudan Yarou (US) (FD1094 317-0135);Arcade;loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffireu;Line of Fire / Bakudan Yarou (US) (FD1094 317-0135);Final Burn Alpha;loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffireu;Line of Fire / Bakudan Yarou (US) (FD1094 317-0135);MAME (Advance);loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;loffire;;;2
+loffireu;Line of Fire / Bakudan Yarou (US) (FD1094 317-0135);MAME (Libretro);loffire;1989;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;loffire;;;
+lordgun;Lord of Gun (USA);Arcade;;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);Final Burn Alpha;;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);MAME (Advance);;1994;IGS;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+lordgun;Lord of Gun (USA);MAME (Libretro);;1994;IGS;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+lostwsga;The Lost World (Japan, Revision A);Arcade;;1997;Sega;Shooter / Gun;???;0;lightgun;preliminary;1;raster;;;;2
+lostwsga;The Lost World (Japan, Revision A);MAME (Advance);;1997;Sega;Shooter / Gun;???;0;lightgun;preliminary;1;raster;;;;2
+lostwsga;The Lost World (Japan, Revision A);MAME (Libretro);;1997;Sega;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;;;;
+luckywldj;Lucky & Wild (Japan);Arcade;luckywld;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;luckywld;;;1
+luckywldj;Lucky & Wild (Japan);Final Burn Alpha;luckywld;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;luckywld;;;1
+luckywldj;Lucky & Wild (Japan);MAME (Libretro);luckywld;1992;Namco;Driving / 1st Person;2P sim;0;lightgun,paddle,pedal,lightgun;good;1;raster;luckywld;;;
+luckywld;Lucky & Wild;Arcade;;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;;;;1
+luckywld;Lucky & Wild;Final Burn Alpha;;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;;;;1
+luckywld;Lucky & Wild;MAME (Advance);;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;;;;1
+luckywld;Lucky & Wild;MAME (Libretro);;1992;Namco;Driving / 1st Person;2P sim;0;paddle,pedal,lightgun;good;1;raster;;;;1
+lupinsho;Lupin The Third - The Shooting (GDS-0018);Arcade;;2001;Sega / Eighting;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;2
+lupinsho;Lupin The Third - The Shooting (GDS-0018);MAME (Libretro);;2001;Sega / Eighting;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;
+maddog2;Mad Dog II: The Lost Gold v2.04;Arcade;;1992;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+maddog2;Mad Dog II: The Lost Gold v2.04;MAME (Libretro);;1992;American Laser Games;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+maddoga;Mad Dog McCree v1C board rev.A;MAME (Libretro);maddog;1990;American Laser Games;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;maddog;;chd;
+maddog;Mad Dog McCree v2.03 board rev.B;Arcade;;1990;American Laser Games;Shooter / Gun;1P;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+maddog;Mad Dog McCree v2.03 board rev.B;MAME (Libretro);;1990;American Laser Games;Shooter / Gun;1P;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+maxf_102;Maximum Force v1.02;Arcade;maxforce;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;maxforce;;chd;1
+maxf_102;Maximum Force v1.02;MAME (Libretro);maxforce;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;maxforce;;chd;1
+maxforce;Maximum Force v1.05;Arcade;;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+maxforce;Maximum Force v1.05;MAME (Advance);;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+maxforce;Maximum Force v1.05;MAME (Libretro);;1996;Atari Games;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;chd;1
+mechattj;Mechanized Attack (Japan);Arcade;mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;mechatt;;;2
+mechattj;Mechanized Attack (Japan);Final Burn Alpha;mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;mechatt;;;2
+mechatt;Mechanized Attack (World);Arcade;;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+mechatt;Mechanized Attack (World);Final Burn Alpha;;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+mechatt;Mechanized Attack (World);MAME (Advance);;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+mechatt;Mechanized Attack (World);MAME (Libretro);;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+mechattu1;Mechanized Attack (US, Version 1, Single Player);Arcade;mechatt;1989;SNK;Shooter / Gun;1P;0;lightgun;good;1;raster;mechatt;;;2
+mechattu1;Mechanized Attack (US, Version 1, Single Player);Final Burn Alpha;mechatt;1989;SNK;Shooter / Gun;1P;0;lightgun;good;1;raster;mechatt;;;2
+mechattu;Mechanized Attack (US);Arcade;mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;mechatt;;;2
+mechattu;Mechanized Attack (US);Final Burn Alpha;mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;mechatt;;;2
+mechattu;Mechanized Attack (US);MAME (Advance);mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun;good;1;raster;mechatt;;;2
+mechattu;Mechanized Attack (US);MAME (Libretro);mechatt;1989;SNK;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;mechatt;;;
+megat3a;Megatouch III (9255-20-01 ROK, Standard version);MAME (Libretro);megat3;1995;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat3;;;
+megat3ca;Megatouch III (9255-20-06 RON, California version);MAME (Libretro);megat3;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat3;;;
+megat3;Megatouch III (9255-20-01 RON, Standard version);MAME (Libretro);;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;;;;
+megat3nj;Megatouch III (9255-20-07 ROG, New Jersey version);MAME (Libretro);megat3;1995;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat3;;;
+megat3te;Megatouch III Tournament Edition (9255-30-01 ROE, Standard version);MAME (Libretro);megat3;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat3;;;
+megat4a;Megatouch IV (9255-40-01 ROD, Standard version);MAME (Libretro);megat4;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat4;;;
+megat4;Megatouch IV (9255-40-01 ROE, Standard version);MAME (Libretro);;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;;;;
+megat4st;Super Megatouch IV Tournament Edition (9255-51-01 ROB, Standard version);MAME (Libretro);megat4;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat4;;;
+megat4tea;Megatouch IV Tournament Edition (9255-50-01 ROA, Standard version);MAME (Libretro);megat4;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat4;;;
+megat4te;Megatouch IV Tournament Edition (9255-50-01 ROD, Standard version);MAME (Libretro);megat4;1996;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat4;;;
+megat5a;Megatouch 5 (9255-60-01 ROC, Standard version);MAME (Libretro);megat5;1997;Merit;Multiplay / Compilation;2P alt;0;lightgun;preliminary;1;raster;megat5;;;
+megat5;Megatouch 5 (9255-60-01 ROI, Standard version);MAME (Libretro);;1997;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;;;;
+megat5nj;Megatouch 5 (9255-60-07 RON, New Jersey version);MAME (Libretro);megat5;1998;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;megat5;;;
+megat6;Megatouch 6 (9255-80-01 ROA, Standard version);MAME (Libretro);;1998;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;;;;
+mok;The Maze of the Kings (GDS-0022);Arcade;;2002;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;2
+mok;The Maze of the Kings (GDS-0022);MAME (Libretro);;2002;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;naomigd;;chd;
+nstocker2;Night Stocker (8/27/86);Arcade;nstocker;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;nstocker;;;1
+nstocker2;Night Stocker (8/27/86);MAME (Libretro);nstocker;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;nstocker;;;
+nstocker;Night Stocker (10/6/86);Arcade;;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;;;;1
+nstocker;Night Stocker (10/6/86);MAME (Advance);;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;;;;1
+nstocker;Night Stocker (10/6/86);MAME (Libretro);;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;;;;1
+nstocker;Night Stocker (10/6/86);MAME (Mame4all);;1986;Bally/Sente;Shooter / Driving 1st Person;1P;0;lightgun,dial;good;1;raster;;;;1
+nycaptor;N.Y. Captor;Arcade;;1985;Taito;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+nycaptor;N.Y. Captor;MAME (Advance);;1985;Taito;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+nycaptor;N.Y. Captor;MAME (Libretro);;1985;Taito;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;1
+oneshot;One Shot One Kill;Arcade;;1996;Promat;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+oneshot;One Shot One Kill;MAME (Advance);;1996;Promat;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+oneshot;One Shot One Kill;MAME (Libretro);;1996;Promat;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+opwolf3;Operation Wolf 3 (World);Arcade;;1994;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+opwolf3;Operation Wolf 3 (World);Final Burn Alpha;;1994;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+opwolf3;Operation Wolf 3 (World);MAME (Advance);;1994;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+opwolf3;Operation Wolf 3 (World);MAME (Libretro);;1994;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+opwolf3u;Operation Wolf 3 (US);Arcade;opwolf3;1994;Taito America Corporation;Shooter / Gun;2P sim;0;lightgun;good;1;raster;opwolf3;;;2
+opwolf3u;Operation Wolf 3 (US);Final Burn Alpha;opwolf3;1994;Taito America Corporation;Shooter / Gun;2P sim;0;lightgun;good;1;raster;opwolf3;;;2
+opwolf3u;Operation Wolf 3 (US);MAME (Advance);opwolf3;1994;Taito America Corporation;Shooter / Gun;2P sim;0;lightgun;good;1;raster;opwolf3;;;2
+opwolf3u;Operation Wolf 3 (US);MAME (Libretro);opwolf3;1994;Taito America Corporation;Shooter / Gun;2P sim;0;lightgun;good;1;raster;opwolf3;;;2
+opwolfa;Operation Wolf (World, set 2);Arcade;opwolf;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfa;Operation Wolf (World, set 2);Final Burn Alpha;opwolf;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfa;Operation Wolf (World, set 2);MAME (Libretro);opwolf;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;
+opwolfb;Operation Bear (bootleg of Operation Wolf);Arcade;opwolf;1987;bootleg (Bear Corporation Korea);Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfb;Operation Bear (bootleg of Operation Wolf);Final Burn Alpha;opwolf;1987;bootleg (Bear Corporation Korea);Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfb;Operation Bear (bootleg of Operation Wolf);MAME (Advance);opwolf;1987;bootleg (Bear Corporation Korea);Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfb;Operation Bear (bootleg of Operation Wolf);MAME (Libretro);opwolf;1987;bootleg (Bear Corporation Korea);Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfj;Operation Wolf (Japan);Arcade;opwolf;1987;Taito Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfj;Operation Wolf (Japan);Final Burn Alpha;opwolf;1987;Taito Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfj;Operation Wolf (Japan);MAME (Libretro);opwolf;1987;Taito Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;
+opwolf;Operation Wolf (World, set 1);Arcade;;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+opwolf;Operation Wolf (World, set 1);Final Burn Alpha;;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+opwolf;Operation Wolf (World, set 1);MAME (Advance);;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+opwolf;Operation Wolf (World, set 1);MAME (Libretro);;1987;Taito Corporation Japan;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+opwolfu;Operation Wolf (US);Arcade;opwolf;1987;Taito America Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfu;Operation Wolf (US);Final Burn Alpha;opwolf;1987;Taito America Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfu;Operation Wolf (US);MAME (Advance);opwolf;1987;Taito America Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;2
+opwolfu;Operation Wolf (US);MAME (Libretro);opwolf;1987;Taito America Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;opwolf;;;
+pbst30;Pit Boss Supertouch 30 (9234-10-01);MAME (Libretro);;1994;Merit;Multiplay / Compilation;2P alt;0;lightgun;imperfect;1;raster;;;;
+pc_duckh;Duck Hunt (PlayChoice-10);Arcade;;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pc_duckh;Duck Hunt (PlayChoice-10);MAME (Libretro);;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pc_hgaly;Hogan's Alley (PlayChoice-10);Arcade;;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pc_hgaly;Hogan's Alley (PlayChoice-10);MAME (Libretro);;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pc_wgnmn;Wild Gunman (PlayChoice-10);Arcade;;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pc_wgnmn;Wild Gunman (PlayChoice-10);MAME (Libretro);;1984;Nintendo;Shooter / Gun;1P;0;joystick (8-way),lightgun;good;2;raster;playch10;;;2
+pntnpuzl;Paint & Puzzle;Arcade;;199?;Century?;Puzzle / Sliding;1P;90;lightgun;preliminary;1;raster;;;;1
+pntnpuzl;Paint & Puzzle;MAME (Advance);;199?;Century?;Puzzle / Sliding;1P;90;lightgun;preliminary;1;raster;;;;1
+pntnpuzl;Paint & Puzzle;MAME (Libretro);;199?;Century?;Puzzle / Sliding;1P;90;lightgun;preliminary;1;raster;;;;
+policetr10;Police Trainer (Rev 1.0);MAME (Libretro);policetr;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;policetr;;;
+policetr11;Police Trainer (Rev 1.1);MAME (Libretro);policetr;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;policetr;;;
+policetr13a;Police Trainer (Rev 1.3B Newer);MAME (Libretro);policetr;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;policetr;;;
+policetr13b;Police Trainer (Rev 1.3B);MAME (Libretro);policetr;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;policetr;;;
+policetr;Police Trainer (Rev 1.3);Arcade;;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+policetr;Police Trainer (Rev 1.3);MAME (Advance);;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+policetr;Police Trainer (Rev 1.3);MAME (Libretro);;1996;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+ptblank2;Point Blank 2 (GNB5/VER.A);Arcade;;1999;Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ptblank2;Point Blank 2 (GNB5/VER.A);MAME (Advance);;1999;Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ptblank2;Point Blank 2 (GNB5/VER.A);MAME (Libretro);;1999;Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+ptblank;Point Blank (World, GN2 Rev B, set 1);Arcade;;1994;Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ptblank;Point Blank (World, GN2 Rev B, set 1);MAME (Advance);;1994;Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ptblank;Point Blank (World, GN2 Rev B, set 1);MAME (Libretro);;1994;Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+quickjac;Quick Jack;MAME (Libretro);;1993;ADP;Casino;???;0;only_buttons,lightgun;preliminary;1;raster;;;;
+rapidfire;Rapid Fire v1.0 (Build 236);MAME (Libretro);rapidfir;1998;Hanaho Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;rapidfir;;;
+rapidfir;Rapid Fire v1.1 (Build 239);Arcade;;1998;Hanaho Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;;;;1
+rapidfir;Rapid Fire v1.1 (Build 239);MAME (Libretro);;1998;Hanaho Games;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;;;;
+rchasej;Rail Chase (Japan);Arcade;rchase;1991;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;rchase;;;1
+rchasej;Rail Chase (Japan);Final Burn Alpha;rchase;1991;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;rchase;;;1
+rchasej;Rail Chase (Japan);MAME (Libretro);rchase;1991;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;rchase;;;
+rchase;Rail Chase (World);Arcade;;1991;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+rchase;Rail Chase (World);Final Burn Alpha;;1991;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+rchase;Rail Chase (World);MAME (Advance);;1991;Sega;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+rchase;Rail Chase (World);MAME (Libretro);;1991;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;;;;
+roadrunm;Road Runner (Midway);MAME (Libretro);desertgu;1977;Midway;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;desertgu;;;
+sgunner2j;Steel Gunner 2 (Japan, Rev A);Arcade;sgunner2;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;sgunner2;;;3
+sgunner2j;Steel Gunner 2 (Japan, Rev A);Final Burn Alpha;sgunner2;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;sgunner2;;;3
+sgunner2j;Steel Gunner 2 (Japan, Rev A);MAME (Libretro);sgunner2;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,joystick (8-way),lightgun;good;1;raster;sgunner2;;;
+sgunner2;Steel Gunner 2 (US);Arcade;;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+sgunner2;Steel Gunner 2 (US);Final Burn Alpha;;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+sgunner2;Steel Gunner 2 (US);MAME (Advance);;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+sgunner2;Steel Gunner 2 (US);MAME (Libretro);;1991;Namco;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+sgunnerj;Steel Gunner (Japan);Arcade;sgunner;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;sgunner;;;2
+sgunnerj;Steel Gunner (Japan);Final Burn Alpha;sgunner;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;sgunner;;;2
+sgunnerj;Steel Gunner (Japan);MAME (Advance);sgunner;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;sgunner;;;2
+sgunnerj;Steel Gunner (Japan);MAME (Libretro);sgunner;1990;Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;sgunner;;;
+sgunner;Steel Gunner (Rev B);Arcade;;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+sgunner;Steel Gunner (Rev B);Final Burn Alpha;;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+sgunner;Steel Gunner (Rev B);MAME (Advance);;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+sgunner;Steel Gunner (Rev B);MAME (Libretro);;1990;Namco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+shootgal;Shooting Gallery;Arcade;;1984;Seatongrove Ltd (Zaccaria license);Shooter / Gun;1P;180;lightgun;imperfect;1;raster;;;;2
+shootgal;Shooting Gallery;MAME (Advance);;1984;Seatongrove Ltd (Zaccaria license);Shooter / Gun;1P;180;lightgun;imperfect;1;raster;;;;2
+shootgal;Shooting Gallery;MAME (Libretro);;1984;Seatongrove Ltd (Zaccaria license);Shooter / Gun;1P;180;lightgun;imperfect;1;raster;;;;2
+showdown;Showdown (version 5.0);Arcade;;1988;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;;;;8
+showdown;Showdown (version 5.0);MAME (Advance);;1988;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;;;;8
+showdown;Showdown (version 5.0);MAME (Libretro);;1988;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;;;;8
+showdown;Showdown (version 5.0);MAME (Mame4all);;1988;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;;;;8
+shtngmste;Shooting Master (EVG, 8751 315-5159a);Arcade;shtngmst;1985;Sega / EVG;Shooter / Gun;1P;0;lightgun;good;1;raster;shtngmst;;;1
+shtngmste;Shooting Master (EVG, 8751 315-5159a);MAME (Libretro);shtngmst;1985;Sega / EVG;Shooter / Gun;1P;0;lightgun;good;1;raster;shtngmst;;;
+shtngmst;Shooting Master (8751 315-5159);Arcade;;1985;Sega;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;;;;1
+shtngmst;Shooting Master (8751 315-5159);MAME (Advance);;1985;Sega;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;;;;1
+shtngmst;Shooting Master (8751 315-5159);MAME (Libretro);;1985;Sega;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;;;;1
+shtngmst;Shooting Master (8751 315-5159);MAME (Mame4all);;1985;Sega;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;;;;1
+skattva;Skat TV (version TS3);MAME (Libretro);skattv;1995;ADP;Casino;???;0;joystick (8-way),lightgun;preliminary;1;raster;skattv;;;
+skattv;Skat TV;MAME (Libretro);;1994;ADP;Casino;???;0;joystick (8-way),lightgun;preliminary;1;raster;;;;
+spacepir;Space Pirates v2.2;Arcade;;1992;American Laser Games;Shooter / Gun;1P;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;2
+spacepir;Space Pirates v2.2;MAME (Libretro);;1992;American Laser Games;Shooter / Gun;1P;0;lightgun,lightgun;preliminary;1;raster;alg_bios;;chd;
+sshooter11;Sharpshooter (Rev 1.1);MAME (Libretro);sshooter;1998;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;sshooter;;;
+sshooter12;Sharpshooter (Rev 1.2);MAME (Libretro);sshooter;1998;P&P Marketing;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;sshooter;;;
+sshooter;Sharpshooter (Rev 1.9);Arcade;;1998;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+sshooter;Sharpshooter (Rev 1.9);MAME (Advance);;1998;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+sshooter;Sharpshooter (Rev 1.9);MAME (Libretro);;1998;P&P Marketing;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+streetg2r5;Street Games II (Revision 5);MAME (Libretro);streetg2;1993;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;streetg2;;;
+streetg2;Street Games II (Revision 7C);MAME (Libretro);;1993;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;;;;
+streetgr3;Street Games (Revision 3);MAME (Libretro);streetg;1993;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;streetg;;;
+streetg;Street Games (Revision 4);MAME (Libretro);;1993;New Image Technologies;Multiplay / Compilation;???;0;lightgun;preliminary;1;raster;;;;
+targetha;Target Hits (ver 1.0);MAME (Libretro);targeth;1994;Gaelco;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;targeth;;;
+targeth;Target Hits (ver 1.1);Arcade;;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+targeth;Target Hits (ver 1.1);MAME (Advance);;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+targeth;Target Hits (ver 1.1);MAME (Libretro);;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+tickee;Tickee Tickats;Arcade;;1994;Raster Elite;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+tickee;Tickee Tickats;MAME (Advance);;1994;Raster Elite;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+tickee;Tickee Tickats;MAME (Libretro);;1994;Raster Elite;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+timecrisa;Time Crisis (Rev. TS2 Ver.A);MAME (Libretro);timecris;1995;Namco;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;timecris;;;
+timecris;Time Crisis (Rev. TS2 Ver.B);Arcade;;1995;Namco;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+timecris;Time Crisis (Rev. TS2 Ver.B);MAME (Advance);;1995;Namco;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+timecris;Time Crisis (Rev. TS2 Ver.B);MAME (Libretro);;1995;Namco;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;
+timecrs2;Time Crisis II (TSS3 Ver. B);Arcade;;1997;Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;preliminary;1;raster;;;;3
+timecrs2;Time Crisis II (TSS3 Ver. B);MAME (Advance);;1997;Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;preliminary;1;raster;;;;3
+timecrs2;Time Crisis II (TSS3 Ver. B);MAME (Libretro);;1997;Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun,joystick (vertical2-way);preliminary;1;raster;;;;
+tm2ka;Touchmaster 2000 (v4.02 Standard);MAME (Libretro);tm2k;1996;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm2k;;;
+tm2k;Touchmaster 2000 Plus (v4.63 Standard);MAME (Libretro);;1996;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tm3ka;Touchmaster 3000 (v5.01 Standard);MAME (Libretro);tm3k;1997;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm3k;;;
+tm3k;Touchmaster 3000 (v5.02 Standard);MAME (Libretro);;1997;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tm4ka;Touchmaster 4000 (v6.02 Standard);MAME (Libretro);tm4k;1998;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm4k;;;
+tm4k;Touchmaster 4000 (v6.03 Standard);MAME (Libretro);;1998;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tm5ka;Touchmaster 5000 (v7.01 Standard);MAME (Libretro);tm5k;1998;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm5k;;;
+tm5kca;Touchmaster 5000 (v7.10 California);MAME (Libretro);tm5k;1998;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm5k;;;
+tm5k;Touchmaster 5000 (v7.10 Standard);MAME (Libretro);;1998;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tm7ka;Touchmaster 7000 (v8.00 Standard);MAME (Libretro);tm7k;1999;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm7k;;;
+tm7keval;Touchmaster 7000 (v8.1X Evaluation);MAME (Libretro);tm7k;1999;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm7k;;;
+tm7k;Touchmaster 7000 (v8.04 Standard);MAME (Libretro);;1999;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tm8k902;Touchmaster 8000 (v9.02 Standard);MAME (Libretro);tm8k;2000;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm8k;;;
+tm8k;Touchmaster 8000 (v9.04 Standard);MAME (Libretro);;2000;Midway Games Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+tmdo;Touchmaster (v2.2-01 Standard);MAME (Libretro);tm;1996;Midway Games Inc. / CES Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;tm;;;
+tm;Touchmaster (v3.00 Euro);MAME (Libretro);;1996;Midway Games Inc. / CES Inc.;Multiplay / Compilation;2P alt;0;lightgun;good;1;raster;;;;
+trophyh;Trophy Hunting - Bear & Moose V1.0;Arcade;;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+trophyh;Trophy Hunting - Bear & Moose V1.0;Final Burn Alpha;;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+trophyh;Trophy Hunting - Bear & Moose V1.0;MAME (Libretro);;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+turkhunt;Turkey Hunting USA V1.0;Arcade;;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;2
+turkhunt;Turkey Hunting USA V1.0;Final Burn Alpha;;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;2
+turkhunt;Turkey Hunting USA V1.0;MAME (Libretro);;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;
+tutstomb;Tut's Tomb;Arcade;;1996;Island Design;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+tutstomb;Tut's Tomb;MAME (Advance);;1996;Island Design;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+tutstomb;Tut's Tomb;MAME (Libretro);;1996;Island Design;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;;;;
+undrfirej;Under Fire (Japan);MAME (Libretro);undrfire;1993;Taito Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;undrfire;;;
+undrfire;Under Fire (World);Arcade;;1993;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;3
+undrfire;Under Fire (World);MAME (Advance);;1993;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;3
+undrfire;Under Fire (World);MAME (Libretro);;1993;Taito Corporation Japan;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;3
+undrfireu;Under Fire (US);MAME (Libretro);undrfire;1993;Taito America Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;good;1;raster;undrfire;;;
+vcop2;Virtua Cop 2;Arcade;;1995;Sega;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;1
+vcop2;Virtua Cop 2;MAME (Advance);;1995;Sega;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;1
+vcop2;Virtua Cop 2;MAME (Libretro);;1995;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;;;;
+vcop;Virtua Cop (Revision B);Arcade;;1994;Sega;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;1
+vcop;Virtua Cop (Revision B);MAME (Advance);;1994;Sega;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;1
+vcop;Virtua Cop (Revision B);MAME (Libretro);;1994;Sega;Shooter / Gun;2P sim;0;lightgun,lightgun;preliminary;1;raster;;;;
+vsfdf;Vs. Freedom Force;Arcade;;1988;Sunsoft;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+vsfdf;Vs. Freedom Force;MAME (Advance);;1988;Sunsoft;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+vsfdf;Vs. Freedom Force;MAME (Libretro);;1988;Sunsoft;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+vsgshoe;Vs. Gumshoe (set GM5);Arcade;;1986;Nintendo;Platform / Run Jump;1P;0;lightgun;good;1;raster;;;;1
+vsgshoe;Vs. Gumshoe (set GM5);MAME (Advance);;1986;Nintendo;Platform / Run Jump;1P;0;lightgun;good;1;raster;;;;1
+vsgshoe;Vs. Gumshoe (set GM5);MAME (Libretro);;1986;Nintendo;Platform / Run Jump;1P;0;lightgun;good;1;raster;;;;1
+whodunit;Who Dunit (version 9.0);Arcade;;1988;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+whodunit;Who Dunit (version 9.0);MAME (Advance);;1988;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+whodunit;Who Dunit (version 9.0);MAME (Libretro);;1988;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+whodunit;Who Dunit (version 9.0);MAME (Mame4all);;1988;Exidy;Shooter / Gun;2P alt;0;lightgun;good;1;raster;;;;1
+wildplt;Wild Pilot;Arcade;;1992;Jaleco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;3
+wildplt;Wild Pilot;MAME (Advance);;1992;Jaleco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;3
+wildplt;Wild Pilot;MAME (Libretro);;1992;Jaleco;Shooter / Gun;2P sim;0;lightgun,only_buttons;imperfect;1;raster;;;;
+wschampa;Wing Shooting Championship V1.01;Arcade;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampa;Wing Shooting Championship V1.01;Final Burn Alpha;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampa;Wing Shooting Championship V1.01;MAME (Libretro);wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;wschamp;;;
+wschampb;Wing Shooting Championship V1.00;Arcade;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampb;Wing Shooting Championship V1.00;Final Burn Alpha;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschamp;Wing Shooting Championship V2.00;Arcade;;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+wschamp;Wing Shooting Championship V2.00;Final Burn Alpha;;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+wschamp;Wing Shooting Championship V2.00;MAME (Libretro);;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+wsjr;Who Shot Johnny Rock? v1.6;Arcade;;1991;American Laser Games;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;3
+wsjr;Who Shot Johnny Rock? v1.6;MAME (Libretro);;1991;American Laser Games;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;
+yukon1;Yukon (version 1.0);MAME (Libretro);yukon;1989;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;yukon;;;
+yukon;Yukon (version 2.0);MAME (Libretro);;1989;Exidy;Casino / Cards;1P;0;lightgun;good;1;raster;;;;
+zeropnt2;Zero Point 2;Arcade;;1999;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt2;Zero Point 2;Final Burn Alpha;;1999;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt2;Zero Point 2;MAME (Advance);;1999;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt2;Zero Point 2;MAME (Libretro);;1999;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnta;Zero Point (set 2);Arcade;zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropnta;Zero Point (set 2);Final Burn Alpha;zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropnta;Zero Point (set 2);MAME (Advance);zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropnta;Zero Point (set 2);MAME (Libretro);zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropntj;Zero Point (Japan);Arcade;zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropntj;Zero Point (Japan);Final Burn Alpha;zeropnt;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zeropnt;;;1
+zeropnt;Zero Point (set 1);Arcade;;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt;Zero Point (set 1);Final Burn Alpha;;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt;Zero Point (set 1);MAME (Advance);;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zeropnt;Zero Point (set 1);MAME (Libretro);;1998;Unico;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+zombraidpj;Zombie Raid (9/28/95, Japan, prototype PCB);Arcade;zombraid;1995;Sammy Industries Co.,Ltd.;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2
+zombraidpj;Zombie Raid (9/28/95, Japan, prototype PCB);Final Burn Alpha;zombraid;1995;Sammy Industries Co.,Ltd.;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2
+zombraidp;Zombie Raid (9/28/95, US, prototype PCB);Arcade;zombraid;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2
+zombraidp;Zombie Raid (9/28/95, US, prototype PCB);Final Burn Alpha;zombraid;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2
+zombraid;Zombie Raid (9/28/95, US);Arcade;;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+zombraid;Zombie Raid (9/28/95, US);Final Burn Alpha;;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+zombraid;Zombie Raid (9/28/95, US);MAME (Advance);;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+zombraid;Zombie Raid (9/28/95, US);MAME (Libretro);;1995;American Sammy;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;2
+zortonbr;Zorton Brothers (Los Justicieros);Arcade;;1993;Web Picmatic;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;3
+zortonbr;Zorton Brothers (Los Justicieros);MAME (Libretro);;1993;Web Picmatic;Shooter / Gun;1P;0;lightgun;preliminary;1;raster;alg_bios;;chd;

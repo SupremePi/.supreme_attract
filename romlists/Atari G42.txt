@@ -1,0 +1,3 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+guardian;Guardian;Arcade;;2016;Toaplan / Taito America Corpor;;;;;;0;;;;;
+roadriot;Road Riot 4WD;Arcade;;2016;Atari Games;;;;;;0;;;;;

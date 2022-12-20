@@ -1,0 +1,12 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Pichu Bros. Mini (Japan);Pichu Bros. Mini (Japan);Nintendo Pokemon Mini;;2000;Denyusha Co. Ltd.;Multiplay;;;;;0;;;;;
+Pokemon Breeder Mini (Japan) (Translated En);Pokemon Breeder Mini (Japan) (Translated En);Nintendo Pokemon Mini;;2002;Jupiter Corp.;Simulation;;;;;0;;;;;
+Pokemon Party Mini (USA);Pokemon Party Mini (USA);Nintendo Pokemon Mini;;2001;Denyusha Co. Ltd.;Multiplay;;;;;0;;;;;
+Pokemon Pinball Mini (USA);Pokemon Pinball Mini (USA);Nintendo Pokemon Mini;;2001;Jupiter Corp.;Pinball;;;;;0;;;;;
+Pokemon Puzzle Collection (USA);Pokemon Puzzle Collection (USA);Nintendo Pokemon Mini;;2001;Jupiter Corp.;Puzzle;;;;;0;;;;;
+Pokemon Puzzle Collection Vol. 2 (Japan) (Translated En);Pokemon Puzzle Collection Vol. 2 (Japan) (Translated En);Nintendo Pokemon Mini;;2002;Jupiter Corp.;Puzzle;;;;;0;;;;;
+Pokemon Race Mini (Japan);Pokemon Race Mini (Japan);Nintendo Pokemon Mini;;2002;Jupiter Corp.;Driving;;;;;0;;;;;
+Pokemon Tetris (Europe);Pokemon Tetris (Europe);Nintendo Pokemon Mini;;2002;Nintendo;Puzzle;;;;;0;;;;;
+Pokemon Zany Cards (USA);Pokemon Zany Cards (USA);Nintendo Pokemon Mini;;2001;Denyusha Co. Ltd.;Card Battle;;;;;0;;;;;
+Snorlax's Lunch Time (USA) (GameCube);Snorlax's Lunch Time (USA) (GameCube);Nintendo Pokemon Mini;;2003;Nintendo;Miscellaneous;;;;;0;;;;;
+Togepi no Daibouken (Japan) (Translated En);Togepi no Daibouken (Japan) (Translated En);Nintendo Pokemon Mini;;2002;Jupiter Corp.;Adventure;;;;;0;;;;;

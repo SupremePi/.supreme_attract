@@ -1,0 +1,22 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Alice's Mom's Rescue;Alice's Mom's Rescue;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Cool Herders;Cool Herders;Sega Dreamcast Indies;;;;;;;;;;;;;;
+DUX (old version);DUX (old version);Sega Dreamcast Indies;;;;;;;;;;;;;;
+DUX v1.5 (new version);DUX v1.5 (new version);Sega Dreamcast Indies;;;;;;;;;;;;;;
+FAST STRIKER;FAST STRIKER;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Feet Of Fury;Feet Of Fury;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Frog Feast;Frog Feast;Sega Dreamcast Indies;;;;;;;;;;;;;;
+GHOST BLADE;GHOST BLADE;Sega Dreamcast Indies;;;;;;;;;;;;;;
+GUNLORD;GUNLORD;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Inhabitants;Inhabitants;Sega Dreamcast Indies;;;;;;;;;;;;;;
+LAST HOPE (original edition);LAST HOPE (original edition);Sega Dreamcast Indies;;;;;;;;;;;;;;
+LAST HOPE Pink Bullets;LAST HOPE Pink Bullets;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Maqiupai;Maqiupai;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Master of Blocks;Master of Blocks;Sega Dreamcast Indies;;;;;;;;;;;;;;
+NEO XYX;NEO XYX;Sega Dreamcast Indies;;;;;;;;;;;;;;
+REDUX Dark Matters;REDUX Dark Matters;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Record of Lodoss War 4in1;Record of Lodoss War 4in1;Sega Dreamcast Indies;;;;;;;;;;;;;;
+STURMWIND;STURMWIND;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Volgarr;Volgarr;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Wind & Water Puzzle Battles;Wind & Water Puzzle Battles;Sega Dreamcast Indies;;;;;;;;;;;;;;
+Witching Hour;Witching Hour;Sega Dreamcast Indies;;;;;;;;;;;;;;

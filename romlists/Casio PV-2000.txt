@@ -1,0 +1,12 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Excite Mahjong 2;Excite Mahjong 2;Casio PV-2000;;;;;;;;;;;;;;
+Exciting Jockey;Exciting Jockey;Casio PV-2000;;;;;;;;;;;;;;
+Front Line;Front Line;Casio PV-2000;;;;;;;;;;;;;;
+Galaga;Galaga;Casio PV-2000;;;;;;;;;;;;;;
+Mr. Packn;Mr. Packn;Casio PV-2000;;;;;;;;;;;;;;
+Pachinko UFO;Pachinko UFO;Casio PV-2000;;;;;;;;;;;;;;
+Pooyan;Pooyan;Casio PV-2000;;;;;;;;;;;;;;
+Rakugaki Special;Rakugaki Special;Casio PV-2000;;;;;;;;;;;;;;
+Roc'n Rope;Roc'n Rope;Casio PV-2000;;;;;;;;;;;;;;
+Ski Command;Ski Command;Casio PV-2000;;;;;;;;;;;;;;
+Super Cobra;Super Cobra;Casio PV-2000;;;;;;;;;;;;;;

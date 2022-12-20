@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Hacks 100;Hacks 100;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Hacks;Nintendo Game Boy Hacks;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Advance Hacks;Nintendo Game Boy Advance Hacks;@;;;;;;;;;0;;;;;
+Nintendo Entertainment System Hacks;Nintendo Entertainment System Hacks;@;;;;;;;;;0;;;;;
+Nintendo Super Nintendo Hacks;Nintendo Super Nintendo Hacks;@;;;;;;;;;0;;;;;
+Sega Game Gear Hacks;Sega Game Gear Hacks;@;;;;;;;;;0;;;;;
+Sega Mega Drive Hacks;Sega Mega Drive Hacks;@;;;;;;;;;0;;;;;

@@ -1,0 +1,9 @@
+Bubsy 3D - Furbitten Planet (USA);Bubsy 3D - Furbitten Planet (USA);Sony PSP;;1996;Accolade;Action;;;;;0;;;;;
+Bubsy 3D - Furbitten Planet (USA);Bubsy 3D - Furbitten Planet (USA);Sony PlayStation;;1996;Accolade;Action;;;;;0;;;;;
+Bubsy II (USA);Bubsy II (USA);Nintendo Game Boy;;1998;Accolade;Platform;;;;;0;;;;;
+Bubsy II (USA);Bubsy II (USA);Super Nintendo Entertainment System;;1994;Accolade;Platform;;;;;0;;;;;
+Bubsy II (USA, Europe);Bubsy II (USA, Europe);Sega Genesis;;1993;Accolade;Platform;;;;;0;;;;;
+Bubsy in Claws Encounters of the Furred Kind (USA);Bubsy in Claws Encounters of the Furred Kind (USA);Super Nintendo Entertainment System;;1993;Accolade;Platform;;;;;0;;;;;
+Bubsy in Claws Encounters of the Furred Kind (USA, Europe);Bubsy in Claws Encounters of the Furred Kind (USA, Europe);Sega Genesis;;1994;Accolade;Platform;;;;;0;;;;;
+bubsy2;Bubsy II (Euro, USA);Final Burn Alpha;;1994;Accolade;;;;;;0;;;;;
+bubsy;Bubsy in Claws Encounters of the Furred Kind (Euro, USA);Final Burn Alpha;;1993;Accolade;;;;;;0;;;;;

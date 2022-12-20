@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Astro Wars;Astro Wars;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Astro Wars II - Battle in Galaxy;Astro Wars II - Battle in Galaxy;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Baseball;Baseball;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Basic;Basic;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Boulder Dash;Boulder Dash;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Comic Circus;Comic Circus;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Dragon Ball;Dragon Ball;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Dragon Slayer;Dragon Slayer;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Elevator Fight;Elevator Fight;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Lupin III;Lupin III;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Mappy;Mappy;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Milky Princess;Milky Princess;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Miner 2049er;Miner 2049er;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Nebula;Nebula;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Pole Position II;Pole Position II;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Pop and Chips;Pop and Chips;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Punch Boy;Punch Boy;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Rantou Pro-Wrestling;Rantou Pro-Wrestling;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Shogi Nyuumon;Shogi Nyuumon;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Sky Kid;Sky Kid;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Super Golf;Super Golf;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Super Mahjong;Super Mahjong;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Super Sansu-Puter;Super Sansu-Puter;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Super Soccer;Super Soccer;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+TonTon Ball;TonTon Ball;Epoch Super Cassette Vision;;;;;;;;;;;;;;
+Wheelie Racer;Wheelie Racer;Epoch Super Cassette Vision;;;;;;;;;;;;;;

@@ -1,0 +1,10 @@
+gng;Ghosts'n Goblins (World? set 1);Capcom Classics;;1985;Capcom;Platform;;;;;0;;;;;
+mt_gng;Ghouls'n Ghosts (Mega-Tech);Capcom Classics;;1989;Capcom / Sega;Platform;;;;;0;;;;;
+ghouls;Ghouls'n Ghosts (World);Capcom Classics;;1988;Capcom;Platform;;;;;0;;;;;
+gng;gng;Arcade;;;;;;;;;;;;;
+Ghouls'n Ghosts (USA, Europe);Ghouls'n Ghosts (USA, Europe);Sega Master System;;1990;Capcom;Action;1;;;;;;;;;
+Ghouls 'n Ghosts (USA, Europe) (Rev A);Ghouls 'n Ghosts (USA, Europe) (Rev A);Sega Mega Drive;;1989;Capcom;Action / Platform;1;;;;;;;;;
+Ghosts'n Goblins (USA);Ghosts'n Goblins (USA);Nintendo NES;;1986;Capcom;Adventure;2;;;;;;;;;
+Super Ghouls'n Ghosts (USA);Super Ghouls'n Ghosts (USA);Nintendo SNES;;;;;;;;;;;;;;
+Super Ghouls'n Ghosts (USA, Europe);Super Ghouls'n Ghosts (USA, Europe);Nintendo Game Boy Advance;;2002;Capcom;Action / Platform;;;;;;;;;;
+Daimakai Mura (Japan);Daimakai Mura (Japan);SuperGrafx;;;;;;;;;;;;;;

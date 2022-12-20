@@ -1,0 +1,63 @@
+daimakai;Daimakaimura (Japan);Final Burn Alpha;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+daimakai;Daimakaimura (Japan);MAME (Advance);ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+daimakai;Daimakaimura (Japan);MAME Libretro 2010;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;ghouls;;;
+daimakai;Daimakaimura (Japan);MAME (Libretro);ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+daimakair;Daimakaimura (Japan Resale Ver.);Final Burn Alpha;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+daimakair;Daimakaimura (Japan Resale Ver.);MAME Libretro 2010;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;ghouls;;;
+Ghosts'n Goblins Arcade (USA) (Unl);Ghosts'n Goblins Arcade (USA) (Unl);Commodore 64;;2015;Chris Butler, Erhan, Geert Verschueren & Tomaz Kac;Platform;;;;;0;;;;;
+Ghosts 'n Goblins (Europe);Ghosts 'n Goblins (Europe);Amstrad CPC;;1986;Elite Systems;Platform;;;;;0;;;;;
+Ghosts 'n' Goblins (Europe);Ghosts 'n' Goblins (Europe);Atari ST;;1990;Elite;Platform;;;;;0;;;;;
+Ghosts'n Goblins (Europe);Ghosts'n Goblins (Europe);Commodore 64;;1986;Elite;Platform;;;;;0;;;;;
+Ghosts 'n' Goblins (Europe);Ghosts 'n' Goblins (Europe);Sinclair ZX Spectrum;;1986;Elite Systems;Action;;;;;0;;;;;
+Ghosts'n Goblins (USA, Europe);Ghosts'n Goblins (USA, Europe);Nintendo Game Boy Color;;2000;Capcom;Platform;;;;;0;;;;;
+Ghosts'n Goblins (USA);Ghosts'n Goblins (USA);Nintendo Entertainment System;;1986;Capcom;Platform;;;;;0;;;;;
+Ghouls (Europe);Ghouls (Europe);Amstrad CPC;;1985;Micro Power;Platform;;;;;0;;;;;
+Ghouls (Europe);Ghouls (Europe);Commodore 64;;1984;Micro Power;Platform;;;;;0;;;;;
+ghouls;Ghouls'n Ghosts (World);Final Burn Alpha;;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+ghouls;Ghouls'n Ghosts (World);MAME (Advance);;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+ghouls;Ghouls'n Ghosts (World);MAME (Libretro);;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+ghouls;Ghouls'n Ghosts (World);MAME Libretro 2010;;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+ghouls;Ghouls'n Ghosts (World);MAME (Mame4all);;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+ghoulsj;ghoulsj;MAME (Mame4all);;;;;;;;;;;;;;
+Ghouls 'n' Ghosts (Europe);Ghouls 'n' Ghosts (Europe);Amstrad CPC;;1989;U.S. Gold;Platform;;;;;0;;;;;
+Ghouls 'n' Ghosts (Europe);Ghouls 'n' Ghosts (Europe);Atari ST;;1988;US Gold;Platform;;;;;0;;;;;
+Ghouls'n'Ghosts (Europe);Ghouls'n'Ghosts (Europe);Commodore 64;;1989;US Gold/Capcom;Platform;;;;;0;;;;;
+Ghouls 'n' Ghosts (Europe);Ghouls 'n' Ghosts (Europe);Sinclair ZX Spectrum;;1989;US Gold;Action;;;;;0;;;;;
+Ghouls 'n Ghosts (USA, Europe);Ghouls 'n Ghosts (USA, Europe);Sega Genesis;;1989;AM8;Platform;;;;;0;;;;;
+Ghouls'n Ghosts (USA, Europe);Ghouls'n Ghosts (USA, Europe);Sega Master System;;1990;Sega;Platform;;;;;0;;;;;
+Ghouls 'n Ghosts (USA, Europe);Ghouls 'n Ghosts (USA, Europe);Sega Mega Drive;;1989;AM8;Platform;;;;;0;;;;;
+GhoulsNGhosts_v1.0_2252;Ghouls 'N Ghosts;Commodore Amiga;;;;;;;;;0;;;;;
+Ghouls'n Gremlins (Europe);Ghouls'n Gremlins (Europe);Commodore 64;;1986;Elite;Platform;;;;;0;;;;;
+ghoulsu;Ghouls'n Ghosts (USA);Final Burn Alpha;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+ghoulsu;Ghouls'n Ghosts (USA);MAME (Advance);ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+ghoulsu;Ghouls'n Ghosts (USA);MAME Libretro 2010;ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;ghouls;;;
+ghoulsu;Ghouls'n Ghosts (USA);MAME (Libretro);ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+ghoulsu;Ghouls'n Ghosts (USA);MAME (Mame4all);ghouls;1988;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;ghouls;;;2
+gnga;Ghosts'n Goblins (World? set 2);Final Burn Alpha;gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gnga;Ghosts'n Goblins (World? set 2);MAME (Advance);gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gnga;Ghosts'n Goblins (World? set 2);MAME Libretro 2010;gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;gng;;;
+gnga;Ghosts'n Goblins (World? set 2);MAME (Libretro);gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gnga;Ghosts'n Goblins (World? set 2);MAME (Mame4all);gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngbl;Ghosts'n Goblins (bootleg with Cross);Final Burn Alpha;gng;1985;bootleg;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngbl;Ghosts'n Goblins (bootleg with Cross);MAME Libretro 2010;gng;1985;bootleg;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;gng;;;
+gngblita;Ghosts'n Goblins (Italian bootleg, harder);Final Burn Alpha;gng;1985;bootleg;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngblita;Ghosts'n Goblins (Italian bootleg, harder);MAME Libretro 2010;gng;1985;bootleg;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;gng;;;
+gngc;Ghosts'n Goblins (World? set 3);Final Burn Alpha;gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngc;Ghosts'n Goblins (World? set 3);MAME Libretro 2010;gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;gng;;;
+gng;Ghosts'n Goblins (World? set 1);Final Burn Alpha;;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+gng;Ghosts'n Goblins (World? set 1);MAME (Advance);;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+gng;Ghosts'n Goblins (World? set 1);MAME (Libretro);;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+gng;Ghosts'n Goblins (World? set 1);MAME Libretro 2010;;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+gng;Ghosts'n Goblins (World? set 1);MAME (Mame4all);;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+gngprot;Ghosts'n Goblins (prototype);Final Burn Alpha;gng;1985;Capcom;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngt;Ghosts'n Goblins (US);Final Burn Alpha;gng;1985;Capcom (Taito America license);Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngt;Ghosts'n Goblins (US);MAME (Advance);gng;1985;Capcom (Taito America license);Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngt;Ghosts'n Goblins (US);MAME Libretro 2010;gng;1985;Capcom (Taito America license);Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;gng;;;
+gngt;Ghosts'n Goblins (US);MAME (Libretro);gng;1985;Capcom (Taito America license);Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+gngt;Ghosts'n Goblins (US);MAME (Mame4all);gng;1985;Capcom (Taito America license);Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;gng;;;2
+mt_gng;Ghouls'n Ghosts (Mega-Tech);MAME (Libretro);;1989;Capcom / Sega;Platform / Fighter Scrolling;???;0;joystick (8-way);preliminary;2;raster;megatech;;;4
+Super Ghouls'n Ghosts (MSU-1);Super Ghouls'n Ghosts (MSU-1);Super Nintendo Entertainment System MSU-1;;;;;;;;;;;;;;
+Super Ghouls'n Ghosts (USA, Europe);Super Ghouls'n Ghosts (USA, Europe);Nintendo Game Boy Advance;;2002;Capcom;Platform;;;;;0;;;;;
+Super Ghouls'n Ghosts (USA);Super Ghouls'n Ghosts (USA);Super Nintendo Entertainment System;;1991;Capcom;Platform;;;;;0;;;;;
+Ultimate Ghosts 'n Goblins (USA);Ultimate Ghosts 'n Goblins (USA);Sony PSP;;2006;Capcom;Platform;;;;;0;;;;;
+Dai Makaimura (Japan);Dai Makaimura (Japan);NEC SuperGrafx;;1990;NEC Avenue;Action;;;;;0;;;;;

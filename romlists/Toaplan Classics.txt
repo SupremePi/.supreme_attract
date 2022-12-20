@@ -1,0 +1,304 @@
+alcon;Alcon (US);Arcade;;1986;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+alcon;Alcon (US);Final Burn Alpha;;1986;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+alcon;Alcon (US);MAME (Advance);;1986;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+alcon;Alcon (US);MAME (Libretro);;1986;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+alcon;Alcon (US);MAME (Mame4all);;1986;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+batsuguna;Batsugun (older set);Arcade;batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batsugun;;;3
+batsuguna;Batsugun (older set);Final Burn Alpha;batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batsugun;;;3
+batsuguna;Batsugun (older set);MAME (Libretro);batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;batsugun;;;
+batsugun;Batsugun;Arcade;;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batsugun;Batsugun;Final Burn Alpha;;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batsugun;Batsugun;MAME (Advance);;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batsugun;Batsugun;MAME (Libretro);;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batsugun;Batsugun;MAME (Mame4all);;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batsugunsp;Batsugun - Special Version;Arcade;batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batsugun;;;3
+batsugunsp;Batsugun - Special Version;Final Burn Alpha;batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batsugun;;;3
+batsugunsp;Batsugun - Special Version;MAME (Libretro);batsugun;1993;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;batsugun;;;
+demonwld1;Demon's World / Horror Story (set 2);Arcade;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld1;Demon's World / Horror Story (set 2);Final Burn Alpha;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld1;Demon's World / Horror Story (set 2);MAME (Libretro);demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;demonwld;;;
+demonwld2;Demon's World / Horror Story (set 3);Arcade;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld2;Demon's World / Horror Story (set 3);Final Burn Alpha;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld2;Demon's World / Horror Story (set 3);MAME (Libretro);demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;demonwld;;;
+demonwld3;Demon's World / Horror Story (set 4);Arcade;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld3;Demon's World / Horror Story (set 4);Final Burn Alpha;demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;demonwld;;;3
+demonwld3;Demon's World / Horror Story (set 4);MAME (Libretro);demonwld;1989;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;demonwld;;;
+demonwld;Demon's World / Horror Story (set 1);Arcade;;1990;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+demonwld;Demon's World / Horror Story (set 1);Final Burn Alpha;;1990;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+demonwld;Demon's World / Horror Story (set 1);MAME (Advance);;1990;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+demonwld;Demon's World / Horror Story (set 1);MAME (Libretro);;1990;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+demonwld;Demon's World / Horror Story (set 1);MAME (Mame4all);;1990;Toaplan;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+dogyuuna;Dogyuun (older set);Arcade;dogyuun;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dogyuun;;;3
+dogyuuna;Dogyuun (older set);Final Burn Alpha;dogyuun;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dogyuun;;;3
+dogyuun;Dogyuun;Arcade;;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dogyuun;Dogyuun;Final Burn Alpha;;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dogyuun;Dogyuun;MAME (Advance);;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dogyuun;Dogyuun;MAME (Libretro);;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dogyuun;Dogyuun;MAME (Mame4all);;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dogyuunt;Dogyuun (location test);Arcade;dogyuun;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dogyuun;;;3
+dogyuunt;Dogyuun (location test);Final Burn Alpha;dogyuun;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dogyuun;;;3
+fireshrka;Fire Shark (earlier);Arcade;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrka;Fire Shark (earlier);Final Burn Alpha;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrkd;Fire Shark (Korea, set 1, easier);Arcade;fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrkd;Fire Shark (Korea, set 1, easier);Final Burn Alpha;fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrkd;Fire Shark (Korea, set 1, easier);MAME (Libretro);fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);preliminary;1;raster;fireshrk;;;
+fireshrkdh;Fire Shark (Korea, set 2, harder);Arcade;fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrkdh;Fire Shark (Korea, set 2, harder);Final Burn Alpha;fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+fireshrkdh;Fire Shark (Korea, set 2, harder);MAME (Libretro);fireshrk;1990;Toaplan (Dooyong license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);preliminary;1;raster;fireshrk;;;
+fireshrk;Fire Shark;Arcade;;1990;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+fireshrk;Fire Shark;Final Burn Alpha;;1990;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+fireshrk;Fire Shark;MAME (Advance);;1990;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+fireshrk;Fire Shark;MAME (Libretro);;1990;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+fireshrk;Fire Shark;MAME (Mame4all);;1990;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+fixeighta;FixEight (Southeast Asia);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighta;FixEight (Southeast Asia);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightat;FixEight (Southeast Asia, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightat;FixEight (Southeast Asia, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeight;FixEight (Europe);Arcade;;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;;;;2
+fixeight;FixEight (Europe);Final Burn Alpha;;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;;;;2
+fixeight;FixEight (Europe);MAME (Advance);;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;;;;2
+fixeight;FixEight (Europe);MAME (Libretro);;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;;;;2
+fixeighth;FixEight (Hong Kong);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighth;FixEight (Hong Kong);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightht;FixEight (Hong Kong, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightht;FixEight (Hong Kong, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightj;FixEight (Japan);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightj;FixEight (Japan);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightjt;FixEight (Japan, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightjt;FixEight (Japan, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightk;FixEight (Korea);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightk;FixEight (Korea);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightkt;FixEight (Korea, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightkt;FixEight (Korea, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightt;FixEight (Europe, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightt;FixEight (Europe, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighttw;FixEight (Taiwan);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighttw;FixEight (Taiwan);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighttwt;FixEight (Taiwan, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeighttwt;FixEight (Taiwan, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightu;FixEight (USA);Arcade;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightu;FixEight (USA);Final Burn Alpha;fixeight;1992;Toaplan;Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightut;FixEight (USA, Taito license);Arcade;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fixeightut;FixEight (USA, Taito license);Final Burn Alpha;fixeight;1992;Toaplan (Taito license);Shooter / Walking;3P sim;270;joystick (8-way);good;1;raster;fixeight;;;2
+fshark;Flying Shark (World);Arcade;;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+fshark;Flying Shark (World);Final Burn Alpha;;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+fshark;Flying Shark (World);MAME (Advance);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+fshark;Flying Shark (World);MAME (Libretro);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+fshark;Flying Shark (World);MAME (Mame4all);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+getstarj;Get Star (Japan);Arcade;grdian;1986;Toaplan / Taito;Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;grdian;;;2
+getstarj;Get Star (Japan);Final Burn Alpha;grdian;1986;Toaplan / Taito;Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;grdian;;;2
+getstarj;Get Star (Japan);MAME (Advance);grdian;1986;Toaplan / Taito;Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;grdian;;;2
+getstarj;Get Star (Japan);MAME (Libretro);grdian;1986;Toaplan / Taito;Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;grdian;;;2
+getstarj;Get Star (Japan);MAME (Mame4all);grdian;1986;Toaplan / Taito;Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;grdian;;;2
+ghox;Ghox (spinner);Arcade;;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;;;;2
+ghox;Ghox (spinner);Final Burn Alpha;;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;;;;2
+ghox;Ghox (spinner);MAME (Advance);;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;;;;2
+ghox;Ghox (spinner);MAME (Libretro);;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;;;;2
+ghox;Ghox (spinner);MAME (Mame4all);;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;;;;2
+ghoxj;Ghox (joystick);Arcade;ghox;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;ghox;;;2
+ghoxj;Ghox (joystick);Final Burn Alpha;ghox;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial;preliminary;1;raster;ghox;;;2
+ghoxj;Ghox (joystick);MAME (Libretro);ghox;1991;Toaplan;Ball & Paddle / Breakout;2P sim;270;joystick (8-way),dial,joystick (8-way),dial;preliminary;1;raster;ghox;;;
+grdian;Guardian (US);Arcade;;1986;Toaplan / Taito America Corporation (Kitkorp license);Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;;;;2
+grdian;Guardian (US);Final Burn Alpha;;1986;Toaplan / Taito America Corporation (Kitkorp license);Fighter / 2D;2P alt;0;joystick (8-way);good;1;raster;;;;2
+grindstma;Grind Stormer (older set);Arcade;grindstm;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+grindstma;Grind Stormer (older set);Final Burn Alpha;grindstm;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+grindstma;Grind Stormer (older set);MAME (Libretro);grindstm;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way),joystick (8-way);good;1;raster;grindstm;;;
+grindstm;Grind Stormer;Arcade;;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+grindstm;Grind Stormer;Final Burn Alpha;;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+grindstm;Grind Stormer;MAME (Advance);;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+grindstm;Grind Stormer;MAME (Libretro);;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+grindstm;Grind Stormer;MAME (Mame4all);;1992;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+hellfire1a;Hellfire (1P set, older);Arcade;hellfire;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hellfire;;;2
+hellfire1a;Hellfire (1P set, older);Final Burn Alpha;hellfire;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hellfire;;;2
+hellfire1;Hellfire (1P set);Arcade;hellfire;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hellfire;;;2
+hellfire1;Hellfire (1P set);Final Burn Alpha;hellfire;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hellfire;;;2
+hellfire1;Hellfire (1P set);MAME (Libretro);hellfire;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;hellfire;;;
+hellfire;Hellfire (2P set);Arcade;;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+hellfire;Hellfire (2P set);Final Burn Alpha;;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+hellfire;Hellfire (2P set);MAME (Advance);;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+hellfire;Hellfire (2P set);MAME (Libretro);;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+hellfire;Hellfire (2P set);MAME (Mame4all);;1989;Toaplan (Taito license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+hishouza;Hishou Zame (Japan);Arcade;fshark;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+hishouza;Hishou Zame (Japan);Final Burn Alpha;fshark;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+hishouza;Hishou Zame (Japan);MAME (Advance);fshark;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+hishouza;Hishou Zame (Japan);MAME (Libretro);fshark;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+hishouza;Hishou Zame (Japan);MAME (Mame4all);fshark;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+janoha;Jan Oh (set 2);MAME (Libretro);janoh;1984;Toaplan;Tabletop / Mahjong * Mature *;???;0;mahjong,mahjong;preliminary;1;raster;janoh;;;
+janoh;Jan Oh (set 1);MAME (Libretro);;1984;Toaplan;Tabletop / Mahjong * Mature *;???;0;mahjong,mahjong;preliminary;1;raster;;;;
+kbashk;Knuckle Bash (Korean PCB);Arcade;kbash;1993;Toaplan / Taito;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;kbash;;;3
+kbashk;Knuckle Bash (Korean PCB);Final Burn Alpha;kbash;1993;Toaplan / Taito;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;kbash;;;3
+kbash;Knuckle Bash;Arcade;;1993;Toaplan / Atari;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;3
+kbash;Knuckle Bash;Final Burn Alpha;;1993;Toaplan / Atari;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;3
+kbash;Knuckle Bash;MAME (Advance);;1993;Toaplan / Atari;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;3
+kbash;Knuckle Bash;MAME (Libretro);;1993;Toaplan / Atari;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;3
+kbash;Knuckle Bash;MAME (Mame4all);;1993;Toaplan / Atari;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ktiger;Kyukyoku Tiger (Japan);Arcade;twincobr;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;twincobr;;;2
+ktiger;Kyukyoku Tiger (Japan);Final Burn Alpha;twincobr;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;twincobr;;;2
+ktiger;Kyukyoku Tiger (Japan);MAME (Advance);twincobr;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;twincobr;;;2
+ktiger;Kyukyoku Tiger (Japan);MAME (Libretro);twincobr;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;twincobr;;;2
+ktiger;Kyukyoku Tiger (Japan);MAME (Mame4all);twincobr;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;twincobr;;;2
+mjsister;Mahjong Sisters (Japan);Arcade;;1986;Toaplan;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mjsister;Mahjong Sisters (Japan);MAME (Advance);;1986;Toaplan;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mjsister;Mahjong Sisters (Japan);MAME (Libretro);;1986;Toaplan;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mt_fshrk;Fire Shark (Mega-Tech);Arcade;;1990;Toaplan / Sega;Shooter / Flying Vertical;1P;0;joystick (8-way);preliminary;2;raster;megatech;;;4
+mt_fshrk;Fire Shark (Mega-Tech);MAME (Libretro);;1990;Toaplan / Sega;Shooter / Flying Vertical;1P;0;joystick (8-way);preliminary;2;raster;megatech;;;4
+outzonea;Out Zone (old set);Arcade;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzonea;Out Zone (old set);Final Burn Alpha;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzonea;Out Zone (old set);MAME (Advance);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzonea;Out Zone (old set);MAME (Libretro);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzoneb;Out Zone (older set);Arcade;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzoneb;Out Zone (older set);Final Burn Alpha;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzoneb;Out Zone (older set);MAME (Advance);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzoneb;Out Zone (older set);MAME (Libretro);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;outzone;;;
+outzonec;Out Zone (oldest set);Arcade;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);imperfect;1;raster;outzone;;;3
+outzonec;Out Zone (oldest set);Final Burn Alpha;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);imperfect;1;raster;outzone;;;3
+outzonec;Out Zone (oldest set);MAME (Advance);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);imperfect;1;raster;outzone;;;3
+outzonec;Out Zone (oldest set);MAME (Libretro);outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way),joystick (8-way);imperfect;1;raster;outzone;;;
+outzoneh;Out Zone (harder);Arcade;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzoneh;Out Zone (harder);Final Burn Alpha;outzone;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;outzone;;;3
+outzone;Out Zone;Arcade;;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+outzone;Out Zone;Final Burn Alpha;;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+outzone;Out Zone;MAME (Advance);;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+outzone;Out Zone;MAME (Libretro);;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+outzone;Out Zone;MAME (Mame4all);;1990;Toaplan;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+perfrman;Performan (Japan);Arcade;;1985;Toaplan / Data East Corporation;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;;;;2
+perfrman;Performan (Japan);Final Burn Alpha;;1985;Toaplan / Data East Corporation;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;;;;2
+perfrman;Performan (Japan);MAME (Advance);;1985;Toaplan / Data East Corporation;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;;;;2
+perfrman;Performan (Japan);MAME (Libretro);;1985;Toaplan / Data East Corporation;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;;;;2
+perfrmanu;Performan (US);Arcade;perfrman;1985;Toaplan / Data East USA;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;perfrman;;;2
+perfrmanu;Performan (US);Final Burn Alpha;perfrman;1985;Toaplan / Data East USA;Maze / Shooter Small;2P alt;270;joystick (8-way);good;1;raster;perfrman;;;2
+perfrmanu;Performan (US);MAME (Libretro);perfrman;1985;Toaplan / Data East USA;Maze / Shooter Small;2P alt;270;joystick (8-way),joystick (8-way);good;1;raster;perfrman;;;
+pipibibsa;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 2);Arcade;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;pipibibs;;;2
+pipibibsa;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 2);Final Burn Alpha;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;pipibibs;;;2
+pipibibsa;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 2);MAME (Libretro);pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;pipibibs;;;
+pipibibs;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1);Arcade;;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pipibibs;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1);Final Burn Alpha;;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pipibibs;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1);MAME (Advance);;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pipibibs;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1);MAME (Libretro);;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pipibibs;Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1);MAME (Mame4all);;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pipibibsp;Pipi & Bibis / Whoopee!! (prototype);Arcade;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;pipibibs;;;2
+pipibibsp;Pipi & Bibis / Whoopee!! (prototype);Final Burn Alpha;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);good;1;raster;pipibibs;;;2
+pyros;Pyros (US);Arcade;wardner;1987;Toaplan / Taito America Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+pyros;Pyros (US);Final Burn Alpha;wardner;1987;Toaplan / Taito America Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+pyros;Pyros (US);MAME (Advance);wardner;1987;Toaplan / Taito America Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+pyros;Pyros (US);MAME (Libretro);wardner;1987;Toaplan / Taito America Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+pyros;Pyros (US);MAME (Mame4all);wardner;1987;Toaplan / Taito America Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+rallybik;Rally Bike / Dash Yarou;Arcade;;1988;Toaplan / Taito Corporation;Driving / Race Bike;2P alt;270;joystick (8-way);good;1;raster;;;;2
+rallybik;Rally Bike / Dash Yarou;Final Burn Alpha;;1988;Toaplan / Taito Corporation;Driving / Race Bike;2P alt;270;joystick (8-way);good;1;raster;;;;2
+rallybik;Rally Bike / Dash Yarou;MAME (Advance);;1988;Toaplan / Taito Corporation;Driving / Race Bike;2P alt;270;joystick (8-way);good;1;raster;;;;2
+rallybik;Rally Bike / Dash Yarou;MAME (Libretro);;1988;Toaplan / Taito Corporation;Driving / Race Bike;2P alt;270;joystick (8-way);good;1;raster;;;;2
+rallybik;Rally Bike / Dash Yarou;MAME (Mame4all);;1988;Toaplan / Taito Corporation;Driving / Race Bike;2P alt;270;joystick (8-way);good;1;raster;;;;2
+samesame2;Same! Same! Same! (2P set);Arcade;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame2;Same! Same! Same! (2P set);Final Burn Alpha;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame2;Same! Same! Same! (2P set);MAME (Libretro);fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);preliminary;1;raster;fireshrk;;;
+samesame;Same! Same! Same! (1P set);Arcade;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame;Same! Same! Same! (1P set);Final Burn Alpha;fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame;Same! Same! Same! (1P set);MAME (Advance);fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame;Same! Same! Same! (1P set);MAME (Libretro);fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+samesame;Same! Same! Same! (1P set);MAME (Mame4all);fireshrk;1989;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);preliminary;1;raster;fireshrk;;;2
+skysharka;Sky Shark (US, set 2);Arcade;fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skysharka;Sky Shark (US, set 2);Final Burn Alpha;fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skyshark;Sky Shark (US, set 1);Arcade;fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skyshark;Sky Shark (US, set 1);Final Burn Alpha;fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skyshark;Sky Shark (US, set 1);MAME (Advance);fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skyshark;Sky Shark (US, set 1);MAME (Libretro);fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+skyshark;Sky Shark (US, set 1);MAME (Mame4all);fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;fshark;;;2
+slapfigha;Slap Fight (Japan set 2);MAME (Libretro);alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way),joystick (8-way);preliminary;1;raster;alcon;;;
+slapfigh;Slap Fight (Japan set 1);Arcade;alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;alcon;;;2
+slapfigh;Slap Fight (Japan set 1);Final Burn Alpha;alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;alcon;;;2
+slapfigh;Slap Fight (Japan set 1);MAME (Advance);alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;alcon;;;2
+slapfigh;Slap Fight (Japan set 1);MAME (Libretro);alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;alcon;;;2
+slapfigh;Slap Fight (Japan set 1);MAME (Mame4all);alcon;1986;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;alcon;;;2
+snowbrosa;Snow Bros. - Nick & Tom (set 2);Arcade;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosa;Snow Bros. - Nick & Tom (set 2);Final Burn Alpha;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosa;Snow Bros. - Nick & Tom (set 2);MAME (Libretro);snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;snowbros;;;
+snowbrosb;Snow Bros. - Nick & Tom (set 3);Arcade;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosb;Snow Bros. - Nick & Tom (set 3);Final Burn Alpha;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosb;Snow Bros. - Nick & Tom (set 3);MAME (Libretro);snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;snowbros;;;
+snowbrosc;Snow Bros. - Nick & Tom (set 4);Arcade;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosc;Snow Bros. - Nick & Tom (set 4);Final Burn Alpha;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosc;Snow Bros. - Nick & Tom (set 4);MAME (Libretro);snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;snowbros;;;
+snowbrosd;Snow Bros. - Nick & Tom (Dooyong license);Arcade;snowbros;1990;Toaplan (Dooyong license);Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosd;Snow Bros. - Nick & Tom (Dooyong license);Final Burn Alpha;snowbros;1990;Toaplan (Dooyong license);Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosd;Snow Bros. - Nick & Tom (Dooyong license);MAME (Libretro);snowbros;1990;Toaplan (Dooyong license);Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;snowbros;;;
+snowbrosj;Snow Bros. - Nick & Tom (Japan);Arcade;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosj;Snow Bros. - Nick & Tom (Japan);Final Burn Alpha;snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;snowbros;;;3
+snowbrosj;Snow Bros. - Nick & Tom (Japan);MAME (Libretro);snowbros;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;snowbros;;;
+snowbros;Snow Bros. - Nick & Tom (set 1);Arcade;;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+snowbros;Snow Bros. - Nick & Tom (set 1);Final Burn Alpha;;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+snowbros;Snow Bros. - Nick & Tom (set 1);MAME (Advance);;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+snowbros;Snow Bros. - Nick & Tom (set 1);MAME (Libretro);;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+snowbros;Snow Bros. - Nick & Tom (set 1);MAME (Mame4all);;1990;Toaplan;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+tekipaki;Teki Paki;Arcade;;1991;Toaplan;Puzzle / Drop;2P sim;0;joystick (8-way);preliminary;1;raster;;;;2
+tekipaki;Teki Paki;Final Burn Alpha;;1991;Toaplan;Puzzle / Drop;2P sim;0;joystick (8-way);preliminary;1;raster;;;;2
+tekipaki;Teki Paki;MAME (Advance);;1991;Toaplan;Puzzle / Drop;2P sim;0;joystick (8-way);preliminary;1;raster;;;;2
+tekipaki;Teki Paki;MAME (Libretro);;1991;Toaplan;Puzzle / Drop;2P sim;0;joystick (8-way);preliminary;1;raster;;;;2
+tekipaki;Teki Paki;MAME (Mame4all);;1991;Toaplan;Puzzle / Drop;2P sim;0;joystick (8-way);preliminary;1;raster;;;;2
+tigerhj;Tiger Heli (Japan);Arcade;tigerh;1985;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;tigerh;;;2
+tigerhj;Tiger Heli (Japan);Final Burn Alpha;tigerh;1985;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;tigerh;;;2
+tigerhj;Tiger Heli (Japan);MAME (Advance);tigerh;1985;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;tigerh;;;2
+tigerhj;Tiger Heli (Japan);MAME (Libretro);tigerh;1985;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;tigerh;;;2
+tigerhj;Tiger Heli (Japan);MAME (Mame4all);tigerh;1985;Toaplan / Taito;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;tigerh;;;2
+tigerh;Tiger Heli (US);Arcade;;1985;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+tigerh;Tiger Heli (US);Final Burn Alpha;;1985;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+tigerh;Tiger Heli (US);MAME (Advance);;1985;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+tigerh;Tiger Heli (US);MAME (Libretro);;1985;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+tigerh;Tiger Heli (US);MAME (Mame4all);;1985;Toaplan / Taito America Corp.;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+truxton2;Truxton II / Tatsujin Oh;Arcade;;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+truxton2;Truxton II / Tatsujin Oh;Final Burn Alpha;;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+truxton2;Truxton II / Tatsujin Oh;MAME (Advance);;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+truxton2;Truxton II / Tatsujin Oh;MAME (Libretro);;1992;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+truxton;Truxton / Tatsujin;Arcade;;1988;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+truxton;Truxton / Tatsujin;Final Burn Alpha;;1988;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+truxton;Truxton / Tatsujin;MAME (Advance);;1988;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+truxton;Truxton / Tatsujin;MAME (Libretro);;1988;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+truxton;Truxton / Tatsujin;MAME (Mame4all);;1988;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;;;;2
+twincobr;Twin Cobra (World);Arcade;;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+twincobr;Twin Cobra (World);Final Burn Alpha;;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+twincobr;Twin Cobra (World);MAME (Advance);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+twincobr;Twin Cobra (World);MAME (Libretro);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+twincobr;Twin Cobra (World);MAME (Mame4all);;1987;Toaplan / Taito Corporation;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+twincobru;Twin Cobra (US);Arcade;twincobr;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;twincobr;;;2
+twincobru;Twin Cobra (US);Final Burn Alpha;twincobr;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;twincobr;;;2
+twincobru;Twin Cobra (US);MAME (Libretro);twincobr;1987;Toaplan / Taito America Corporation (Romstar license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;twincobr;;;
+vfive;V-Five (Japan);Arcade;grindstm;1993;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+vfive;V-Five (Japan);Final Burn Alpha;grindstm;1993;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+vfive;V-Five (Japan);MAME (Advance);grindstm;1993;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+vfive;V-Five (Japan);MAME (Libretro);grindstm;1993;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+vfive;V-Five (Japan);MAME (Mame4all);grindstm;1993;Toaplan;Shooter / Flying Vertical;2P alt;270;joystick (8-way);good;1;raster;grindstm;;;2
+vimanaj;Vimana (Japan);Arcade;vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanaj;Vimana (Japan);Final Burn Alpha;vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanan;Vimana (World, set 2);Arcade;vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanan;Vimana (World, set 2);Final Burn Alpha;vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanan;Vimana (World, set 2);MAME (Advance);vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanan;Vimana (World, set 2);MAME (Libretro);vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimanan;Vimana (World, set 2);MAME (Mame4all);vimana;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;vimana;;;2
+vimana;Vimana (World, set 1);Arcade;;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+vimana;Vimana (World, set 1);Final Burn Alpha;;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+vimana;Vimana (World, set 1);MAME (Advance);;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+vimana;Vimana (World, set 1);MAME (Libretro);;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+vimana;Vimana (World, set 1);MAME (Mame4all);;1991;Toaplan;Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;;;;2
+wardnerj;Wardner no Mori (Japan);Arcade;wardner;1987;Toaplan / Taito Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+wardnerj;Wardner no Mori (Japan);Final Burn Alpha;wardner;1987;Toaplan / Taito Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+wardnerj;Wardner no Mori (Japan);MAME (Advance);wardner;1987;Toaplan / Taito Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+wardnerj;Wardner no Mori (Japan);MAME (Libretro);wardner;1987;Toaplan / Taito Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+wardnerj;Wardner no Mori (Japan);MAME (Mame4all);wardner;1987;Toaplan / Taito Corporation;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;wardner;;;2
+wardner;Wardner (World);Arcade;;1987;Toaplan / Taito Corporation Japan;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+wardner;Wardner (World);Final Burn Alpha;;1987;Toaplan / Taito Corporation Japan;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+wardner;Wardner (World);MAME (Advance);;1987;Toaplan / Taito Corporation Japan;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+wardner;Wardner (World);MAME (Libretro);;1987;Toaplan / Taito Corporation Japan;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+wardner;Wardner (World);MAME (Mame4all);;1987;Toaplan / Taito Corporation Japan;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+whoopee;Pipi & Bibis / Whoopee!! (Teki Paki hardware);Arcade;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;pipibibs;;;2
+whoopee;Pipi & Bibis / Whoopee!! (Teki Paki hardware);Final Burn Alpha;pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;pipibibs;;;2
+whoopee;Pipi & Bibis / Whoopee!! (Teki Paki hardware);MAME (Advance);pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;pipibibs;;;2
+whoopee;Pipi & Bibis / Whoopee!! (Teki Paki hardware);MAME (Libretro);pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;pipibibs;;;2
+whoopee;Pipi & Bibis / Whoopee!! (Teki Paki hardware);MAME (Mame4all);pipibibs;1991;Toaplan;Platform / Run Jump * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;pipibibs;;;2
+zerowing1;Zero Wing (1P set);Arcade;zerowing;1989;Toaplan;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;zerowing;;;2
+zerowing1;Zero Wing (1P set);Final Burn Alpha;zerowing;1989;Toaplan;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;zerowing;;;2
+zerowingw;Zero Wing (2P set, Williams license);Arcade;zerowing;1989;Toaplan (Williams license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;zerowing;;;2
+zerowingw;Zero Wing (2P set, Williams license);Final Burn Alpha;zerowing;1989;Toaplan (Williams license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;zerowing;;;2
+zerowing;Zero Wing (2P set);Arcade;;1989;Toaplan;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+zerowing;Zero Wing (2P set);Final Burn Alpha;;1989;Toaplan;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+zerowing;Zero Wing (2P set);MAME (Advance);;1989;Toaplan;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+zerowing;Zero Wing (2P set);MAME (Libretro);;1989;Toaplan;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+zerowing;Zero Wing (2P set);MAME (Mame4all);;1989;Toaplan;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2

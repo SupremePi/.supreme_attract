@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Barbarian 2 (Europe);Barbarian 2 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Batman the Movie (Europe);Batman the Movie (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Burnin' Rubber (Europe);Burnin' Rubber (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Copter 271 (Europe);Copter 271 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Crazy Cars 2 (Europe);Crazy Cars 2 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Dick Tracy (Europe);Dick Tracy (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Enforcer (Europe);Enforcer (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Fire and Forget 2 (Europe);Fire and Forget 2 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Klax (Europe);Klax (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Mystical (Europe);Mystical (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Navy Seals (Europe);Navy Seals (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+No Exit (Europe);No Exit (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Operation Thunderbolt (Europe);Operation Thunderbolt (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Pang (Europe);Pang (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Panza Kick Boxing (Europe);Panza Kick Boxing (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Plotting (Europe);Plotting (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Pro Tennis Tour (Europe);Pro Tennis Tour (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Robocop 2 (Europe);Robocop 2 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Skeet Shoot (Europe);Skeet Shoot (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Super Pinball Magic (Europe);Super Pinball Magic (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Switchblade (Europe);Switchblade (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Tennis Cup 2 (Europe);Tennis Cup 2 (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Tin Tin on the Moon (Europe);Tin Tin on the Moon (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+Wild Streets (Europe);Wild Streets (Europe);Amstrad GX4000;;;;;;;;;;;;;;
+World Of Sports (Europe);World Of Sports (Europe);Amstrad GX4000;;;;;;;;;;;;;;

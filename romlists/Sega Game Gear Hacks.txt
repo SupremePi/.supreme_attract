@@ -1,0 +1,5 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Royal Stone (T);Royal Stone (T);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Shining Force III - Final Conflict (T);Shining Force III - Final Conflict (T);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sonic Drift 1;Sonic Drift 1;Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sylvan Tale (T);Sylvan Tale (T);Sega Game Gear Hacks;;1995;Sega;Action / Adventure;;;;;;;;;;

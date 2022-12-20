@@ -1,0 +1,48 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Acrobat Mission (Japan);Acrobat Mission (Japan);Nintendo Super Famicom;;1992;Micronics;Shoot-'Em-Up;;;;;0;;;;;
+Aero Fighters (USA);Aero Fighters (USA);Super Nintendo Entertainment System;;1994;Mc O'River;Shooter;;;;;0;;;;;
+Archer Maclean's Super Dropzone (Europe);Archer Maclean's Super Dropzone (Europe);Super Nintendo Entertainment System;;1995;Psygnosis;Shooter;;;;;0;;;;;
+Axelay (USA);Axelay (USA);Super Nintendo Entertainment System;;1992;Konami;Shooter;;;;;0;;;;;
+BioMetal (USA);BioMetal (USA);Super Nintendo Entertainment System;;1993;Activision;Shooter;;;;;0;;;;;
+BlaZeon - The Bio-Cyborg Challenge (USA);BlaZeon - The Bio-Cyborg Challenge (USA);Super Nintendo Entertainment System;;1992;Atlus;Shooter;;;;;0;;;;;
+Caravan Shooting Collection (Japan);Caravan Shooting Collection (Japan);Nintendo Super Famicom;;1995;Hudson;Shoot-'Em-Up;;;;;0;;;;;
+Choplifter III - Rescue & Survive (USA);Choplifter III - Rescue & Survive (USA);Super Nintendo Entertainment System;;1994;Victor Interactive Software;Shooter;;;;;0;;;;;
+Choujikuu Yousai Macross - Scrambled Valkyrie (Japan);Choujikuu Yousai Macross - Scrambled Valkyrie (Japan);Nintendo Super Famicom;;1993;WinkySoft;Shoot-'Em-Up;;;;;0;;;;;
+Cosmo Gang - The Video (Japan);Cosmo Gang - The Video (Japan);Nintendo Super Famicom;;1992;Namco;Shooter;;;;;0;;;;;
+D-Force (USA);D-Force (USA);Super Nintendo Entertainment System;;1991;Asmik Corporation of America;Action;;;;;0;;;;;
+Darius Twin (USA);Darius Twin (USA);Super Nintendo Entertainment System;;1991;Taito;Shooter;;;;;0;;;;;
+Earth Defense Force (USA);Earth Defense Force (USA);Super Nintendo Entertainment System;;1991;Jaleco;Shooter;;;;;0;;;;;
+Firepower 2000 (USA);Firepower 2000 (USA);Super Nintendo Entertainment System;;1992;Sun Soft;Action;;;;;0;;;;;
+Flying Hero - Bugyuru no Daibouken (Japan) (Translated En);Flying Hero - Bugyuru no Daibouken (Japan) (Translated En);Nintendo Super Famicom;;1992;Sting;Shoot-'Em-Up;;;;;0;;;;;
+Gokujou Parodius (Japan);Gokujou Parodius (Japan);Nintendo Super Famicom;;1994;Konami;Shoot-'Em-Up;;;;;0;;;;;
+Gradius III (USA);Gradius III (USA);Super Nintendo Entertainment System;;1991;Konami;Shooter;;;;;0;;;;;
+Hunt for Red October, The (USA);Hunt for Red October, The (USA);Super Nintendo Entertainment System;;1993;Hi Tech Expressions;Shooter;;;;;0;;;;;
+Imperium (USA);Imperium (USA);Super Nintendo Entertainment System;;1992;Vic Tokai;Shooter;;;;;0;;;;;
+Jikkyou Oshaberi Parodius (Japan);Jikkyou Oshaberi Parodius (Japan);Nintendo Super Famicom;;1995;KCEO;Shoot-'Em-Up;;;;;0;;;;;
+Kaite Tsukutte Asoberu Dezaemon (Japan) (Translated En);Kaite Tsukutte Asoberu Dezaemon (Japan) (Translated En);Nintendo Super Famicom;;1994;Athena;Shoot-'Em-Up;;;;;0;;;;;
+Maerchen Adventure Cotton 100 Percent (Japan);Maerchen Adventure Cotton 100 Percent (Japan);Nintendo Super Famicom;;1994;Success;Shoot-'Em-Up;;;;;0;;;;;
+Parodius (Europe);Parodius (Europe);Super Nintendo Entertainment System;;1992;Konami;Shooter;;;;;0;;;;;
+Phalanx - The Enforce Fighter A-144 (USA);Phalanx - The Enforce Fighter A-144 (USA);Super Nintendo Entertainment System;;1992;Kemco;Shooter;;;;;0;;;;;
+Pop'n TwinBee (Europe);Pop'n TwinBee (Europe);Super Nintendo Entertainment System;;1993;Palcom;Shooter;;;;;0;;;;;
+R-Type III - The Third Lightning (USA);R-Type III - The Third Lightning (USA);Super Nintendo Entertainment System;;1994;Jaleco;Shooter;;;;;0;;;;;
+Raiden Trad (USA);Raiden Trad (USA);Super Nintendo Entertainment System;;1991;Electro Brain;Shooter;;;;;0;;;;;
+SD Gundam - Power Formation Puzzle (Japan);SD Gundam - Power Formation Puzzle (Japan);Nintendo Super Famicom;;1996;Tom Create;Puzzle;;;;;0;;;;;
+Space Invaders - The Original Game (USA);Space Invaders - The Original Game (USA);Super Nintendo Entertainment System;;1997;Nintendo;Shooter;;;;;0;;;;;
+Space Megaforce (USA);Space Megaforce (USA);Super Nintendo Entertainment System;;1992;Toho;Shooter;;;;;0;;;;;
+Spriggan Powered (Japan);Spriggan Powered (Japan);Nintendo Super Famicom;;1996;Micronics;Shoot-'Em-Up;;;;;0;;;;;
+Strike Gunner S.T.G (USA);Strike Gunner S.T.G (USA);Super Nintendo Entertainment System;;1992;NTVIC;Shooter;;;;;0;;;;;
+Super R-Type (USA);Super R-Type (USA);Super Nintendo Entertainment System;;1991;Irem;Shooter;;;;;0;;;;;
+Syvalion (Europe);Syvalion (Europe);Super Nintendo Entertainment System;;1993;JVC Digital Studios;Shooter;;;;;0;;;;;
+Thunder Spirits (USA);Thunder Spirits (USA);Super Nintendo Entertainment System;;1991;Seika Corp.;Shooter;;;;;0;;;;;
+U.N. Squadron (USA);U.N. Squadron (USA);Super Nintendo Entertainment System;;1991;Capcom;Shooter;;;;;0;;;;;
+Uchuu no Kishi Tekkaman Blade (Japan) (Translated En);Uchuu no Kishi Tekkaman Blade (Japan) (Translated En);Nintendo Super Famicom;;1993;Bec;Shoot-'Em-Up;;;;;0;;;;;
+X Zone (Japan, USA);X Zone (Japan, USA);Super Nintendo Entertainment System;;1992;Kemco;Gun;;;;;0;;;;;
+
+
+
+
+
+
+
+
+

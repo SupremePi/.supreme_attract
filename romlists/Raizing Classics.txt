@@ -1,0 +1,102 @@
+1944;1944: The Loop Master (USA 000620);Arcade;;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;;;;2
+1944;1944: The Loop Master (USA 000620);Final Burn Alpha;;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;;;;2
+1944;1944: The Loop Master (USA 000620);MAME (Advance);;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;;;;2
+1944;1944: The Loop Master (USA 000620);MAME (Libretro);;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;;;;2
+1944j;1944: The Loop Master (Japan 000620);Arcade;1944;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;1944;;;2
+1944j;1944: The Loop Master (Japan 000620);Final Burn Alpha;1944;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;1944;;;2
+1944j;1944: The Loop Master (Japan 000620);MAME (Advance);1944;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;1944;;;2
+1944j;1944: The Loop Master (Japan 000620);MAME (Libretro);1944;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;1944;;;2
+batrider;Armed Police Batrider (Europe) (Fri Feb 13 1998);Arcade;;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batrider;Armed Police Batrider (Europe) (Fri Feb 13 1998);Final Burn Alpha;;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batrider;Armed Police Batrider (Europe) (Fri Feb 13 1998);MAME (Advance);;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batrider;Armed Police Batrider (Europe) (Fri Feb 13 1998);MAME (Libretro);;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+batriderc;Armed Police Batrider (China) (Fri Feb 13 1998);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderc;Armed Police Batrider (China) (Fri Feb 13 1998);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderja;Armed Police Batrider (Japan, older version) (Mon Dec 22 1997);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderja;Armed Police Batrider (Japan, older version) (Mon Dec 22 1997);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderj;Armed Police Batrider (Japan, B version) (Fri Feb 13 1998);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderj;Armed Police Batrider (Japan, B version) (Fri Feb 13 1998);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderk;Armed Police Batrider (Korea) (Fri Feb 13 1998);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batriderk;Armed Police Batrider (Korea) (Fri Feb 13 1998);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batridert;Armed Police Batrider (Taiwan) (Mon Dec 22 1997);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batridert;Armed Police Batrider (Taiwan) (Mon Dec 22 1997);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batrideru;Armed Police Batrider (USA) (Fri Feb 13 1998);Arcade;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+batrideru;Armed Police Batrider (USA) (Fri Feb 13 1998);Final Burn Alpha;batrider;1998;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;batrider;;;3
+beastrzr;Beastorizer (USA);Arcade;;1997;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;psarc95;;;3
+beastrzr;Beastorizer (USA);MAME (Advance);;1997;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;psarc95;;;3
+beastrzr;Beastorizer (USA);MAME (Libretro);;1997;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;psarc95;;;3
+bgaregga;Battle Garegga (Europe / USA / Japan / Asia) (Sat Feb 3 1996);Arcade;;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+bgaregga;Battle Garegga (Europe / USA / Japan / Asia) (Sat Feb 3 1996);Final Burn Alpha;;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+bgaregga;Battle Garegga (Europe / USA / Japan / Asia) (Sat Feb 3 1996);MAME (Libretro);;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;;;;
+bgareggacn;Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1996);Arcade;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggacn;Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1996);Final Burn Alpha;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggacn;Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1996);MAME (Libretro);bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;bgaregga;;;
+bgareggahk;Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996);Arcade;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggahk;Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996);Final Burn Alpha;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggahk;Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996);MAME (Libretro);bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;bgaregga;;;
+bgaregganv;Battle Garegga - New Version (Austria / Hong Kong) (Sat Mar 2 1996);Arcade;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgaregganv;Battle Garegga - New Version (Austria / Hong Kong) (Sat Mar 2 1996);Final Burn Alpha;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgaregganv;Battle Garegga - New Version (Austria / Hong Kong) (Sat Mar 2 1996);MAME (Libretro);bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;bgaregga;;;
+bgareggat2;Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996);Arcade;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggat2;Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996);Final Burn Alpha;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggat2;Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996);MAME (Libretro);bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;bgaregga;;;
+bgareggatw;Battle Garegga (Taiwan / Germany) (Thu Feb 1 1996);Arcade;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggatw;Battle Garegga (Taiwan / Germany) (Thu Feb 1 1996);Final Burn Alpha;bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;bgaregga;;;3
+bgareggatw;Battle Garegga (Taiwan / Germany) (Thu Feb 1 1996);MAME (Libretro);bgaregga;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;bgaregga;;;
+bldyroar;Bloody Roar (Japan);MAME (Libretro);beastrzr;1997;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;beastrzr;;;
+bldyror2a;Bloody Roar 2 (Asia);MAME (Libretro);bldyror2;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;bldyror2;;;
+bldyror2;Bloody Roar 2 (World);Arcade;;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;psarc95;;;6
+bldyror2;Bloody Roar 2 (World);MAME (Advance);;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;psarc95;;;6
+bldyror2;Bloody Roar 2 (World);MAME (Libretro);;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;psarc95;;;
+bldyror2j;Bloody Roar 2 (Japan);MAME (Libretro);bldyror2;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;bldyror2;;;
+bldyror2u;Bloody Roar 2 (USA);MAME (Libretro);bldyror2;1998;Eighting / Raizing;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;bldyror2;;;
+brvbladea;Brave Blade (Asia);MAME (Libretro);brvblade;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;brvblade;;;
+brvblade;Brave Blade (World);Arcade;;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;tps;;;3
+brvblade;Brave Blade (World);MAME (Advance);;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;tps;;;3
+brvblade;Brave Blade (World);MAME (Libretro);;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;tps;;;3
+brvbladej;Brave Blade (Japan);MAME (Libretro);brvblade;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;brvblade;;;
+brvbladeu;Brave Blade (USA);MAME (Libretro);brvblade;2000;Eighting / Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;brvblade;;;
+dimahoo;Dimahoo (Euro 000121);Arcade;;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dimahoo;Dimahoo (Euro 000121);Final Burn Alpha;;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dimahoo;Dimahoo (Euro 000121);MAME (Advance);;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dimahoo;Dimahoo (Euro 000121);MAME (Libretro);;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+dimahoou;Dimahoo (USA 000121);Arcade;dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+dimahoou;Dimahoo (USA 000121);Final Burn Alpha;dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+dimahoou;Dimahoo (USA 000121);MAME (Libretro);dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;dimahoo;;;
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+g13knd;Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;1
+ghlpanic;Ghoul Panic (Asia, OB2/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+gmahou;Great Mahou Daisakusen (Japan 000121);Arcade;dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+gmahou;Great Mahou Daisakusen (Japan 000121);Final Burn Alpha;dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+gmahou;Great Mahou Daisakusen (Japan 000121);MAME (Advance);dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+gmahou;Great Mahou Daisakusen (Japan 000121);MAME (Libretro);dimahoo;2000;Eighting / Raizing (Capcom license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;dimahoo;;;3
+golgo13;Golgo 13 (Japan, GLG1/VER.A);Arcade;;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+golgo13;Golgo 13 (Japan, GLG1/VER.A);MAME (Advance);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+golgo13;Golgo 13 (Japan, GLG1/VER.A);MAME (Libretro);;1999;Eighting / Raizing / Namco;Shooter / Gun;1P;0;joystick (vertical2-way),lightgun;imperfect;1;raster;;;;3
+kingdmgp;Kingdom Grandprix;Arcade;;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+kingdmgp;Kingdom Grandprix;Final Burn Alpha;;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+kingdmgp;Kingdom Grandprix;MAME (Advance);;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+kingdmgp;Kingdom Grandprix;MAME (Libretro);;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+mahoudai;Mahou Daisakusen (Japan);Arcade;sstriker;1993;Raizing (Able license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+mahoudai;Mahou Daisakusen (Japan);Final Burn Alpha;sstriker;1993;Raizing (Able license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+mahoudai;Mahou Daisakusen (Japan);MAME (Advance);sstriker;1993;Raizing (Able license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+mahoudai;Mahou Daisakusen (Japan);MAME (Libretro);sstriker;1993;Raizing (Able license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+mahoudai;Mahou Daisakusen (Japan);MAME (Mame4all);sstriker;1993;Raizing (Able license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+shippumd;Shippu Mahou Daisakusen (Japan);Arcade;kingdmgp;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;kingdmgp;;;3
+shippumd;Shippu Mahou Daisakusen (Japan);Final Burn Alpha;kingdmgp;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;kingdmgp;;;3
+shippumd;Shippu Mahou Daisakusen (Japan);MAME (Advance);kingdmgp;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;kingdmgp;;;3
+shippumd;Shippu Mahou Daisakusen (Japan);MAME (Libretro);kingdmgp;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;kingdmgp;;;3
+shippumd;Shippu Mahou Daisakusen (Japan);MAME (Mame4all);kingdmgp;1994;Raizing / Eighting;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;kingdmgp;;;3
+sokyugrt;Soukyugurentai / Terra Diver (JUET 960821 V1.000);Arcade;;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+sokyugrt;Soukyugurentai / Terra Diver (JUET 960821 V1.000);MAME (Advance);;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+sokyugrt;Soukyugurentai / Terra Diver (JUET 960821 V1.000);MAME (Libretro);;1996;Raizing / Eighting;Shooter / Flying Vertical;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+sstrikera;Sorcer Striker (set 2);Arcade;sstriker;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+sstrikera;Sorcer Striker (set 2);Final Burn Alpha;sstriker;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;sstriker;;;3
+sstrikera;Sorcer Striker (set 2);MAME (Libretro);sstriker;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;sstriker;;;
+sstriker;Sorcer Striker (set 1);Arcade;;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+sstriker;Sorcer Striker (set 1);Final Burn Alpha;;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+sstriker;Sorcer Striker (set 1);MAME (Advance);;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+sstriker;Sorcer Striker (set 1);MAME (Libretro);;1993;Raizing;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3

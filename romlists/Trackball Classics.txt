@@ -1,0 +1,643 @@
+abaseb2;Atari Baseball (set 2);Arcade;abaseb;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;abaseb;;;1
+abaseb2;Atari Baseball (set 2);MAME (Advance);abaseb;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;abaseb;;;1
+abaseb2;Atari Baseball (set 2);MAME (Libretro);abaseb;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;abaseb;;;1
+abaseb2;Atari Baseball (set 2);MAME (Mame4all);abaseb;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;abaseb;;;1
+abaseb;Atari Baseball (set 1);Arcade;;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+abaseb;Atari Baseball (set 1);MAME (Advance);;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+abaseb;Atari Baseball (set 1);MAME (Libretro);;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+abaseb;Atari Baseball (set 1);MAME (Mame4all);;1979;Atari;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+aceattaca;Ace Attacker (Japan, System 16A, FD1094 317-0060);Arcade;aceattac;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;aceattac;;;1
+aceattaca;Ace Attacker (Japan, System 16A, FD1094 317-0060);Final Burn Alpha;aceattac;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;aceattac;;;1
+aceattaca;Ace Attacker (Japan, System 16A, FD1094 317-0060);MAME (Libretro);aceattac;1988;Sega;Sports / Volleyball;2P sim;270;positional,trackball,joystick (analog),positional,pedal,trackball,joystick (analog),pedal;good;1;raster;aceattac;;;
+aceattac;Ace Attacker (FD1094 317-0059);Arcade;;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;;;;1
+aceattac;Ace Attacker (FD1094 317-0059);Final Burn Alpha;;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;;;;1
+aceattac;Ace Attacker (FD1094 317-0059);MAME (Advance);;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;;;;1
+aceattac;Ace Attacker (FD1094 317-0059);MAME (Libretro);;1988;Sega;Sports / Volleyball;2P sim;270;pedal,joystick (analog),positional,trackball;good;1;raster;;;;1
+amerdart2;AmeriDarts (set 2);MAME (Libretro);amerdart;1989;Ameri;Sports / Darts;4P alt;0;trackball,trackball;good;1;raster;amerdart;;;
+amerdart3;AmeriDarts (set 3);MAME (Libretro);amerdart;1989;Ameri;Sports / Darts;4P alt;0;trackball,trackball;good;1;raster;amerdart;;;
+amerdart;AmeriDarts (set 1);Arcade;;1989;Ameri;Sports / Darts;4P alt;0;trackball;good;1;raster;;;;1
+amerdart;AmeriDarts (set 1);MAME (Advance);;1989;Ameri;Sports / Darts;4P alt;0;trackball;good;1;raster;;;;1
+amerdart;AmeriDarts (set 1);MAME (Libretro);;1989;Ameri;Sports / Darts;4P alt;0;trackball;good;1;raster;;;;1
+arcadecl;Arcade Classics (prototype);Arcade;;1992;Atari Games;Multiplay / Compilation;2P sim;0;trackball;good;1;raster;;;;3
+arcadecl;Arcade Classics (prototype);MAME (Advance);;1992;Atari Games;Multiplay / Compilation;2P sim;0;trackball;good;1;raster;;;;3
+arcadecl;Arcade Classics (prototype);MAME (Libretro);;1992;Atari Games;Multiplay / Compilation;2P sim;0;trackball;good;1;raster;;;;3
+arcadecl;Arcade Classics (prototype);MAME (Mame4all);;1992;Atari Games;Multiplay / Compilation;2P sim;0;trackball;good;1;raster;;;;3
+argusg;Argus (Gottlieb, prototype);Arcade;;1984;Gottlieb;Shooter / Field;2P alt;0;trackball;good;1;raster;;;;2
+argusg;Argus (Gottlieb, prototype);MAME (Advance);;1984;Gottlieb;Shooter / Field;2P alt;0;trackball;good;1;raster;;;;2
+argusg;Argus (Gottlieb, prototype);MAME (Libretro);;1984;Gottlieb;Shooter / Field;2P alt;0;trackball,only_buttons;good;1;raster;;;;
+atarifb1;Atari Football (revision 1);Arcade;atarifb;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb1;Atari Football (revision 1);MAME (Advance);atarifb;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb1;Atari Football (revision 1);MAME (Libretro);atarifb;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb1;Atari Football (revision 1);MAME (Mame4all);atarifb;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb4;Atari Football (4 players);Arcade;atarifb;1979;Atari;Sports / Amer. Football;4P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb4;Atari Football (4 players);MAME (Advance);atarifb;1979;Atari;Sports / Amer. Football;4P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb4;Atari Football (4 players);MAME (Libretro);atarifb;1979;Atari;Sports / Amer. Football;4P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb4;Atari Football (4 players);MAME (Mame4all);atarifb;1979;Atari;Sports / Amer. Football;4P sim;0;trackball;good;1;raster;atarifb;;;1
+atarifb;Atari Football (revision 2);Arcade;;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+atarifb;Atari Football (revision 2);MAME (Advance);;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+atarifb;Atari Football (revision 2);MAME (Libretro);;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+atarifb;Atari Football (revision 2);MAME (Mame4all);;1978;Atari;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+ataxxa;Ataxx (set 2);Arcade;ataxx;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxa;Ataxx (set 2);MAME (Advance);ataxx;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxa;Ataxx (set 2);MAME (Libretro);ataxx;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxa;Ataxx (set 2);MAME (Mame4all);ataxx;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxx;Ataxx (set 1);Arcade;;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;;;;1
+ataxx;Ataxx (set 1);MAME (Advance);;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;;;;1
+ataxx;Ataxx (set 1);MAME (Libretro);;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;;;;1
+ataxx;Ataxx (set 1);MAME (Mame4all);;1990;Leland Corp.;Tabletop / Misc.;2P alt;0;trackball;good;1;raster;;;;1
+ataxxj;Ataxx (Japan);Arcade;ataxx;1990;Leland Corp. (Capcom license);Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxj;Ataxx (Japan);MAME (Advance);ataxx;1990;Leland Corp. (Capcom license);Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxj;Ataxx (Japan);MAME (Libretro);ataxx;1990;Leland Corp. (Capcom license);Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+ataxxj;Ataxx (Japan);MAME (Mame4all);ataxx;1990;Leland Corp. (Capcom license);Tabletop / Misc.;2P alt;0;trackball;good;1;raster;ataxx;;;1
+beezer1;Beezer (set 2);Arcade;beezer;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;beezer;;;
+beezer1;Beezer (set 2);MAME (Advance);beezer;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;beezer;;;
+beezer1;Beezer (set 2);MAME (Libretro);beezer;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;beezer;;;
+beezer;Beezer (set 1);Arcade;;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;;;;
+beezer;Beezer (set 1);MAME (Advance);;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;;;;
+beezer;Beezer (set 1);MAME (Libretro);;1982;Tong Electronic;Maze;2P alt;90;trackball;imperfect;1;raster;;;;
+bigevglf;Big Event Golf (US);Arcade;;1986;Taito America Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+bigevglf;Big Event Golf (US);MAME (Advance);;1986;Taito America Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+bigevglf;Big Event Golf (US);MAME (Libretro);;1986;Taito America Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+bigevglfj;Big Event Golf (Japan);MAME (Libretro);bigevglf;1986;Taito Corporation;Sports / Golf;2P alt;270;trackball,trackball;good;1;raster;bigevglf;;;
+bking2;Birdie King 2;Arcade;;1983;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking2;Birdie King 2;MAME (Advance);;1983;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking2;Birdie King 2;MAME (Libretro);;1983;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking2;Birdie King 2;MAME (Mame4all);;1983;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking3;Birdie King 3;Arcade;;1984;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking3;Birdie King 3;MAME (Advance);;1984;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking3;Birdie King 3;MAME (Libretro);;1984;Taito Corporation;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;
+bking;Birdie King;Arcade;;1982;Taito Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;
+bking;Birdie King;MAME (Advance);;1982;Taito Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;
+bking;Birdie King;MAME (Libretro);;1982;Taito Corporation;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;
+bladestl;Blades of Steel (version T);Arcade;;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;;;;3
+bladestl;Blades of Steel (version T);Final Burn Alpha;;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;;;;3
+bladestl;Blades of Steel (version T);MAME (Advance);;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;;;;3
+bladestl;Blades of Steel (version T);MAME (Libretro);;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;;;;3
+bladestl;Blades of Steel (version T);MAME (Mame4all);;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;;;;3
+bladestle;Blades of Steel (version E);Arcade;bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;bladestl;;;3
+bladestle;Blades of Steel (version E);Final Burn Alpha;bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;bladestl;;;3
+bladestle;Blades of Steel (version E);MAME (Libretro);bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;bladestl;;;
+bladestll;Blades of Steel (version L);Arcade;bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;bladestl;;;3
+bladestll;Blades of Steel (version L);Final Burn Alpha;bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball;good;1;raster;bladestl;;;3
+bladestll;Blades of Steel (version L);MAME (Libretro);bladestl;1987;Konami;Sports / Hockey;2P sim;90;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;bladestl;;;
+bmiidx3;beatmania IIDX 3rd style (GC992 JAC);MAME (Libretro);;2000;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidx4;beatmania IIDX 4th style (GCA03 JAA);MAME (Libretro);;2000;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidx6;beatmania IIDX 6th style (GCB4U JAB);MAME (Libretro);;2001;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidx7;beatmania IIDX 7th style (GCB44 JAA);MAME (Libretro);;2002;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidx8;beatmania IIDX 8th style (GCC44 JAA);MAME (Libretro);;2002;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidxc2;beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM);MAME (Libretro);;1999;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bmiidxca;beatmania IIDX with DDR 2nd Club Version (896 JAA);MAME (Libretro);bmiidxc;1999;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;bmiidxc;;chd;
+bmiidxc;beatmania IIDX with DDR 2nd Club Version (896 JAB);MAME (Libretro);;1999;Konami;Rhythm / Dance;2P sim;0;joystick (analog),trackball,trackball;preliminary;1;raster;gq863;;chd;
+bootcamp;Boot Camp (set 1);Arcade;combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball;good;1;raster;combatsc;;;2
+bootcamp;Boot Camp (set 1);MAME (Advance);combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball;good;1;raster;combatsc;;;2
+bootcamp;Boot Camp (set 1);MAME (Libretro);combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball;good;1;raster;combatsc;;;2
+bootcamp;Boot Camp (set 1);MAME (Mame4all);combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball;good;1;raster;combatsc;;;2
+borntofi;Born To Fight;Arcade;;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball;good;1;raster;;;;2
+borntofi;Born To Fight;MAME (Advance);;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball;good;1;raster;;;;2
+borntofi;Born To Fight;MAME (Libretro);;19??;International Games;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,trackball,joystick (8-way),lightgun,trackball;good;1;raster;;;;
+bowler;Bowling Alley;Arcade;;1978;Midway;Sports / Bowling;4P alt;90;trackball;imperfect;1;raster;;;;2
+bowler;Bowling Alley;MAME (Advance);;1978;Midway;Sports / Bowling;4P alt;90;trackball;imperfect;1;raster;;;;2
+bowler;Bowling Alley;MAME (Libretro);;1978;Midway;Sports / Bowling;4P alt;90;trackball;imperfect;1;raster;;;;2
+bowler;Bowling Alley;MAME (Mame4all);;1978;Midway;Sports / Bowling;4P alt;90;trackball;imperfect;1;raster;;;;2
+bowlrama;Bowl-O-Rama Rev 1.0;Arcade;;1991;P&P Marketing;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+bowlrama;Bowl-O-Rama Rev 1.0;Final Burn Alpha;;1991;P&P Marketing;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+bowlrama;Bowl-O-Rama Rev 1.0;MAME (Advance);;1991;P&P Marketing;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+bowlrama;Bowl-O-Rama Rev 1.0;MAME (Libretro);;1991;P&P Marketing;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+bowlrama;Bowl-O-Rama Rev 1.0;MAME (Mame4all);;1991;P&P Marketing;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+bsktball;Basketball;Arcade;;1979;Atari;Sports / Basketball;2P sim;0;trackball;good;1;raster;;;;1
+bsktball;Basketball;MAME (Advance);;1979;Atari;Sports / Basketball;2P sim;0;trackball;good;1;raster;;;;1
+bsktball;Basketball;MAME (Libretro);;1979;Atari;Sports / Basketball;2P sim;0;trackball;good;1;raster;;;;1
+bsktball;Basketball;MAME (Mame4all);;1979;Atari;Sports / Basketball;2P sim;0;trackball;good;1;raster;;;;1
+btchamp;Beat the Champ (GV053 UAA01);Arcade;;1996;Konami;Sports / Multiplay;2P sim;0;joystick (8-way),trackball;preliminary;1;raster;konamigv;;chd;3
+btchamp;Beat the Champ (GV053 UAA01);MAME (Advance);;1996;Konami;Sports / Multiplay;2P sim;0;joystick (8-way),trackball;preliminary;1;raster;konamigv;;chd;3
+btchamp;Beat the Champ (GV053 UAA01);MAME (Libretro);;1996;Konami;Sports / Multiplay;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball,joystick (8-way),joystick (8-way);preliminary;1;raster;konamigv;;chd;
+bullsdrt;Bulls Eye Darts;Arcade;;1985;Shinkai Inc. (Magic Electronics Inc. license);Sports / Darts;2P alt;270;trackball;preliminary;1;raster;;;;1
+bullsdrt;Bulls Eye Darts;MAME (Advance);;1985;Shinkai Inc. (Magic Electronics Inc. license);Sports / Darts;2P alt;270;trackball;preliminary;1;raster;;;;1
+bullsdrt;Bulls Eye Darts;MAME (Libretro);;1985;Shinkai Inc. (Magic Electronics Inc. license);Sports / Darts;2P alt;270;trackball;preliminary;1;raster;;;;
+cabalus2;Cabal (US set 2, Trackball);MAME (Libretro);cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball,trackball;good;1;raster;cabal;;;
+cabalus2;Cabal (US set 2, Trackball version);Arcade;cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball;good;1;raster;cabal;;;2
+cabalus2;Cabal (US set 2, Trackball version);Final Burn Alpha;cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball;good;1;raster;cabal;;;2
+cabalus;Cabal (US set 1, Trackball);MAME (Libretro);cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball,trackball;good;1;raster;cabal;;;
+cabalus;Cabal (US set 1, Trackball version);Arcade;cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball;good;1;raster;cabal;;;2
+cabalus;Cabal (US set 1, Trackball version);Final Burn Alpha;cabal;1988;TAD Corporation (Fabtek license);Shooter / 3rd Person;2P sim;0;trackball;good;1;raster;cabal;;;2
+capbowl2;Capcom Bowling (set 2);Arcade;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl2;Capcom Bowling (set 2);Final Burn Alpha;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl2;Capcom Bowling (set 2);MAME (Advance);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl2;Capcom Bowling (set 2);MAME (Libretro);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl2;Capcom Bowling (set 2);MAME (Mame4all);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl3;Capcom Bowling (set 3);Arcade;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl3;Capcom Bowling (set 3);Final Burn Alpha;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl3;Capcom Bowling (set 3);MAME (Advance);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl3;Capcom Bowling (set 3);MAME (Libretro);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball,only_buttons;good;1;raster;capbowl;;;
+capbowl4;Capcom Bowling (set 4);Arcade;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl4;Capcom Bowling (set 4);Final Burn Alpha;capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl4;Capcom Bowling (set 4);MAME (Advance);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+capbowl4;Capcom Bowling (set 4);MAME (Libretro);capbowl;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball,only_buttons;good;1;raster;capbowl;;;
+capbowl;Capcom Bowling (set 1);Arcade;;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+capbowl;Capcom Bowling (set 1);Final Burn Alpha;;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+capbowl;Capcom Bowling (set 1);MAME (Advance);;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+capbowl;Capcom Bowling (set 1);MAME (Libretro);;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+capbowl;Capcom Bowling (set 1);MAME (Mame4all);;1988;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+caterplr;Caterpillar (bootleg of Centipede);Arcade;centiped;1980;bootleg (Olympia);Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+caterplr;Caterpillar (bootleg of Centipede);MAME (Advance);centiped;1980;bootleg (Olympia);Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+caterplr;Caterpillar (bootleg of Centipede);MAME (Libretro);centiped;1980;bootleg (Olympia);Shooter / Gallery;2P alt;270;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;centiped;;;
+ccastles1;Crystal Castles (version 1);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+ccastles2;Crystal Castles (version 2);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+ccastles3;Crystal Castles (version 3);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+ccastles;Crystal Castles (version 4);Arcade;;1983;Atari;Maze;2P alt;0;trackball;good;1;raster;;;;1
+ccastles;Crystal Castles (version 4);MAME (Advance);;1983;Atari;Maze;2P alt;0;trackball;good;1;raster;;;;1
+ccastles;Crystal Castles (version 4);MAME (Libretro);;1983;Atari;Maze;2P alt;0;trackball;good;1;raster;;;;1
+ccastles;Crystal Castles (version 4);MAME (Mame4all);;1983;Atari;Maze;2P alt;0;trackball;good;1;raster;;;;1
+ccastlesf;Crystal Castles (version 3, French);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+ccastlesg;Crystal Castles (version 3, German);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+ccastlesp;Crystal Castles (version 3, Spanish);MAME (Libretro);ccastles;1983;Atari;Maze;2P alt;0;trackball,trackball;good;1;raster;ccastles;;;
+centipdb;Centipede (bootleg);Arcade;centiped;1980;bootleg;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centipdb;Centipede (bootleg);MAME (Advance);centiped;1980;bootleg;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centipdb;Centipede (bootleg);MAME (Libretro);centiped;1980;bootleg;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centipdb;Centipede (bootleg);MAME (Mame4all);centiped;1980;bootleg;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centipdd;Centipede Dux (hack);MAME (Libretro);centiped;1989;hack (Two-Bit Score);Shooter / Gallery;2P alt;270;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;centiped;;;
+centiped2;Centipede (revision 2);MAME (Libretro);centiped;1980;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;centiped;;;
+centiped3;Centipede (revision 3);Arcade;centiped;1980;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centiped3;Centipede (revision 3);Final Burn Alpha;centiped;1980;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+centiped;Centipede (revision 4);Arcade;;1980;Atari;Shooter / Gallery;1P;270;joystick (8-way),trackball;good;1;raster;;;;1
+centiped;Centipede (revision 4);Final Burn Alpha;;1980;Atari;Shooter / Gallery;1P;270;joystick (8-way),trackball;good;1;raster;;;;1
+centiped;Centipede (revision 4);MAME (Advance);;1980;Atari;Shooter / Gallery;1P;270;joystick (8-way),trackball;good;1;raster;;;;1
+centiped;Centipede (revision 4);MAME (Libretro);;1980;Atari;Shooter / Gallery;1P;270;joystick (8-way),trackball;good;1;raster;;;;1
+centiped;Centipede (revision 4);MAME (Mame4all);;1980;Atari;Shooter / Gallery;1P;270;joystick (8-way),trackball;good;1;raster;;;;1
+champbwl;Championship Bowling;Arcade;;1989;Seta / Romstar Inc.;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;3
+champbwl;Championship Bowling;MAME (Advance);;1989;Seta / Romstar Inc.;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;3
+champbwl;Championship Bowling;MAME (Libretro);;1989;Seta / Romstar Inc.;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;
+clbowl;Coors Light Bowling;Arcade;capbowl;1989;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+clbowl;Coors Light Bowling;Final Burn Alpha;capbowl;1989;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+clbowl;Coors Light Bowling;MAME (Advance);capbowl;1989;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+clbowl;Coors Light Bowling;MAME (Libretro);capbowl;1989;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+clbowl;Coors Light Bowling;MAME (Mame4all);capbowl;1989;Incredible Technologies / Capcom;Sports / Bowling;4P alt;270;trackball;good;1;raster;capbowl;;;2
+cloud9;Cloud 9 (prototype);Arcade;;1983;Atari;Shooter / Gallery;2P alt;0;trackball;good;1;raster;;;;2
+cloud9;Cloud 9 (prototype);MAME (Advance);;1983;Atari;Shooter / Gallery;2P alt;0;trackball;good;1;raster;;;;2
+cloud9;Cloud 9 (prototype);MAME (Libretro);;1983;Atari;Shooter / Gallery;2P alt;0;trackball;good;1;raster;;;;2
+cloud9;Cloud 9 (prototype);MAME (Mame4all);;1983;Atari;Shooter / Gallery;2P alt;0;trackball;good;1;raster;;;;2
+combatscj;Combat School (Japan trackball);MAME (Libretro);combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball,trackball;good;1;raster;combatsc;;;
+combatsct;Combat School (trackball);MAME (Libretro);combatsc;1987;Konami;Sports / Track & Field;2P sim;0;trackball,trackball;good;1;raster;combatsc;;;
+coolpool;Cool Pool;Arcade;;1992;Catalina;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;2
+coolpool;Cool Pool;MAME (Advance);;1992;Catalina;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;2
+coolpool;Cool Pool;MAME (Libretro);;1992;Catalina;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;2
+countryc;Country Club;Arcade;;1988;SNK;Sports / Golf;2P alt;0;trackball;good;1;raster;;;;2
+countryc;Country Club;Final Burn Alpha;;1988;SNK;Sports / Golf;2P alt;0;trackball;good;1;raster;;;;2
+countryc;Country Club;MAME (Advance);;1988;SNK;Sports / Golf;2P alt;0;trackball;good;1;raster;;;;2
+countryc;Country Club;MAME (Libretro);;1988;SNK;Sports / Golf;2P alt;0;trackball;good;1;raster;;;;2
+cubeqsta;Cube Quest (12/30/83);MAME (Libretro);cubeqst;1983;Simutrek;Shooter / Flying;1P;0;trackball;good;1;raster;cubeqst;;chd;
+cubeqst;Cube Quest (01/04/84);Arcade;;1983;Simutrek;Shooter / Flying;1P;0;trackball;good;1;raster;;;chd;3
+cubeqst;Cube Quest (01/04/84);MAME (Libretro);;1983;Simutrek;Shooter / Flying;1P;0;trackball;good;1;raster;;;chd;
+dangerz;Danger Zone;Arcade;;1986;Cinematronics;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+dangerz;Danger Zone;MAME (Advance);;1986;Cinematronics;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+dangerz;Danger Zone;MAME (Libretro);;1986;Cinematronics;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+dangerz;Danger Zone;MAME (Mame4all);;1986;Cinematronics;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+defense;Defense (System 16B, FD1089A 317-0028);Arcade;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+defense;Defense (System 16B, FD1089A 317-0028);Final Burn Alpha;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+defense;Defense (System 16B, FD1089A 317-0028);MAME (Advance);sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+defense;Defense (System 16B, FD1089A 317-0028);MAME (Libretro);sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;sdi;;;
+demndrgn;Demons & Dragons (prototype);Arcade;;1982;Dave Nutting Associates / Bally Midway;Shooter / Field;2P alt;0;joystick (analog),trackball;preliminary;1;raster;;;;
+demndrgn;Demons & Dragons (prototype);MAME (Advance);;1982;Dave Nutting Associates / Bally Midway;Shooter / Field;2P alt;0;joystick (analog),trackball;preliminary;1;raster;;;;
+demndrgn;Demons & Dragons (prototype);MAME (Libretro);;1982;Dave Nutting Associates / Bally Midway;Shooter / Field;2P alt;0;joystick (analog),trackball;preliminary;1;raster;;;;
+dotrona;Discs of Tron (Upright alternate);Arcade;dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrona;Discs of Tron (Upright alternate);MAME (Advance);dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrona;Discs of Tron (Upright alternate);MAME (Libretro);dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotron;Discs of Tron (Upright);Arcade;;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;;;;4
+dotron;Discs of Tron (Upright);MAME (Advance);;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;;;;4
+dotron;Discs of Tron (Upright);MAME (Libretro);;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;;;;4
+dotron;Discs of Tron (Upright);MAME (Mame4all);;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;;;;4
+dotrone;Discs of Tron (Environmental);Arcade;dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrone;Discs of Tron (Environmental);MAME (Advance);dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrone;Discs of Tron (Environmental);MAME (Libretro);dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrone;Discs of Tron (Environmental);MAME (Mame4all);dotron;1983;Bally Midway;Sports / Misc.;2P alt;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dunkshota;Dunk Shot (Rev A, FD1089A 317-0022);Arcade;dunkshot;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;dunkshot;;;2
+dunkshota;Dunk Shot (Rev A, FD1089A 317-0022);Final Burn Alpha;dunkshot;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;dunkshot;;;2
+dunkshot;Dunk Shot (Rev C, FD1089A 317-0022);Arcade;;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;;;;2
+dunkshot;Dunk Shot (Rev C, FD1089A 317-0022);Final Burn Alpha;;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;;;;2
+dunkshot;Dunk Shot (Rev C, FD1089A 317-0022);MAME (Advance);;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;;;;2
+dunkshot;Dunk Shot (Rev C, FD1089A 317-0022);MAME (Libretro);;1987;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;;;;2
+dunkshoto;Dunk Shot (FD1089A 317-0022);Arcade;dunkshot;1986;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;dunkshot;;;2
+dunkshoto;Dunk Shot (FD1089A 317-0022);Final Burn Alpha;dunkshot;1986;Sega;Sports / Basketball;4P sim;0;trackball;good;1;raster;dunkshot;;;2
+dynobop;Dyno Bop;Arcade;;1990;Grand Products/Incredible Technologies;Electromechanical / Redemption;1P;90;trackball;preliminary;1;raster;;;mechanical;3
+dynobop;Dyno Bop;MAME (Advance);;1990;Grand Products/Incredible Technologies;Electromechanical / Redemption;1P;90;trackball;preliminary;1;raster;;;mechanical;3
+dynobop;Dyno Bop;MAME (Libretro);;1990;Grand Products/Incredible Technologies;Electromechanical / Redemption;1P;90;trackball;preliminary;1;raster;;;mechanical;3
+eaglshot;Eagle Shot Golf;Arcade;;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;Final Burn Alpha;;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;MAME (Advance);;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;MAME (Libretro);;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+ebases;Extra Bases;Arcade;;1980;Dave Nutting Associates / Midway;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+ebases;Extra Bases;MAME (Advance);;1980;Dave Nutting Associates / Midway;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+ebases;Extra Bases;MAME (Libretro);;1980;Dave Nutting Associates / Midway;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+ebases;Extra Bases;MAME (Mame4all);;1980;Dave Nutting Associates / Midway;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;1
+exctleagd;Excite League (bootleg of FD1094 317-0079 set);Arcade;exctleag;1988;bootleg;Sports / Baseball;2P sim;0;trackball;good;1;raster;exctleag;;;11
+exctleagd;Excite League (bootleg of FD1094 317-0079 set);Final Burn Alpha;exctleag;1988;bootleg;Sports / Baseball;2P sim;0;trackball;good;1;raster;exctleag;;;11
+exctleag;Excite League (FD1094 317-0079);Arcade;;1988;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+exctleag;Excite League (FD1094 317-0079);Final Burn Alpha;;1988;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+exctleag;Excite League (FD1094 317-0079);MAME (Advance);;1988;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+exctleag;Excite League (FD1094 317-0079);MAME (Libretro);;1988;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+firebeas;Firebeast (prototype);Arcade;;1983;Atari;Platform / Shooter;2P alt;0;trackball;good;1;raster;;;;2
+firebeas;Firebeast (prototype);MAME (Libretro);;1983;Atari;Platform / Shooter;2P alt;0;trackball;good;1;raster;;;;
+fiveside;Five a Side Soccer (ver UAA);Arcade;;1995;Konami;Sports / Soccer;2P sim;90;trackball,trackball;good;1;raster;;;;1
+fiveside;Five a Side Soccer (ver UAA);MAME (Libretro);;1995;Konami;Sports / Soccer;2P sim;90;trackball,trackball;good;1;raster;;;;
+futflash;Future Flash;Arcade;laserbas;1981;Hoei;Shooter / Gallery;???;270;trackball;preliminary;1;raster;laserbas;;;2
+futflash;Future Flash;MAME (Advance);laserbas;1981;Hoei;Shooter / Gallery;???;270;trackball;preliminary;1;raster;laserbas;;;2
+futflash;Future Flash;MAME (Libretro);laserbas;1981;Hoei;Shooter / Gallery;???;270;trackball;preliminary;1;raster;laserbas;;;
+galgame2;Galaxy Games StarPak 2;MAME (Libretro);;1998;Creative Electronics & Software / Namco;Multiplay / Compilation;2P sim;0;trackball,trackball;good;1;raster;galgbios;;;
+gghost;Goalie Ghost;Arcade;;1984;Bally/Sente;Sports / Soccer;2P sim;0;trackball;good;1;raster;;;;2
+gghost;Goalie Ghost;MAME (Advance);;1984;Bally/Sente;Sports / Soccer;2P sim;0;trackball;good;1;raster;;;;2
+gghost;Goalie Ghost;MAME (Libretro);;1984;Bally/Sente;Sports / Soccer;2P sim;0;trackball;good;1;raster;;;;2
+gghost;Goalie Ghost;MAME (Mame4all);;1984;Bally/Sente;Sports / Soccer;2P sim;0;trackball;good;1;raster;;;;2
+ghunter;Gang Hunter / Dead Angle;Arcade;deadang;1988;Seibu Kaihatsu;Shooter / 1st Person;2P alt;0;joystick (8-way),trackball;good;1;raster;deadang;;;2
+ghunter;Gang Hunter / Dead Angle;MAME (Advance);deadang;1988;Seibu Kaihatsu;Shooter / 1st Person;2P alt;0;joystick (8-way),trackball;good;1;raster;deadang;;;2
+ghunter;Gang Hunter / Dead Angle;MAME (Libretro);deadang;1988;Seibu Kaihatsu;Shooter / 1st Person;2P alt;0;joystick (8-way),trackball;good;1;raster;deadang;;;2
+gimeabrk;Gimme A Break (7/7/85);Arcade;;1985;Bally/Sente;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;1
+gimeabrk;Gimme A Break (7/7/85);MAME (Advance);;1985;Bally/Sente;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;1
+gimeabrk;Gimme A Break (7/7/85);MAME (Libretro);;1985;Bally/Sente;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;1
+gimeabrk;Gimme A Break (7/7/85);MAME (Mame4all);;1985;Bally/Sente;Sports / Pool;2P alt;0;trackball;good;1;raster;;;;1
+gridiron;Gridiron Fight;Arcade;;1985;Tehkan;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+gridiron;Gridiron Fight;MAME (Advance);;1985;Tehkan;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+gridiron;Gridiron Fight;MAME (Libretro);;1985;Tehkan;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+gridiron;Gridiron Fight;MAME (Mame4all);;1985;Tehkan;Sports / Amer. Football;2P sim;0;trackball;good;1;raster;;;;1
+gridlee;Gridlee;Arcade;;1983;Videa;Shooter / 3rd Person;2P alt;0;trackball;imperfect;1;raster;;;;1
+gridlee;Gridlee;MAME (Advance);;1983;Videa;Shooter / 3rd Person;2P alt;0;trackball;imperfect;1;raster;;;;1
+gridlee;Gridlee;MAME (Libretro);;1983;Videa;Shooter / 3rd Person;2P alt;0;trackball;imperfect;1;raster;;;;1
+gt2k;Golden Tee 2K (v1.00);Arcade;;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt2k;Golden Tee 2K (v1.00);MAME (Advance);;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt2k;Golden Tee 2K (v1.00);MAME (Libretro);;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gt2kp100;Golden Tee 2K (v1.00) (alt protection);MAME (Libretro);gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt2k;;;
+gt2ks100;Golden Tee 2K (v1.00S);Arcade;gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt2k;;;2
+gt2ks100;Golden Tee 2K (v1.00S);MAME (Advance);gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt2k;;;2
+gt2ks100;Golden Tee 2K (v1.00S);MAME (Libretro);gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt2k;;;
+gt2kt500;Golden Tee 2K Tournament (v5.00);Arcade;gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt2k;;;2
+gt2kt500;Golden Tee 2K Tournament (v5.00);MAME (Advance);gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt2k;;;2
+gt2kt500;Golden Tee 2K Tournament (v5.00);MAME (Libretro);gt2k;2000;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt2k;;;
+gt3d;Golden Tee 3D Golf (v1.93N);Arcade;;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt3d;Golden Tee 3D Golf (v1.93N);MAME (Advance);;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt3d;Golden Tee 3D Golf (v1.93N);MAME (Libretro);;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gt3dl191;Golden Tee 3D Golf (v1.91L);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dl191;Golden Tee 3D Golf (v1.91L);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dl191;Golden Tee 3D Golf (v1.91L);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dl192;Golden Tee 3D Golf (v1.92L);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dl192;Golden Tee 3D Golf (v1.92L);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dl192;Golden Tee 3D Golf (v1.92L);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3ds192;Golden Tee 3D Golf (v1.92S);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3ds192;Golden Tee 3D Golf (v1.92S);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3ds192;Golden Tee 3D Golf (v1.92S);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dt211;Golden Tee 3D Golf Tournament (v2.11);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dt211;Golden Tee 3D Golf Tournament (v2.11);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dt211;Golden Tee 3D Golf Tournament (v2.11);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dt231;Golden Tee 3D Golf Tournament (v2.31);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dt231;Golden Tee 3D Golf Tournament (v2.31);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dt231;Golden Tee 3D Golf Tournament (v2.31);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dv14;Golden Tee 3D Golf (v1.4);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv14;Golden Tee 3D Golf (v1.4);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv14;Golden Tee 3D Golf (v1.4);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dv15;Golden Tee 3D Golf (v1.5);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv15;Golden Tee 3D Golf (v1.5);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv15;Golden Tee 3D Golf (v1.5);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dv16;Golden Tee 3D Golf (v1.6);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv16;Golden Tee 3D Golf (v1.6);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv16;Golden Tee 3D Golf (v1.6);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dv17;Golden Tee 3D Golf (v1.7);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv17;Golden Tee 3D Golf (v1.7);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv17;Golden Tee 3D Golf (v1.7);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt3dv18;Golden Tee 3D Golf (v1.8);Arcade;gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv18;Golden Tee 3D Golf (v1.8);MAME (Advance);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt3d;;;2
+gt3dv18;Golden Tee 3D Golf (v1.8);MAME (Libretro);gt3d;1995;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt3d;;;
+gt97;Golden Tee '97 (v1.30);Arcade;;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt97;Golden Tee '97 (v1.30);MAME (Advance);;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt97;Golden Tee '97 (v1.30);MAME (Libretro);;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gt97s121;Golden Tee '97 (v1.21S);Arcade;gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97s121;Golden Tee '97 (v1.21S);MAME (Advance);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97s121;Golden Tee '97 (v1.21S);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt97t240;Golden Tee '97 Tournament (v2.40);Arcade;gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97t240;Golden Tee '97 Tournament (v2.40);MAME (Advance);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97t240;Golden Tee '97 Tournament (v2.40);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt97t243;Golden Tee '97 Tournament (v2.43);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt97v120;Golden Tee '97 (v1.20);Arcade;gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v120;Golden Tee '97 (v1.20);MAME (Advance);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v120;Golden Tee '97 (v1.20);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt97v121;Golden Tee '97 (v1.21);Arcade;gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v121;Golden Tee '97 (v1.21);MAME (Advance);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v121;Golden Tee '97 (v1.21);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt97v122;Golden Tee '97 (v1.22);Arcade;gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v122;Golden Tee '97 (v1.22);MAME (Advance);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt97;;;2
+gt97v122;Golden Tee '97 (v1.22);MAME (Libretro);gt97;1997;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt97;;;
+gt98;Golden Tee '98 (v1.10);Arcade;;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt98;Golden Tee '98 (v1.10);MAME (Advance);;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt98;Golden Tee '98 (v1.10);MAME (Libretro);;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gt98s100;Golden Tee '98 (v1.00S);Arcade;gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98s100;Golden Tee '98 (v1.00S);MAME (Advance);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98s100;Golden Tee '98 (v1.00S);MAME (Libretro);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt98;;;
+gt98t303;Golden Tee '98 Tournament (v3.03);Arcade;gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98t303;Golden Tee '98 Tournament (v3.03);MAME (Advance);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98t303;Golden Tee '98 Tournament (v3.03);MAME (Libretro);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt98;;;
+gt98v100;Golden Tee '98 (v1.00);Arcade;gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98v100;Golden Tee '98 (v1.00);MAME (Advance);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt98;;;2
+gt98v100;Golden Tee '98 (v1.00);MAME (Libretro);gt98;1998;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt98;;;
+gt99;Golden Tee '99 (v1.00);Arcade;;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt99;Golden Tee '99 (v1.00);MAME (Advance);;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gt99;Golden Tee '99 (v1.00);MAME (Libretro);;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gt99s100;Golden Tee '99 (v1.00S);Arcade;gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gt99s100;Golden Tee '99 (v1.00S);MAME (Advance);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gt99s100;Golden Tee '99 (v1.00S);MAME (Libretro);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt99;;;
+gt99t400;Golden Tee '99 Tournament (v4.00);Arcade;gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gt99t400;Golden Tee '99 Tournament (v4.00);MAME (Advance);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gt99t400;Golden Tee '99 Tournament (v4.00);MAME (Libretro);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt99;;;
+gtclassc;Golden Tee Classic (v1.00);Arcade;;2001;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gtclassc;Golden Tee Classic (v1.00);MAME (Advance);;2001;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gtclassc;Golden Tee Classic (v1.00);MAME (Libretro);;2001;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;;;;
+gtclasscp;Golden Tee Classic (v1.00) (alt protection);MAME (Libretro);gtclassc;2001;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gtclassc;;;
+gtclasscs;Golden Tee Classic (v1.00S);MAME (Libretro);gtclassc;2001;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gtclassc;;;
+gtg2;Golden Tee Golf II (Trackball, V2.2);Arcade;;1992;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gtg2;Golden Tee Golf II (Trackball, V2.2);MAME (Advance);;1992;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gtg2;Golden Tee Golf II (Trackball, V2.2);MAME (Libretro);;1992;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;2
+gtg2t;Golden Tee Golf II (Trackball, V1.1);Arcade;gtg2;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg2;;;2
+gtg2t;Golden Tee Golf II (Trackball, V1.1);MAME (Advance);gtg2;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg2;;;2
+gtg2t;Golden Tee Golf II (Trackball, V1.1);MAME (Libretro);gtg2;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg2;;;2
+gtgt;Golden Tee Golf (Trackball, v2.0);Arcade;gtg;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg;;;2
+gtgt;Golden Tee Golf (Trackball, v2.0);MAME (Advance);gtg;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg;;;2
+gtgt;Golden Tee Golf (Trackball, v2.0);MAME (Libretro);gtg;1989;Strata/Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gtg;;;
+gtroyal;Golden Tee Royal Edition Tournament (v4.02T EDM);Arcade;gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gtroyal;Golden Tee Royal Edition Tournament (v4.02T EDM);MAME (Advance);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball;good;1;raster;gt99;;;2
+gtroyal;Golden Tee Royal Edition Tournament (v4.02T EDM);MAME (Libretro);gt99;1999;Incredible Technologies;Sports / Golf;4P alt;0;trackball,trackball;good;1;raster;gt99;;;
+horshoes;American Horseshoes (US);Arcade;;1990;Taito America Corporation;Sports / Horseshoes;4P alt;270;trackball;good;1;raster;;;;2
+horshoes;American Horseshoes (US);Final Burn Alpha;;1990;Taito America Corporation;Sports / Horseshoes;4P alt;270;trackball;good;1;raster;;;;2
+horshoes;American Horseshoes (US);MAME (Advance);;1990;Taito America Corporation;Sports / Horseshoes;4P alt;270;trackball;good;1;raster;;;;2
+horshoes;American Horseshoes (US);MAME (Libretro);;1990;Taito America Corporation;Sports / Horseshoes;4P alt;270;trackball;good;1;raster;;;;2
+horshoes;American Horseshoes (US);MAME (Mame4all);;1990;Taito America Corporation;Sports / Horseshoes;4P alt;270;trackball;good;1;raster;;;;2
+irrmaze;The Irritating Maze / Ultra Denryu Iraira Bou;Arcade;;1997;SNK / Saurus;Maze;1P;0;trackball;good;1;raster;neogeo;;;2
+irrmaze;The Irritating Maze / Ultra Denryu Iraira Bou;Final Burn Alpha;;1997;SNK / Saurus;Maze;1P;0;trackball;good;1;raster;neogeo;;;2
+irrmaze;The Irritating Maze / Ultra Denryu Iraira Bou;MAME (Advance);;1997;SNK / Saurus;Maze;1P;0;trackball;good;1;raster;neogeo;;;2
+irrmaze;The Irritating Maze / Ultra Denryu Iraira Bou;MAME (Libretro);;1997;SNK / Saurus;Maze;1P;0;trackball;good;1;raster;neogeo;;;2
+irrmaze;The Irritating Maze / Ultra Denryu Iraira Bou;MAME (Mame4all);;1997;SNK / Saurus;Maze;1P;0;trackball;good;1;raster;neogeo;;;2
+krzybowl;Krazy Bowl;Arcade;;1994;American Sammy;Sports / Bowling;4P alt;270;joystick (8-way),trackball;good;1;raster;;;;3
+krzybowl;Krazy Bowl;Final Burn Alpha;;1994;American Sammy;Sports / Bowling;4P alt;270;joystick (8-way),trackball;good;1;raster;;;;3
+krzybowl;Krazy Bowl;MAME (Advance);;1994;American Sammy;Sports / Bowling;4P alt;270;joystick (8-way),trackball;good;1;raster;;;;3
+krzybowl;Krazy Bowl;MAME (Libretro);;1994;American Sammy;Sports / Bowling;4P alt;270;joystick (8-way),trackball;good;1;raster;;;;3
+laserbasa;Laser Base (set 2);MAME (Libretro);laserbas;1981;Hoei (Amstar license);Shooter / Gallery;???;270;trackball;preliminary;1;raster;laserbas;;;
+laserbas;Laser Base (set 1);Arcade;;1981;Hoei (Amstar license);Shooter / Gallery;???;270;trackball;preliminary;1;raster;;;;2
+laserbas;Laser Base (set 1);MAME (Advance);;1981;Hoei (Amstar license);Shooter / Gallery;???;270;trackball;preliminary;1;raster;;;;2
+laserbas;Laser Base (set 1);MAME (Libretro);;1981;Hoei (Amstar license);Shooter / Gallery;???;270;trackball;preliminary;1;raster;;;;
+lemmings;Lemmings (US prototype);Arcade;;1991;Data East USA;Puzzle / Misc.;2P sim;0;trackball;good;1;raster;;;;2
+lemmings;Lemmings (US prototype);Final Burn Alpha;;1991;Data East USA;Puzzle / Misc.;2P sim;0;trackball;good;1;raster;;;;2
+lemmings;Lemmings (US prototype);MAME (Advance);;1991;Data East USA;Puzzle / Misc.;2P sim;0;trackball;good;1;raster;;;;2
+lemmings;Lemmings (US prototype);MAME (Libretro);;1991;Data East USA;Puzzle / Misc.;2P sim;0;trackball;good;1;raster;;;;2
+liberatr2;Liberator (set 2);MAME (Libretro);liberatr;1982;Atari;Shooter / Command;2P alt;0;trackball,only_buttons;good;1;raster;liberatr;;;
+liberatr;Liberator (set 1);Arcade;;1982;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;2
+liberatr;Liberator (set 1);MAME (Advance);;1982;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;2
+liberatr;Liberator (set 1);MAME (Libretro);;1982;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;2
+liberatr;Liberator (set 1);MAME (Mame4all);;1982;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;2
+magworm;Magic Worm (bootleg of Centipede, set 1);Arcade;centiped;1980;bootleg (Sidam);Shooter / Gallery;2P alt;270;trackball;good;1;raster;centiped;;;1
+magworm;Magic Worm (bootleg of Centipede, set 1);MAME (Advance);centiped;1980;bootleg (Sidam);Shooter / Gallery;2P alt;270;trackball;good;1;raster;centiped;;;1
+magworm;Magic Worm (bootleg of Centipede, set 1);MAME (Libretro);centiped;1980;bootleg (Sidam);Shooter / Gallery;2P alt;270;trackball;good;1;raster;centiped;;;1
+marble2;Marble Madness (set 2);Arcade;marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble2;Marble Madness (set 2);MAME (Advance);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble2;Marble Madness (set 2);MAME (Libretro);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble2;Marble Madness (set 2);MAME (Mame4all);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble3;Marble Madness (set 3);Arcade;marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble3;Marble Madness (set 3);MAME (Advance);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble3;Marble Madness (set 3);MAME (Libretro);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble4;Marble Madness (set 4);Arcade;marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble4;Marble Madness (set 4);MAME (Advance);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble4;Marble Madness (set 4);MAME (Libretro);marble;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;marble;;;
+marble5;Marble Madness (set 5 - LSI Cartridge);MAME (Libretro);marble;1984;Atari Games;Maze;2P sim;0;trackball,trackball;good;1;raster;marble;;;
+marble;Marble Madness (set 1);Arcade;;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;atarisy1;;;
+marble;Marble Madness (set 1);MAME (Advance);;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;atarisy1;;;
+marble;Marble Madness (set 1);MAME (Libretro);;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;atarisy1;;;
+marble;Marble Madness (set 1);MAME (Mame4all);;1984;Atari Games;Maze;2P sim;0;trackball;good;1;raster;atarisy1;;;
+marinedt;Marine Date;Arcade;;1981;Taito;Maze;2P alt;270;trackball;preliminary;1;raster;;;;1
+marinedt;Marine Date;MAME (Advance);;1981;Taito;Maze;2P alt;270;trackball;preliminary;1;raster;;;;1
+marinedt;Marine Date;MAME (Libretro);;1981;Taito;Maze;2P alt;270;trackball;preliminary;1;raster;;;;1
+mcombata;Missile Combat (Videotron bootleg, set 2);MAME (Libretro);missile;1980;bootleg (Videotron);Shooter / Command;???;0;trackball,trackball;preliminary;1;raster;missile;;;
+mcombat;Missile Combat (Videotron bootleg, set 1);MAME (Libretro);missile;1980;bootleg (Videotron);Shooter / Command;???;0;trackball,trackball;preliminary;1;raster;missile;;;
+millipdd;Millipede Dux (hack);MAME (Libretro);milliped;1989;hack (Two-Bit Score);Shooter / Gallery;2P alt;270;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;milliped;;;
+milliped;Millipede;Arcade;;1982;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;;;;1
+milliped;Millipede;Final Burn Alpha;;1982;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;;;;1
+milliped;Millipede;MAME (Advance);;1982;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;;;;1
+milliped;Millipede;MAME (Libretro);;1982;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;;;;1
+milliped;Millipede;MAME (Mame4all);;1982;Atari;Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;;;;1
+millpac;Millpac (bootleg of Centipede);Arcade;centiped;1980;bootleg? (Valadon Automation);Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+millpac;Millpac (bootleg of Centipede);MAME (Advance);centiped;1980;bootleg? (Valadon Automation);Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+millpac;Millpac (bootleg of Centipede);MAME (Libretro);centiped;1980;bootleg? (Valadon Automation);Shooter / Gallery;2P alt;270;joystick (8-way),trackball;good;1;raster;centiped;;;1
+minigolf2;Mini Golf (10/8/85);MAME (Libretro);minigolf;1985;Bally/Sente;Sports / Golf;4P alt;0;trackball;good;1;raster;minigolf;;;
+minigolf;Mini Golf (11/25/85);Arcade;;1985;Bally/Sente;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;1
+minigolf;Mini Golf (11/25/85);MAME (Advance);;1985;Bally/Sente;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;1
+minigolf;Mini Golf (11/25/85);MAME (Libretro);;1985;Bally/Sente;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;1
+minigolf;Mini Golf (11/25/85);MAME (Mame4all);;1985;Bally/Sente;Sports / Golf;4P alt;0;trackball;good;1;raster;;;;1
+missile2;Missile Command (rev 2);Arcade;missile;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+missile2;Missile Command (rev 2);MAME (Advance);missile;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+missile2;Missile Command (rev 2);MAME (Libretro);missile;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+missile2;Missile Command (rev 2);MAME (Mame4all);missile;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+missile;Missile Command (rev 3);Arcade;;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;3
+missile;Missile Command (rev 3);MAME (Advance);;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;3
+missile;Missile Command (rev 3);MAME (Libretro);;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;3
+missile;Missile Command (rev 3);MAME (Mame4all);;1980;Atari;Shooter / Command;2P alt;0;trackball;good;1;raster;;;;3
+mjleague;Major League;Arcade;;1985;Sega;Sports / Baseball;2P sim;270;joystick (analog),trackball;good;1;raster;;;;5
+mjleague;Major League;Final Burn Alpha;;1985;Sega;Sports / Baseball;2P sim;270;joystick (analog),trackball;good;1;raster;;;;5
+mjleague;Major League;MAME (Advance);;1985;Sega;Sports / Baseball;2P sim;270;joystick (analog),trackball;good;1;raster;;;;5
+mjleague;Major League;MAME (Libretro);;1985;Sega;Sports / Baseball;2P sim;270;joystick (analog),trackball;good;1;raster;;;;5
+mjleague;Major League;MAME (Mame4all);;1985;Sega;Sports / Baseball;2P sim;270;joystick (analog),trackball;good;1;raster;;;;5
+poundforj;Pound for Pound (Japan);MAME (Libretro);poundfor;1990;Irem;Sports / Boxing;2P sim;270;trackball,trackball;good;1;raster;poundfor;;;
+poundfor;Pound for Pound (World);Arcade;;1990;Irem;Sports / Boxing;2P sim;270;trackball;good;1;raster;;;;2
+poundfor;Pound for Pound (World);MAME (Advance);;1990;Irem;Sports / Boxing;2P sim;270;trackball;good;1;raster;;;;2
+poundfor;Pound for Pound (World);MAME (Libretro);;1990;Irem;Sports / Boxing;2P sim;270;trackball;good;1;raster;;;;2
+poundfor;Pound for Pound (World);MAME (Mame4all);;1990;Irem;Sports / Boxing;2P sim;270;trackball;good;1;raster;;;;2
+poundforu;Pound for Pound (US);MAME (Libretro);poundfor;1990;Irem America;Sports / Boxing;2P sim;270;trackball,trackball;good;1;raster;poundfor;;;
+quantum1;Quantum (rev 1);Arcade;quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Advance);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Libretro);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Mame4all);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);Arcade;quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Advance);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Libretro);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Mame4all);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum;Quantum (rev 2);Arcade;;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Advance);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Libretro);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Mame4all);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+rambo3;Rambo III (Europe);Arcade;;1989;Taito Europe Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;2
+rambo3;Rambo III (Europe);Final Burn Alpha;;1989;Taito Europe Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;2
+rambo3;Rambo III (Europe);MAME (Advance);;1989;Taito Europe Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;2
+rambo3;Rambo III (Europe);MAME (Libretro);;1989;Taito Europe Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;2
+rambo3;Rambo III (Europe);MAME (Mame4all);;1989;Taito Europe Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;2
+rambo3u;Rambo III (US);Arcade;rambo3;1989;Taito America Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;rambo3;;;2
+rambo3u;Rambo III (US);Final Burn Alpha;rambo3;1989;Taito America Corporation;Shooter / 3rd Person;2P sim;0;joystick (8-way),trackball;good;1;raster;rambo3;;;2
+rampart;Rampart (Trackball);Arcade;;1990;Atari Games;Shooter / Command;3P sim;0;trackball;good;1;raster;;;;4
+rampart;Rampart (Trackball);MAME (Advance);;1990;Atari Games;Shooter / Command;3P sim;0;trackball;good;1;raster;;;;4
+rampart;Rampart (Trackball);MAME (Libretro);;1990;Atari Games;Shooter / Command;3P sim;0;trackball;good;1;raster;;;;4
+rampart;Rampart (Trackball);MAME (Mame4all);;1990;Atari Games;Shooter / Command;3P sim;0;trackball;good;1;raster;;;;4
+reactor;Reactor;Arcade;;1982;Gottlieb;Maze / Shooter Small;2P alt;0;trackball;imperfect;1;raster;;;;2
+reactor;Reactor;MAME (Advance);;1982;Gottlieb;Maze / Shooter Small;2P alt;0;trackball;imperfect;1;raster;;;;2
+reactor;Reactor;MAME (Libretro);;1982;Gottlieb;Maze / Shooter Small;2P alt;0;trackball;imperfect;1;raster;;;;2
+reactor;Reactor;MAME (Mame4all);;1982;Gottlieb;Maze / Shooter Small;2P alt;0;trackball;imperfect;1;raster;;;;2
+sbowling;Strike Bowling;Arcade;;1982;Taito Corporation;Sports / Bowling;2P alt;90;trackball;imperfect;1;raster;;;;1
+sbowling;Strike Bowling;MAME (Advance);;1982;Taito Corporation;Sports / Bowling;2P alt;90;trackball;imperfect;1;raster;;;;1
+sbowling;Strike Bowling;MAME (Libretro);;1982;Taito Corporation;Sports / Bowling;2P alt;90;trackball;imperfect;1;raster;;;;1
+sdia;SDI - Strategic Defense Initiative (Japan, old, System 16A, FD1089B 317-0027);Arcade;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdia;SDI - Strategic Defense Initiative (Japan, old, System 16A, FD1089B 317-0027);Final Burn Alpha;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdibl;SDI - Strategic Defense Initiative (bootleg);Arcade;sdi;1987;bootleg;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdibl;SDI - Strategic Defense Initiative (bootleg);Final Burn Alpha;sdi;1987;bootleg;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdibl;SDI - Strategic Defense Initiative (bootleg);MAME (Advance);sdi;1987;bootleg;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdibl;SDI - Strategic Defense Initiative (bootleg, original hardware);MAME (Libretro);sdi;1987;bootleg;Shooter / Command;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;sdi;;;
+sdib;SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028);Arcade;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdib;SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028);Final Burn Alpha;sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdib;SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028);MAME (Advance);sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;sdi;;;1
+sdib;SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028);MAME (Libretro);sdi;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;sdi;;;
+sdi;SDI - Strategic Defense Initiative (Japan, newer, System 16A, FD1089B 317-0027);Arcade;;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+sdi;SDI - Strategic Defense Initiative (Japan, newer, System 16A, FD1089B 317-0027);Final Burn Alpha;;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+sdi;SDI - Strategic Defense Initiative (Japan, newer, System 16A, FD1089B 317-0027);MAME (Advance);;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+sdi;SDI - Strategic Defense Initiative (Japan, newer, System 16A, FD1089B 317-0027);MAME (Libretro);;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+sdi;SDI - Strategic Defense Initiative (Japan, newer, System 16A, FD1089B 317-0027);MAME (Mame4all);;1987;Sega;Shooter / Command;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+sentetst;Sente Diagnostic Cartridge;Arcade;;1984;Bally/Sente;Utilities / Test;1P;0;joystick (8-way),trackball;good;1;raster;;;;1
+sentetst;Sente Diagnostic Cartridge;MAME (Advance);;1984;Bally/Sente;Utilities / Test;1P;0;joystick (8-way),trackball;good;1;raster;;;;1
+sentetst;Sente Diagnostic Cartridge;MAME (Libretro);;1984;Bally/Sente;Utilities / Test;1P;0;joystick (8-way),trackball;good;1;raster;;;;1
+sentetst;Sente Diagnostic Cartridge;MAME (Mame4all);;1984;Bally/Sente;Utilities / Test;1P;0;joystick (8-way),trackball;good;1;raster;;;;1
+shootbul;Shoot the Bull;Arcade;;1985;Bally Midway;Sports / Darts;4P alt;90;trackball;good;1;raster;;;;1
+shootbul;Shoot the Bull;MAME (Advance);;1985;Bally Midway;Sports / Darts;4P alt;90;trackball;good;1;raster;;;;1
+shootbul;Shoot the Bull;MAME (Libretro);;1985;Bally Midway;Sports / Darts;4P alt;90;trackball;good;1;raster;;;;1
+shuffle;Shuffleboard;Arcade;;1978;Midway;Sports / Shuffleboard;2P alt;90;trackball;imperfect;1;raster;;;;1
+shuffle;Shuffleboard;MAME (Advance);;1978;Midway;Sports / Shuffleboard;2P alt;90;trackball;imperfect;1;raster;;;;1
+shuffle;Shuffleboard;MAME (Libretro);;1978;Midway;Sports / Shuffleboard;2P alt;90;trackball;imperfect;1;raster;;;;1
+shuffle;Shuffleboard;MAME (Mame4all);;1978;Midway;Sports / Shuffleboard;2P alt;90;trackball;imperfect;1;raster;;;;1
+shufshot137;Shuffleshot (v1.37);MAME (Libretro);shufshot;1997;Strata/Incredible Technologies;Sports / Shuffleboard;4P alt;0;trackball,trackball;good;1;raster;shufshot;;;
+shufshot139;Shuffleshot (v1.39);MAME (Libretro);shufshot;1997;Strata/Incredible Technologies;Sports / Shuffleboard;4P alt;0;trackball,trackball;good;1;raster;shufshot;;;
+shufshot;Shuffleshot (v1.40);Arcade;;1997;Strata/Incredible Technologies;Sports / Shuffleboard;4P alt;0;trackball;good;1;raster;;;;2
+shufshot;Shuffleshot (v1.40);MAME (Advance);;1997;Strata/Incredible Technologies;Sports / Shuffleboard;4P alt;0;trackball;good;1;raster;;;;2
+shufshot;Shuffleshot (v1.40);MAME (Libretro);;1997;Strata/Incredible Technologies;Sports / Shuffleboard;4P alt;0;trackball;good;1;raster;;;;2
+shuuz2;Shuuz (version 7.1);Arcade;shuuz;1990;Atari Games;Sports / Horseshoes;4P alt;0;joystick (8-way),trackball;good;1;raster;shuuz;;;2
+shuuz2;Shuuz (version 7.1);MAME (Advance);shuuz;1990;Atari Games;Sports / Horseshoes;4P alt;0;joystick (8-way),trackball;good;1;raster;shuuz;;;2
+shuuz2;Shuuz (version 7.1);MAME (Libretro);shuuz;1990;Atari Games;Sports / Horseshoes;4P alt;0;joystick (8-way),trackball;good;1;raster;shuuz;;;2
+shuuz2;Shuuz (version 7.1);MAME (Mame4all);shuuz;1990;Atari Games;Sports / Horseshoes;4P alt;0;joystick (8-way),trackball;good;1;raster;shuuz;;;2
+shuuz;Shuuz (version 8.0);Arcade;;1990;Atari Games;Sports / Horseshoes;4P alt;0;trackball;good;1;raster;;;;2
+shuuz;Shuuz (version 8.0);MAME (Advance);;1990;Atari Games;Sports / Horseshoes;4P alt;0;trackball;good;1;raster;;;;2
+shuuz;Shuuz (version 8.0);MAME (Libretro);;1990;Atari Games;Sports / Horseshoes;4P alt;0;trackball;good;1;raster;;;;2
+shuuz;Shuuz (version 8.0);MAME (Mame4all);;1990;Atari Games;Sports / Horseshoes;4P alt;0;trackball;good;1;raster;;;;2
+simpbowl;Simpsons Bowling (GQ829 UAA);Arcade;;2000;Konami;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;konamigv;;chd;3
+simpbowl;Simpsons Bowling (GQ829 UAA);MAME (Advance);;2000;Konami;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;konamigv;;chd;3
+simpbowl;Simpsons Bowling (GQ829 UAA);MAME (Libretro);;2000;Konami;Sports / Bowling;4P alt;0;joystick (8-way),trackball,joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;konamigv;;chd;
+slikshot16;Slick Shot (V1.6);MAME (Libretro);slikshot;1990;Grand Products/Incredible Technologies;Electromechanical / Misc.;4P alt;90;trackball;preliminary;1;raster;slikshot;;mechanical;
+slikshot17;Slick Shot (V1.7);MAME (Libretro);slikshot;1990;Grand Products/Incredible Technologies;Electromechanical / Misc.;4P alt;90;trackball;preliminary;1;raster;slikshot;;mechanical;
+slikshot;Slick Shot (V2.2);Arcade;;1990;Grand Products/Incredible Technologies;Electromechanical / Misc.;4P alt;90;trackball;preliminary;1;raster;;;mechanical;3
+slikshot;Slick Shot (V2.2);MAME (Advance);;1990;Grand Products/Incredible Technologies;Electromechanical / Misc.;4P alt;90;trackball;preliminary;1;raster;;;mechanical;3
+slikshot;Slick Shot (V2.2);MAME (Libretro);;1990;Grand Products/Incredible Technologies;Electromechanical / Misc.;4P alt;90;trackball;preliminary;1;raster;;;mechanical;3
+slithera;Slither (set 2);Arcade;slither;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;slither;;;2
+slithera;Slither (set 2);MAME (Advance);slither;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;slither;;;2
+slithera;Slither (set 2);MAME (Libretro);slither;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;slither;;;2
+slither;Slither (set 1);Arcade;;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;;;;2
+slither;Slither (set 1);MAME (Advance);;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;;;;2
+slither;Slither (set 1);MAME (Libretro);;1982;Century II;Shooter / Gallery;2P alt;270;trackball;good;1;raster;;;;2
+snakepit;Snake Pit;Arcade;;1984;Bally/Sente;Fighter / Field;2P alt;0;joystick (8-way),trackball;good;1;raster;;;;1
+snakepit;Snake Pit;MAME (Advance);;1984;Bally/Sente;Fighter / Field;2P alt;0;joystick (8-way),trackball;good;1;raster;;;;1
+snakepit;Snake Pit;MAME (Libretro);;1984;Bally/Sente;Fighter / Field;2P alt;0;joystick (8-way),trackball;good;1;raster;;;;1
+snakepit;Snake Pit;MAME (Mame4all);;1984;Bally/Sente;Fighter / Field;2P alt;0;joystick (8-way),trackball;good;1;raster;;;;1
+snakjack;Snacks'n Jaxson;Arcade;;1984;Bally/Sente;Ball & Paddle;2P alt;0;trackball;good;1;raster;;;;1
+snakjack;Snacks'n Jaxson;MAME (Advance);;1984;Bally/Sente;Ball & Paddle;2P alt;0;trackball;good;1;raster;;;;1
+snakjack;Snacks'n Jaxson;MAME (Libretro);;1984;Bally/Sente;Ball & Paddle;2P alt;0;trackball;good;1;raster;;;;1
+snakjack;Snacks'n Jaxson;MAME (Mame4all);;1984;Bally/Sente;Ball & Paddle;2P alt;0;trackball;good;1;raster;;;;1
+soccer;Atari Soccer;Arcade;;1980;Atari;Sports / Soccer;4P sim;0;trackball;good;1;raster;;;;2
+soccer;Atari Soccer;MAME (Advance);;1980;Atari;Sports / Soccer;4P sim;0;trackball;good;1;raster;;;;2
+soccer;Atari Soccer;MAME (Libretro);;1980;Atari;Sports / Soccer;4P sim;0;trackball;good;1;raster;;;;2
+soccer;Atari Soccer;MAME (Mame4all);;1980;Atari;Sports / Soccer;4P sim;0;trackball;good;1;raster;;;;2
+sonicp;SegaSonic The Hedgehog (Japan, prototype);Arcade;sonic;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;sonic;;;1
+sonicp;SegaSonic The Hedgehog (Japan, prototype);MAME (Advance);sonic;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;sonic;;;1
+sonicp;SegaSonic The Hedgehog (Japan, prototype);MAME (Libretro);sonic;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;sonic;;;1
+sonic;SegaSonic The Hedgehog (Japan, rev. C);Arcade;;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;;;;1
+sonic;SegaSonic The Hedgehog (Japan, rev. C);MAME (Advance);;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;;;;1
+sonic;SegaSonic The Hedgehog (Japan, rev. C);MAME (Libretro);;1992;Sega;Platform / Run Jump Scrolling;3P sim;0;trackball;imperfect;1;raster;;;;1
+spdball;Speed Ball - Contest at Neonworld (prototype);Arcade;;1985;Williams;Sports / Misc.;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+spdball;Speed Ball - Contest at Neonworld (prototype);MAME (Advance);;1985;Williams;Sports / Misc.;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+spdball;Speed Ball - Contest at Neonworld (prototype);MAME (Libretro);;1985;Williams;Sports / Misc.;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+spiker;Spiker;Arcade;;1986;Bally/Sente;Sports / Volleyball;2P sim;0;trackball;good;1;raster;;;;1
+spiker;Spiker;MAME (Advance);;1986;Bally/Sente;Sports / Volleyball;2P sim;0;trackball;good;1;raster;;;;1
+spiker;Spiker;MAME (Libretro);;1986;Bally/Sente;Sports / Volleyball;2P sim;0;trackball;good;1;raster;;;;1
+spiker;Spiker;MAME (Mame4all);;1986;Bally/Sente;Sports / Volleyball;2P sim;0;trackball;good;1;raster;;;;1
+sstrike;Super Strike Bowling;Arcade;;1990;Strata/Incredible Technologies;Electromechanical / Bowler;4P alt;270;trackball;preliminary;1;raster;;;mechanical;2
+sstrike;Super Strike Bowling;MAME (Advance);;1990;Strata/Incredible Technologies;Electromechanical / Bowler;4P alt;270;trackball;preliminary;1;raster;;;mechanical;2
+sstrike;Super Strike Bowling;MAME (Libretro);;1990;Strata/Incredible Technologies;Electromechanical / Bowler;4P alt;270;trackball;preliminary;1;raster;;;mechanical;2
+stratab1;Strata Bowling (V1);Arcade;stratab;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;stratab;;;2
+stratab1;Strata Bowling (V1);MAME (Advance);stratab;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;stratab;;;2
+stratab1;Strata Bowling (V1);MAME (Libretro);stratab;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;stratab;;;2
+stratab;Strata Bowling (V3);Arcade;;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+stratab;Strata Bowling (V3);MAME (Advance);;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+stratab;Strata Bowling (V3);MAME (Libretro);;1990;Strata/Incredible Technologies;Sports / Bowling;4P alt;270;trackball;good;1;raster;;;;2
+suprleag;Super League (FD1094 317-0045);Arcade;;1987;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+suprleag;Super League (FD1094 317-0045);Final Burn Alpha;;1987;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+suprleag;Super League (FD1094 317-0045);MAME (Advance);;1987;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+suprleag;Super League (FD1094 317-0045);MAME (Libretro);;1987;Sega;Sports / Baseball;2P sim;0;trackball;good;1;raster;;;;11
+suprmatkd;Super Missile Attack (not encrypted);MAME (Libretro);missile;1981;Atari / General Computer Corporation;Shooter / Command;2P alt;0;trackball,trackball;good;1;raster;missile;;;
+suprmatk;Super Missile Attack (for rev 1);Arcade;missile;1981;Atari / General Computer Corporation;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+suprmatk;Super Missile Attack (for rev 1);MAME (Advance);missile;1981;Atari / General Computer Corporation;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+suprmatk;Super Missile Attack (for rev 1);MAME (Libretro);missile;1981;Atari / General Computer Corporation;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+suprmatk;Super Missile Attack (for rev 1);MAME (Mame4all);missile;1981;Atari / General Computer Corporation;Shooter / Command;2P alt;0;trackball;good;1;raster;missile;;;3
+syvalionp;Syvalion (World, prototype);Arcade;syvalion;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;syvalion;;;1
+syvalionp;Syvalion (World, prototype);Final Burn Alpha;syvalion;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;syvalion;;;1
+syvalion;Syvalion (Japan);Arcade;;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;;;;1
+syvalion;Syvalion (Japan);Final Burn Alpha;;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;;;;1
+syvalion;Syvalion (Japan);MAME (Advance);;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;;;;1
+syvalion;Syvalion (Japan);MAME (Libretro);;1988;Taito Corporation;Shooter / Flying Horizontal;2P alt;0;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);Arcade;;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Advance);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Libretro);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Mame4all);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+tehkanwcb;Tehkan World Cup (set 2, bootleg?);MAME (Libretro);tehkanwc;1985;Tehkan;Sports / Soccer;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball;good;1;raster;tehkanwc;;;
+tehkanwcc;Tehkan World Cup (set 3, bootleg);MAME (Libretro);tehkanwc;1985;bootleg;Sports / Soccer;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball;preliminary;1;raster;tehkanwc;;;
+tehkanwc;Tehkan World Cup (set 1);Arcade;;1985;Tehkan;Sports / Soccer;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+tehkanwc;Tehkan World Cup (set 1);MAME (Advance);;1985;Tehkan;Sports / Soccer;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+tehkanwc;Tehkan World Cup (set 1);MAME (Libretro);;1985;Tehkan;Sports / Soccer;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+tehkanwc;Tehkan World Cup (set 1);MAME (Mame4all);;1985;Tehkan;Sports / Soccer;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;1
+trisport;Tri-Sports;Arcade;;1989;Bally Midway;Multiplay / Compilation;4P alt;270;trackball;good;1;raster;;;;2
+trisport;Tri-Sports;MAME (Advance);;1989;Bally Midway;Multiplay / Compilation;4P alt;270;trackball;good;1;raster;;;;2
+trisport;Tri-Sports;MAME (Libretro);;1989;Bally Midway;Multiplay / Compilation;4P alt;270;trackball;good;1;raster;;;;2
+trisport;Tri-Sports;MAME (Mame4all);;1989;Bally Midway;Multiplay / Compilation;4P alt;270;trackball;good;1;raster;;;;2
+usclssic;U.S. Classic;Arcade;;1989;Seta;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+usclssic;U.S. Classic;Final Burn Alpha;;1989;Seta;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+usclssic;U.S. Classic;MAME (Advance);;1989;Seta;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+usclssic;U.S. Classic;MAME (Libretro);;1989;Seta;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+usclssic;U.S. Classic;MAME (Mame4all);;1989;Seta;Sports / Golf;2P alt;270;trackball;good;1;raster;;;;1
+vbowlj;Virtua Bowling (Japan, V100JCM);Arcade;vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;vbowl;;;3
+vbowlj;Virtua Bowling (Japan, V100JCM);MAME (Advance);vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;vbowl;;;3
+vbowlj;Virtua Bowling (Japan, V100JCM);MAME (Libretro);vbowl;1996;IGS / Alta;Sports / Bowling;4P alt;0;joystick (8-way),trackball,joystick (8-way);imperfect;1;raster;vbowl;;;
+vbowl;Virtua Bowling (World, V101XCM);Arcade;;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+vbowl;Virtua Bowling (World, V101XCM);MAME (Advance);;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+vbowl;Virtua Bowling (World, V101XCM);MAME (Libretro);;1996;IGS;Sports / Bowling;4P alt;0;joystick (8-way),trackball,joystick (8-way);imperfect;1;raster;;;;
+viper;Viper;Arcade;;1988;Leland Corp.;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+viper;Viper;MAME (Advance);;1988;Leland Corp.;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+viper;Viper;MAME (Libretro);;1988;Leland Corp.;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+viper;Viper;MAME (Mame4all);;1988;Leland Corp.;Shooter / Flying 1st Person;2P alt;0;trackball;good;1;raster;;;;2
+wacko;Wacko;Arcade;;1982;Bally Midway;Shooter / Field;2P alt;0;joystick (4-way),trackball;good;1;raster;;;;
+wacko;Wacko;MAME (Advance);;1982;Bally Midway;Shooter / Field;2P alt;0;joystick (4-way),trackball;good;1;raster;;;;
+wacko;Wacko;MAME (Libretro);;1982;Bally Midway;Shooter / Field;2P alt;0;joystick (4-way),trackball;good;1;raster;;;;
+wacko;Wacko;MAME (Mame4all);;1982;Bally Midway;Shooter / Field;2P alt;0;joystick (4-way),trackball;good;1;raster;;;;
+wc90t;Tecmo World Cup '90 (trackball set 1);Arcade;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);Final Burn Alpha;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);MAME (Advance);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);MAME (Libretro);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wcbowl12;World Class Bowling (v1.2);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowl13;World Class Bowling (v1.3);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowl140;World Class Bowling Tournament (v1.40);MAME (Libretro);wcbowldx;1997;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowldx;;;
+wcbowl15;World Class Bowling (v1.5);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowl161;World Class Bowling (v1.61);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowl165;World Class Bowling (v1.65);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowl16;World Class Bowling (v1.6);MAME (Libretro);wcbowl;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;wcbowl;;;
+wcbowldx;World Class Bowling Deluxe (v2.00);Arcade;;1999;Incredible Technologies;Sports / Bowling;4P alt;0;trackball;good;1;raster;;;;2
+wcbowldx;World Class Bowling Deluxe (v2.00);MAME (Advance);;1999;Incredible Technologies;Sports / Bowling;4P alt;0;trackball;good;1;raster;;;;2
+wcbowldx;World Class Bowling Deluxe (v2.00);MAME (Libretro);;1999;Incredible Technologies;Sports / Bowling;4P alt;0;trackball,trackball;good;1;raster;;;;
+wcbowl;World Class Bowling (v1.66);Arcade;;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball;good;1;raster;;;;2
+wcbowl;World Class Bowling (v1.66);MAME (Advance);;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball;good;1;raster;;;;2
+wcbowl;World Class Bowling (v1.66);MAME (Libretro);;1995;Incredible Technologies;Sports / Bowling;4P alt;0;trackball;good;1;raster;;;;2
+wwallyjad;Wally wo Sagase! (rev A, Japan) (bootleg of FD1094 317-0197A set);Arcade;wwallyj;1992;bootleg;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyjad;Wally wo Sagase! (rev A, Japan) (bootleg of FD1094 317-0197A set);Final Burn Alpha;wwallyj;1992;bootleg;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyja;Wally wo Sagase! (rev A, Japan) (FD1094 317-0197A);Arcade;wwallyj;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyja;Wally wo Sagase! (rev A, Japan) (FD1094 317-0197A);Final Burn Alpha;wwallyj;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyja;Wally wo Sagase! (rev A, Japan) (FD1094 317-0197A);MAME (Advance);wwallyj;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyja;Wally wo Sagase! (rev A, Japan) (FD1094 317-0197A);MAME (Libretro);wwallyj;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball,trackball;good;1;raster;wwallyj;;;
+wwallyjd;Wally wo Sagase! (rev B, Japan) (bootleg of FD1094 317-0197B set);Arcade;wwallyj;1992;bootleg;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyjd;Wally wo Sagase! (rev B, Japan) (bootleg of FD1094 317-0197B set);Final Burn Alpha;wwallyj;1992;bootleg;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;wwallyj;;;3
+wwallyj;Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B);Arcade;;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;3
+wwallyj;Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B);Final Burn Alpha;;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;3
+wwallyj;Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B);MAME (Advance);;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball;good;1;raster;;;;3
+wwallyj;Wally wo Sagase! (rev B, Japan) (FD1094 317-0197B);MAME (Libretro);;1992;Sega;Multiplay / Mini-Games;2P sim;0;joystick (8-way),trackball,joystick (8-way),trackball,trackball;good;1;raster;;;;
+xtheball;X the Ball;Arcade;;1991;Rare;Sports / Soccer;1P;0;trackball;good;1;raster;;;;1
+xtheball;X the Ball;MAME (Advance);;1991;Rare;Sports / Soccer;1P;0;trackball;good;1;raster;;;;1
+xtheball;X the Ball;MAME (Libretro);;1991;Rare;Sports / Soccer;1P;0;trackball;good;1;raster;;;;

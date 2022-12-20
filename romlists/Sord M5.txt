@@ -1,0 +1,28 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Apploon;Apploon;Sord M5;;;;;;;;;;;;;;
+Baseball;Baseball;Sord M5;;;;;;;;;;;;;;
+Bosconian;Bosconian;Sord M5;;;;;;;;;;;;;;
+Dig Dug;Dig Dug;Sord M5;;;;;;;;;;;;;;
+Dragon Attack;Dragon Attack;Sord M5;;;;;;;;;;;;;;
+Drops;Drops;Sord M5;;;;;;;;;;;;;;
+Eskimon;Eskimon;Sord M5;;;;;;;;;;;;;;
+Fruit Search;Fruit Search;Sord M5;;;;;;;;;;;;;;
+Funny Mouse;Funny Mouse;Sord M5;;;;;;;;;;;;;;
+Galax;Galax;Sord M5;;;;;;;;;;;;;;
+Guttang Gottong;Guttang Gottong;Sord M5;;;;;;;;;;;;;;
+Heavy Boxing;Heavy Boxing;Sord M5;;;;;;;;;;;;;;
+Jumping Jack;Jumping Jack;Sord M5;;;;;;;;;;;;;;
+Mappy;Mappy;Sord M5;;;;;;;;;;;;;;
+Moon Patrol;Moon Patrol;Sord M5;;;;;;;;;;;;;;
+Pit Chaser;Pit Chaser;Sord M5;;;;;;;;;;;;;;
+Pooyan;Pooyan;Sord M5;;;;;;;;;;;;;;
+Power Pac;Power Pac;Sord M5;;;;;;;;;;;;;;
+Real Tennis;Real Tennis;Sord M5;;;;;;;;;;;;;;
+Step Up;Step Up;Sord M5;;;;;;;;;;;;;;
+Super Cobra;Super Cobra;Sord M5;;;;;;;;;;;;;;
+Tank Battalion;Tank Battalion;Sord M5;;;;;;;;;;;;;;
+Up Up Balloon;Up Up Balloon;Sord M5;;;;;;;;;;;;;;
+Warp Warp;Warp Warp;Sord M5;;;;;;;;;;;;;;
+Wonder Hole;Wonder Hole;Sord M5;;;;;;;;;;;;;;
+Word Maze;Word Maze;Sord M5;;;;;;;;;;;;;;
+Zac Banic;Zac Banic;Sord M5;;;;;;;;;;;;;;

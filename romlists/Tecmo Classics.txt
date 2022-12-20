@@ -1,0 +1,261 @@
+1on1gov;1 on 1 Government (Japan);Arcade;;2000;Tecmo;Sports / Basketball;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;tps;;;3
+1on1gov;1 on 1 Government (Japan);MAME (Libretro);;2000;Tecmo;Sports / Basketball;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;tps;;;
+backfirt;Back Fire (Tecmo, bootleg);Arcade;;1988;Tecmo;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;;;;2
+backfirt;Back Fire (Tecmo, bootleg);Final Burn Alpha;;1988;Tecmo;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;;;;2
+backfirt;Back Fire (Tecmo, bootleg);MAME (Libretro);;1988;Tecmo;Shooter / Flying Horizontal;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+danchih;Danchi de Hanafuda (J 990607 V1.400);Arcade;;1999;Altron (Tecmo license);Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;stvbios;;;4
+danchih;Danchi de Hanafuda (J 990607 V1.400);MAME (Advance);;1999;Altron (Tecmo license);Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;stvbios;;;4
+danchih;Danchi de Hanafuda (J 990607 V1.400);MAME (Libretro);;1999;Altron (Tecmo license);Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;stvbios;;;4
+deroon;Deroon DeroDero;Arcade;;1995;Tecmo;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+deroon;Deroon DeroDero;Final Burn Alpha;;1995;Tecmo;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+deroon;Deroon DeroDero;MAME (Advance);;1995;Tecmo;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+deroon;Deroon DeroDero;MAME (Libretro);;1995;Tecmo;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+doa2;Dead or Alive 2 (Rev A);Arcade;;1999;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomi;;;6
+doa2;Dead or Alive 2 (Rev A);MAME (Libretro);;1999;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomi;;;
+doa2m;Dead or Alive 2 Millennium;Arcade;doa2;2000;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;doa2;;;6
+doa2m;Dead or Alive 2 Millennium;MAME (Libretro);doa2;2000;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;doa2;;;
+doapp;Dead Or Alive ++ (Japan);Arcade;;1998;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+doapp;Dead Or Alive ++ (Japan);MAME (Advance);;1998;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+doapp;Dead Or Alive ++ (Japan);MAME (Libretro);;1998;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+eightfrc;Eight Forces;Arcade;;1994;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+eightfrc;Eight Forces;Final Burn Alpha;;1994;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+eightfrc;Eight Forces;MAME (Advance);;1994;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+eightfrc;Eight Forces;MAME (Libretro);;1994;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrc;Final Star Force (US);Arcade;;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrc;Final Star Force (US);Final Burn Alpha;;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrc;Final Star Force (US);MAME (Advance);;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrc;Final Star Force (US);MAME (Libretro);;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrc;Final Star Force (US);MAME (Mame4all);;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+fstarfrcj;Final Star Force (Japan);Arcade;fstarfrc;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;fstarfrc;;;2
+fstarfrcj;Final Star Force (Japan);Final Burn Alpha;fstarfrc;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;fstarfrc;;;2
+fstarfrcj;Final Star Force (Japan);MAME (Libretro);fstarfrc;1992;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way),joystick (8-way);good;1;raster;fstarfrc;;;
+gaiden;Ninja Gaiden (US);Arcade;shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+gaiden;Ninja Gaiden (US);Final Burn Alpha;shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+gaiden;Ninja Gaiden (US);MAME (Advance);shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+gaiden;Ninja Gaiden (US);MAME (Libretro);shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+gaiden;Ninja Gaiden (US);MAME (Mame4all);shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+gemini;Gemini Wing (Japan);Arcade;;1987;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+gemini;Gemini Wing (Japan);Final Burn Alpha;;1987;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+gemini;Gemini Wing (Japan);MAME (Advance);;1987;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+gemini;Gemini Wing (Japan);MAME (Libretro);;1987;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+gemini;Gemini Wing (Japan);MAME (Mame4all);;1987;Tecmo;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+ginkun;Ganbare Ginkun;Arcade;;1995;Tecmo;Multiplay / Mini-Games;2P sim;0;joystick (8-way);good;1;raster;;;;2
+ginkun;Ganbare Ginkun;Final Burn Alpha;;1995;Tecmo;Multiplay / Mini-Games;2P sim;0;joystick (8-way);good;1;raster;;;;2
+ginkun;Ganbare Ginkun;MAME (Advance);;1995;Tecmo;Multiplay / Mini-Games;2P sim;0;joystick (8-way);good;1;raster;;;;2
+ginkun;Ganbare Ginkun;MAME (Libretro);;1995;Tecmo;Multiplay / Mini-Games;2P sim;0;joystick (8-way);good;1;raster;;;;2
+ginkun;Ganbare Ginkun;MAME (Mame4all);;1995;Tecmo;Multiplay / Mini-Games;2P sim;0;joystick (8-way);good;1;raster;;;;2
+glpracr2;Gallop Racer 2 (USA);Arcade;;1997;Tecmo;Sports / Horse Racing;???;0;joystick (8-way);preliminary;1;raster;tps;;;3
+glpracr2;Gallop Racer 2 (USA);MAME (Advance);;1997;Tecmo;Sports / Horse Racing;???;0;joystick (8-way);preliminary;1;raster;tps;;;3
+glpracr2;Gallop Racer 2 (USA);MAME (Libretro);;1997;Tecmo;Sports / Horse Racing;???;0;joystick (8-way);preliminary;1;raster;tps;;;3
+glpracr2j;Gallop Racer 2 (Japan);MAME (Libretro);glpracr2;1997;Tecmo;Sports / Horse Racing;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;glpracr2;;;
+glpracr2l;Gallop Racer 2 Link HW (Japan);MAME (Libretro);glpracr2;1997;Tecmo;Sports / Horse Racing;???;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;glpracr2;;;
+glpracr3;Gallop Racer 3 (Export);MAME (Libretro);;1999;Tecmo;Sports / Horse Racing;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;tps;;;
+glpracr3;Gallop Racer 3 (Japan);Arcade;;1999;Tecmo;Sports / Horse Racing;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+glpracr3;Gallop Racer 3 (Japan);MAME (Advance);;1999;Tecmo;Sports / Horse Racing;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+glpracr;Gallop Racer (English Ver 10.17.K);Arcade;;1996;Tecmo;Sports / Horse Racing;1P;0;joystick (8-way);imperfect;1;raster;cpzn1;;;3
+glpracr;Gallop Racer (English Ver 10.17.K);MAME (Advance);;1996;Tecmo;Sports / Horse Racing;1P;0;joystick (8-way);imperfect;1;raster;cpzn1;;;3
+glpracr;Gallop Racer (English Ver 10.17.K);MAME (Libretro);;1996;Tecmo;Sports / Horse Racing;1P;0;joystick (8-way);imperfect;1;raster;cpzn1;;;3
+goodejana;Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 2);MAME (Libretro);goodejan;1991;Seibu Kaihatsu (Tecmo license);Tabletop / Mahjong;1P;0;mahjong;imperfect;1;raster;goodejan;;;
+goodejan;Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 1);MAME (Libretro);;1991;Seibu Kaihatsu (Tecmo license);Tabletop / Mahjong;1P;0;mahjong;imperfect;1;raster;;;;
+gundealrt;Gun Dealer (Japan);MAME (Libretro);gundealr;1990;Dooyong (Tecmo license);Puzzle / Cards * Mature *;2P alt;270;joystick (4-way),joystick (4-way);good;1;raster;gundealr;;;
+gunnail;GunNail (28th May. 1992);Arcade;;1993;NMK / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+gunnail;GunNail (28th May. 1992);Final Burn Alpha;;1993;NMK / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+gunnail;GunNail (28th May. 1992);MAME (Advance);;1993;NMK / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+gunnail;GunNail (28th May. 1992);MAME (Libretro);;1993;NMK / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+mfjump;Monster Farm Jump (Japan);Arcade;;2001;Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+mfjump;Monster Farm Jump (Japan);MAME (Advance);;2001;Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+mfjump;Monster Farm Jump (Japan);MAME (Libretro);;2001;Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;tps;;;
+mightybj;Vs. Mighty Bomb Jack (Japan);Arcade;;1986;Tecmo;Platform / Run Jump Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+mightybj;Vs. Mighty Bomb Jack (Japan);MAME (Advance);;1986;Tecmo;Platform / Run Jump Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+mightybj;Vs. Mighty Bomb Jack (Japan);MAME (Libretro);;1986;Tecmo;Platform / Run Jump Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+nouryoku;Nouryoku Koujou Iinkai;Arcade;;1995;Tecmo;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;2
+nouryoku;Nouryoku Koujou Iinkai;Final Burn Alpha;;1995;Tecmo;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;2
+nouryoku;Nouryoku Koujou Iinkai;MAME (Advance);;1995;Tecmo;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;2
+nouryoku;Nouryoku Koujou Iinkai;MAME (Libretro);;1995;Tecmo;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pc_ngai2;Ninja Gaiden Episode II: The Dark Sword of Chaos (PlayChoice-10);Arcade;;1990;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ngai2;Ninja Gaiden Episode II: The Dark Sword of Chaos (PlayChoice-10);MAME (Libretro);;1990;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ngai3;Ninja Gaiden Episode III: The Ancient Ship of Doom (PlayChoice-10);Arcade;;1991;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ngai3;Ninja Gaiden Episode III: The Ancient Ship of Doom (PlayChoice-10);MAME (Libretro);;1991;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ngaid;Ninja Gaiden (PlayChoice-10);Arcade;;1989;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ngaid;Ninja Gaiden (PlayChoice-10);MAME (Libretro);;1989;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_rygar;Rygar (PlayChoice-10);Arcade;;1987;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_rygar;Rygar (PlayChoice-10);MAME (Libretro);;1987;Tecmo (Nintendo of America license);Platform / Fighter Scrolling;1P;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_tbowl;Tecmo Bowl (PlayChoice-10);Arcade;;1989;Tecmo (Nintendo of America license);Sports / Amer. Football;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_tbowl;Tecmo Bowl (PlayChoice-10);MAME (Libretro);;1989;Tecmo (Nintendo of America license);Sports / Amer. Football;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+qzkklgy2;Quiz Kokology 2;Arcade;;1993;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+qzkklgy2;Quiz Kokology 2;Final Burn Alpha;;1993;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+qzkklgy2;Quiz Kokology 2;MAME (Advance);;1993;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+qzkklgy2;Quiz Kokology 2;MAME (Libretro);;1993;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+qzkklogy;Quiz Kokology;Arcade;;1992;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;5
+qzkklogy;Quiz Kokology;Final Burn Alpha;;1992;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;5
+qzkklogy;Quiz Kokology;MAME (Advance);;1992;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;5
+qzkklogy;Quiz Kokology;MAME (Libretro);;1992;Tecmo;Quiz / Japanese;2P sim;0;;good;1;raster;;;;5
+raiga;Raiga - Strato Fighter (Japan);Arcade;stratof;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;stratof;;;2
+raiga;Raiga - Strato Fighter (Japan);Final Burn Alpha;stratof;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;stratof;;;2
+raiga;Raiga - Strato Fighter (Japan);MAME (Advance);stratof;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;stratof;;;2
+raiga;Raiga - Strato Fighter (Japan);MAME (Libretro);stratof;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;stratof;;;2
+rygar2;Rygar (US set 2);Arcade;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar2;Rygar (US set 2);Final Burn Alpha;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar2;Rygar (US set 2);MAME (Advance);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar2;Rygar (US set 2);MAME (Libretro);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar2;Rygar (US set 2);MAME (Mame4all);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar3;Rygar (US set 3 Old Version);Arcade;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar3;Rygar (US set 3 Old Version);Final Burn Alpha;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar3;Rygar (US set 3 Old Version);MAME (Libretro);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;rygar;;;
+rygarj;Argus no Senshi (Japan);Arcade;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygarj;Argus no Senshi (Japan);Final Burn Alpha;rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygarj;Argus no Senshi (Japan);MAME (Advance);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygarj;Argus no Senshi (Japan);MAME (Libretro);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygarj;Argus no Senshi (Japan);MAME (Mame4all);rygar;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;rygar;;;2
+rygar;Rygar (US set 1);Arcade;;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+rygar;Rygar (US set 1);Final Burn Alpha;;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+rygar;Rygar (US set 1);MAME (Advance);;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+rygar;Rygar (US set 1);MAME (Libretro);;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+rygar;Rygar (US set 1);MAME (Mame4all);;1986;Tecmo;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+ryukendna;Ninja Ryukenden (Japan, set 2);Arcade;shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendna;Ninja Ryukenden (Japan, set 2);Final Burn Alpha;shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendna;Ninja Ryukenden (Japan, set 2);MAME (Libretro);shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;shadoww;;;
+ryukendn;Ninja Ryukenden (Japan, set 1);Arcade;shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendn;Ninja Ryukenden (Japan, set 1);Final Burn Alpha;shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendn;Ninja Ryukenden (Japan, set 1);MAME (Advance);shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendn;Ninja Ryukenden (Japan, set 1);MAME (Libretro);shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+ryukendn;Ninja Ryukenden (Japan, set 1);MAME (Mame4all);shadoww;1989;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+sabotenba;Saboten Bombers (set 2);Arcade;sabotenb;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;sabotenb;;;2
+sabotenba;Saboten Bombers (set 2);Final Burn Alpha;sabotenb;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;sabotenb;;;2
+sabotenba;Saboten Bombers (set 2);MAME (Libretro);sabotenb;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sabotenb;;;
+sabotenb;Saboten Bombers (set 1);Arcade;;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sabotenb;Saboten Bombers (set 1);Final Burn Alpha;;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sabotenb;Saboten Bombers (set 1);MAME (Advance);;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sabotenb;Saboten Bombers (set 1);MAME (Libretro);;1992;NMK / Tecmo;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;2
+shadowwa;Shadow Warriors (World, set 2);Arcade;shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+shadowwa;Shadow Warriors (World, set 2);Final Burn Alpha;shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+shadowwa;Shadow Warriors (World, set 2);MAME (Advance);shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+shadowwa;Shadow Warriors (World, set 2);MAME (Libretro);shadoww;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadoww;;;3
+shadoww;Shadow Warriors (World, set 1);Arcade;;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+shadoww;Shadow Warriors (World, set 1);Final Burn Alpha;;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+shadoww;Shadow Warriors (World, set 1);MAME (Advance);;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+shadoww;Shadow Warriors (World, set 1);MAME (Libretro);;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+shadoww;Shadow Warriors (World, set 1);MAME (Mame4all);;1988;Tecmo;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+silkwormj;Silk Worm (Japan);Arcade;silkworm;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;silkworm;;;3
+silkwormj;Silk Worm (Japan);Final Burn Alpha;silkworm;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;silkworm;;;3
+silkworm;Silk Worm (World);Arcade;;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+silkworm;Silk Worm (World);Final Burn Alpha;;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+silkworm;Silk Worm (World);MAME (Advance);;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+silkworm;Silk Worm (World);MAME (Libretro);;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+silkworm;Silk Worm (World);MAME (Mame4all);;1988;Tecmo;Shooter / Misc. Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+solomonj;Solomon no Kagi (Japan);Arcade;solomon;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;solomon;;;2
+solomonj;Solomon no Kagi (Japan);Final Burn Alpha;solomon;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;solomon;;;2
+solomonj;Solomon no Kagi (Japan);MAME (Libretro);solomon;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;solomon;;;
+solomon;Solomon's Key (US);Arcade;;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;;;;2
+solomon;Solomon's Key (US);Final Burn Alpha;;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;;;;2
+solomon;Solomon's Key (US);MAME (Advance);;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;;;;2
+solomon;Solomon's Key (US);MAME (Libretro);;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;;;;2
+solomon;Solomon's Key (US);MAME (Mame4all);;1986;Tecmo;Puzzle / Maze;2P alt;0;joystick (8-way);good;1;raster;;;;2
+spbactnj;Super Pinball Action (Japan);Arcade;spbactn;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;spbactn;;;4
+spbactnj;Super Pinball Action (Japan);MAME (Advance);spbactn;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;spbactn;;;4
+spbactnj;Super Pinball Action (Japan);MAME (Libretro);spbactn;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;spbactn;;;4
+spbactn;Super Pinball Action (US);Arcade;;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;;;;4
+spbactn;Super Pinball Action (US);MAME (Advance);;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;;;;4
+spbactn;Super Pinball Action (US);MAME (Libretro);;1991;Tecmo;Pinball * Mature *;1P;90;;imperfect;1;raster;;;;4
+stg;Strike Gunner S.T.G;Arcade;;1991;Athena / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+stg;Strike Gunner S.T.G;Final Burn Alpha;;1991;Athena / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+stg;Strike Gunner S.T.G;MAME (Advance);;1991;Athena / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+stg;Strike Gunner S.T.G;MAME (Libretro);;1991;Athena / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+stratof;Raiga - Strato Fighter (US);Arcade;;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+stratof;Raiga - Strato Fighter (US);Final Burn Alpha;;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+stratof;Raiga - Strato Fighter (US);MAME (Advance);;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+stratof;Raiga - Strato Fighter (US);MAME (Libretro);;1991;Tecmo;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+tbowlj;Tecmo Bowl (Japan);Arcade;tbowl;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;tbowl;;;2
+tbowlj;Tecmo Bowl (Japan);Final Burn Alpha;tbowl;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;tbowl;;;2
+tbowlj;Tecmo Bowl (Japan);MAME (Advance);tbowl;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;tbowl;;;2
+tbowlj;Tecmo Bowl (Japan);MAME (Libretro);tbowl;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;tbowl;;;2
+tbowl;Tecmo Bowl (World);Arcade;;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;;;;2
+tbowl;Tecmo Bowl (World);Final Burn Alpha;;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;;;;2
+tbowl;Tecmo Bowl (World);MAME (Advance);;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;;;;2
+tbowl;Tecmo Bowl (World);MAME (Libretro);;1987;Tecmo;Sports / Amer. Football;4P sim;0;joystick (8-way);good;2;raster;;;;2
+tdragon1;Thunder Dragon (4th Jun. 1991, protected);Arcade;tdragon;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;tdragon;;;2
+tdragon1;Thunder Dragon (4th Jun. 1991, protected);Final Burn Alpha;tdragon;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);preliminary;1;raster;tdragon;;;2
+tdragon1;Thunder Dragon (4th Jun. 1991, protected);MAME (Libretro);tdragon;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);preliminary;1;raster;tdragon;;;
+tdragon;Thunder Dragon (8th Jan. 1992, unprotected);Arcade;;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+tdragon;Thunder Dragon (8th Jan. 1992, unprotected);Final Burn Alpha;;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+tdragon;Thunder Dragon (8th Jan. 1992, unprotected);MAME (Advance);;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+tdragon;Thunder Dragon (8th Jan. 1992, unprotected);MAME (Libretro);;1991;NMK (Tecmo license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+tecmowcm;Tecmo World Cup Millennium (Japan);Arcade;;2000;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+tecmowcm;Tecmo World Cup Millennium (Japan);MAME (Advance);;2000;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;tps;;;3
+tecmowcm;Tecmo World Cup Millennium (Japan);MAME (Libretro);;2000;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;tps;;;
+teedoff;Tee'd Off (Japan);Arcade;;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Advance);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Libretro);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+teedoff;Tee'd Off (Japan);MAME (Mame4all);;1986;Tecmo;Sports / Golf;2P alt;90;trackball;good;1;raster;;;;1
+tkdenshoa;Toukidenshou - Angel Eyes (VER. 960427);Arcade;tkdensho;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;tkdensho;;;4
+tkdenshoa;Toukidenshou - Angel Eyes (VER. 960427);Final Burn Alpha;tkdensho;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;tkdensho;;;4
+tkdenshoa;Toukidenshou - Angel Eyes (VER. 960427);MAME (Libretro);tkdensho;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;tkdensho;;;
+tkdensho;Toukidenshou - Angel Eyes (VER. 960614);Arcade;;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+tkdensho;Toukidenshou - Angel Eyes (VER. 960614);Final Burn Alpha;;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+tkdensho;Toukidenshou - Angel Eyes (VER. 960614);MAME (Advance);;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+tkdensho;Toukidenshou - Angel Eyes (VER. 960614);MAME (Libretro);;1996;Tecmo;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+tknight;Tecmo Knight;Arcade;wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;wildfang;;;3
+tknight;Tecmo Knight;Final Burn Alpha;wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;wildfang;;;3
+tknight;Tecmo Knight;MAME (Advance);wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;wildfang;;;3
+tknight;Tecmo Knight;MAME (Libretro);wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;wildfang;;;3
+tknight;Tecmo Knight;MAME (Mame4all);wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;wildfang;;;3
+tondemo;Tondemo Crisis (Japan);Arcade;;1999;Tecmo;Multiplay / Mini-Games;1P;0;joystick (8-way);imperfect;1;raster;tps;;;3
+tondemo;Tondemo Crisis (Japan);MAME (Advance);;1999;Tecmo;Multiplay / Mini-Games;1P;0;joystick (8-way);imperfect;1;raster;tps;;;3
+tondemo;Tondemo Crisis (Japan);MAME (Libretro);;1999;Tecmo;Multiplay / Mini-Games;1P;0;joystick (8-way);imperfect;1;raster;tps;;;3
+totmejan;Tottemo E Jong;MAME (Libretro);;1991;Seibu Kaihatsu (Tecmo license);Tabletop / Mahjong;1P;0;mahjong;imperfect;1;raster;;;;
+twcup98;Tecmo World Cup '98 (JUET 980410 V1.000);Arcade;;1998;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+twcup98;Tecmo World Cup '98 (JUET 980410 V1.000);MAME (Advance);;1998;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+twcup98;Tecmo World Cup '98 (JUET 980410 V1.000);MAME (Libretro);;1998;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;stvbios;;;4
+twrldc94a;Tecmo World Cup '94 (set 2);MAME (Libretro);twrldc94;1994;Tecmo;Sports / Soccer;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;twrldc94;;;
+twrldc94;Tecmo World Cup '94 (set 1);Arcade;;1994;Tecmo;Sports / Soccer;???;0;joystick (8-way);preliminary;1;raster;;;;4
+twrldc94;Tecmo World Cup '94 (set 1);MAME (Advance);;1994;Tecmo;Sports / Soccer;???;0;joystick (8-way);preliminary;1;raster;;;;4
+twrldc94;Tecmo World Cup '94 (set 1);MAME (Libretro);;1994;Tecmo;Sports / Soccer;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+tws96;Tecmo World Soccer '96;Arcade;;1996;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+tws96;Tecmo World Soccer '96;Final Burn Alpha;;1996;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+tws96;Tecmo World Soccer '96;MAME (Advance);;1996;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+tws96;Tecmo World Soccer '96;MAME (Libretro);;1996;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+tws96;Tecmo World Soccer '96;MAME (Mame4all);;1996;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+vgoalsca;V Goal Soccer (US/Japan/Korea);Arcade;vgoalsoc;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;vgoalsoc;;;4
+vgoalsca;V Goal Soccer (US/Japan/Korea);MAME (Advance);vgoalsoc;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;vgoalsoc;;;4
+vgoalsca;V Goal Soccer (US/Japan/Korea);MAME (Libretro);vgoalsoc;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;vgoalsoc;;;4
+vgoalsoc;V Goal Soccer (Europe);Arcade;;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;;;;4
+vgoalsoc;V Goal Soccer (Europe);MAME (Advance);;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;;;;4
+vgoalsoc;V Goal Soccer (Europe);MAME (Libretro);;1994;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);preliminary;1;raster;;;;4
+wc90a;Tecmo World Cup '90 (Euro set 1);Arcade;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90a;Tecmo World Cup '90 (Euro set 1);Final Burn Alpha;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90a;Tecmo World Cup '90 (Euro set 1);MAME (Advance);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90a;Tecmo World Cup '90 (Euro set 1);MAME (Libretro);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b1;Euro League (Italian hack of Tecmo World Cup '90);Arcade;wc90;1989;bootleg;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b1;Euro League (Italian hack of Tecmo World Cup '90);Final Burn Alpha;wc90;1989;bootleg;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b1;Euro League (Italian hack of Tecmo World Cup '90);MAME (Libretro);wc90;1989;bootleg;Sports / Soccer;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;wc90;;;
+wc90b;Tecmo World Cup '90 (Euro set 2);Arcade;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b;Tecmo World Cup '90 (Euro set 2);Final Burn Alpha;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b;Tecmo World Cup '90 (Euro set 2);MAME (Advance);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b;Tecmo World Cup '90 (Euro set 2);MAME (Libretro);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90b;Tecmo World Cup '90 (Euro set 2);MAME (Mame4all);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90;Tecmo World Cup '90 (World);Arcade;;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+wc90;Tecmo World Cup '90 (World);Final Burn Alpha;;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+wc90;Tecmo World Cup '90 (World);MAME (Advance);;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+wc90;Tecmo World Cup '90 (World);MAME (Libretro);;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+wc90;Tecmo World Cup '90 (World);MAME (Mame4all);;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);Arcade;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);Final Burn Alpha;wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);MAME (Advance);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wc90t;Tecmo World Cup '90 (trackball set 1);MAME (Libretro);wc90;1989;Tecmo;Sports / Soccer;2P sim;0;joystick (8-way);imperfect;1;raster;wc90;;;2
+wildfangs;Wild Fang;MAME (Libretro);wildfang;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;wildfang;;;
+wildfang;Wild Fang / Tecmo Knight;Arcade;;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+wildfang;Wild Fang / Tecmo Knight;Final Burn Alpha;;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+wildfang;Wild Fang / Tecmo Knight;MAME (Advance);;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+wildfang;Wild Fang / Tecmo Knight;MAME (Libretro);;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+wildfang;Wild Fang / Tecmo Knight;MAME (Mame4all);;1989;Tecmo;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;3
+wwfwfesta;WWF WrestleFest (US Tecmo);MAME (Libretro);wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;wwfwfest;;;
+wwfwfestj;WWF WrestleFest (Japan);Arcade;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestj;WWF WrestleFest (Japan);Final Burn Alpha;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestj;WWF WrestleFest (Japan);MAME (Libretro);wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;wwfwfest;;;
+wwfwfestk;WWF WrestleFest (Korea);Arcade;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestk;WWF WrestleFest (Korea);Final Burn Alpha;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+zingzip;Zing Zing Zip;Arcade;;1992;Allumer / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+zingzip;Zing Zing Zip;Final Burn Alpha;;1992;Allumer / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+zingzip;Zing Zing Zip;MAME (Advance);;1992;Allumer / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+zingzip;Zing Zing Zip;MAME (Libretro);;1992;Allumer / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+zingzip;Zing Zing Zip;MAME (Mame4all);;1992;Allumer / Tecmo;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2

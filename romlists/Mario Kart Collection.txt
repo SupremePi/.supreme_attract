@@ -1,0 +1,4 @@
+Mario Kart - Super Circuit (USA);Mario Kart - Super Circuit (USA);Nintendo Game Boy Advance;;2006;Nintendo;Driving;;;;;0;;;;;
+Mario Kart 64 (USA);Mario Kart 64 (USA);Nintendo 64;;1997;Nintendo;Driving;;;;;0;;;;;
+Mario Kart DS (USA) (En,Fr,De,Es,It);Mario Kart DS;Nintendo DS;;;;;;;;;0;;;;;
+Super Mario Kart (USA);Super Mario Kart (USA);Super Nintendo Entertainment System;;1992;Nintendo;Driving;;;;;0;;;;;

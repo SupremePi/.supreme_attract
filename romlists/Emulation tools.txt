@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
++Start-Amiberry;+Start Amiberry Emulator;Emulation tools;;;;;;;;;;;;;;
++Start-DOSBox;+Start DOSBox Emulator;Emulation tools;;;;;;;;;;;;;;
++Start DOSBox-SDL2;+Start DOSBox-SDL2 Emulator;Emulation tools;;;;;;;;;;;;;;
++Start Fuse;+Start Fuse Emulator;Emulation tools;;;;;;;;;;;;;;
++Start-Reicast;+Start Reicast Emulator;Emulation tools;;;;;;;;;;;;;;							
++Start-ResidualVM;+Start ResidualVM Emulator;Emulation tools;;;;;;;;;;;;;;
++Start-ScummVM;+Start ScummVM Emulator;Emulation tools;;;;;;;;;;;;;;
++Start UAE4All;+Start UAE4All Emulator;Emulation tools;;;;;;;;;;;;;;
++Start UAE4Arm;+Start UAE4Arm Emulator;Emulation tools;;;;;;;;;;;;;;
+configedit;Config edition;Emulation tools;;;;;;;;;;;;;;
+emulator;Emulator Information;Emulation tools;;;;;;;;;;;;;;
+n64tweaks;N64 Emulator tweak;Emulation tools;;;;;;;;;;;;;;
+openborautoconfig;OpenBor Auto Config;Emulation tools;;;;;;;;;;;;;;
+openbormoduleselectionscript;OpenBor Module Selection;Emulation tools;;;;;;;;;;;;;;
+retroarch;Retroarch;Emulation tools;;;;;;;;;;;;;;

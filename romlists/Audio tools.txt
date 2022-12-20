@@ -1,0 +1,9 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+#audiomono;Audio Mono/Stereo;Audio tools;;;;;;;;;;;;;;
+audiosettings;Audio Settings;Audio tools;;;;;;;;;;;;;;
+backgroundmusic;Background Music;Audio tools;;;;;;;;;;;;;;
+NoAudioFix-TrythisFirst;No Audio Fix Try this First;
+#NoAudioForce720p;No Audio Force 720p;Audio tools;;;;;;;;;;;;;;
+#NoAudioForce1080p;No Audio Force 1080p;Audio tools;;;;;;;;;;;;;;
+#jukebox;Jukebox;Audio tools;;;;;;;;;;;;;;Audio tools;;;;;;;;;;;;;;
+#jukeboxconfigure;Jukebox Setup;Audio tools;;;;;;;;;;;;;;

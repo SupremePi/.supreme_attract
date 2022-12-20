@@ -1,0 +1,28 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+batsugun;Batsugun (set 1);Arcade;;1993;Toaplan;Shooter/Flying;;;;;0;;;;;
+demonwld;Demon's World / Horror Story (set 1);Arcade;;1990;Toaplan;Platform;;;;;0;;;;;
+dogyuun;Dogyuun;Arcade;;1992;Toaplan;Shooter/Flying;;;;;0;;;;;
+fireshrk;Fire Shark;Arcade;;1990;Toaplan;Shooter/Flying;;;;;0;;;;;
+fixeight;FixEight;Arcade;;1992;Toaplan;Shooter;;;;;0;;;;;
+fshark;Flying Shark (World);Arcade;;1987;Toaplan / Taito Corporation;Shooter/Flying;;;;;0;;;;;
+ghox;Ghox (Spinner with Up/Down Axis);Arcade;;1991;Toaplan;Breakout;;;;;0;;;;;
+grindstm;Grind Stormer;Arcade;vfive;1992;Toaplan;Shooter/Flying;;;;;0;;;;;
+getstar;Guardian (US);Arcade;;1986;Toaplan / Taito America Corporation (Kitkorp license);Fighter;;;;;0;;;;;
+hellfire;Hellfire (2P Ver.);Arcade;;1989;Toaplan (Taito license);Shooter/Flying;;;;;0;;;;;
+kbash;Knuckle Bash;Arcade;;1993;Toaplan;Fighter;;;;;0;;;;;
+kbash2;Knuckle Bash 2 (bootleg);Arcade;;1999;bootleg;Fighter;;;;;0;;;;;
+mjsister;Mahjong Sisters (Japan);Arcade;;1986;Toaplan;Tabletop/Mahjong/Mature;;;;;0;;;;;
+outzone;Out Zone (set 1);Arcade;;1990;Toaplan;Shooter;;;;;0;;;;;
+pyros;Pyros (US);Arcade;wardner;1987;Toaplan / Taito America Corporation;Platform;;;;;0;;;;;
+rallybik;Rally Bike / Dash Yarou;Arcade;;1988;Toaplan / Taito Corporation;Driving;;;;;0;;;;;
+skyshark;Sky Shark (US);Arcade;fshark;1987;Toaplan / Taito America Corporation (Romstar license);Shooter/Flying;;;;;0;;;;;
+snowbros;Snow Bros. - Nick & Tom (set 1);Arcade;;1990;Toaplan;Platform;;;;;0;;;;;
+snowbro2;Snow Bros. 2 - With New Elves / Otenki Paradise;Arcade; ;1994 ;Toaplan / Hanafram;Platform;;;;;0;;;;;
+tekipaki;Teki Paki;Arcade;;1991;Toaplan;Puzzle;;;;;0;;;;;
+tigerh;Tiger Heli (US);Arcade;;1985;Toaplan / Taito America Corp.;Shooter/Flying;;;;;0;;;;;
+truxton;Truxton / Tatsujin;Arcade;;1988;Toaplan / Taito Corporation;Shooter/Flying;;;;;0;;;;;
+truxton2;Truxton II / Tatsujin Oh;Arcade;;1992;Toaplan;Shooter/Flying;;;;;0;;;;;
+twincobr;Twin Cobra (World);Arcade;;1987;Toaplan / Taito Corporation;Shooter/Flying;;;;;0;;;;;
+twinhawk;Twin Hawk (World);Arcade;;1989;Toaplan / Taito Corporation Japan;Shooter/Flying;;;;;0;;;;;
+vimana;Vimana;Arcade;;1991;Toaplan;Shooter/Flying;;;;;0;;;;;
+zerowing;Zero Wing (single players);Arcade;;1989;Toaplan;Shooter/Flying;;;;;0;;;;;

@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+Armor..Attack (World);Armor..Attack (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Bedlam (USA, Europe);Bedlam (USA, Europe);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Berzerk (World);Berzerk (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Blitz! - Action Football (USA, Europe) (0F11CE0C);Blitz! - Action Football (USA, Europe) (0F11CE0C);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Clean Sweep (World);Clean Sweep (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Cosmic Chasm (World);Cosmic Chasm (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Fortress of Narzod (USA, Europe);Fortress of Narzod (USA, Europe);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Heads-Up - Action Soccer (USA);Heads-Up - Action Soccer (USA);GCE Vectrex;;;;;;;;;;;;;;;;;;
+HyperChase - Auto Race (World);HyperChase - Auto Race (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Mine Storm (World);Mine Storm (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Mine Storm II (USA) (Rev 2);Mine Storm II (USA) (Rev 2);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Polar Rescue (USA);Polar Rescue (USA);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Pole Position (USA) (A00ED3D6);Pole Position (USA) (A00ED3D6);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Rip Off (World);Rip Off (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Scramble (USA, Europe);Scramble (USA, Europe);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Solar Quest (World);Solar Quest (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Space Wars (World);Space Wars (World);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Spike (USA, Europe);Spike (USA, Europe);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Spin ball (USA);Spin ball (USA);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Star Castle (USA);Star Castle (USA);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Star Ship (Europe);Star Ship (Europe);GCE Vectrex;;;;;;;;;;;;;;;;;;
+Star Trek - The Motion Picture (USA);Star Trek - The Motion Picture (USA);GCE Vectrex;;;;;;;;;;;;;;;;;;
+StarHawk (World);StarHawk (World);GCE Vectrex;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+gwarrior;Galactic Warriors;MAME (Advance); ;1985;Konami;Fighter;;;;;0;;;;;
+gradius;Gradius;MAME (Advance);nemesis;1985;Konami;Shooter;;;;;0;;;;;
+hcrash;Hyper Crash (version D);MAME (Advance); ;1987;Konami;Driving;;;;;0;;;;;
+rf2;Konami RF2 - Red Fighter;MAME (Advance);konamigt;1985;Konami;Driving;;;;;0;;;;;
+twinbee;TwinBee;MAME (Advance); ;1985;Konami;Shooter;;;;;0;;;;;
+gwarrior;Galactic Warriors;MAME (Libretro); ;1985;Konami;Fighter;;;;;0;;;;;
+gradius;Gradius;MAME (Libretro);nemesis;1985;Konami;Shooter;;;;;0;;;;;
+hcrash;Hyper Crash (version D);MAME (Libretro); ;1987;Konami;Driving;;;;;0;;;;;
+rf2;Konami RF2 - Red Fighter;MAME (Libretro);konamigt;1985;Konami;Driving;;;;;0;;;;;
+twinbee;TwinBee;MAME (Libretro); ;1985;Konami;Shooter;;;;;0;;;;;
+gwarrior;Galactic Warriors;MAME (Mame4all); ;1985;Konami;Fighter;;;;;0;;;;;
+gradius;Gradius;MAME (Mame4all);nemesis;1985;Konami;Shooter;;;;;0;;;;;
+hcrash;Hyper Crash (version D);MAME (Mame4all); ;1987;Konami;Driving;;;;;0;;;;;
+rf2;Konami RF2 - Red Fighter;MAME (Mame4all);konamigt;1985;Konami;Driving;;;;;0;;;;;
+twinbee;TwinBee;MAME (Mame4all); ;1985;Konami;Shooter;;;;;0;;;;;
+gwarrior;Galactic Warriors;Arcade; ;1985;Konami;Fighter;;;;;0;;;;;
+gradius;Gradius;Arcade;nemesis;1985;Konami;Shooter;;;;;0;;;;;
+hcrash;Hyper Crash (version D);Arcade; ;1987;Konami;Driving;;;;;0;;;;;
+rf2;Konami RF2 - Red Fighter;Arcade;konamigt;1985;Konami;Driving;;;;;0;;;;;
+twinbee;TwinBee;Arcade; ;1985;Konami;Shooter;;;;;0;;;;;
+gwarrior;Galactic Warriors;Final Burn Alpha; ;1985;Konami;Fighter;;;;;0;;;;;
+gradius;Gradius;Final Burn Alpha;nemesis;1985;Konami;Shooter;;;;;0;;;;;
+hcrash;Hyper Crash (version D);Final Burn Alpha; ;1987;Konami;Driving;;;;;0;;;;;
+rf2;Konami RF2 - Red Fighter;Final Burn Alpha;konamigt;1985;Konami;Driving;;;;;0;;;;;
+twinbee;TwinBee;Final Burn Alpha; ;1985;Konami;Shooter;;;;;0;;;;;

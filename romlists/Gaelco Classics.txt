@@ -1,0 +1,119 @@
+aligator;Alligator Hunt;Arcade;;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+aligator;Alligator Hunt;Final Burn Alpha;;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+aligator;Alligator Hunt;MAME (Advance);;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+aligator;Alligator Hunt;MAME (Libretro);;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+aligatorun;Alligator Hunt (unprotected);Arcade;aligator;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);good;1;raster;aligator;;;3
+aligatorun;Alligator Hunt (unprotected);Final Burn Alpha;aligator;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way);good;1;raster;aligator;;;3
+aligatorun;Alligator Hunt (unprotected);MAME (Libretro);aligator;1994;Gaelco;Shooter / 3rd Person;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;aligator;;;
+bang;Bang!;Arcade;;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;Final Burn Alpha;;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;MAME (Advance);;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bang;Bang!;MAME (Libretro);;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;;;;1
+bangj;Gun Gabacho (Japan);Arcade;bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);Final Burn Alpha;bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);MAME (Advance);bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bangj;Gun Gabacho (Japan);MAME (Libretro);bang;1998;Gaelco;Shooter / Gun;2P sim;0;lightgun;good;1;raster;bang;;;1
+bigkarnk;Big Karnak;Arcade;;1991;Gaelco;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+bigkarnk;Big Karnak;Final Burn Alpha;;1991;Gaelco;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+bigkarnk;Big Karnak;MAME (Advance);;1991;Gaelco;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+bigkarnk;Big Karnak;MAME (Libretro);;1991;Gaelco;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+bigkarnk;Big Karnak;MAME (Mame4all);;1991;Gaelco;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+biomtoya;Biomechanical Toy (Ver. 1.0.1884);Arcade;biomtoy;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;biomtoy;;;2
+biomtoya;Biomechanical Toy (Ver. 1.0.1884);Final Burn Alpha;biomtoy;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;biomtoy;;;2
+biomtoy;Biomechanical Toy (Ver. 1.0.1885);Arcade;;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;;;;2
+biomtoy;Biomechanical Toy (Ver. 1.0.1885);Final Burn Alpha;;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;;;;2
+biomtoy;Biomechanical Toy (Ver. 1.0.1885);MAME (Advance);;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;;;;2
+biomtoy;Biomechanical Toy (Ver. 1.0.1885);MAME (Libretro);;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;;;;2
+biomtoy;Biomechanical Toy (Ver. 1.0.1885);MAME (Mame4all);;1995;Gaelco;Platform / Shooter Scrolling;1P;0;joystick (8-way);good;1;raster;;;;2
+glass10;Glass (Ver 1.0);Arcade;glass;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;glass;;;3
+glass10;Glass (Ver 1.0, Break Edition) (set 1);MAME (Libretro);glass;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;glass;;;
+glass10;Glass (Ver 1.0);MAME (Advance);glass;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;glass;;;3
+glass;Glass (Ver 1.1);Arcade;;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+glass;Glass (Ver 1.1);MAME (Advance);;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+glass;Glass (Ver 1.1);MAME (Libretro);;1993;OMK / Gaelco;Shooter / Field * Mature *;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+maniacsp;Maniac Square (prototype);Arcade;maniacsq;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;maniacsq;;;2
+maniacsp;Maniac Square (prototype);Final Burn Alpha;maniacsq;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;maniacsq;;;2
+maniacsp;Maniac Square (prototype);MAME (Advance);maniacsq;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;maniacsq;;;2
+maniacsp;Maniac Square (prototype);MAME (Libretro);maniacsq;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;maniacsq;;;2
+maniacsq;Maniac Square (unprotected);Arcade;;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;1
+maniacsq;Maniac Square (unprotected);Final Burn Alpha;;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;1
+maniacsq;Maniac Square (unprotected);MAME (Advance);;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;1
+maniacsq;Maniac Square (unprotected);MAME (Libretro);;1996;Gaelco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;1
+mastboyi;Master Boy (Italian, PCB Rev A);Arcade;mastboy;1991;Gaelco;Quiz / Italian;2P sim;0;;good;1;raster;mastboy;;;2
+mastboyi;Master Boy (Italian, PCB Rev A);MAME (Advance);mastboy;1991;Gaelco;Quiz / Italian;2P sim;0;;good;1;raster;mastboy;;;2
+mastboyi;Master Boy (Italian, PCB Rev A, set 1);MAME (Libretro);mastboy;1991;Gaelco;Quiz / Italian;2P sim;0;only_buttons,only_buttons;good;1;raster;mastboy;;;
+mastboy;Master Boy (Spanish, PCB Rev A);Arcade;;1991;Gaelco;Quiz / Spanish;2P sim;0;;good;1;raster;;;;2
+mastboy;Master Boy (Spanish, PCB Rev A);MAME (Advance);;1991;Gaelco;Quiz / Spanish;2P sim;0;;good;1;raster;;;;2
+mastboy;Master Boy (Spanish, PCB Rev A);MAME (Libretro);;1991;Gaelco;Quiz / Spanish;2P sim;0;only_buttons,only_buttons;good;1;raster;;;;
+paintlad;Painted Lady (Splash) (Ver. 1.3 US);Arcade;splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;splash;;;2
+paintlad;Painted Lady (Splash) (Ver. 1.3 US);MAME (Advance);splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;splash;;;2
+paintlad;Painted Lady (Splash) (Ver. 1.3 US);MAME (Libretro);splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;splash;;;
+radikalb;Radikal Bikers (Version 2.02);Arcade;;1998;Gaelco;Driving / Race (chase view) Bike;1P;0;joystick (1-way),paddle;imperfect;1;raster;;;;3
+radikalb;Radikal Bikers (Version 2.02);MAME (Advance);;1998;Gaelco;Driving / Race (chase view) Bike;1P;0;joystick (1-way),paddle;imperfect;1;raster;;;;3
+radikalb;Radikal Bikers (Version 2.02);MAME (Libretro);;1998;Gaelco;Driving / Race (chase view) Bike;1P;0;joystick (1-way),paddle;imperfect;1;raster;;;;
+snowboara;Snow Board Championship (Version 2.0);Arcade;snowboar;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;snowboar;;;3
+snowboara;Snow Board Championship (Version 2.0);Final Burn Alpha;snowboar;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;snowboar;;;3
+snowboara;Snow Board Championship (Version 2.0);MAME (Libretro);snowboar;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;snowboar;;;
+snowboar;Snow Board Championship (Version 2.1);Arcade;;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;;;;3
+snowboar;Snow Board Championship (Version 2.1);Final Burn Alpha;;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;;;;3
+snowboar;Snow Board Championship (Version 2.1);MAME (Advance);;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;;;;3
+snowboar;Snow Board Championship (Version 2.1);MAME (Libretro);;1996;Gaelco;Sports / Skiing;2P alt;0;joystick (8-way);preliminary;1;raster;;;;3
+speedup;Speed Up (Version 1.20);Arcade;;1996;Gaelco;Driving / Race (chase view);1P;0;paddle,pedal;imperfect;1;raster;;;;5
+speedup;Speed Up (Version 1.20);MAME (Advance);;1996;Gaelco;Driving / Race (chase view);1P;0;paddle,pedal;imperfect;1;raster;;;;5
+speedup;Speed Up (Version 1.20);MAME (Libretro);;1996;Gaelco;Driving / Race (chase view);1P;0;paddle,pedal,only_buttons;imperfect;1;raster;;;;
+splash10;Splash! (Ver. 1.0 World);Arcade;splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;splash;;;2
+splash10;Splash! (Ver. 1.0 World);MAME (Advance);splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;splash;;;2
+splash10;Splash! (Ver. 1.0 World);MAME (Libretro);splash;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;splash;;;
+splash;Splash! (Ver. 1.2 World);Arcade;;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+splash;Splash! (Ver. 1.2 World);MAME (Advance);;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+splash;Splash! (Ver. 1.2 World);MAME (Libretro);;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+splash;Splash! (Ver. 1.2 World);MAME (Mame4all);;1992;Gaelco / OMK Software;Misc. * Mature *;2P sim;0;joystick (8-way);good;1;raster;;;;2
+squash;Squash (Ver. 1.0);Arcade;;1992;Gaelco;Sports / Tennis;2P sim;0;joystick (8-way);good;1;raster;;;;2
+squash;Squash (Ver. 1.0);Final Burn Alpha;;1992;Gaelco;Sports / Tennis;2P sim;0;joystick (8-way);good;1;raster;;;;2
+squash;Squash (Ver. 1.0);MAME (Advance);;1992;Gaelco;Sports / Tennis;2P sim;0;joystick (8-way);good;1;raster;;;;2
+squash;Squash (Ver. 1.0);MAME (Libretro);;1992;Gaelco;Sports / Tennis;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+surfplnt40;Surf Planet (Version 4.0);MAME (Libretro);surfplnt;1997;Gaelco;Sports / Skiing;1P;0;paddle;imperfect;1;raster;surfplnt;;;
+surfplnt;Surf Planet (Version 4.1);Arcade;;1997;Gaelco;Sports / Skiing;1P;0;paddle;imperfect;1;raster;;;;
+surfplnt;Surf Planet (Version 4.1);MAME (Advance);;1997;Gaelco;Sports / Skiing;1P;0;paddle;imperfect;1;raster;;;;
+surfplnt;Surf Planet (Version 4.1);MAME (Libretro);;1997;Gaelco;Sports / Skiing;1P;0;paddle;imperfect;1;raster;;;;
+targetha;Target Hits (ver 1.0);MAME (Libretro);targeth;1994;Gaelco;Shooter / Gun;???;0;lightgun,lightgun;preliminary;1;raster;targeth;;;
+targeth;Target Hits (ver 1.1);Arcade;;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+targeth;Target Hits (ver 1.1);MAME (Advance);;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+targeth;Target Hits (ver 1.1);MAME (Libretro);;1994;Gaelco;Shooter / Gun;2P sim;0;lightgun;preliminary;1;raster;;;;2
+thoop2;TH Strikes Back;Arcade;;1994;Gaelco;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+thoop2;TH Strikes Back;MAME (Advance);;1994;Gaelco;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+thoop2;TH Strikes Back;MAME (Libretro);;1994;Gaelco;Platform / Shooter Scrolling;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+thoop;Thunder Hoop (Ver. 1);Arcade;;1992;Gaelco;Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+thoop;Thunder Hoop (Ver. 1);Final Burn Alpha;;1992;Gaelco;Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+thoop;Thunder Hoop (Ver. 1);MAME (Advance);;1992;Gaelco;Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+thoop;Thunder Hoop (Ver. 1);MAME (Libretro);;1992;Gaelco;Platform / Shooter Scrolling;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+touchgoe;Touch & Go (earlier revision);Arcade;touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgoe;Touch & Go (earlier revision);Final Burn Alpha;touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgoe;Touch & Go (earlier revision);MAME (Advance);touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgoe;Touch & Go (earlier revision);MAME (Libretro);touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;2;raster;touchgo;;;
+touchgon;Touch & Go (Non North America);Arcade;touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgon;Touch & Go (Non North America);Final Burn Alpha;touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgon;Touch & Go (Non North America);MAME (Advance);touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;touchgo;;;3
+touchgon;Touch & Go (Non North America);MAME (Libretro);touchgo;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;2;raster;touchgo;;;
+touchgo;Touch & Go (World);Arcade;;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;;;;3
+touchgo;Touch & Go (World);Final Burn Alpha;;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;;;;3
+touchgo;Touch & Go (World);MAME (Advance);;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;;;;3
+touchgo;Touch & Go (World);MAME (Libretro);;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way);preliminary;2;raster;;;;3
+wrally2;World Rally 2: Twin Racing;Arcade;;1995;Gaelco;Driving / Race;2P sim;0;joystick (8-way),paddle;preliminary;2;raster;;;;2
+wrally2;World Rally 2: Twin Racing;MAME (Advance);;1995;Gaelco;Driving / Race;2P sim;0;joystick (8-way),paddle;preliminary;2;raster;;;;2
+wrally2;World Rally 2: Twin Racing;MAME (Libretro);;1995;Gaelco;Driving / Race;2P sim;0;joystick (8-way),paddle;preliminary;2;raster;;;;2
+wrallya;World Rally (set 2);Arcade;wrally;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallya;World Rally (set 2);Final Burn Alpha;wrally;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallya;World Rally (set 2);MAME (Advance);wrally;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallya;World Rally (set 2);MAME (Libretro);wrally;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallyb;World Rally (US, 930217);Arcade;wrally;1993;Gaelco (Atari license);Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallyb;World Rally (US, 930217);Final Burn Alpha;wrally;1993;Gaelco (Atari license);Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;wrally;;;2
+wrallyb;World Rally (Version 1.0, Checksum 8AA2);MAME (Libretro);wrally;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial,joystick (8-way);good;1;raster;wrally;;;
+wrally;World Rally (set 1);Arcade;;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;;;;2
+wrally;World Rally (set 1);Final Burn Alpha;;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;;;;2
+wrally;World Rally (set 1);MAME (Advance);;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;;;;2
+wrally;World Rally (set 1);MAME (Libretro);;1993;Gaelco;Driving / Race;2P alt;0;joystick (8-way),dial;good;1;raster;;;;2
+xorworld;Xor World (prototype);Arcade;;1990;Gaelco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+xorworld;Xor World (prototype);Final Burn Alpha;;1990;Gaelco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+xorworld;Xor World (prototype);MAME (Advance);;1990;Gaelco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+xorworld;Xor World (prototype);MAME (Libretro);;1990;Gaelco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2

@@ -1,0 +1,18 @@
+Battletoads [CD32];Battletoads [CD32];Commodore Amiga CD32;;1994;;Platform;1 - 2 (2);;;;0;;;;;
+Battletoads-Double Dragon (USA);Battletoads-Double Dragon (USA);Nintendo Entertainment System;;1993;Tradewest;Beat-'Em-Up;;;;;0;;;;;
+Battletoads-Double Dragon (USA);Battletoads-Double Dragon (USA);Nintendo Game Boy;;1993;Tradewest;Beat-'Em-Up;;;;;0;;;;;
+Battletoads & Double Dragon (USA);Battletoads & Double Dragon (USA);Sega Genesis;;1993;Rare;Beat-'Em-Up;;;;;0;;;;;
+Battletoads & Double Dragon (USA);Battletoads & Double Dragon (USA);Super Nintendo Entertainment System;;1993;Tradewest;Platform;;;;;0;;;;;
+Battletoads in Battlemaniacs (USA);Battletoads in Battlemaniacs (USA);Super Nintendo Entertainment System;;1993;Tradewest;Fighter;;;;;0;;;;;
+Battletoads in Ragnarok's World (USA);Battletoads in Ragnarok's World (USA);Nintendo Game Boy;;1993;Tradewest;Beat-'Em-Up;;;;;0;;;;;
+Battletoads (USA);Battletoads (USA);Nintendo Entertainment System;;1991;Tradewest;Beat-'Em-Up;;;;;0;;;;;
+Battletoads (USA);Battletoads (USA);Sega Game Gear;;1993;Sega;Beat-'Em-Up;;;;;0;;;;;
+Battletoads (USA, Europe);Battletoads (USA, Europe);Nintendo Game Boy;;1991;Messiah;Beat-'Em-Up;;;;;0;;;;;
+Battletoads_v1.2_1816;Battletoads;Commodore Amiga;;;;;;;;;0;;;;;
+Battletoads (World);Battletoads (World);Sega Genesis;;1991;Rare;Beat-'Em-Up;;;;;0;;;;;
+btoads;Battletoads;Arcade;;1994;Rare / Electronic Arts;Fighter / 2.5D;;;;;0;;;;;
+btoads;Battletoads;MAME (Advance);;1994;Rare / Electronic Arts;Fighter / 2.5D;;;;;0;;;;;
+btoads;Battletoads;MAME (Libretro);;1994;Rare / Electronic Arts;Fighter / 2.5D;;;;;0;;;;;
+btoads;Battletoads;MAME (Mame4all);;1994;Rare / Electronic Arts;Fighter / 2.5D;;;;;0;;;;;
+btoads;Battletoads (World);Final Burn Alpha;;1991;Tradewest;;;;;;0;;;;;
+btoadsdd;Battletoads & Double Dragon - The Ultimate Team (USA);Final Burn Alpha;;1993;Tradewest;;;;;;0;;;;;

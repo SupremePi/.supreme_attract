@@ -1,0 +1,266 @@
+alphaonea;Alpha One (prototype, 5 lives);MAME (Libretro);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;
+alphaone;Alpha One (prototype, 3 lives);Arcade;mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;1
+alphaone;Alpha One (prototype, 3 lives);MAME (Advance);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;1
+alphaone;Alpha One (prototype, 3 lives);MAME (Libretro);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;1
+armora;Armor Attack;Arcade;;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+armora;Armor Attack;MAME (Advance);;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+armora;Armor Attack;MAME (Libretro);;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+armora;Armor Attack;MAME (Mame4all);;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+armorap;Armor Attack (prototype);Arcade;armora;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+armorap;Armor Attack (prototype);MAME (Advance);armora;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+armorap;Armor Attack (prototype);MAME (Libretro);armora;1980;Cinematronics;Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+armorar;Armor Attack (Rock-Ola);Arcade;armora;1980;Cinematronics (Rock-Ola license);Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+armorar;Armor Attack (Rock-Ola);MAME (Advance);armora;1980;Cinematronics (Rock-Ola license);Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+armorar;Armor Attack (Rock-Ola);MAME (Libretro);armora;1980;Cinematronics (Rock-Ola license);Maze / Shooter Small;2P sim;180;joystick (2-way);imperfect;1;vector;armora;;;2
+astdelux1;Asteroids Deluxe (rev 1);MAME (Libretro);astdelux;1980;Atari;Shooter / Field;2P alt;0;only_buttons;good;1;vector;astdelux;;;
+astdelux2;Asteroids Deluxe (rev 2);MAME (Libretro);astdelux;1980;Atari;Shooter / Field;2P alt;0;only_buttons;good;1;vector;astdelux;;;
+astdelux;Asteroids Deluxe (rev 3);Arcade;;1980;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+astdelux;Asteroids Deluxe (rev 3);MAME (Advance);;1980;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+astdelux;Asteroids Deluxe (rev 3);MAME (Libretro);;1980;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+astdelux;Asteroids Deluxe (rev 3);MAME (Mame4all);;1980;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+asterock;Asterock (Sidam bootleg of Asteroids);Arcade;asteroid;1979;bootleg (Sidam);Shooter / Field;2P alt;0;;good;1;vector;asteroid;;;5
+asterock;Asterock (Sidam bootleg of Asteroids);MAME (Advance);asteroid;1979;bootleg (Sidam);Shooter / Field;2P alt;0;;good;1;vector;asteroid;;;5
+asterock;Asterock (Sidam bootleg of Asteroids);MAME (Libretro);asteroid;1979;bootleg (Sidam);Shooter / Field;2P alt;0;;good;1;vector;asteroid;;;5
+asteroid1;Asteroids (rev 1);MAME (Libretro);asteroid;1979;Atari;Shooter / Field;2P alt;0;only_buttons;good;1;vector;asteroid;;;
+asteroid2;Asteroids (rev 2);MAME (Libretro);asteroid;1979;Atari;Shooter / Field;2P alt;0;only_buttons;good;1;vector;asteroid;;;
+asteroid;Asteroids (rev 4);Arcade;;1979;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+asteroid;Asteroids (rev 4);MAME (Advance);;1979;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+asteroid;Asteroids (rev 4);MAME (Libretro);;1979;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+asteroid;Asteroids (rev 4);MAME (Mame4all);;1979;Atari;Shooter / Field;2P alt;0;;good;1;vector;;;;5
+asteroidb;Asteroids (bootleg on Lunar Lander hardware);MAME (Libretro);asteroid;1979;bootleg;Shooter / Field;2P alt;0;only_buttons;good;1;vector;asteroid;;;
+aztarac;Aztarac;Arcade;;1983;Centuri;Shooter / Field;2P alt;0;joystick (analog),dial;good;1;vector;;;;2
+aztarac;Aztarac;Final Burn Alpha;;1983;Centuri;Shooter / Field;2P alt;0;joystick (analog),dial;good;1;vector;;;;2
+aztarac;Aztarac;MAME (Advance);;1983;Centuri;Shooter / Field;2P alt;0;joystick (analog),dial;good;1;vector;;;;2
+aztarac;Aztarac;MAME (Libretro);;1983;Centuri;Shooter / Field;2P alt;0;joystick (analog),dial;good;1;vector;;;;2
+aztarac;Aztarac;MAME (Mame4all);;1983;Centuri;Shooter / Field;2P alt;0;joystick (analog),dial;good;1;vector;;;;2
+barrier;Barrier;Arcade;;1979;Cinematronics (Vectorbeam license);Puzzle / Misc.;2P alt;270;joystick (4-way);imperfect;1;vector;;;;
+barrier;Barrier;MAME (Advance);;1979;Cinematronics (Vectorbeam license);Puzzle / Misc.;2P alt;270;joystick (4-way);imperfect;1;vector;;;;
+barrier;Barrier;MAME (Libretro);;1979;Cinematronics (Vectorbeam license);Puzzle / Misc.;2P alt;270;joystick (4-way);imperfect;1;vector;;;;
+barrier;Barrier;MAME (Mame4all);;1979;Cinematronics (Vectorbeam license);Puzzle / Misc.;2P alt;270;joystick (4-way);imperfect;1;vector;;;;
+boxingb;Boxing Bugs;Arcade;;1981;Cinematronics;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;3
+boxingb;Boxing Bugs;MAME (Advance);;1981;Cinematronics;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;3
+boxingb;Boxing Bugs;MAME (Libretro);;1981;Cinematronics;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;3
+boxingb;Boxing Bugs;MAME (Mame4all);;1981;Cinematronics;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;3
+bradley;Bradley Trainer;Arcade;;1980;Atari;Shooter / 1st Person;1P;0;joystick (analog);good;1;vector;;;;10
+bradley;Bradley Trainer;MAME (Advance);;1980;Atari;Shooter / 1st Person;1P;0;joystick (analog);good;1;vector;;;;10
+bradley;Bradley Trainer;MAME (Libretro);;1980;Atari;Shooter / 1st Person;1P;0;joystick (analog);good;1;vector;;;;10
+bwidow;Black Widow;Arcade;;1982;Atari;Shooter / Field;2P alt;0;double joystick;good;1;vector;;;;
+bwidow;Black Widow;MAME (Advance);;1982;Atari;Shooter / Field;2P alt;0;double joystick;good;1;vector;;;;
+bwidow;Black Widow;MAME (Libretro);;1982;Atari;Shooter / Field;2P alt;0;double joystick;good;1;vector;;;;
+bwidow;Black Widow;MAME (Mame4all);;1982;Atari;Shooter / Field;2P alt;0;double joystick;good;1;vector;;;;
+bzone;Battle Zone (rev 2);Arcade;;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;;;;1
+bzone;Battle Zone (rev 2);MAME (Advance);;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;;;;1
+bzone;Battle Zone (rev 2);MAME (Libretro);;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;;;;1
+bzone;Battle Zone (rev 2);MAME (Mame4all);;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;;;;1
+bzonec;Battle Zone (cocktail);Arcade;bzone;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;bzone;;;1
+bzonec;Battle Zone (cocktail);MAME (Advance);bzone;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;bzone;;;1
+bzonec;Battle Zone (cocktail);MAME (Libretro);bzone;1980;Atari;Shooter / Driving 1st Person;1P;0;double joystick;good;1;vector;bzone;;;1
+cchasm1;Cosmic Chasm (set 2);Arcade;cchasm;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;cchasm;;;3
+cchasm1;Cosmic Chasm (set 2);MAME (Advance);cchasm;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;cchasm;;;3
+cchasm1;Cosmic Chasm (set 2);MAME (Libretro);cchasm;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;cchasm;;;3
+cchasm1;Cosmic Chasm (set 2);MAME (Mame4all);cchasm;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;cchasm;;;3
+cchasm;Cosmic Chasm (set 1);Arcade;;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;;;;3
+cchasm;Cosmic Chasm (set 1);MAME (Advance);;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;;;;3
+cchasm;Cosmic Chasm (set 1);MAME (Libretro);;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;;;;3
+cchasm;Cosmic Chasm (set 1);MAME (Mame4all);;1983;Cinematronics / GCE;Shooter / Field;2P alt;270;dial;good;1;vector;;;;3
+deltrace;Delta Race;Arcade;omegrace;1981;bootleg (Allied Leisure);Shooter / Field;2P alt;0;dial;good;1;vector;omegrace;;;2
+deltrace;Delta Race;MAME (Advance);omegrace;1981;bootleg (Allied Leisure);Shooter / Field;2P alt;0;dial;good;1;vector;omegrace;;;2
+deltrace;Delta Race;MAME (Libretro);omegrace;1981;bootleg (Allied Leisure);Shooter / Field;2P alt;0;dial;good;1;vector;omegrace;;;2
+demon;Demon;Arcade;;1982;Rock-Ola;Shooter / Field;2P sim;180;joystick (2-way);good;1;vector;;;;3
+demon;Demon;MAME (Advance);;1982;Rock-Ola;Shooter / Field;2P sim;180;joystick (2-way);good;1;vector;;;;3
+demon;Demon;MAME (Libretro);;1982;Rock-Ola;Shooter / Field;2P sim;180;joystick (2-way);good;1;vector;;;;3
+demon;Demon;MAME (Mame4all);;1982;Rock-Ola;Shooter / Field;2P sim;180;joystick (2-way);good;1;vector;;;;3
+elim2a;Eliminator (2 Players, set 2);Arcade;elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2a;Eliminator (2 Players, set 2);MAME (Advance);elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2a;Eliminator (2 Players, set 2);MAME (Libretro);elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2a;Eliminator (2 Players, set 2);MAME (Mame4all);elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2c;Eliminator (2 Players, cocktail);Arcade;elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2c;Eliminator (2 Players, cocktail);MAME (Advance);elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim2c;Eliminator (2 Players, cocktail);MAME (Libretro);elim2;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way),joystick (2-way);imperfect;1;vector;elim2;;;
+elim2;Eliminator (2 Players, set 1);Arcade;;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+elim2;Eliminator (2 Players, set 1);MAME (Advance);;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+elim2;Eliminator (2 Players, set 1);MAME (Libretro);;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+elim2;Eliminator (2 Players, set 1);MAME (Mame4all);;1981;Gremlin;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+elim4;Eliminator (4 Players);Arcade;elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4;Eliminator (4 Players);MAME (Advance);elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4;Eliminator (4 Players);MAME (Libretro);elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4;Eliminator (4 Players);MAME (Mame4all);elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4p;Eliminator (4 Players, prototype);Arcade;elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4p;Eliminator (4 Players, prototype);MAME (Advance);elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way);imperfect;1;vector;elim2;;;2
+elim4p;Eliminator (4 Players, prototype);MAME (Libretro);elim2;1981;Gremlin;Shooter / Field;4P sim;180;joystick (2-way),joystick (2-way),joystick (2-way),joystick (2-way);imperfect;1;vector;elim2;;;
+esb;The Empire Strikes Back;Arcade;;1985;Atari Games;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+esb;The Empire Strikes Back;MAME (Advance);;1985;Atari Games;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+esb;The Empire Strikes Back;MAME (Libretro);;1985;Atari Games;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+esb;The Empire Strikes Back;MAME (Mame4all);;1985;Atari Games;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+gravitar2;Gravitar (version 2);MAME (Libretro);gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;
+gravitar;Gravitar (version 3);Arcade;;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;;;;3
+gravitar;Gravitar (version 3);MAME (Advance);;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;;;;3
+gravitar;Gravitar (version 3);MAME (Libretro);;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;;;;3
+gravitar;Gravitar (version 3);MAME (Mame4all);;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;;;;3
+llander1;Lunar Lander (rev 1);Arcade;llander;1979;Atari;Misc.;1P;0;pedal;good;1;vector;llander;;;3
+llander1;Lunar Lander (rev 1);MAME (Advance);llander;1979;Atari;Misc.;1P;0;pedal;good;1;vector;llander;;;3
+llander1;Lunar Lander (rev 1);MAME (Libretro);llander;1979;Atari;Misc.;1P;0;pedal;good;1;vector;llander;;;3
+llander1;Lunar Lander (rev 1);MAME (Mame4all);llander;1979;Atari;Misc.;1P;0;pedal;good;1;vector;llander;;;3
+llander;Lunar Lander (rev 2);Arcade;;1979;Atari;Misc.;1P;0;pedal;good;1;vector;;;;3
+llander;Lunar Lander (rev 2);MAME (Advance);;1979;Atari;Misc.;1P;0;pedal;good;1;vector;;;;3
+llander;Lunar Lander (rev 2);MAME (Libretro);;1979;Atari;Misc.;1P;0;pedal;good;1;vector;;;;3
+llander;Lunar Lander (rev 2);MAME (Mame4all);;1979;Atari;Misc.;1P;0;pedal;good;1;vector;;;;3
+lunarba1;Lunar Battle (prototype, earlier);Arcade;gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+lunarba1;Lunar Battle (prototype, earlier);MAME (Advance);gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+lunarba1;Lunar Battle (prototype, earlier);MAME (Libretro);gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+lunarbat;Lunar Battle (prototype, later);Arcade;gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+lunarbat;Lunar Battle (prototype, later);MAME (Advance);gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+lunarbat;Lunar Battle (prototype, later);MAME (Libretro);gravitar;1982;Atari;Shooter / Field;2P alt;0;joystick (2-way);good;1;vector;gravitar;;;3
+meteorho;Meteor (bootleg of Asteroids);MAME (Libretro);asteroid;1979;bootleg (Hoei);Shooter / Field;2P alt;0;only_buttons;good;1;vector;asteroid;;;
+meteorts;Meteorites (bootleg of Asteroids);Arcade;asteroid;1979;bootleg (VGG);Shooter / Field;2P alt;0;;good;1;vector;asteroid;;;5
+meteorts;Meteorites (bootleg of Asteroids);MAME (Advance);asteroid;1979;bootleg (VGG);Shooter / Field;2P alt;0;;good;1;vector;asteroid;;;5
+meteorts;Meteorites (bootleg of Asteroids);MAME (Libretro);asteroid;1979;bootleg (VGG);Shooter / Field;2P alt;0;only_buttons;good;1;vector;asteroid;;;
+mhavoc2;Major Havoc (rev 2);Arcade;mhavoc;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavoc2;Major Havoc (rev 2);MAME (Advance);mhavoc;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavoc2;Major Havoc (rev 2);MAME (Libretro);mhavoc;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavoc2;Major Havoc (rev 2);MAME (Mame4all);mhavoc;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavoc;Major Havoc (rev 3);Arcade;;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;;;;2
+mhavoc;Major Havoc (rev 3);MAME (Advance);;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;;;;2
+mhavoc;Major Havoc (rev 3);MAME (Libretro);;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;;;;2
+mhavoc;Major Havoc (rev 3);MAME (Mame4all);;1983;Atari;Shooter / Misc.;2P alt;0;dial;good;1;vector;;;;2
+mhavocp;Major Havoc (prototype);Arcade;mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;2
+mhavocp;Major Havoc (prototype);MAME (Advance);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;2
+mhavocp;Major Havoc (prototype);MAME (Libretro);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;2
+mhavocp;Major Havoc (prototype);MAME (Mame4all);mhavoc;1983;Atari;Shooter / Misc.;1P;0;dial;good;1;vector;mhavoc;;;2
+mhavocrv;Major Havoc (Return to Vax);Arcade;mhavoc;1983;Atari / JMA;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavocrv;Major Havoc (Return to Vax);MAME (Advance);mhavoc;1983;Atari / JMA;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavocrv;Major Havoc (Return to Vax);MAME (Libretro);mhavoc;1983;Atari / JMA;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+mhavocrv;Major Havoc (Return to Vax);MAME (Mame4all);mhavoc;1983;Atari / JMA;Shooter / Misc.;2P alt;0;dial;good;1;vector;mhavoc;;;2
+omegrace;Omega Race (set 1);Arcade;;1981;Midway;Shooter / Field;2P alt;0;dial;good;1;vector;;;;2
+omegrace;Omega Race (set 1);MAME (Advance);;1981;Midway;Shooter / Field;2P alt;0;dial;good;1;vector;;;;2
+omegrace;Omega Race (set 1);MAME (Libretro);;1981;Midway;Shooter / Field;2P alt;0;dial;good;1;vector;;;;2
+omegrace;Omega Race (set 1);MAME (Mame4all);;1981;Midway;Shooter / Field;2P alt;0;dial;good;1;vector;;;;2
+qb3;QB-3 (prototype);Arcade;;1982;Rock-Ola;Shooter / Field;2P alt;180;double joystick;imperfect;1;vector;;;;4
+qb3;QB-3 (prototype);MAME (Advance);;1982;Rock-Ola;Shooter / Field;2P alt;180;double joystick;imperfect;1;vector;;;;4
+qb3;QB-3 (prototype);MAME (Libretro);;1982;Rock-Ola;Shooter / Field;2P alt;180;double joystick;imperfect;1;vector;;;;
+quantum1;Quantum (rev 1);Arcade;quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Advance);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Libretro);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum1;Quantum (rev 1);MAME (Mame4all);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);Arcade;quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Advance);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Libretro);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantump;Quantum (prototype);MAME (Mame4all);quantum;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;quantum;;;
+quantum;Quantum (rev 2);Arcade;;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Advance);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Libretro);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+quantum;Quantum (rev 2);MAME (Mame4all);;1982;General Computer Corporation (Atari license);Puzzle / Outline;2P alt;270;trackball;good;1;vector;;;;
+redbaron;Red Baron (Revised Hardware);Arcade;;1980;Atari;Shooter / Flying 1st Person;1P;0;joystick (4-way),joystick (analog);good;1;vector;;;;1
+redbaron;Red Baron (Revised Hardware);MAME (Advance);;1980;Atari;Shooter / Flying 1st Person;1P;0;joystick (4-way),joystick (analog);good;1;vector;;;;1
+redbaron;Red Baron (Revised Hardware);MAME (Libretro);;1980;Atari;Shooter / Flying 1st Person;1P;0;joystick (4-way),joystick (analog);good;1;vector;;;;1
+redbaron;Red Baron (Revised Hardware);MAME (Mame4all);;1980;Atari;Shooter / Flying 1st Person;1P;0;joystick (4-way),joystick (analog);good;1;vector;;;;1
+ripoff;Rip Off;Arcade;;1980;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+ripoff;Rip Off;MAME (Advance);;1980;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+ripoff;Rip Off;MAME (Libretro);;1980;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+ripoff;Rip Off;MAME (Mame4all);;1980;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;2
+solarq;Solar Quest;Arcade;;1981;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;4
+solarq;Solar Quest;MAME (Advance);;1981;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;4
+solarq;Solar Quest;MAME (Libretro);;1981;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;4
+solarq;Solar Quest;MAME (Mame4all);;1981;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;4
+spacduel;Space Duel (version 2);Arcade;;1980;Atari;Shooter / Field;2P sim;0;joystick (2-way);good;1;vector;;;;3
+spacduel;Space Duel (version 2);MAME (Advance);;1980;Atari;Shooter / Field;2P sim;0;joystick (2-way);good;1;vector;;;;3
+spacduel;Space Duel (version 2);MAME (Libretro);;1980;Atari;Shooter / Field;2P sim;0;joystick (2-way);good;1;vector;;;;3
+spacduel;Space Duel (version 2);MAME (Mame4all);;1980;Atari;Shooter / Field;2P sim;0;joystick (2-way);good;1;vector;;;;3
+spaceftr;Space Fortress (Zaccaria);Arcade;starcas;1981;Cinematronics (Zaccaria license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+spaceftr;Space Fortress (Zaccaria);MAME (Advance);starcas;1981;Cinematronics (Zaccaria license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+spaceftr;Space Fortress (Zaccaria);MAME (Libretro);starcas;1981;Cinematronics (Zaccaria license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;
+spaceshp;Space Ship;MAME (Libretro);spacewar;1978;Cinematronics (Sega license);Shooter / Field;2P sim;180;joystick (2-way),joystick (2-way);imperfect;1;vector;spacewar;;;
+spacewar;Space Wars;Arcade;;1977;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;3
+spacewar;Space Wars;MAME (Advance);;1977;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;3
+spacewar;Space Wars;MAME (Libretro);;1977;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;3
+spacewar;Space Wars;MAME (Mame4all);;1977;Cinematronics;Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;;;;3
+spacfurya;Space Fury (revision A);MAME (Libretro);spacfury;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way),joystick (2-way);imperfect;1;vector;spacfury;;;
+spacfuryb;Space Fury (revision B);MAME (Libretro);spacfury;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way),joystick (2-way);imperfect;1;vector;spacfury;;;
+spacfury;Space Fury (revision C);Arcade;;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+spacfury;Space Fury (revision C);MAME (Advance);;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+spacfury;Space Fury (revision C);MAME (Libretro);;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+spacfury;Space Fury (revision C);MAME (Mame4all);;1981;Sega;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+speedfrk;Speed Freak;Arcade;;1979;Vectorbeam;Driving / 1st Person;1P;180;joystick (8-way),dial;preliminary;1;vector;;;;1
+speedfrk;Speed Freak;MAME (Advance);;1979;Vectorbeam;Driving / 1st Person;1P;180;joystick (8-way),dial;preliminary;1;vector;;;;1
+speedfrk;Speed Freak;MAME (Libretro);;1979;Vectorbeam;Driving / 1st Person;1P;180;joystick (8-way),dial;preliminary;1;vector;;;;1
+speedfrk;Speed Freak;MAME (Mame4all);;1979;Vectorbeam;Driving / 1st Person;1P;180;joystick (8-way),dial;preliminary;1;vector;;;;1
+starcas1;Star Castle (older);Arcade;starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcas1;Star Castle (older);MAME (Advance);starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcas1;Star Castle (older);MAME (Libretro);starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcas1;Star Castle (older);MAME (Mame4all);starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcase;Star Castle (Mottoeis);Arcade;starcas;1980;Cinematronics (Mottoeis license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcase;Star Castle (Mottoeis);MAME (Advance);starcas;1980;Cinematronics (Mottoeis license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcase;Star Castle (Mottoeis);MAME (Libretro);starcas;1980;Cinematronics (Mottoeis license);Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcasp;Star Castle (prototype);Arcade;starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcasp;Star Castle (prototype);MAME (Advance);starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcasp;Star Castle (prototype);MAME (Libretro);starcas;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+starcas;Star Castle (version 3);Arcade;;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+starcas;Star Castle (version 3);MAME (Advance);;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+starcas;Star Castle (version 3);MAME (Libretro);;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+starcas;Star Castle (version 3);MAME (Mame4all);;1980;Cinematronics;Shooter / Field;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+starhawk;Star Hawk;Arcade;;1979;Cinematronics;Shooter / Flying 1st Person;2P sim;180;joystick (8-way);imperfect;1;vector;;;;4
+starhawk;Star Hawk;MAME (Advance);;1979;Cinematronics;Shooter / Flying 1st Person;2P sim;180;joystick (8-way);imperfect;1;vector;;;;4
+starhawk;Star Hawk;MAME (Libretro);;1979;Cinematronics;Shooter / Flying 1st Person;2P sim;180;joystick (8-way);imperfect;1;vector;;;;4
+starhawk;Star Hawk;MAME (Mame4all);;1979;Cinematronics;Shooter / Flying 1st Person;2P sim;180;joystick (8-way);imperfect;1;vector;;;;4
+startrek;Star Trek;Arcade;;1982;Sega;Shooter / Flying 1st Person;2P alt;180;dial;imperfect;1;vector;;;;4
+startrek;Star Trek;MAME (Advance);;1982;Sega;Shooter / Flying 1st Person;2P alt;180;dial;imperfect;1;vector;;;;4
+startrek;Star Trek;MAME (Libretro);;1982;Sega;Shooter / Flying 1st Person;2P alt;180;dial;imperfect;1;vector;;;;4
+startrek;Star Trek;MAME (Mame4all);;1982;Sega;Shooter / Flying 1st Person;2P alt;180;dial;imperfect;1;vector;;;;4
+starwars1;Star Wars (set 2);MAME (Libretro);starwars;1983;Atari;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;starwars;;;
+starwars;Star Wars (set 1);Arcade;;1983;Atari;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+starwars;Star Wars (set 1);MAME (Advance);;1983;Atari;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+starwars;Star Wars (set 1);MAME (Libretro);;1983;Atari;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+starwars;Star Wars (set 1);MAME (Mame4all);;1983;Atari;Shooter / Flying 1st Person;1P;0;joystick (analog);good;1;vector;;;;4
+stellcas;Stellar Castle (Elettronolo);Arcade;starcas;1980;bootleg (Elettronolo);Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+stellcas;Stellar Castle (Elettronolo);MAME (Advance);starcas;1980;bootleg (Elettronolo);Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+stellcas;Stellar Castle (Elettronolo);MAME (Libretro);starcas;1980;bootleg (Elettronolo);Shooter / Field;2P sim;180;joystick (2-way);imperfect;1;vector;starcas;;;2
+sundance;Sundance;Arcade;;1979;Cinematronics;Misc.;2P sim;270;;imperfect;1;vector;;;;1
+sundance;Sundance;MAME (Advance);;1979;Cinematronics;Misc.;2P sim;270;;imperfect;1;vector;;;;1
+sundance;Sundance;MAME (Libretro);;1979;Cinematronics;Misc.;2P sim;270;;imperfect;1;vector;;;;1
+sundance;Sundance;MAME (Mame4all);;1979;Cinematronics;Misc.;2P sim;270;;imperfect;1;vector;;;;1
+tacscan;Tac/Scan;Arcade;;1982;Sega;Shooter / Flying Vertical;2P alt;270;dial;imperfect;1;vector;;;;2
+tacscan;Tac/Scan;MAME (Advance);;1982;Sega;Shooter / Flying Vertical;2P alt;270;dial;imperfect;1;vector;;;;2
+tacscan;Tac/Scan;MAME (Libretro);;1982;Sega;Shooter / Flying Vertical;2P alt;270;dial;imperfect;1;vector;;;;2
+tacscan;Tac/Scan;MAME (Mame4all);;1982;Sega;Shooter / Flying Vertical;2P alt;270;dial;imperfect;1;vector;;;;2
+tailg;Tailgunner;Arcade;;1979;Cinematronics;Shooter / Flying 1st Person;1P;180;joystick (analog);imperfect;1;vector;;;;2
+tailg;Tailgunner;MAME (Advance);;1979;Cinematronics;Shooter / Flying 1st Person;1P;180;joystick (analog);imperfect;1;vector;;;;2
+tailg;Tailgunner;MAME (Libretro);;1979;Cinematronics;Shooter / Flying 1st Person;1P;180;joystick (analog);imperfect;1;vector;;;;2
+tailg;Tailgunner;MAME (Mame4all);;1979;Cinematronics;Shooter / Flying 1st Person;1P;180;joystick (analog);imperfect;1;vector;;;;2
+tempest1;Tempest (rev 1);Arcade;tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest1;Tempest (rev 1);MAME (Advance);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest1;Tempest (rev 1);MAME (Libretro);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest1;Tempest (rev 1);MAME (Mame4all);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest2;Tempest (rev 2);Arcade;tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest2;Tempest (rev 2);MAME (Advance);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest2;Tempest (rev 2);MAME (Libretro);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest2;Tempest (rev 2);MAME (Mame4all);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest3;Tempest (rev 3);Arcade;tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest3;Tempest (rev 3);MAME (Advance);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest3;Tempest (rev 3);MAME (Libretro);tempest;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tempest;Tempest (rev 3, Revised Hardware);Arcade;;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;;;;2
+tempest;Tempest (rev 3, Revised Hardware);MAME (Advance);;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;;;;2
+tempest;Tempest (rev 3, Revised Hardware);MAME (Libretro);;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;;;;2
+tempest;Tempest (rev 3, Revised Hardware);MAME (Mame4all);;1980;Atari;Shooter / Gallery;2P alt;270;dial;good;1;vector;;;;2
+temptube;Tempest Tubes;Arcade;tempest;1980;hack (Duncan Brown);Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+temptube;Tempest Tubes;MAME (Advance);tempest;1980;hack (Duncan Brown);Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+temptube;Tempest Tubes;MAME (Libretro);tempest;1980;hack (Duncan Brown);Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+temptube;Tempest Tubes;MAME (Mame4all);tempest;1980;hack (Duncan Brown);Shooter / Gallery;2P alt;270;dial;good;1;vector;tempest;;;2
+tomcatsw;TomCat (Star Wars hardware, prototype);MAME (Libretro);tomcat;1983;Atari;Shooter / Flying;???;0;joystick (analog);preliminary;1;vector;tomcat;;;
+tomcat;TomCat (prototype);Arcade;;1985;Atari;Shooter / Flying;1P;0;joystick (analog);good;1;vector;;;;5
+tomcat;TomCat (prototype);MAME (Libretro);;1985;Atari;Shooter / Flying;1P;0;joystick (analog);good;1;vector;;;;
+topgunnr;Top Gunner (Exidy);Arcade;;1986;Exidy;Shooter / Flying 1st Person;1P;0;paddle,joystick (analog);good;1;vector;;;;2
+topgunnr;Top Gunner (Exidy);MAME (Advance);;1986;Exidy;Shooter / Flying 1st Person;1P;0;paddle,joystick (analog);good;1;vector;;;;2
+topgunnr;Top Gunner (Exidy);MAME (Libretro);;1986;Exidy;Shooter / Flying 1st Person;1P;0;joystick (analog),paddle;good;1;vector;;;;
+warrior;Warrior;Arcade;;1979;Vectorbeam;Fighter / Field;2P sim;180;joystick (8-way);imperfect;1;vector;;;;1
+warrior;Warrior;MAME (Advance);;1979;Vectorbeam;Fighter / Field;2P sim;180;joystick (8-way);imperfect;1;vector;;;;1
+warrior;Warrior;MAME (Libretro);;1979;Vectorbeam;Fighter / Field;2P sim;180;joystick (8-way);imperfect;1;vector;;;;1
+warrior;Warrior;MAME (Mame4all);;1979;Vectorbeam;Fighter / Field;2P sim;180;joystick (8-way);imperfect;1;vector;;;;1
+wotwc;War of the Worlds (color);MAME (Libretro);wotw;1981;Cinematronics;Shooter / Gallery;2P alt;180;joystick (2-way);imperfect;1;vector;wotw;;;
+wotw;War of the Worlds;Arcade;;1981;Cinematronics;Shooter / Gallery;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+wotw;War of the Worlds;MAME (Advance);;1981;Cinematronics;Shooter / Gallery;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+wotw;War of the Worlds;MAME (Libretro);;1981;Cinematronics;Shooter / Gallery;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+wotw;War of the Worlds;MAME (Mame4all);;1981;Cinematronics;Shooter / Gallery;2P alt;180;joystick (2-way);imperfect;1;vector;;;;2
+zektor;Zektor (revision B);Arcade;;1982;Sega;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;2
+zektor;Zektor (revision B);MAME (Advance);;1982;Sega;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;2
+zektor;Zektor (revision B);MAME (Libretro);;1982;Sega;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;2
+zektor;Zektor (revision B);MAME (Mame4all);;1982;Sega;Shooter / Field;2P alt;180;dial;imperfect;1;vector;;;;2

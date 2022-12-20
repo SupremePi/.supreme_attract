@@ -1,0 +1,169 @@
+androdun;Andro Dunos (NGM-049)(NGH-049);Arcade;;1992;Visco;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+androdun;Andro Dunos (NGM-049)(NGH-049);Final Burn Alpha;;1992;Visco;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+androdun;Andro Dunos (NGM-049)(NGH-049);MAME (Advance);;1992;Visco;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+androdun;Andro Dunos (NGM-049)(NGH-049);MAME (Libretro);;1992;Visco;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+androdun;Andro Dunos (NGM-049)(NGH-049);MAME (Mame4all);;1992;Visco;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+b2b;Bang Bang Busters (2010 NCI release);Arcade;;2000;Visco;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+b2b;Bang Bang Busters (2010 NCI release);Final Burn Alpha;;2000;Visco;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+bangbead;Bang Bead;Arcade;;2000;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+bangbead;Bang Bead;Final Burn Alpha;;2000;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+bangbead;Bang Bead;MAME (Advance);;2000;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+bangbead;Bang Bead;MAME (Libretro);;2000;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+blockcar;Block Carnival / Thunder & Lightning 2;Arcade;;1992;Visco;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);good;1;raster;;;;2
+blockcar;Block Carnival / Thunder & Lightning 2;Final Burn Alpha;;1992;Visco;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);good;1;raster;;;;2
+blockcar;Block Carnival / Thunder & Lightning 2;MAME (Advance);;1992;Visco;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);good;1;raster;;;;2
+blockcar;Block Carnival / Thunder & Lightning 2;MAME (Libretro);;1992;Visco;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);good;1;raster;;;;2
+blocken;Blocken (Japan);Arcade;;1994;Visco / KID;Ball & Paddle / Breakout;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+blocken;Blocken (Japan);MAME (Advance);;1994;Visco / KID;Ball & Paddle / Breakout;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+blocken;Blocken (Japan);MAME (Libretro);;1994;Visco / KID;Ball & Paddle / Breakout;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+blocken;Blocken (Japan);MAME (Mame4all);;1994;Visco / KID;Ball & Paddle / Breakout;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+breakers;Breakers;Arcade;;1996;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakers;Breakers;Final Burn Alpha;;1996;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakers;Breakers;MAME (Advance);;1996;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakers;Breakers;MAME (Libretro);;1996;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakers;Breakers;MAME (Mame4all);;1996;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakrev;Breakers Revenge;Arcade;;1998;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakrev;Breakers Revenge;Final Burn Alpha;;1998;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakrev;Breakers Revenge;MAME (Advance);;1998;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakrev;Breakers Revenge;MAME (Libretro);;1998;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+breakrev;Breakers Revenge;MAME (Mame4all);;1998;Visco;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+ctomaday;Captain Tomaday;Arcade;;1999;Visco;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+ctomaday;Captain Tomaday;Final Burn Alpha;;1999;Visco;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+ctomaday;Captain Tomaday;MAME (Advance);;1999;Visco;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+ctomaday;Captain Tomaday;MAME (Libretro);;1999;Visco;Shooter / Flying Vertical;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+drifto94;Drift Out '94 - The Hard Order (Japan);Arcade;;1994;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;;;;3
+drifto94;Drift Out '94 - The Hard Order (Japan);Final Burn Alpha;;1994;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;;;;3
+drifto94;Drift Out '94 - The Hard Order (Japan);MAME (Advance);;1994;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;;;;3
+drifto94;Drift Out '94 - The Hard Order (Japan);MAME (Libretro);;1994;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;;;;3
+driftout;Drift Out (Europe);Arcade;;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;;;;2
+driftout;Drift Out (Europe);Final Burn Alpha;;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;;;;2
+driftout;Drift Out (Europe);MAME (Advance);;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;;;;2
+driftout;Drift Out (Europe);MAME (Libretro);;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;;;;2
+driftout;Drift Out (Europe);MAME (Mame4all);;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;;;;2
+driftoutj;Drift Out (Japan);Arcade;driftout;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;driftout;;;2
+driftoutj;Drift Out (Japan);Final Burn Alpha;driftout;1991;Visco;Driving / Race;1P;270;joystick (8-way),dial;good;1;raster;driftout;;;2
+earthjkrp;U.N. Defense Force: Earth Joker (Japan, prototype?);Arcade;earthjkr;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;earthjkr;;;2
+earthjkrp;U.N. Defense Force: Earth Joker (Japan, prototype?);Final Burn Alpha;earthjkr;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;earthjkr;;;2
+earthjkr;U.N. Defense Force: Earth Joker (Japan);Arcade;;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+earthjkr;U.N. Defense Force: Earth Joker (Japan);Final Burn Alpha;;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+earthjkr;U.N. Defense Force: Earth Joker (Japan);MAME (Advance);;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+earthjkr;U.N. Defense Force: Earth Joker (Japan);MAME (Libretro);;1993;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+eto;Kokontouzai Eto Monogatari (Japan);Arcade;;1994;Visco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;2
+eto;Kokontouzai Eto Monogatari (Japan);Final Burn Alpha;;1994;Visco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;2
+eto;Kokontouzai Eto Monogatari (Japan);MAME (Advance);;1994;Visco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;2
+eto;Kokontouzai Eto Monogatari (Japan);MAME (Libretro);;1994;Visco;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;2
+flipshot;Battle Flip Shot;Arcade;;1998;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+flipshot;Battle Flip Shot;Final Burn Alpha;;1998;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+flipshot;Battle Flip Shot;MAME (Advance);;1998;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+flipshot;Battle Flip Shot;MAME (Libretro);;1998;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+flipshot;Battle Flip Shot;MAME (Mame4all);;1998;Visco;Sports / Misc.;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+galmedes;Galmedes (Japan);Arcade;;1992;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+galmedes;Galmedes (Japan);Final Burn Alpha;;1992;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+galmedes;Galmedes (Japan);MAME (Advance);;1992;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+galmedes;Galmedes (Japan);MAME (Libretro);;1992;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+ganryu;Ganryu / Musashi Ganryuki;Arcade;;1999;Visco;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;neogeo;;;4
+ganryu;Ganryu / Musashi Ganryuki;Final Burn Alpha;;1999;Visco;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;neogeo;;;4
+ganryu;Ganryu / Musashi Ganryuki;MAME (Advance);;1999;Visco;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;neogeo;;;4
+ganryu;Ganryu / Musashi Ganryuki;MAME (Libretro);;1999;Visco;Platform / Fighter Scrolling;2P alt;0;joystick (8-way);good;1;raster;neogeo;;;4
+goalx3;Goal! Goal! Goal!;Arcade;;1995;Visco;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+goalx3;Goal! Goal! Goal!;Final Burn Alpha;;1995;Visco;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+goalx3;Goal! Goal! Goal!;MAME (Advance);;1995;Visco;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+goalx3;Goal! Goal! Goal!;MAME (Libretro);;1995;Visco;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+goalx3;Goal! Goal! Goal!;MAME (Mame4all);;1995;Visco;Sports / Soccer;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+janjans1;Lovely Pop Mahjong JangJang Shimasho (Japan);Arcade;;1996;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans1;Lovely Pop Mahjong JangJang Shimasho (Japan);Final Burn Alpha;;1996;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans1;Lovely Pop Mahjong JangJang Shimasho (Japan);MAME (Advance);;1996;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans1;Lovely Pop Mahjong JangJang Shimasho (Japan);MAME (Libretro);;1996;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans2;Lovely Pop Mahjong JangJang Shimasho 2 (Japan);Arcade;;2000;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans2;Lovely Pop Mahjong JangJang Shimasho 2 (Japan);Final Burn Alpha;;2000;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans2;Lovely Pop Mahjong JangJang Shimasho 2 (Japan);MAME (Advance);;2000;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;imperfect;1;raster;;;;3
+janjans2;Lovely Pop Mahjong JangJang Shimasho 2 (Japan);MAME (Libretro);;2000;Visco;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong,joystick (8-way);imperfect;1;raster;;;;
+jockeyc;Jockey Club;MAME (Libretro);;1990;Seta (Visco license);Casino / Racing;2P sim;0;only_buttons;good;1;raster;;;;
+jsk;Joryuu Syougi Kyoushitsu (Japan);Arcade;;1997;Visco;Tabletop / Shougi;1P;0;joystick (8-way);good;1;raster;;;;3
+jsk;Joryuu Syougi Kyoushitsu (Japan);MAME (Advance);;1997;Visco;Tabletop / Shougi;1P;0;joystick (8-way);good;1;raster;;;;3
+jsk;Joryuu Syougi Kyoushitsu (Japan);MAME (Libretro);;1997;Visco;Tabletop / Shougi;1P;0;joystick (8-way);good;1;raster;;;;3
+keithlcy;Dramatic Adventure Quiz Keith & Lucy (Japan);Arcade;;1993;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+keithlcy;Dramatic Adventure Quiz Keith & Lucy (Japan);Final Burn Alpha;;1993;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+keithlcy;Dramatic Adventure Quiz Keith & Lucy (Japan);MAME (Advance);;1993;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+keithlcy;Dramatic Adventure Quiz Keith & Lucy (Japan);MAME (Libretro);;1993;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+koikois2;Koi Koi Shimasho 2 - Super Real Hanafuda (Japan);Arcade;;1997;Visco;Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+koikois2;Koi Koi Shimasho 2 - Super Real Hanafuda (Japan);Final Burn Alpha;;1997;Visco;Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+koikois2;Koi Koi Shimasho 2 - Super Real Hanafuda (Japan);MAME (Advance);;1997;Visco;Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+koikois2;Koi Koi Shimasho 2 - Super Real Hanafuda (Japan);MAME (Libretro);;1997;Visco;Tabletop / Hanafuda * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+koikois;Koi Koi Shimasho;MAME (Libretro);;1995;Visco;Tabletop / Hanafuda;1P;0;joystick (8-way),joystick (8-way);imperfect;1;raster;;;;
+mjsenka;Mahjong Senka (Japan);MAME (Libretro);;1986;Visco;Tabletop / Mahjong;???;0;mahjong,mahjong;preliminary;1;raster;;;;
+mjsiyoub;Mahjong Shiyou (Japan);MAME (Libretro);;1986;Visco;Tabletop / Mahjong * Mature *;???;0;mahjong,mahjong;preliminary;1;raster;;;;
+mjyarou;Mahjong Yarou [BET] (Japan);MAME (Libretro);;1986;Visco / Video System;Tabletop / Mahjong;???;0;mahjong,mahjong;preliminary;1;raster;;;;
+mjyuugia;Mahjong Yuugi (Japan set 2);Arcade;mjyuugi;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;mjyuugi;;;
+mjyuugia;Mahjong Yuugi (Japan set 2);MAME (Advance);mjyuugi;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;mjyuugi;;;
+mjyuugia;Mahjong Yuugi (Japan set 2);MAME (Libretro);mjyuugi;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;mjyuugi;;;
+mjyuugi;Mahjong Yuugi (Japan set 1);Arcade;;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mjyuugi;Mahjong Yuugi (Japan set 1);MAME (Advance);;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mjyuugi;Mahjong Yuugi (Japan set 1);MAME (Libretro);;1990;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+mslider;Monster Slider (Japan);Arcade;;1997;Visco / Datt Japan;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;3
+mslider;Monster Slider (Japan);Final Burn Alpha;;1997;Visco / Datt Japan;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;3
+mslider;Monster Slider (Japan);MAME (Advance);;1997;Visco / Datt Japan;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;3
+mslider;Monster Slider (Japan);MAME (Libretro);;1997;Visco / Datt Japan;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;3
+neodrift;Neo Drift Out - New Technology;Arcade;;1996;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;neogeo;;;4
+neodrift;Neo Drift Out - New Technology;Final Burn Alpha;;1996;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;neogeo;;;4
+neodrift;Neo Drift Out - New Technology;MAME (Advance);;1996;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;neogeo;;;4
+neodrift;Neo Drift Out - New Technology;MAME (Libretro);;1996;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;neogeo;;;4
+neodrift;Neo Drift Out - New Technology;MAME (Mame4all);;1996;Visco;Driving / Race;1P;0;joystick (8-way);good;1;raster;neogeo;;;4
+neomrdo;Neo Mr. Do!;Arcade;;1996;Visco;Maze / Digging;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+neomrdo;Neo Mr. Do!;Final Burn Alpha;;1996;Visco;Maze / Digging;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+neomrdo;Neo Mr. Do!;MAME (Advance);;1996;Visco;Maze / Digging;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+neomrdo;Neo Mr. Do!;MAME (Libretro);;1996;Visco;Maze / Digging;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+neomrdo;Neo Mr. Do!;MAME (Mame4all);;1996;Visco;Maze / Digging;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+ponchina;Mahjong Pon Chin Kan (Japan set 2);Arcade;ponchin;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;ponchin;;;
+ponchina;Mahjong Pon Chin Kan (Japan set 2);MAME (Advance);ponchin;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;ponchin;;;
+ponchina;Mahjong Pon Chin Kan (Japan set 2);MAME (Libretro);ponchin;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;ponchin;;;
+ponchin;Mahjong Pon Chin Kan (Japan set 1);Arcade;;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+ponchin;Mahjong Pon Chin Kan (Japan set 1);MAME (Advance);;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+ponchin;Mahjong Pon Chin Kan (Japan set 1);MAME (Libretro);;1991;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+puzzldpr;Puzzle De Pon! R!;Arcade;puzzledp;1997;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;puzzledp;;;4
+puzzldpr;Puzzle De Pon! R!;Final Burn Alpha;puzzledp;1997;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;puzzledp;;;4
+puzzldpr;Puzzle De Pon! R!;MAME (Advance);puzzledp;1997;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;puzzledp;;;4
+puzzldpr;Puzzle De Pon! R!;MAME (Libretro);puzzledp;1997;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;puzzledp;;;4
+puzzldpr;Puzzle De Pon! R!;MAME (Mame4all);puzzledp;1997;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;puzzledp;;;4
+puzzledp;Puzzle De Pon!;Arcade;;1995;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+puzzledp;Puzzle De Pon!;Final Burn Alpha;;1995;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+puzzledp;Puzzle De Pon!;MAME (Advance);;1995;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+puzzledp;Puzzle De Pon!;MAME (Libretro);;1995;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+puzzledp;Puzzle De Pon!;MAME (Mame4all);;1995;Taito (Visco license);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+renju;Renju Kizoku;Arcade;;1994;Visco;Tabletop / Renju;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renju;Renju Kizoku;MAME (Advance);;1994;Visco;Tabletop / Renju;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renju;Renju Kizoku;MAME (Libretro);;1994;Visco;Tabletop / Renju;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+rmhaisei;Real Mahjong Haihai Seichouhen (Japan);Arcade;;1986;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+rmhaisei;Real Mahjong Haihai Seichouhen (Japan);MAME (Advance);;1986;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+rmhaisei;Real Mahjong Haihai Seichouhen (Japan);MAME (Libretro);;1986;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+ryorioh;Gourmet Battle Quiz Ryohrioh CooKing (Japan);Arcade;;1998;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+ryorioh;Gourmet Battle Quiz Ryohrioh CooKing (Japan);Final Burn Alpha;;1998;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+ryorioh;Gourmet Battle Quiz Ryohrioh CooKing (Japan);MAME (Advance);;1998;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+ryorioh;Gourmet Battle Quiz Ryohrioh CooKing (Japan);MAME (Libretro);;1998;Visco;Quiz / Japanese;2P sim;0;;good;1;raster;;;;4
+setaroul;Visco Roulette;MAME (Libretro);;198?;Visco;Casino / Roulette;???;270;;preliminary;1;raster;;;;
+stmbladej;Storm Blade (Japan);Arcade;stmblade;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;stmblade;;;3
+stmbladej;Storm Blade (Japan);Final Burn Alpha;stmblade;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;stmblade;;;3
+stmblade;Storm Blade (US);Arcade;;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+stmblade;Storm Blade (US);Final Burn Alpha;;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+stmblade;Storm Blade (US);MAME (Advance);;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+stmblade;Storm Blade (US);MAME (Libretro);;1996;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+themj;The Mah-jong (Japan);Arcade;;1987;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+themj;The Mah-jong (Japan);MAME (Advance);;1987;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+themj;The Mah-jong (Japan);MAME (Libretro);;1987;Visco;Tabletop / Mahjong * Mature *;1P;0;mahjong;good;1;raster;;;;
+vasara2a;Vasara 2 (set 2);Arcade;vasara2;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;vasara2;;;3
+vasara2a;Vasara 2 (set 2);Final Burn Alpha;vasara2;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;vasara2;;;3
+vasara2a;Vasara 2 (set 2);MAME (Advance);vasara2;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;vasara2;;;3
+vasara2a;Vasara 2 (set 2);MAME (Libretro);vasara2;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;vasara2;;;
+vasara2;Vasara 2 (set 1);Arcade;;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara2;Vasara 2 (set 1);Final Burn Alpha;;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara2;Vasara 2 (set 1);MAME (Advance);;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara2;Vasara 2 (set 1);MAME (Libretro);;2001;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;;;;
+vasara;Vasara;Arcade;;2000;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara;Vasara;Final Burn Alpha;;2000;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara;Vasara;MAME (Advance);;2000;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vasara;Vasara;MAME (Libretro);;2000;Visco;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+vivdolls;Vivid Dolls;MAME (Libretro);;1998;Visco;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);imperfect;1;raster;aleck64;;;
+wits;Wit's (Japan);Arcade;;1989;Athena (Visco license);Maze / Surround;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wits;Wit's (Japan);Final Burn Alpha;;1989;Athena (Visco license);Maze / Surround;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wits;Wit's (Japan);MAME (Advance);;1989;Athena (Visco license);Maze / Surround;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wits;Wit's (Japan);MAME (Libretro);;1989;Athena (Visco license);Maze / Surround;2P sim;0;joystick (8-way);good;1;raster;;;;2

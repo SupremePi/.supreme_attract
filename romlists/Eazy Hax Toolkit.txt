@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Expand to External Drive Disable;Expand to External Drive Disable;Eazy Hax Toolkit;;;;;;;;;;;;;;
+Expand to External Drive Enable;Expand to External Drive Enable;Eazy Hax Toolkit;;;;;;;;;;;;;;
+No Audio Fix - Try this FIRST;No Audio Fix - Try this FIRST;Eazy Hax Toolkit;;;;;;;;;;;;;;
+No Audio Force 1080p;No Audio Force 1080p;Eazy Hax Toolkit;;;;;;;;;;;;;;
+No Audio Force 720p;No Audio Force 720p;Eazy Hax Toolkit;;;;;;;;;;;;;;
+Overscan Disable;Overscan Disable;Eazy Hax Toolkit;;;;;;;;;;;;;;
+Overscan Enable;Overscan Enable;Eazy Hax Toolkit;;;;;;;;;;;;;;
+Setup Aimtrak Light Gun;Setup Aimtrak Light Gun;Eazy Hax Toolkit;;;;;;;;;;;;;;
+n64 tweaks;n64 tweaks;Eazy Hax Toolkit;;;;;;;;;;;;;;

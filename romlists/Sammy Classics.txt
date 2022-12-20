@@ -1,0 +1,104 @@
+cairblad;Change Air Blade (Japan);Arcade;;1999;Sammy;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+cairblad;Change Air Blade (Japan);Final Burn Alpha;;1999;Sammy;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+cairblad;Change Air Blade (Japan);MAME (Advance);;1999;Sammy;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+cairblad;Change Air Blade (Japan);MAME (Libretro);;1999;Sammy;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+deerhunta;Deer Hunting USA V4.2;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunta;Deer Hunting USA V4.2;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunta;Deer Hunting USA V4.2;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntb;Deer Hunting USA V4.0;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntb;Deer Hunting USA V4.0;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntb;Deer Hunting USA V4.0;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntc;Deer Hunting USA V3;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntc;Deer Hunting USA V3;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntc;Deer Hunting USA V3;MAME (Libretro);deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;
+deerhuntd;Deer Hunting USA V2;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhuntd;Deer Hunting USA V2;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunt;Deer Hunting USA V4.3;Arcade;;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+deerhunt;Deer Hunting USA V4.3;Final Burn Alpha;;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;2
+deerhunt;Deer Hunting USA V4.3;MAME (Libretro);;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;;;;
+deerhunte;Deer Hunting USA V1;Arcade;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+deerhunte;Deer Hunting USA V1;Final Burn Alpha;deerhunt;2000;Sammy USA Corporation;Shooter / Gun;1P;0;lightgun;imperfect;1;raster;deerhunt;;;2
+dolphin;Dolphin Blue;Arcade;;2003;Sammy;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+dolphin;Dolphin Blue;MAME (Libretro);;2003;Sammy;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+dynagear;Dyna Gear;Arcade;;1993;Sammy;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+dynagear;Dyna Gear;Final Burn Alpha;;1993;Sammy;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+dynagear;Dyna Gear;MAME (Advance);;1993;Sammy;Platform / Fighter Scrolling;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+dynagear;Dyna Gear;MAME (Libretro);;1993;Sammy;Platform / Fighter Scrolling;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;;;;
+eaglshot;Eagle Shot Golf;Arcade;;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;Final Burn Alpha;;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;MAME (Advance);;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+eaglshot;Eagle Shot Golf;MAME (Libretro);;1994;Sammy;Sports / Golf;4P alt;0;joystick (8-way),trackball;imperfect;1;raster;;;;3
+extdwnhl;Extreme Downhill (v1.5);Arcade;;1995;Sammy Industries Japan;Sports / Skiing;2P alt;0;joystick (2-way);imperfect;1;raster;;;;1
+extdwnhl;Extreme Downhill (v1.5);Final Burn Alpha;;1995;Sammy Industries Japan;Sports / Skiing;2P alt;0;joystick (2-way);imperfect;1;raster;;;;1
+extdwnhl;Extreme Downhill (v1.5);MAME (Advance);;1995;Sammy Industries Japan;Sports / Skiing;2P alt;0;joystick (2-way);imperfect;1;raster;;;;1
+extdwnhl;Extreme Downhill (v1.5);MAME (Libretro);;1995;Sammy Industries Japan;Sports / Skiing;2P alt;0;joystick (2-way);imperfect;1;raster;;;;1
+hypreac2;Mahjong Hyper Reaction 2 (Japan);Arcade;;1997;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+hypreac2;Mahjong Hyper Reaction 2 (Japan);Final Burn Alpha;;1997;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+hypreac2;Mahjong Hyper Reaction 2 (Japan);MAME (Advance);;1997;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+hypreac2;Mahjong Hyper Reaction 2 (Japan);MAME (Libretro);;1997;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;3
+hypreact;Mahjong Hyper Reaction (Japan);Arcade;;1995;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+hypreact;Mahjong Hyper Reaction (Japan);Final Burn Alpha;;1995;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+hypreact;Mahjong Hyper Reaction (Japan);MAME (Advance);;1995;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+hypreact;Mahjong Hyper Reaction (Japan);MAME (Libretro);;1995;Sammy;Tabletop / Mahjong * Mature *;1P;0;joystick (8-way),mahjong;good;1;raster;;;;
+keroppij;Kero Kero Keroppi no Issyoni Asobou (Japan);Arcade;keroppi;1993;Sammy Industries;Platform / Run Jump;1P;0;;good;1;raster;keroppi;;;1
+keroppij;Kero Kero Keroppi no Issyoni Asobou (Japan);Final Burn Alpha;keroppi;1993;Sammy Industries;Platform / Run Jump;1P;0;;good;1;raster;keroppi;;;1
+kofnwj;The King of Fighters Neowave (Japan);Arcade;kofnw;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;kofnw;;;6
+kofnwj;The King of Fighters Neowave (Japan);MAME (Libretro);kofnw;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;kofnw;;;
+kofnw;The King of Fighters Neowave;Arcade;;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+kofnw;The King of Fighters Neowave;MAME (Libretro);;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+meosism;Meosis Magic (Japan);Arcade;;1996?;Sammy;Casino / Reels;1P;0;joystick (2-way);good;1;raster;;;;5
+meosism;Meosis Magic (Japan);Final Burn Alpha;;1996?;Sammy;Casino / Reels;1P;0;joystick (2-way);good;1;raster;;;;5
+meosism;Meosis Magic (Japan);MAME (Advance);;1996?;Sammy;Casino / Reels;1P;0;joystick (2-way);good;1;raster;;;;5
+meosism;Meosis Magic (Japan);MAME (Libretro);;1996?;Sammy;Casino / Reels;1P;0;joystick (2-way);good;1;raster;;;;5
+ngbc;NeoGeo Battle Coliseum;Arcade;;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+ngbc;NeoGeo Battle Coliseum;MAME (Libretro);;2005;Sammy / SNK Playmore;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+rangrmsn;Ranger Mission;Arcade;;2004;Sammy;Shooter / Gun;2P sim;0;paddle,pedal;preliminary;1;raster;awbios;;;2
+rangrmsn;Ranger Mission;MAME (Libretro);;2004;Sammy;Shooter / Gun;2P sim;0;paddle,pedal;preliminary;1;raster;awbios;;;
+rumblef;The Rumble Fish;Arcade;;2004;Sammy / Dimps;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+rumblef;The Rumble Fish;MAME (Libretro);;2004;Sammy / Dimps;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+salmankt;Salary Man Kintarou;MAME (Libretro);;2004;Sammy;Multiplay / Mini-Games;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+sokonuke;Sokonuke Taisen Game (Japan);Arcade;;1995;Sammy Industries;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;;;;1
+sokonuke;Sokonuke Taisen Game (Japan);Final Burn Alpha;;1995;Sammy Industries;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;;;;1
+sokonuke;Sokonuke Taisen Game (Japan);MAME (Advance);;1995;Sammy Industries;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;;;;1
+sokonuke;Sokonuke Taisen Game (Japan);MAME (Libretro);;1995;Sammy Industries;Platform / Run Jump;2P sim;0;joystick (8-way);imperfect;1;raster;;;;1
+sprtshot;Sports Shooting USA;Arcade;;2003;Sammy USA;Shooter / Gun;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+sprtshot;Sports Shooting USA;MAME (Libretro);;2003;Sammy USA;Shooter / Gun;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+survartsj;Survival Arts (Japan);Arcade;survarts;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;survarts;;;6
+survartsj;Survival Arts (Japan);Final Burn Alpha;survarts;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;survarts;;;6
+survarts;Survival Arts (World);Arcade;;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+survarts;Survival Arts (World);Final Burn Alpha;;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+survarts;Survival Arts (World);MAME (Advance);;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+survarts;Survival Arts (World);MAME (Libretro);;1993;Sammy;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;6
+sxyreac2;Pachinko Sexy Reaction 2 (Japan);Arcade;;1999;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreac2;Pachinko Sexy Reaction 2 (Japan);Final Burn Alpha;;1999;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreac2;Pachinko Sexy Reaction 2 (Japan);MAME (Advance);;1999;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreac2;Pachinko Sexy Reaction 2 (Japan);MAME (Libretro);;1999;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle,joystick (8-way);good;1;raster;;;;
+sxyreact;Pachinko Sexy Reaction (Japan);Arcade;;1998;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreact;Pachinko Sexy Reaction (Japan);Final Burn Alpha;;1998;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreact;Pachinko Sexy Reaction (Japan);MAME (Advance);;1998;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+sxyreact;Pachinko Sexy Reaction (Japan);MAME (Libretro);;1998;Sammy;Pinball / Pachinko * Mature *;1P;0;joystick (8-way),paddle;good;1;raster;;;;3
+trophyh;Trophy Hunting - Bear & Moose V1.0;Arcade;;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+trophyh;Trophy Hunting - Bear & Moose V1.0;Final Burn Alpha;;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+trophyh;Trophy Hunting - Bear & Moose V1.0;MAME (Libretro);;2002;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+turkhunt;Turkey Hunting USA V1.0;Arcade;;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;2
+turkhunt;Turkey Hunting USA V1.0;Final Burn Alpha;;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;2
+turkhunt;Turkey Hunting USA V1.0;MAME (Libretro);;2001;Sammy USA Corporation;Shooter / Gun;2P alt;0;lightgun;imperfect;1;raster;;;;
+vfurlong;Net Select Keiba Victory Furlong;Arcade;;2005;Sammy;Sports / Horse Racing;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+vfurlong;Net Select Keiba Victory Furlong;MAME (Libretro);;2005;Sammy;Sports / Horse Racing;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+viewpoin;Viewpoint;Arcade;;1992;Sammy / Aicom;Shooter / Flying Diagonal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+viewpoin;Viewpoint;Final Burn Alpha;;1992;Sammy / Aicom;Shooter / Flying Diagonal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+viewpoin;Viewpoint;MAME (Advance);;1992;Sammy / Aicom;Shooter / Flying Diagonal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+viewpoin;Viewpoint;MAME (Libretro);;1992;Sammy / Aicom;Shooter / Flying Diagonal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+viewpoin;Viewpoint;MAME (Mame4all);;1992;Sammy / Aicom;Shooter / Flying Diagonal;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+wschampa;Wing Shooting Championship V1.01;Arcade;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampa;Wing Shooting Championship V1.01;Final Burn Alpha;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampa;Wing Shooting Championship V1.01;MAME (Libretro);wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;wschamp;;;
+wschampb;Wing Shooting Championship V1.00;Arcade;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschampb;Wing Shooting Championship V1.00;Final Burn Alpha;wschamp;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;wschamp;;;2
+wschamp;Wing Shooting Championship V2.00;Arcade;;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+wschamp;Wing Shooting Championship V2.00;Final Burn Alpha;;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun;imperfect;1;raster;;;;2
+wschamp;Wing Shooting Championship V2.00;MAME (Libretro);;2001;Sammy USA Corporation;Shooter / Gun;2P sim;0;lightgun,lightgun;imperfect;1;raster;;;;
+xtrmhunt;Extreme Hunting;Arcade;;2005;Sammy;Shooter / Gun;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;6
+xtrmhunt;Extreme Hunting;MAME (Libretro);;2005;Sammy;Shooter / Gun;2P sim;0;joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;;;
+zombraidpj;Zombie Raid (9/28/95, Japan, prototype PCB);Arcade;zombraid;1995;Sammy Industries Co.,Ltd.;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2
+zombraidpj;Zombie Raid (9/28/95, Japan, prototype PCB);Final Burn Alpha;zombraid;1995;Sammy Industries Co.,Ltd.;Shooter / Gun;2P sim;0;lightgun;good;1;raster;zombraid;;;2

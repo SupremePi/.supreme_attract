@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+dduxbl;Dynamite Dux;Arcade;;2016;Sega;;;;;;0;;;;;
+alexkidd;Alex kidd;Arcade;;;;;;;;;0;;;;;
+aliensyn;Alien Syndrome;Arcade;;;;;;;;;0;;;;;
+altbeast;Altered Beast;Arcade;;;;;;;;;0;;;;;
+astormbl;Astormbl;Arcade;;;;;;;;;0;;;;;
+aurail;Aurail;Arcade;;;;;;;;;0;;;;;
+eswatbl;Eswatbl;Arcade;;;;;;;;;0;;;;;
+fantzone;Fantasy Zone;Arcade;;;;;;;;;0;;;;;
+goldnaxe;Golden Axe;Arcade;;;;;;;;;0;;;;;
+hangon;Hang-on;Arcade;;;;;;;;;0;;;;;
+sharrier;Space Harrier;Arcade;;;;;;;;;0;;;;;
+hwchamp;Heavyweight Champ;Arcade;;;;;;;;;0;;;;;
+mjleague;Major League;Arcade;;;;;;;;;0;;;;;
+mwalk;Moonwalker;Arcade;;;;;;;;;0;;;;;
+outrun;Out run;Arcade;;;;;;;;;0;;;;;
+quartet2;Quartet 2;Arcade;;;;;;;;;0;;;;;
+riotcity;Riot City;Arcade;;;;;;;;;0;;;;;
+shangon;Super Hang-On;Arcade;;;;;;;;;0;;;;;
+sdi;Stategic Defence Initiative;Arcade;;;;;;;;;0;;;;;
+shdancer;Shadow Dancer;Arcade;;;;;;;;;0;;;;;
+shinobi;Shinobi;Arcade;;;;;;;;;0;;;;;
+tetrisbl;Tetris;Arcade;;;;;;;;;0;;;;;
+timescan;Time Scanner;Arcade;;;;;;;;;0;;;;;
+tturfbl;Tturfbl;Arcade;;;;;;;;;0;;;;;
+wb3bbl;Wb3bl;Arcade;;;;;;;;;0;;;;;
+wrestwar;Wrestle War;Arcade;;;;;;;;;0;;;;;

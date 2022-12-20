@@ -1,0 +1,7 @@
+bangbead;Bang Bead;SNK Neo Geo AES;;2000;Visco;Sports/Other;;;;;0;;;;;
+flipshot;Flip Shot;SNK Neo Geo AES;;1998;Visco;Sports/Other;;;;;0;;;;;
+sdodgeb;Super Dodge Ball;SNK Neo Geo AES;;1996;Technos;Sports/Other;;;;;0;;;;;
+Speedball 2 - Brutal Deluxe (USA);Speedball 2 - Brutal Deluxe (USA);Sega Genesis;;1991;Bitmap Brothers;Sports;;;;;0;;;;;
+stakwin2;Stakes Winner 2;SNK Neo Geo AES;;1996;Saurus;Sports/Other;;;;;0;;;;;
+stakwin;Stakes Winner;SNK Neo Geo AES;;1995;Saurus;Sports/Other;;;;;0;;;;;
+wjammers;Windammers;SNK Neo Geo AES;;1994;Data East;Sports/Other;;;;;0;;;;;

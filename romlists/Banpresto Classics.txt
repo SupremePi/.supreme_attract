@@ -1,0 +1,197 @@
+agallet;Air Gallet (Europe);Arcade;;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+agallet;Air Gallet (Europe);Final Burn Alpha;;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+agallet;Air Gallet (Europe);MAME (Advance);;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+agallet;Air Gallet (Europe);MAME (Libretro);;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;3
+agalleth;Air Gallet (Hong Kong);Arcade;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalleth;Air Gallet (Hong Kong);Final Burn Alpha;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalleth;Air Gallet (Hong Kong);MAME (Libretro);agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;agallet;;;
+agalletj;Akuu Gallet (Japan);Arcade;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletj;Akuu Gallet (Japan);Final Burn Alpha;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletj;Akuu Gallet (Japan);MAME (Libretro);agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;agallet;;;
+agalletk;Air Gallet (Korea);Arcade;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletk;Air Gallet (Korea);Final Burn Alpha;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletk;Air Gallet (Korea);MAME (Libretro);agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;agallet;;;
+agallett;Air Gallet (Taiwan);Arcade;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agallett;Air Gallet (Taiwan);Final Burn Alpha;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agallett;Air Gallet (Taiwan);MAME (Libretro);agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;agallet;;;
+agalletu;Air Gallet (USA);Arcade;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletu;Air Gallet (USA);Final Burn Alpha;agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;agallet;;;3
+agalletu;Air Gallet (USA);MAME (Libretro);agallet;1996;Gazelle (Banpresto license);Shooter / Flying Vertical;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;agallet;;;
+bangball;Bang Bang Ball (v1.05);Arcade;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;;;;1
+bangball;Bang Bang Ball (v1.05);Final Burn Alpha;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;;;;1
+bangball;Bang Bang Ball (v1.05);MAME (Advance);;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;;;;1
+bangball;Bang Bang Ball (v1.05);MAME (Libretro);;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;;;;1
+batlbubl;Battle Bubble (v2.00);Arcade;bangball;1999;Banpresto (Limenko license?);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;bangball;;;1
+batlbubl;Battle Bubble (v2.00);Final Burn Alpha;bangball;1999;Banpresto (Limenko license?);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;bangball;;;1
+batlbubl;Battle Bubble (v2.00);MAME (Advance);bangball;1999;Banpresto (Limenko license?);Puzzle / Toss;2P sim;0;joystick (8-way);good;1;raster;bangball;;;1
+batlbubl;Battle Bubble (v2.00);MAME (Libretro);bangball;1999;Banpresto (Limenko license?);Puzzle / Toss;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;bangball;;;
+dbz2;Dragonball Z 2 - Super Battle;Arcade;;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz2;Dragonball Z 2 - Super Battle;Final Burn Alpha;;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz2;Dragonball Z 2 - Super Battle;MAME (Advance);;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz2;Dragonball Z 2 - Super Battle;MAME (Libretro);;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbza;Dragonball Z (rev A);Arcade;dbz;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;dbz;;;4
+dbza;Dragonball Z (rev A);Final Burn Alpha;dbz;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;dbz;;;4
+dbz;Dragonball Z (rev B);Arcade;;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz;Dragonball Z (rev B);Final Burn Alpha;;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz;Dragonball Z (rev B);MAME (Advance);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbz;Dragonball Z (rev B);MAME (Libretro);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+dbzvrvs;Dragon Ball Z V.R.V.S. (Japan);Arcade;;1994;Sega / Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+dbzvrvs;Dragon Ball Z V.R.V.S. (Japan);MAME (Advance);;1994;Sega / Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+dbzvrvs;Dragon Ball Z V.R.V.S. (Japan);MAME (Libretro);;1994;Sega / Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+denjinmk;Denjin Makai;Arcade;;1993;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+denjinmk;Denjin Makai;MAME (Advance);;1993;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+denjinmk;Denjin Makai;MAME (Libretro);;1993;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;
+gdfs;Mobil Suit Gundam Final Shooting (Japan);Arcade;;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);Final Burn Alpha;;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);MAME (Advance);;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun;good;1;raster;;;;3
+gdfs;Mobil Suit Gundam Final Shooting (Japan);MAME (Libretro);;1995;Banpresto;Shooter / Gun;2P sim;0;joystick (8-way),lightgun,joystick (8-way),lightgun;good;1;raster;;;;
+gegege;GeGeGe no Kitarou Youkai Slot;MAME (Libretro);;1997;Sigma / Banpresto;Casino / Reels;1P;0;gambling;good;1;raster;;;;
+godzilla;Godzilla (Japan);Arcade;;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+godzilla;Godzilla (Japan);MAME (Advance);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+godzilla;Godzilla (Japan);MAME (Libretro);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);preliminary;1;raster;;;;3
+grainbow;SD Gundam Sangokushi Rainbow Tairiku Senki;Arcade;;1993;Banpresto;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;3
+grainbow;SD Gundam Sangokushi Rainbow Tairiku Senki;MAME (Libretro);;1993;Banpresto;Platform / Shooter Scrolling;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+grdians;Guardians / Denjin Makai II;Arcade;;1995;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+grdians;Guardians / Denjin Makai II;Final Burn Alpha;;1995;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+grdians;Guardians / Denjin Makai II;MAME (Advance);;1995;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+grdians;Guardians / Denjin Makai II;MAME (Libretro);;1995;Winkysoft (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);imperfect;1;raster;;;;3
+gundamex;Mobile Suit Gundam EX Revue;Arcade;;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+gundamex;Mobile Suit Gundam EX Revue;Final Burn Alpha;;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+gundamex;Mobile Suit Gundam EX Revue;MAME (Advance);;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+gundamex;Mobile Suit Gundam EX Revue;MAME (Libretro);;1994;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+gundamos;Gundam Battle Operating Simulator (GDX-0013);Arcade;;2005;Banpresto;Shooter / 3rd Person;1P;0;joystick (8-way),joystick (analog),pedal;preliminary;1;raster;chihiro;;chd;2
+gundamos;Gundam Battle Operating Simulator (GDX-0013);MAME (Libretro);;2005;Banpresto;Shooter / 3rd Person;1P;0;joystick (8-way),joystick (analog),pedal;preliminary;1;raster;chihiro;;chd;
+gundharac;Gundhara (Chinese, bootleg?);Arcade;gundhara;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;gundhara;;;3
+gundharac;Gundhara (Chinese, bootleg?);Final Burn Alpha;gundhara;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;gundhara;;;3
+gundhara;Gundhara;Arcade;;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gundhara;Gundhara;Final Burn Alpha;;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gundhara;Gundhara;MAME (Advance);;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gundhara;Gundhara;MAME (Libretro);;1995;Banpresto;Shooter / Walking;2P sim;270;joystick (8-way);good;1;raster;;;;3
+gundmgd;Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001);Arcade;;2001;Capcom / Banpresto;Shooter / 3rd Person;1P;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomigd;;chd;6
+gundmgd;Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001);MAME (Libretro);;2001;Capcom / Banpresto;Shooter / 3rd Person;1P;0;joystick (8-way),joystick (8-way);preliminary;1;raster;naomigd;;chd;
+gunpey;Gunpey (Japan);Arcade;;2000;Banpresto;Puzzle / Drop;???;0;joystick (8-way);preliminary;1;raster;;;;3
+gunpey;Gunpey (Japan);MAME (Advance);;2000;Banpresto;Puzzle / Drop;???;0;joystick (8-way);preliminary;1;raster;;;;3
+gunpey;Gunpey (Japan);MAME (Libretro);;2000;Banpresto;Puzzle / Drop;???;0;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+kamenrid;Masked Riders Club Battle Race;Arcade;;1993;Banpresto / Toei;Driving / Race Bike;2P sim;0;joystick (8-way);good;1;raster;;;;2
+kamenrid;Masked Riders Club Battle Race;Final Burn Alpha;;1993;Banpresto / Toei;Driving / Race Bike;2P sim;0;joystick (8-way);good;1;raster;;;;2
+kamenrid;Masked Riders Club Battle Race;MAME (Advance);;1993;Banpresto / Toei;Driving / Race Bike;2P sim;0;joystick (8-way);good;1;raster;;;;2
+kamenrid;Masked Riders Club Battle Race;MAME (Libretro);;1993;Banpresto / Toei;Driving / Race Bike;2P sim;0;joystick (8-way);good;1;raster;;;;2
+macross2g;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II (GAMEST review build);Arcade;macross2;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;macross2;;;2
+macross2g;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II (GAMEST review build);Final Burn Alpha;macross2;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;macross2;;;2
+macross2;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II;Arcade;;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+macross2;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II;Final Burn Alpha;;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+macross2;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II;MAME (Advance);;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+macross2;Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II;MAME (Libretro);;1993;Banpresto;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+macrossp;Macross Plus;Arcade;;1996;MOSS / Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;4
+macrossp;Macross Plus;Final Burn Alpha;;1996;MOSS / Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;4
+macrossp;Macross Plus;MAME (Advance);;1996;MOSS / Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;4
+macrossp;Macross Plus;MAME (Libretro);;1996;MOSS / Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;4
+macross;Super Spacefortress Macross / Chou-Jikuu Yousai Macross;Arcade;;1992;Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+macross;Super Spacefortress Macross / Chou-Jikuu Yousai Macross;Final Burn Alpha;;1992;Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+macross;Super Spacefortress Macross / Chou-Jikuu Yousai Macross;MAME (Advance);;1992;Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+macross;Super Spacefortress Macross / Chou-Jikuu Yousai Macross;MAME (Libretro);;1992;Banpresto;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+mazingerj;Mazinger Z (Japan);Arcade;mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;mazinger;;;3
+mazingerj;Mazinger Z (Japan);Final Burn Alpha;mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;mazinger;;;3
+mazingerj;Mazinger Z (Japan);MAME (Libretro);mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way),joystick (8-way);good;1;raster;mazinger;;;
+mazinger;Mazinger Z (World);Arcade;;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;3
+mazinger;Mazinger Z (World);Final Burn Alpha;;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;3
+mazinger;Mazinger Z (World);MAME (Advance);;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;3
+mazinger;Mazinger Z (World);MAME (Libretro);;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;3
+metmqstr;Metamoqester (International);Arcade;;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;4
+metmqstr;Metamoqester (International);Final Burn Alpha;;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;4
+metmqstr;Metamoqester (International);MAME (Advance);;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;4
+metmqstr;Metamoqester (International);MAME (Libretro);;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;;;;4
+msgundam1;Mobile Suit Gundam (Japan);Arcade;msgundam;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;msgundam;;;2
+msgundam1;Mobile Suit Gundam (Japan);Final Burn Alpha;msgundam;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;msgundam;;;2
+msgundam1;Mobile Suit Gundam (Japan);MAME (Libretro);msgundam;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;msgundam;;;
+msgundam;Mobile Suit Gundam;Arcade;;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;2
+msgundam;Mobile Suit Gundam;Final Burn Alpha;;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;2
+msgundam;Mobile Suit Gundam;MAME (Advance);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;2
+msgundam;Mobile Suit Gundam;MAME (Libretro);;1993;Banpresto;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;2
+neobattl;SD Gundam Neo Battling (Japan);Arcade;;1992;Banpresto / Sotsu Agency. Sunrise;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;1
+neobattl;SD Gundam Neo Battling (Japan);Final Burn Alpha;;1992;Banpresto / Sotsu Agency. Sunrise;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;1
+neobattl;SD Gundam Neo Battling (Japan);MAME (Advance);;1992;Banpresto / Sotsu Agency. Sunrise;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;1
+neobattl;SD Gundam Neo Battling (Japan);MAME (Libretro);;1992;Banpresto / Sotsu Agency. Sunrise;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;1
+nmaster;Oni - The Ninja Master (Japan);Arcade;metmqstr;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;metmqstr;;;4
+nmaster;Oni - The Ninja Master (Japan);Final Burn Alpha;metmqstr;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;metmqstr;;;4
+nmaster;Oni - The Ninja Master (Japan);MAME (Advance);metmqstr;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;metmqstr;;;4
+nmaster;Oni - The Ninja Master (Japan);MAME (Libretro);metmqstr;1995;Banpresto / Pandorabox;Fighter / Versus Co-op;2P sim;0;joystick (8-way);good;1;raster;metmqstr;;;4
+pururun;Pururun;Arcade;;1995;Metro / Banpresto;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pururun;Pururun;Final Burn Alpha;;1995;Metro / Banpresto;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pururun;Pururun;MAME (Advance);;1995;Metro / Banpresto;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+pururun;Pururun;MAME (Libretro);;1995;Metro / Banpresto;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;2
+puzzli;Puzzli;Arcade;;1995;Metro / Banpresto;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+puzzli;Puzzli;Final Burn Alpha;;1995;Metro / Banpresto;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+puzzli;Puzzli;MAME (Advance);;1995;Metro / Banpresto;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+puzzli;Puzzli;MAME (Libretro);;1995;Metro / Banpresto;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;;;;2
+quizmoon;Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un;Arcade;;1997;Banpresto;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;4
+quizmoon;Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un;MAME (Advance);;1997;Banpresto;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;4
+quizmoon;Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un;MAME (Libretro);;1997;Banpresto;Quiz / Japanese;2P sim;0;joystick (8-way);good;1;raster;;;;4
+sailormnh;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Hong Kong);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnh;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Hong Kong);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnh;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Hong Kong);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnj;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Japan);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnj;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Japan);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnj;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Japan);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnk;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Korea);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnk;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Korea);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnk;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Korea);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnoh;Pretty Soldier Sailor Moon (Ver. 95/03/22, Hong Kong);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnoh;Pretty Soldier Sailor Moon (Ver. 95/03/22, Hong Kong);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnoh;Pretty Soldier Sailor Moon (Ver. 95/03/22, Hong Kong);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnoj;Pretty Soldier Sailor Moon (Ver. 95/03/22, Japan);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnoj;Pretty Soldier Sailor Moon (Ver. 95/03/22, Japan);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnoj;Pretty Soldier Sailor Moon (Ver. 95/03/22, Japan);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnok;Pretty Soldier Sailor Moon (Ver. 95/03/22, Korea);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnok;Pretty Soldier Sailor Moon (Ver. 95/03/22, Korea);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnok;Pretty Soldier Sailor Moon (Ver. 95/03/22, Korea);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormno;Pretty Soldier Sailor Moon (Ver. 95/03/22, Europe);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormno;Pretty Soldier Sailor Moon (Ver. 95/03/22, Europe);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormno;Pretty Soldier Sailor Moon (Ver. 95/03/22, Europe);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnot;Pretty Soldier Sailor Moon (Ver. 95/03/22, Taiwan);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnot;Pretty Soldier Sailor Moon (Ver. 95/03/22, Taiwan);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnot;Pretty Soldier Sailor Moon (Ver. 95/03/22, Taiwan);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnou;Pretty Soldier Sailor Moon (Ver. 95/03/22, USA);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnou;Pretty Soldier Sailor Moon (Ver. 95/03/22, USA);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnou;Pretty Soldier Sailor Moon (Ver. 95/03/22, USA);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormn;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe);Arcade;;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+sailormn;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe);Final Burn Alpha;;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+sailormn;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe);MAME (Advance);;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+sailormn;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe);MAME (Libretro);;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+sailormnt;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Taiwan);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnt;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Taiwan);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnt;Pretty Soldier Sailor Moon (Ver. 95/03/22B, Taiwan);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sailormnu;Pretty Soldier Sailor Moon (Ver. 95/03/22B, USA);Arcade;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnu;Pretty Soldier Sailor Moon (Ver. 95/03/22B, USA);Final Burn Alpha;sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;sailormn;;;3
+sailormnu;Pretty Soldier Sailor Moon (Ver. 95/03/22B, USA);MAME (Libretro);sailormn;1995;Gazelle (Banpresto license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;sailormn;;;
+sdgndmps;SD Gundam Psycho Salamander no Kyoui;Arcade;;1991;Banpresto / Bandai;Shooter / Walking;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sdgndmps;SD Gundam Psycho Salamander no Kyoui;Final Burn Alpha;;1991;Banpresto / Bandai;Shooter / Walking;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sdgndmps;SD Gundam Psycho Salamander no Kyoui;MAME (Advance);;1991;Banpresto / Bandai;Shooter / Walking;2P sim;0;joystick (8-way);good;1;raster;;;;2
+sdgndmps;SD Gundam Psycho Salamander no Kyoui;MAME (Libretro);;1991;Banpresto / Bandai;Shooter / Walking;2P sim;0;joystick (8-way);good;1;raster;;;;2
+suprslam;From TV Animation Slam Dunk - Super Slams;Arcade;;1995;Banpresto / Toei Animation;Sports / Basketball;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+suprslam;From TV Animation Slam Dunk - Super Slams;MAME (Advance);;1995;Banpresto / Toei Animation;Sports / Basketball;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+suprslam;From TV Animation Slam Dunk - Super Slams;MAME (Libretro);;1995;Banpresto / Toei Animation;Sports / Basketball;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+ultennisj;Ultimate Tennis (v 1.4, Japan);MAME (Libretro);ultennis;1993;Art & Magic (Banpresto license);Sports / Tennis;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;ultennis;;;
+ultraman;Ultraman (Japan);Arcade;;1991;Banpresto / Bandai;Fighter / Versus;2P alt;0;joystick (8-way);good;1;raster;;;;3
+ultraman;Ultraman (Japan);Final Burn Alpha;;1991;Banpresto / Bandai;Fighter / Versus;2P alt;0;joystick (8-way);good;1;raster;;;;3
+ultraman;Ultraman (Japan);MAME (Advance);;1991;Banpresto / Bandai;Fighter / Versus;2P alt;0;joystick (8-way);good;1;raster;;;;3
+ultraman;Ultraman (Japan);MAME (Libretro);;1991;Banpresto / Bandai;Fighter / Versus;2P alt;0;joystick (8-way);good;1;raster;;;;3
+ultraman;Ultraman (Japan);MAME (Mame4all);;1991;Banpresto / Bandai;Fighter / Versus;2P alt;0;joystick (8-way);good;1;raster;;;;3
+ultraxg;Ultra X Weapons / Ultra Keibitai (GAMEST review build);Arcade;ultrax;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ultrax;;;3
+ultraxg;Ultra X Weapons / Ultra Keibitai (GAMEST review build);Final Burn Alpha;ultrax;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;ultrax;;;3
+ultrax;Ultra X Weapons / Ultra Keibitai;Arcade;;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+ultrax;Ultra X Weapons / Ultra Keibitai;Final Burn Alpha;;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+ultrax;Ultra X Weapons / Ultra Keibitai;MAME (Advance);;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+ultrax;Ultra X Weapons / Ultra Keibitai;MAME (Libretro);;1995;Banpresto / Tsuburaya Productions;Shooter / Flying Vertical;2P sim;270;joystick (8-way);imperfect;1;raster;;;;3
+umanclub;Ultraman Club - Tatakae! Ultraman Kyoudai!!;Arcade;;1992;Banpresto / Tsuburaya Productions;Shooter / Field;2P sim;0;joystick (8-way);good;1;raster;;;;2
+umanclub;Ultraman Club - Tatakae! Ultraman Kyoudai!!;Final Burn Alpha;;1992;Banpresto / Tsuburaya Productions;Shooter / Field;2P sim;0;joystick (8-way);good;1;raster;;;;2
+umanclub;Ultraman Club - Tatakae! Ultraman Kyoudai!!;MAME (Advance);;1992;Banpresto / Tsuburaya Productions;Shooter / Field;2P sim;0;joystick (8-way);good;1;raster;;;;2
+umanclub;Ultraman Club - Tatakae! Ultraman Kyoudai!!;MAME (Libretro);;1992;Banpresto / Tsuburaya Productions;Shooter / Field;2P sim;0;joystick (8-way);good;1;raster;;;;2
+utoukond;Ultra Toukon Densetsu (Japan);Arcade;;1993;Banpresto / Tsuburaya Productions;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+utoukond;Ultra Toukon Densetsu (Japan);Final Burn Alpha;;1993;Banpresto / Tsuburaya Productions;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+utoukond;Ultra Toukon Densetsu (Japan);MAME (Advance);;1993;Banpresto / Tsuburaya Productions;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+utoukond;Ultra Toukon Densetsu (Japan);MAME (Libretro);;1993;Banpresto / Tsuburaya Productions;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+zgundmdx;Mobile Suit Z-Gundam: A.E.U.G. vs Titans DX (ZDX1 Ver. A);Arcade;;2004;Capcom / Banpresto;Shooter / 3rd Person;1P;0;;preliminary;1;raster;sys246;;chd;
+zgundmdx;Mobile Suit Z-Gundam: A.E.U.G. vs Titans DX (ZDX1 Ver. A);MAME (Libretro);;2004;Capcom / Banpresto;Shooter / 3rd Person;1P;0;;preliminary;1;raster;sys246;;chd;
+zgundm;Mobile Suit Z-Gundam: A.E.U.G. vs Titans (ZGA1 Ver. A);Arcade;;2003;Capcom / Banpresto;Shooter / 3rd Person;1P;0;;preliminary;1;raster;sys246;;chd;
+zgundm;Mobile Suit Z-Gundam: A.E.U.G. vs Titans (ZGA1 Ver. A);MAME (Libretro);;2003;Capcom / Banpresto;Shooter / 3rd Person;1P;0;;preliminary;1;raster;sys246;;chd;

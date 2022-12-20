@@ -1,0 +1,18 @@
+Earthworm Jim (Brazil);Earthworm Jim (Brazil);Sega Master System;;1996;Eurocom Entertainment Software;Platform;;;;;0;;;;;
+Earthworm Jim (USA);Earthworm Jim (USA);Nintendo Game Boy;;1995;Playmates;Platform;;;;;0;;;;;
+Earthworm Jim (USA);Earthworm Jim (USA);Sega Game Gear;;1995;Playmates;Platform;;;;;0;;;;;
+Earthworm Jim (USA);Earthworm Jim (USA);Sega Genesis;;1994;Shiny Entertainment;Platform;;;;;0;;;;;
+Earthworm Jim (USA);Earthworm Jim (USA);Super Nintendo Entertainment System;;1994;Playmates;Platform;;;;;0;;;;;
+Earthworm Jim (USA, Europe);Earthworm Jim (USA, Europe);Nintendo Game Boy Advance;;2001;Majesco Games;Platform;;;;;0;;;;;
+Earthworm Jim - Menace 2 the Galaxy (USA, Europe);Earthworm Jim - Menace 2 the Galaxy (USA, Europe);Nintendo Game Boy Color;;1999;Crave;Platform;;;;;0;;;;;
+Earthworm Jim - Special Edition (USA);Earthworm Jim - Special Edition (USA);Sega CD;;1995;Playmates;Platform;;;;;0;;;;;
+Earthworm Jim 2 (Europe);Earthworm Jim 2 (Europe);Sony PSP;;1996;Virgin Interactive;Platform;;;;;0;;;;;
+Earthworm Jim 2 (Europe);Earthworm Jim 2 (Europe);Sony PlayStation;;1996;Virgin Interactive;Platform;;;;;0;;;;;
+Earthworm Jim 2 (USA);Earthworm Jim 2 (USA);Nintendo Game Boy Advance;;2002;Majesco Games;Platform;;;;;0;;;;;
+Earthworm Jim 2 (USA);Earthworm Jim 2 (USA);Sega Genesis;;1996;Shiny Entertainment;Platform;;;;;0;;;;;
+Earthworm Jim 2 (USA);Earthworm Jim 2 (USA);Super Nintendo Entertainment System;;1995;Playmates;Platform;;;;;0;;;;;
+Earthworm Jim 3D (USA);Earthworm Jim 3D (USA);Nintendo 64;;1999;Rockstar Games;Platform;;;;;0;;;;;
+ejim2;Earthworm Jim 2 (Euro);Final Burn Alpha;;1995;Virgin Interactive;;;;;;0;;;;;
+ejim2u;Earthworm Jim 2 (USA);Final Burn Alpha;ejim2;1996;Playmates Interactive;;;;;;0;;;;;
+ejim;Earthworm Jim (Euro);Final Burn Alpha;;1994;Virgin Interactive;;;;;;0;;;;;
+ejimu;Earthworm Jim (USA);Final Burn Alpha;ejim;1994;Playmates Interactive;;;;;;0;;;;;

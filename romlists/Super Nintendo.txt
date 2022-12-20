@@ -1,0 +1,3 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Star Fox (USA) (Rev 2);Star Fox (USA) (Rev 2);Super Nintendo;;;;;;;;;;;;;;
+Street Fighter Alpha 2 (USA);Street Fighter Alpha 2 (USA);Super Nintendo;;;;;;;;;;;;;;

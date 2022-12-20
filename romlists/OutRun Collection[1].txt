@@ -1,0 +1,13 @@
+outrun;outrun;Arcade;;;;;;;;;;;;;
+Out Run (Japan);Out Run (Japan);NEC PC Engine;;;;;;;;;;;;;
+orunners;OutRunners (World);Sega Classics;;1992;Sega;Driving;;;;;0;;;;;
+Out Run Europa (USA, Europe);Out Run Europa (USA, Europe);Sega Game Gear;;;;;;;;;;;;;;
+Out Run (World);Out Run (World);Sega Master System;;;;;;;;;;;;;;
+Out Run 3-D (Europe);Out Run 3-D (Europe);Sega Master System;;;;;;;;;;;;;;
+Out Run Europa (Europe);Out Run Europa (Europe);Sega Master System;;1991;Sega;Racing;1;;;;;;;;;
+OutRun (Japan);OutRun (Japan);Sega Mega Drive Japan;;1991;Sega;Racing;1;;;;;;;;;
+OutRun (USA, Europe);OutRun (USA, Europe);Sega Mega Drive;;1991;Sega;Racing;1;;;;;;;;;
+OutRun 2019 (USA);OutRun 2019 (USA);Sega Mega Drive;;1993;Sega;Action / Racing;1;;;;;;;;;
+OutRunners (USA);OutRunners (USA);Sega Mega Drive;;1994;Sega;Racing;1;;;;;;;;;
+Out Run (Japan);Out Run (Japan);msx2;;;;;;;;;;;;;;
+Cannonball - OutRun Engine;Cannonball - OutRun Engine;Ports;;;;;;;;;;;;;;

@@ -1,0 +1,316 @@
+airbustr;Air Buster: Trouble Specialty Raid Unit (World);Arcade;;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+airbustr;Air Buster: Trouble Specialty Raid Unit (World);Final Burn Alpha;;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+airbustr;Air Buster: Trouble Specialty Raid Unit (World);MAME (Advance);;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+airbustr;Air Buster: Trouble Specialty Raid Unit (World);MAME (Libretro);;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+airbustr;Air Buster: Trouble Specialty Raid Unit (World);MAME (Mame4all);;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;2
+airbustrj;Air Buster: Trouble Specialty Raid Unit (Japan);Arcade;airbustr;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;airbustr;;;2
+airbustrj;Air Buster: Trouble Specialty Raid Unit (Japan);Final Burn Alpha;airbustr;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;airbustr;;;2
+airbustrj;Air Buster: Trouble Specialty Raid Unit (Japan);MAME (Libretro);airbustr;1990;Kaneko (Namco license);Shooter / Flying Horizontal;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;airbustr;;;
+bakubrkr;Bakuretsu Breaker;Arcade;explbrkr;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;explbrkr;;;2
+bakubrkr;Bakuretsu Breaker;Final Burn Alpha;explbrkr;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;explbrkr;;;2
+bakubrkr;Bakuretsu Breaker;MAME (Advance);explbrkr;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;explbrkr;;;2
+bakubrkr;Bakuretsu Breaker;MAME (Libretro);explbrkr;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;explbrkr;;;2
+berlwallk;The Berlin Wall (Korea);Arcade;berlwall;1991;Kaneko (Inter license);Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;berlwall;;;3
+berlwallk;The Berlin Wall (Korea);Final Burn Alpha;berlwall;1991;Kaneko (Inter license);Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;berlwall;;;3
+berlwall;The Berlin Wall;Arcade;;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+berlwall;The Berlin Wall;Final Burn Alpha;;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+berlwall;The Berlin Wall;MAME (Advance);;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+berlwall;The Berlin Wall;MAME (Libretro);;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+berlwall;The Berlin Wall;MAME (Mame4all);;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;;;;3
+berlwallt;The Berlin Wall (bootleg ?);Arcade;berlwall;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;berlwall;;;3
+berlwallt;The Berlin Wall (bootleg ?);Final Burn Alpha;berlwall;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way);good;1;raster;berlwall;;;3
+berlwallt;The Berlin Wall (bootleg?);MAME (Libretro);berlwall;1991;Kaneko;Platform / Run Jump;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;berlwall;;;
+bloodwar;Blood Warrior;Arcade;;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bloodwar;Blood Warrior;Final Burn Alpha;;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bloodwar;Blood Warrior;MAME (Advance);;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bloodwar;Blood Warrior;MAME (Libretro);;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+boggy84;Boggy '84;Arcade;;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;2
+boggy84;Boggy '84;Final Burn Alpha;;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;2
+boggy84;Boggy '84;MAME (Advance);;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;2
+boggy84;Boggy '84;MAME (Libretro);;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;2
+bonkadv;B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin;Arcade;;1994;Kaneko;Platform / Run Jump Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bonkadv;B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin;Final Burn Alpha;;1994;Kaneko;Platform / Run Jump Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bonkadv;B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin;MAME (Advance);;1994;Kaneko;Platform / Run Jump Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;4
+bonkadv;B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin;MAME (Libretro);;1994;Kaneko;Platform / Run Jump Scrolling;2P sim;0;joystick (8-way);good;1;raster;;;;4
+brapboys;B.Rap Boys (World);Arcade;;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;2
+brapboys;B.Rap Boys (World);Final Burn Alpha;;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;2
+brapboys;B.Rap Boys (World);MAME (Advance);;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;2
+brapboys;B.Rap Boys (World);MAME (Libretro);;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;2
+brapboysj;B.Rap Boys Special (Japan);Arcade;brapboys;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;brapboys;;;2
+brapboysj;B.Rap Boys Special (Japan);Final Burn Alpha;brapboys;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;brapboys;;;2
+brapboysj;B.Rap Boys Special (Japan);MAME (Libretro);brapboys;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;brapboys;;;
+brapboysu;B.Rap Boys Special (US);Arcade;brapboys;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;brapboys;;;2
+brapboysu;B.Rap Boys Special (US);Final Burn Alpha;brapboys;1992;Kaneko;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;brapboys;;;2
+cyvern;Cyvern (US);Arcade;;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;2
+cyvern;Cyvern (US);Final Burn Alpha;;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;2
+cyvern;Cyvern (US);MAME (Advance);;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;2
+cyvern;Cyvern (US);MAME (Libretro);;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;2
+cyvernj;Cyvern (Japan);Arcade;cyvern;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;cyvern;;;2
+cyvernj;Cyvern (Japan);Final Burn Alpha;cyvern;1998;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;cyvern;;;2
+djboya;DJ Boy (set 2);Arcade;djboy;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;djboy;;;3
+djboya;DJ Boy (set 2);Final Burn Alpha;djboy;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;djboy;;;3
+djboya;DJ Boy (set 2);MAME (Libretro);djboy;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;djboy;;;
+djboy;DJ Boy (set 1);Arcade;;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+djboy;DJ Boy (set 1);Final Burn Alpha;;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+djboy;DJ Boy (set 1);MAME (Advance);;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+djboy;DJ Boy (set 1);MAME (Libretro);;1989;Kaneko (American Sammy license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+djboyj;DJ Boy (Japan);Arcade;djboy;1989;Kaneko (Sega license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;djboy;;;3
+djboyj;DJ Boy (Japan);Final Burn Alpha;djboy;1989;Kaneko (Sega license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;djboy;;;3
+djboyj;DJ Boy (Japan);MAME (Advance);djboy;1989;Kaneko (Sega license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;djboy;;;3
+djboyj;DJ Boy (Japan);MAME (Libretro);djboy;1989;Kaneko (Sega license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;djboy;;;
+drtoppel;Dr. Toppel's Adventure (World);Arcade;;1987;Kaneko / Taito Corporation Japan;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+drtoppel;Dr. Toppel's Adventure (World);Final Burn Alpha;;1987;Kaneko / Taito Corporation Japan;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+drtoppel;Dr. Toppel's Adventure (World);MAME (Advance);;1987;Kaneko / Taito Corporation Japan;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+drtoppel;Dr. Toppel's Adventure (World);MAME (Libretro);;1987;Kaneko / Taito Corporation Japan;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+drtoppel;Dr. Toppel's Adventure (World);MAME (Mame4all);;1987;Kaneko / Taito Corporation Japan;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+drtoppelj;Dr. Toppel's Tankentai (Japan);Arcade;drtoppel;1987;Kaneko / Taito Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;drtoppel;;;2
+drtoppelj;Dr. Toppel's Tankentai (Japan);Final Burn Alpha;drtoppel;1987;Kaneko / Taito Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;drtoppel;;;2
+drtoppelj;Dr. Toppel's Tankentai (Japan);MAME (Libretro);drtoppel;1987;Kaneko / Taito Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;drtoppel;;;
+drtoppelu;Dr. Toppel's Adventure (US);Arcade;drtoppel;1987;Kaneko / Taito America Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;drtoppel;;;2
+drtoppelu;Dr. Toppel's Adventure (US);Final Burn Alpha;drtoppel;1987;Kaneko / Taito America Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way);good;1;raster;drtoppel;;;2
+drtoppelu;Dr. Toppel's Adventure (US);MAME (Libretro);drtoppel;1987;Kaneko / Taito America Corporation;Shooter / Flying Vertical;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;drtoppel;;;
+explbrkr;Explosive Breaker;Arcade;;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+explbrkr;Explosive Breaker;Final Burn Alpha;;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+explbrkr;Explosive Breaker;MAME (Advance);;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way);good;1;raster;;;;2
+explbrkr;Explosive Breaker;MAME (Libretro);;1992;Kaneko;Shooter / Flying Vertical;2P sim;90;joystick (8-way),joystick (8-way);good;1;raster;;;;
+fastfred;Fast Freddie;Arcade;flyboy;1982;Kaneko (Atari license);Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;flyboy;;;1
+fastfred;Fast Freddie;Final Burn Alpha;flyboy;1982;Kaneko (Atari license);Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;flyboy;;;1
+fastfred;Fast Freddie;MAME (Advance);flyboy;1982;Kaneko (Atari license);Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;flyboy;;;1
+fastfred;Fast Freddie;MAME (Libretro);flyboy;1982;Kaneko (Atari license);Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;flyboy;;;1
+fastfred;Fast Freddie;MAME (Mame4all);flyboy;1982;Kaneko (Atari license);Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;flyboy;;;1
+fightrol;Fighting Roller;Arcade;;1983;Kaneko (Taito license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;;;;2
+fightrol;Fighting Roller;Final Burn Alpha;;1983;Kaneko (Taito license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;;;;2
+fightrol;Fighting Roller;MAME (Advance);;1983;Kaneko (Taito license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;;;;2
+fightrol;Fighting Roller;MAME (Libretro);;1983;Kaneko (Taito license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;;;;2
+fjbuster;Fujiyama Buster (Japan);Arcade;shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+fjbuster;Fujiyama Buster (Japan);Final Burn Alpha;shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+fjbuster;Fujiyama Buster (Japan);MAME (Advance);shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+fjbuster;Fujiyama Buster (Japan);MAME (Libretro);shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+flyboy;Fly-Boy;Arcade;;1982;Kaneko;Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;;;;1
+flyboy;Fly-Boy;Final Burn Alpha;;1982;Kaneko;Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;;;;1
+flyboy;Fly-Boy;MAME (Advance);;1982;Kaneko;Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;;;;1
+flyboy;Fly-Boy;MAME (Libretro);;1982;Kaneko;Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;;;;1
+flyboy;Fly-Boy;MAME (Mame4all);;1982;Kaneko;Sports / Hang Gliding;2P alt;90;joystick (8-way);good;1;raster;;;;1
+galpani2;Gals Panic II (Asia);Arcade;;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way);preliminary;1;raster;;;;3
+galpani2;Gals Panic II (Asia);MAME (Advance);;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way);preliminary;1;raster;;;;3
+galpani2;Gals Panic II (Asia);MAME (Libretro);;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way);preliminary;1;raster;;;;3
+galpani2g;Gals Panic II (Germany, 2 PCB ver.);MAME (Libretro);galpani2;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way),joystick (8-way);preliminary;1;raster;galpani2;;;
+galpani2j;Gals Panic II (Japan);MAME (Libretro);galpani2;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way),joystick (8-way);preliminary;1;raster;galpani2;;;
+galpani2t;Gals Panic II (Taiwan);MAME (Libretro);galpani2;1993;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way),joystick (8-way);preliminary;1;raster;galpani2;;;
+galpani3;Gals Panic 3 (Euro);Arcade;;1995;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way);imperfect;1;raster;;;;1
+galpani3;Gals Panic 3 (Euro);MAME (Advance);;1995;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way);imperfect;1;raster;;;;1
+galpani3;Gals Panic 3 (Euro);MAME (Libretro);;1995;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way),joystick (8-way);imperfect;1;raster;;;;
+galpani4;Gals Panic 4 (Japan);Arcade;;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;2
+galpani4;Gals Panic 4 (Japan);Final Burn Alpha;;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;2
+galpani4;Gals Panic 4 (Japan);MAME (Advance);;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;2
+galpani4;Gals Panic 4 (Japan);MAME (Libretro);;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;2
+galpani4k;Gals Panic 4 (Korea);Arcade;galpani4;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpani4;;;2
+galpani4k;Gals Panic 4 (Korea);Final Burn Alpha;galpani4;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpani4;;;2
+galpani4k;Gals Panic 4 (Korea);MAME (Libretro);galpani4;1996;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;galpani4;;;
+galpanica;Gals Panic (MCU Protected);MAME (Libretro);galpanic;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way),joystick (4-way);good;1;raster;galpanic;;;
+galpanic;Gals Panic (Unprotected);Arcade;;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way);good;1;raster;;;;1
+galpanic;Gals Panic (Unprotected);Final Burn Alpha;;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way);good;1;raster;;;;1
+galpanic;Gals Panic (Unprotected);MAME (Advance);;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way);good;1;raster;;;;1
+galpanic;Gals Panic (Unprotected);MAME (Libretro);;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way);good;1;raster;;;;1
+galpanic;Gals Panic (Unprotected);MAME (Mame4all);;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way);good;1;raster;;;;1
+galpanis;Gals Panic S - Extra Edition (Europe);Arcade;;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpanis;Gals Panic S - Extra Edition (Europe);Final Burn Alpha;;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpanis;Gals Panic S - Extra Edition (Europe);MAME (Advance);;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpanis;Gals Panic S - Extra Edition (Europe);MAME (Libretro);;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpanisj;Gals Panic S - Extra Edition (Japan);Arcade;galpanis;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpanis;;;1
+galpanisj;Gals Panic S - Extra Edition (Japan);Final Burn Alpha;galpanis;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpanis;;;1
+galpanisk;Gals Panic S - Extra Edition (Korea);Arcade;galpanis;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpanis;;;1
+galpanisk;Gals Panic S - Extra Edition (Korea);Final Burn Alpha;galpanis;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpanis;;;1
+galpanisk;Gals Panic S - Extra Edition (Korea);MAME (Libretro);galpanis;1997;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;galpanis;;;
+galpans2a;Gals Panic S2 (Asia);Arcade;galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpans2;;;1
+galpans2a;Gals Panic S2 (Asia);Final Burn Alpha;galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpans2;;;1
+galpans2a;Gals Panic S2 (Asia);MAME (Libretro);galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;galpans2;;;
+galpans2;Gals Panic S2 (Japan);Arcade;;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans2;Gals Panic S2 (Japan);Final Burn Alpha;;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans2;Gals Panic S2 (Japan);MAME (Advance);;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans2;Gals Panic S2 (Japan);MAME (Libretro);;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans3;Gals Panic S3 (Japan);Arcade;;2002;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans3;Gals Panic S3 (Japan);Final Burn Alpha;;2002;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+galpans3;Gals Panic S3 (Japan);MAME (Libretro);;2002;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;skns;;;
+galpansu;Gals Panic SU (Korea);Arcade;galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpans2;;;1
+galpansu;Gals Panic SU (Korea);Final Burn Alpha;galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way);imperfect;1;raster;galpans2;;;1
+galpansu;Gals Panic SU (Korea);MAME (Libretro);galpans2;1999;Kaneko;Puzzle / Outline * Mature *;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;galpans2;;;
+galsnewa;Gals Panic (Export, EXPRO-02 PCB);MAME (Libretro);galsnew;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way),joystick (4-way);good;1;raster;galsnew;;;
+galsnew;Gals Panic (US, EXPRO-02 PCB);MAME (Libretro);;1990;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (4-way),joystick (4-way);good;1;raster;;;;
+galsnewj;Gals Panic (Japan, EXPRO-02 PCB);MAME (Libretro);galsnew;1990;Kaneko (Taito license);Puzzle / Outline * Mature *;2P sim;90;joystick (4-way),joystick (4-way);good;1;raster;galsnew;;;
+galsnewk;Gals Panic (Korea, EXPRO-02 PCB);MAME (Libretro);galsnew;1990;Kaneko (Inter license);Puzzle / Outline * Mature *;2P sim;90;joystick (4-way),joystick (4-way);good;1;raster;galsnew;;;
+gp2quiz;Gals Panic II - Quiz Version;MAME (Libretro);;1993;Kaneko;Quiz / English * Mature *;2P sim;90;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+gp2se;Gals Panic II' - Special Edition (Japan);MAME (Libretro);;1994;Kaneko;Puzzle / Outline * Mature *;2P sim;90;joystick (8-way),joystick (8-way);preliminary;1;raster;;;;
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);Arcade;;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;;;;2
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);Final Burn Alpha;;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;;;;2
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);MAME (Advance);;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;;;;2
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);MAME (Libretro);;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;;;;2
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);MAME (Mame4all);;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;;;;2
+gtmr2a;Mille Miglia 2: Great 1000 Miles Rally (95/04/04);Arcade;gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2a;Mille Miglia 2: Great 1000 Miles Rally (95/04/04);Final Burn Alpha;gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2a;Mille Miglia 2: Great 1000 Miles Rally (95/04/04);MAME (Advance);gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2a;Mille Miglia 2: Great 1000 Miles Rally (95/04/04);MAME (Libretro);gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr2;;;
+gtmr2;Mille Miglia 2: Great 1000 Miles Rally (95/05/24);Arcade;;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;;;;8
+gtmr2;Mille Miglia 2: Great 1000 Miles Rally (95/05/24);Final Burn Alpha;;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;;;;8
+gtmr2;Mille Miglia 2: Great 1000 Miles Rally (95/05/24);MAME (Advance);;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;;;;8
+gtmr2;Mille Miglia 2: Great 1000 Miles Rally (95/05/24);MAME (Libretro);;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;;;;8
+gtmr2u;Great 1000 Miles Rally 2 USA (95/05/18);Arcade;gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2u;Great 1000 Miles Rally 2 USA (95/05/18);Final Burn Alpha;gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2u;Great 1000 Miles Rally 2 USA (95/05/18);MAME (Advance);gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),paddle,dial;good;1;raster;gtmr2;;;8
+gtmr2u;Great 1000 Miles Rally 2 USA (95/05/18);MAME (Libretro);gtmr2;1995;Kaneko;Driving / Race;1P;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr2;;;
+gtmra;1000 Miglia: Great 1000 Miles Rally (94/06/13);Arcade;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmra;1000 Miglia: Great 1000 Miles Rally (94/06/13);Final Burn Alpha;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmra;1000 Miglia: Great 1000 Miles Rally (94/06/13);MAME (Advance);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmra;1000 Miglia: Great 1000 Miles Rally (94/06/13);MAME (Libretro);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);Arcade;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);Final Burn Alpha;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);MAME (Advance);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);MAME (Libretro);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);MAME (Mame4all);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmrusa;Great 1000 Miles Rally: U.S.A Version! (94/09/06);Arcade;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmrusa;Great 1000 Miles Rally: U.S.A Version! (94/09/06);Final Burn Alpha;gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmrusa;Great 1000 Miles Rally: U.S.A Version! (94/09/06);MAME (Advance);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gtmrusa;Great 1000 Miles Rally: U.S.A Version! (94/09/06);MAME (Libretro);gtmr;1994;Kaneko;Driving / Race;2P alt;0;joystick (8-way),paddle,dial;good;1;raster;gtmr;;;2
+gutsn;Guts'n (Japan);Arcade;;2000;Kaneko / Kouyousha;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+gutsn;Guts'n (Japan);Final Burn Alpha;;2000;Kaneko / Kouyousha;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+gutsn;Guts'n (Japan);MAME (Advance);;2000;Kaneko / Kouyousha;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+gutsn;Guts'n (Japan);MAME (Libretro);;2000;Kaneko / Kouyousha;Puzzle / Misc.;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+hotsmash;Vs. Hot Smash;Arcade;;1987;Kaneko / Taito;Sports / Misc.;2P sim;90;dial;good;1;raster;;;;
+hotsmash;Vs. Hot Smash;MAME (Advance);;1987;Kaneko / Taito;Sports / Misc.;2P sim;90;dial;good;1;raster;;;;
+hotsmash;Vs. Hot Smash;MAME (Libretro);;1987;Kaneko / Taito;Sports / Misc.;2P sim;90;dial;good;1;raster;;;;
+hvyunit;Heavy Unit (World);Arcade;;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;;;;2
+hvyunit;Heavy Unit (World);Final Burn Alpha;;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;;;;2
+hvyunit;Heavy Unit (World);MAME (Libretro);;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+hvyunitj;Heavy Unit (Japan, Newer);Arcade;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+hvyunitj;Heavy Unit (Japan, Newer);Final Burn Alpha;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+hvyunitj;Heavy Unit (Japan, Newer);MAME (Libretro);hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;hvyunit;;;
+hvyunitjo;Heavy Unit (Japan, Older);Arcade;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+hvyunitjo;Heavy Unit (Japan, Older);Final Burn Alpha;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+hvyunitu;Heavy Unit -U.S.A. Version- (US);Arcade;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+hvyunitu;Heavy Unit -U.S.A. Version- (US);Final Burn Alpha;hvyunit;1988;Kaneko / Taito;Shooter / Flying Horizontal;2P alt;0;joystick (8-way);good;1;raster;hvyunit;;;2
+jchan2;Jackie Chan in Fists of Fire;Arcade;;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan2;Jackie Chan in Fists of Fire;Final Burn Alpha;;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan2;Jackie Chan in Fists of Fire;MAME (Advance);;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan2;Jackie Chan in Fists of Fire;MAME (Libretro);;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);imperfect;1;raster;;;;
+jchan;Jackie Chan - The Kung-Fu Master;Arcade;;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan;Jackie Chan - The Kung-Fu Master;Final Burn Alpha;;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan;Jackie Chan - The Kung-Fu Master;MAME (Advance);;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jchan;Jackie Chan - The Kung-Fu Master;MAME (Libretro);;1995;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);imperfect;1;raster;;;;4
+jumpcoas;Jump Coaster;Arcade;;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;1
+jumpcoas;Jump Coaster;Final Burn Alpha;;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;1
+jumpcoas;Jump Coaster;MAME (Advance);;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;1
+jumpcoas;Jump Coaster;MAME (Libretro);;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;1
+jumpcoas;Jump Coaster;MAME (Mame4all);;1983;Kaneko;Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;;;;1
+jumpcoast;Jump Coaster (Taito);Arcade;jumpcoas;1983;Kaneko (Taito license);Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;jumpcoas;;;1
+jumpcoast;Jump Coaster (Taito);Final Burn Alpha;jumpcoas;1983;Kaneko (Taito license);Platform / Run Jump;2P alt;90;joystick (8-way);good;1;raster;jumpcoas;;;1
+jumpcoast;Jump Coaster (Taito);MAME (Libretro);jumpcoas;1983;Kaneko (Taito license);Platform / Run Jump;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;jumpcoas;;;
+kabukizj;Kabuki-Z (Japan);Arcade;kabukiz;1988;Kaneko / Taito Corporation;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;kabukiz;;;2
+kabukizj;Kabuki-Z (Japan);MAME (Advance);kabukiz;1988;Kaneko / Taito Corporation;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;kabukiz;;;2
+kabukizj;Kabuki-Z (Japan);MAME (Libretro);kabukiz;1988;Kaneko / Taito Corporation;Fighter / 2.5D;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;kabukiz;;;
+kabukiz;Kabuki-Z (World);Arcade;;1988;Kaneko / Taito Corporation Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;2
+kabukiz;Kabuki-Z (World);MAME (Advance);;1988;Kaneko / Taito Corporation Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;2
+kabukiz;Kabuki-Z (World);MAME (Libretro);;1988;Kaneko / Taito Corporation Japan;Fighter / 2.5D;2P alt;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+kagekij;Kageki (Japan);Arcade;kageki;1988;Kaneko / Taito Corporation;Fighter / Versus;2P alt;90;joystick (8-way);good;1;raster;kageki;;;2
+kagekij;Kageki (Japan);Final Burn Alpha;kageki;1988;Kaneko / Taito Corporation;Fighter / Versus;2P alt;90;joystick (8-way);good;1;raster;kageki;;;2
+kagekij;Kageki (Japan);MAME (Advance);kageki;1988;Kaneko / Taito Corporation;Fighter / Versus;2P alt;90;joystick (8-way);good;1;raster;kageki;;;2
+kagekij;Kageki (Japan);MAME (Libretro);kageki;1988;Kaneko / Taito Corporation;Fighter / Versus;2P alt;90;joystick (8-way);good;1;raster;kageki;;;2
+kagekij;Kageki (Japan);MAME (Mame4all);kageki;1988;Kaneko / Taito Corporation;Fighter / Versus;2P alt;90;joystick (8-way);good;1;raster;kageki;;;2
+kageki;Kageki (US);Arcade;;1988;Kaneko / Taito America Corporation (Romstar license);Fighter / Versus;2P sim;90;joystick (8-way);good;1;raster;;;;2
+kageki;Kageki (US);Final Burn Alpha;;1988;Kaneko / Taito America Corporation (Romstar license);Fighter / Versus;2P sim;90;joystick (8-way);good;1;raster;;;;2
+kageki;Kageki (US);MAME (Advance);;1988;Kaneko / Taito America Corporation (Romstar license);Fighter / Versus;2P sim;90;joystick (8-way);good;1;raster;;;;2
+kageki;Kageki (US);MAME (Libretro);;1988;Kaneko / Taito America Corporation (Romstar license);Fighter / Versus;2P sim;90;joystick (8-way);good;1;raster;;;;2
+kageki;Kageki (US);MAME (Mame4all);;1988;Kaneko / Taito America Corporation (Romstar license);Fighter / Versus;2P sim;90;joystick (8-way);good;1;raster;;;;2
+ladymstr;Lady Master of Kung Fu;Arcade;;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);good;1;raster;;;;2
+ladymstr;Lady Master of Kung Fu;Final Burn Alpha;;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);good;1;raster;;;;2
+ladymstr;Lady Master of Kung Fu;MAME (Libretro);;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;;;;
+mgcrystlj;Magical Crystals (Japan, 92/01/13);Arcade;mgcrystl;1991;Kaneko (Atlus license);Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;mgcrystl;;;2
+mgcrystlj;Magical Crystals (Japan, 92/01/13);Final Burn Alpha;mgcrystl;1991;Kaneko (Atlus license);Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;mgcrystl;;;2
+mgcrystlj;Magical Crystals (Japan, 92/01/13);MAME (Libretro);mgcrystl;1991;Kaneko (Atlus license);Maze / Shooter Large;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;mgcrystl;;;
+mgcrystl;Magical Crystals (World, 92/01/10);Arcade;;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;;;;2
+mgcrystl;Magical Crystals (World, 92/01/10);Final Burn Alpha;;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;;;;2
+mgcrystl;Magical Crystals (World, 92/01/10);MAME (Advance);;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;;;;2
+mgcrystl;Magical Crystals (World, 92/01/10);MAME (Libretro);;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;;;;2
+mgcrystlo;Magical Crystals (World, 91/12/10);Arcade;mgcrystl;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;mgcrystl;;;2
+mgcrystlo;Magical Crystals (World, 91/12/10);Final Burn Alpha;mgcrystl;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way);good;1;raster;mgcrystl;;;2
+mgcrystlo;Magical Crystals (World, 91/12/10);MAME (Libretro);mgcrystl;1991;Kaneko;Maze / Shooter Large;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;mgcrystl;;;
+nunchaku;Nunchackun;Arcade;ladymstr;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);imperfect;1;raster;ladymstr;;;2
+nunchaku;Nunchackun;Final Burn Alpha;ladymstr;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);imperfect;1;raster;ladymstr;;;2
+nunchaku;Nunchackun;MAME (Advance);ladymstr;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);imperfect;1;raster;ladymstr;;;2
+nunchaku;Nunchackun;MAME (Libretro);ladymstr;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);imperfect;1;raster;ladymstr;;;2
+nunchaku;Nunchackun;MAME (Mame4all);ladymstr;1985;Kaneko / Taito;Platform / Fighter Scrolling;2P alt;90;joystick (8-way);imperfect;1;raster;ladymstr;;;2
+oedfight;Oedo Fight (Japan Bloodshed Ver.);Arcade;bloodwar;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;bloodwar;;;4
+oedfight;Oedo Fight (Japan Bloodshed Ver.);Final Burn Alpha;bloodwar;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;bloodwar;;;4
+oedfight;Oedo Fight (Japan Bloodshed Ver.);MAME (Libretro);bloodwar;1994;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;bloodwar;;;
+packbang;Pack'n Bang Bang (prototype);Arcade;;1994;Kaneko;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);imperfect;1;raster;;;;3
+packbang;Pack'n Bang Bang (prototype);Final Burn Alpha;;1994;Kaneko;Ball & Paddle / Breakout;2P sim;90;joystick (8-way);imperfect;1;raster;;;;3
+panicstr;Panic Street (Japan);Arcade;;1999;Kaneko;Puzzle / Outline;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+panicstr;Panic Street (Japan);Final Burn Alpha;;1999;Kaneko;Puzzle / Outline;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+panicstr;Panic Street (Japan);MAME (Advance);;1999;Kaneko;Puzzle / Outline;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+panicstr;Panic Street (Japan);MAME (Libretro);;1999;Kaneko;Puzzle / Outline;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;1
+pbillian;Prebillian;Arcade;;1986;Kaneko / Taito;Sports / Pool;2P alt;0;pedal,dial;good;1;raster;;;;2
+pbillian;Prebillian;MAME (Advance);;1986;Kaneko / Taito;Sports / Pool;2P alt;0;pedal,dial;good;1;raster;;;;2
+pbillian;Prebillian;MAME (Libretro);;1986;Kaneko / Taito;Sports / Pool;2P alt;0;pedal,dial;good;1;raster;;;;2
+ringfgt2;Ring Fighter (set 2);Arcade;vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt2;Ring Fighter (set 2);Final Burn Alpha;vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt2;Ring Fighter (set 2);MAME (Advance);vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt2;Ring Fighter (set 2);MAME (Libretro);vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt;Ring Fighter (set 1);Arcade;vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt;Ring Fighter (set 1);Final Burn Alpha;vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt;Ring Fighter (set 1);MAME (Advance);vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+ringfgt;Ring Fighter (set 1);MAME (Libretro);vsgongf;1984;Kaneko (Taito license);Sports / Boxing;2P alt;90;joystick (8-way);imperfect;1;raster;vsgongf;;;2
+rollace2;Roller Aces (set 2);Arcade;fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace2;Roller Aces (set 2);Final Burn Alpha;fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace2;Roller Aces (set 2);MAME (Advance);fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace2;Roller Aces (set 2);MAME (Libretro);fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace;Roller Aces (set 1);Arcade;fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace;Roller Aces (set 1);Final Burn Alpha;fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace;Roller Aces (set 1);MAME (Advance);fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;fightrol;;;2
+rollace;Roller Aces (set 1);MAME (Libretro);fightrol;1983;Kaneko (Williams license);Fighter / Vertical;2P alt;270;joystick (8-way);imperfect;1;raster;fightrol;;;2
+sarukani;Saru-Kani-Hamu-Zou (Japan);Arcade;vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+sarukani;Saru-Kani-Hamu-Zou (Japan);Final Burn Alpha;vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+sarukani;Saru-Kani-Hamu-Zou (Japan);MAME (Advance);vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+sarukani;Saru-Kani-Hamu-Zou (Japan);MAME (Libretro);vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+sengekisj;Sengeki Striker (Japan);Arcade;sengekis;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;sengekis;;;3
+sengekisj;Sengeki Striker (Japan);Final Burn Alpha;sengekis;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;sengekis;;;3
+sengekisj;Sengeki Striker (Japan);MAME (Libretro);sengekis;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way),joystick (8-way);imperfect;1;raster;sengekis;;;
+sengekis;Sengeki Striker (Asia);Arcade;;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;3
+sengekis;Sengeki Striker (Asia);Final Burn Alpha;;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;3
+sengekis;Sengeki Striker (Asia);MAME (Advance);;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;3
+sengekis;Sengeki Striker (Asia);MAME (Libretro);;1997;Kaneko / Warashi;Shooter / Flying Vertical;2P sim;90;joystick (8-way);imperfect;1;raster;skns;;;3
+senknow;Sen-Know (Japan);Arcade;;1999;Kaneko / Kouyousha;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+senknow;Sen-Know (Japan);Final Burn Alpha;;1999;Kaneko / Kouyousha;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+senknow;Sen-Know (Japan);MAME (Advance);;1999;Kaneko / Kouyousha;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+senknow;Sen-Know (Japan);MAME (Libretro);;1999;Kaneko / Kouyousha;Puzzle / Drop;2P sim;0;joystick (8-way);imperfect;1;raster;skns;;;3
+shogwarr;Shogun Warriors (World);Arcade;;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+shogwarr;Shogun Warriors (World);Final Burn Alpha;;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+shogwarr;Shogun Warriors (World);MAME (Advance);;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+shogwarr;Shogun Warriors (World);MAME (Libretro);;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;;;;4
+shogwarru;Shogun Warriors (US);Arcade;shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+shogwarru;Shogun Warriors (US);Final Burn Alpha;shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;shogwarr;;;4
+shogwarru;Shogun Warriors (US);MAME (Libretro);shogwarr;1992;Kaneko;Fighter / Versus;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;shogwarr;;;
+sqixr1;Super Qix (World, Rev 1);MAME (Libretro);sqix;1987;Kaneko / Taito;Puzzle / Outline;2P alt;90;joystick (4-way),joystick (4-way);good;1;raster;sqix;;;
+sqix;Super Qix (World, Rev 2);Arcade;;1987;Kaneko / Taito;Puzzle / Outline;2P alt;90;joystick (4-way);good;1;raster;;;;1
+sqix;Super Qix (World, Rev 2);MAME (Advance);;1987;Kaneko / Taito;Puzzle / Outline;2P alt;90;joystick (4-way);good;1;raster;;;;1
+sqix;Super Qix (World, Rev 2);MAME (Libretro);;1987;Kaneko / Taito;Puzzle / Outline;2P alt;90;joystick (4-way),joystick (4-way);good;1;raster;;;;
+sqixu;Super Qix (US);MAME (Libretro);sqix;1987;Kaneko / Taito (Romstar License);Puzzle / Outline;2P alt;90;joystick (4-way),joystick (4-way);good;1;raster;sqix;;;
+tsamurai2;Samurai Nihon-Ichi (set 2);Arcade;tsamurai;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;tsamurai;;;2
+tsamurai2;Samurai Nihon-Ichi (set 2);Final Burn Alpha;tsamurai;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;tsamurai;;;2
+tsamurai2;Samurai Nihon-Ichi (set 2);MAME (Libretro);tsamurai;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way),joystick (4-way);good;1;raster;tsamurai;;;
+tsamurai;Samurai Nihon-Ichi (set 1);Arcade;;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;;;;2
+tsamurai;Samurai Nihon-Ichi (set 1);Final Burn Alpha;;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;;;;2
+tsamurai;Samurai Nihon-Ichi (set 1);MAME (Advance);;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;;;;2
+tsamurai;Samurai Nihon-Ichi (set 1);MAME (Libretro);;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;;;;2
+tsamurai;Samurai Nihon-Ichi (set 1);MAME (Mame4all);;1985;Kaneko / Taito;Fighter / 2D;2P alt;90;joystick (4-way);good;1;raster;;;;2
+vblokbrk;VS Block Breaker (Asia);Arcade;;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;skns;;;3
+vblokbrk;VS Block Breaker (Asia);Final Burn Alpha;;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;skns;;;3
+vblokbrk;VS Block Breaker (Asia);MAME (Advance);;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;skns;;;3
+vblokbrk;VS Block Breaker (Asia);MAME (Libretro);;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2P sim;0;joystick (8-way),dial;imperfect;1;raster;skns;;;3
+vsgongf;VS Gong Fight;Arcade;;1984;Kaneko;Sports / Boxing;2P sim;90;joystick (8-way);imperfect;1;raster;;;;2
+vsgongf;VS Gong Fight;Final Burn Alpha;;1984;Kaneko;Sports / Boxing;2P sim;90;joystick (8-way);imperfect;1;raster;;;;2
+vsgongf;VS Gong Fight;MAME (Advance);;1984;Kaneko;Sports / Boxing;2P sim;90;joystick (8-way);imperfect;1;raster;;;;2
+vsgongf;VS Gong Fight;MAME (Libretro);;1984;Kaneko;Sports / Boxing;2P sim;90;joystick (8-way);imperfect;1;raster;;;;2
+yamagchi;Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun;Arcade;;1985;Kaneko / Taito;Shooter / Misc. Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;;;;2
+yamagchi;Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun;Final Burn Alpha;;1985;Kaneko / Taito;Shooter / Misc. Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;;;;2
+yamagchi;Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun;MAME (Advance);;1985;Kaneko / Taito;Shooter / Misc. Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;;;;2
+yamagchi;Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun;MAME (Libretro);;1985;Kaneko / Taito;Shooter / Misc. Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;;;;2
+yamagchi;Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun;MAME (Mame4all);;1985;Kaneko / Taito;Shooter / Misc. Vertical;2P alt;90;joystick (8-way);imperfect;1;raster;;;;2

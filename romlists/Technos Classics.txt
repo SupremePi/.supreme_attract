@@ -1,0 +1,248 @@
+battlane2;Battle Lane! Vol. 5 (set 2);Arcade;battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;battlane;;;2
+battlane2;Battle Lane! Vol. 5 (set 2);Final Burn Alpha;battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;battlane;;;2
+battlane2;Battle Lane! Vol. 5 (set 2);MAME (Libretro);battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;battlane;;;
+battlane3;Battle Lane! Vol. 5 (set 3);Arcade;battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;battlane;;;2
+battlane3;Battle Lane! Vol. 5 (set 3);Final Burn Alpha;battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;battlane;;;2
+battlane3;Battle Lane! Vol. 5 (set 3);MAME (Libretro);battlane;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way),joystick (8-way);good;1;raster;battlane;;;
+battlane;Battle Lane! Vol. 5 (set 1);Arcade;;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+battlane;Battle Lane! Vol. 5 (set 1);Final Burn Alpha;;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+battlane;Battle Lane! Vol. 5 (set 1);MAME (Advance);;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+battlane;Battle Lane! Vol. 5 (set 1);MAME (Libretro);;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+battlane;Battle Lane! Vol. 5 (set 1);MAME (Mame4all);;1986;Technos Japan (Taito license);Shooter / Driving Vertical;2P alt;90;joystick (8-way);good;1;raster;;;;2
+bigprowr;The Big Pro Wrestling!;Arcade;;1983;Technos Japan;Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+bigprowr;The Big Pro Wrestling!;MAME (Advance);;1983;Technos Japan;Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+bigprowr;The Big Pro Wrestling!;MAME (Libretro);;1983;Technos Japan;Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+bigprowr;The Big Pro Wrestling!;MAME (Mame4all);;1983;Technos Japan;Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+blockout2;Block Out (set 2);Arcade;blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;blockout;;;4
+blockout2;Block Out (set 2);Final Burn Alpha;blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;blockout;;;4
+blockout2;Block Out (set 2);MAME (Libretro);blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;blockout;;;
+blockout;Block Out (set 1);Arcade;;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+blockout;Block Out (set 1);Final Burn Alpha;;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+blockout;Block Out (set 1);MAME (Advance);;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+blockout;Block Out (set 1);MAME (Libretro);;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+blockout;Block Out (set 1);MAME (Mame4all);;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;;;;4
+blockoutj;Block Out (Japan);Arcade;blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;blockout;;;4
+blockoutj;Block Out (Japan);Final Burn Alpha;blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way);good;1;raster;blockout;;;4
+blockoutj;Block Out (Japan);MAME (Libretro);blockout;1989;Technos Japan / California Dreams;Puzzle / Drop;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;blockout;;;
+bogeyman;Bogey Manor;Arcade;;1985;Technos Japan;Platform / Fighter;2P alt;0;joystick (8-way);imperfect;1;raster;;;;2
+bogeyman;Bogey Manor;Final Burn Alpha;;1985;Technos Japan;Platform / Fighter;2P alt;0;joystick (8-way);imperfect;1;raster;;;;2
+bogeyman;Bogey Manor;MAME (Advance);;1985;Technos Japan;Platform / Fighter;2P alt;0;joystick (8-way);imperfect;1;raster;;;;2
+bogeyman;Bogey Manor;MAME (Libretro);;1985;Technos Japan;Platform / Fighter;2P alt;0;joystick (8-way);imperfect;1;raster;;;;2
+bogeyman;Bogey Manor;MAME (Mame4all);;1985;Technos Japan;Platform / Fighter;2P alt;0;joystick (8-way);imperfect;1;raster;;;;2
+chinagat;China Gate (US);Arcade;;1988;Technos Japan (Taito / Romstar license);Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;;;;3
+chinagat;China Gate (US);Final Burn Alpha;;1988;Technos Japan (Taito / Romstar license);Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;;;;3
+chinagat;China Gate (US);MAME (Advance);;1988;Technos Japan (Taito / Romstar license);Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;;;;3
+chinagat;China Gate (US);MAME (Libretro);;1988;Technos Japan (Taito / Romstar license);Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ctribe1;The Combatribes (US set 1?);Arcade;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribe1;The Combatribes (US set 1?);Final Burn Alpha;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribe1;The Combatribes (US set 1?);MAME (Libretro);ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;ctribe;;;
+ctribej;The Combatribes (Japan);Arcade;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribej;The Combatribes (Japan);Final Burn Alpha;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribej;The Combatribes (Japan);MAME (Libretro);ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;ctribe;;;
+ctribeo;The Combatribes (US, older);Arcade;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribeo;The Combatribes (US, older);Final Burn Alpha;ctribe;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ctribe;;;3
+ctribe;The Combatribes (US);Arcade;;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ctribe;The Combatribes (US);Final Burn Alpha;;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ctribe;The Combatribes (US);MAME (Advance);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ctribe;The Combatribes (US);MAME (Libretro);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ctribe;The Combatribes (US);MAME (Mame4all);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2;Double Dragon II - The Revenge (World);Arcade;;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2;Double Dragon II - The Revenge (World);Final Burn Alpha;;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2;Double Dragon II - The Revenge (World);MAME (Advance);;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2;Double Dragon II - The Revenge (World);MAME (Libretro);;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2;Double Dragon II - The Revenge (World);MAME (Mame4all);;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon2u;Double Dragon II - The Revenge (US);Arcade;ddragon2;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon2;;;3
+ddragon2u;Double Dragon II - The Revenge (US);Final Burn Alpha;ddragon2;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon2;;;3
+ddragon2u;Double Dragon II - The Revenge (US);MAME (Libretro);ddragon2;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;ddragon2;;;
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);Arcade;;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);Final Burn Alpha;;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);MAME (Advance);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);MAME (Libretro);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);MAME (Mame4all);;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon3j;Double Dragon 3 - The Rosetta Stone (Japan);Arcade;ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ddragon3;;;3
+ddragon3j;Double Dragon 3 - The Rosetta Stone (Japan);Final Burn Alpha;ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ddragon3;;;3
+ddragon3j;Double Dragon 3 - The Rosetta Stone (Japan);MAME (Libretro);ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;ddragon3;;;
+ddragon3p;Double Dragon 3 - The Rosetta Stone (prototype);Arcade;ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ddragon3;;;3
+ddragon3p;Double Dragon 3 - The Rosetta Stone (prototype);Final Burn Alpha;ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way);good;1;raster;ddragon3;;;3
+ddragon3p;Double Dragon 3 - The Rosetta Stone (prototype);MAME (Libretro);ddragon3;1990;Technos Japan;Fighter / 2.5D;3P sim;0;joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;ddragon3;;;
+ddragon;Double Dragon (Japan);Arcade;;1987;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon;Double Dragon (Japan);Final Burn Alpha;;1987;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon;Double Dragon (Japan);MAME (Advance);;1987;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon;Double Dragon (Japan);MAME (Libretro);;1987;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragon;Double Dragon (Japan);MAME (Mame4all);;1987;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;3
+ddragonua;Double Dragon (US set 2);Arcade;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonua;Double Dragon (US set 2);Final Burn Alpha;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonua;Double Dragon (US set 2);MAME (Libretro);ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;ddragon;;;
+ddragonub;Double Dragon (US set 3);Arcade;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonub;Double Dragon (US set 3);Final Burn Alpha;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonub;Double Dragon (US set 3);MAME (Libretro);ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;ddragon;;;
+ddragonu;Double Dragon (US set 1);Arcade;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonu;Double Dragon (US set 1);Final Burn Alpha;ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonu;Double Dragon (US set 1);MAME (Advance);ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonu;Double Dragon (US set 1);MAME (Libretro);ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonu;Double Dragon (US set 1);MAME (Mame4all);ddragon;1987;Technos Japan (Taito America license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw1;Double Dragon (World set 2);Arcade;ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw1;Double Dragon (World set 2);Final Burn Alpha;ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw1;Double Dragon (World set 2);MAME (Libretro);ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;ddragon;;;
+ddragonw;Double Dragon (World set 1);Arcade;ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw;Double Dragon (World set 1);Final Burn Alpha;ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw;Double Dragon (World set 1);MAME (Advance);ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+ddragonw;Double Dragon (World set 1);MAME (Libretro);ddragon;1987;Technos Japan (Taito license);Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;ddragon;;;3
+dogfgt;Acrobatic Dog-Fight;Arcade;;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;;;;3
+dogfgt;Acrobatic Dog-Fight;Final Burn Alpha;;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;;;;3
+dogfgt;Acrobatic Dog-Fight;MAME (Advance);;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;;;;3
+dogfgt;Acrobatic Dog-Fight;MAME (Libretro);;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;;;;3
+dogfgtj;Dog-Fight (Japan);Arcade;dogfgt;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dogfgtj;Dog-Fight (Japan);Final Burn Alpha;dogfgt;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dogfgtj;Dog-Fight (Japan);MAME (Advance);dogfgt;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dogfgtj;Dog-Fight (Japan);MAME (Libretro);dogfgt;1984;Technos Japan;Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dogfgtu;Acrobatic Dog-Fight (USA);Arcade;dogfgt;1985;Technos Japan (Data East USA, Inc. license);Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dogfgtu;Acrobatic Dog-Fight (USA);Final Burn Alpha;dogfgt;1985;Technos Japan (Data East USA, Inc. license);Shooter / Flying;2P alt;0;joystick (8-way);good;1;raster;dogfgt;;;3
+dommy;Dommy;Arcade;;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+dommy;Dommy;Final Burn Alpha;;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+dommy;Dommy;MAME (Advance);;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+dommy;Dommy;MAME (Libretro);;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+doubledr;Double Dragon (Neo-Geo);Arcade;;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+doubledr;Double Dragon (Neo-Geo);Final Burn Alpha;;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+doubledr;Double Dragon (Neo-Geo);MAME (Advance);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+doubledr;Double Dragon (Neo-Geo);MAME (Libretro);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+doubledr;Double Dragon (Neo-Geo);MAME (Mame4all);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+eggs;Eggs (USA);Arcade;scregg;1983;Technos Japan (Universal USA license);Maze;2P alt;270;joystick (4-way);good;1;raster;scregg;;;1
+eggs;Eggs (USA);Final Burn Alpha;scregg;1983;Technos Japan (Universal USA license);Maze;2P alt;270;joystick (4-way);good;1;raster;scregg;;;1
+eggs;Eggs (USA);MAME (Advance);scregg;1983;Technos Japan (Universal USA license);Maze;2P alt;270;joystick (4-way);good;1;raster;scregg;;;1
+eggs;Eggs (USA);MAME (Libretro);scregg;1983;Technos Japan (Universal USA license);Maze;2P alt;270;joystick (4-way);good;1;raster;scregg;;;1
+eggs;Eggs (USA);MAME (Mame4all);scregg;1983;Technos Japan (Universal USA license);Maze;2P alt;270;joystick (4-way);good;1;raster;scregg;;;1
+excthour;Exciting Hour;Arcade;matmania;1985;Technos Japan (Taito license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;matmania;;;2
+excthour;Exciting Hour;MAME (Advance);matmania;1985;Technos Japan (Taito license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;matmania;;;2
+excthour;Exciting Hour;MAME (Libretro);matmania;1985;Technos Japan (Taito license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;matmania;;;2
+excthour;Exciting Hour;MAME (Mame4all);matmania;1985;Technos Japan (Taito license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;matmania;;;2
+gowcaizr;Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer;Arcade;;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+gowcaizr;Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer;Final Burn Alpha;;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+gowcaizr;Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer;MAME (Advance);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+gowcaizr;Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer;MAME (Libretro);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+gowcaizr;Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer;MAME (Mame4all);;1995;Technos Japan;Fighter / Versus;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+hyprduel2;Hyper Duel (Japan set 2);MAME (Libretro);hyprduel;1993;Technosoft;Shooter / Flying Horizontal;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;hyprduel;;;
+hyprduel;Hyper Duel (Japan set 1);Arcade;;1993;Technosoft;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+hyprduel;Hyper Duel (Japan set 1);MAME (Advance);;1993;Technosoft;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+hyprduel;Hyper Duel (Japan set 1);MAME (Libretro);;1993;Technosoft;Shooter / Flying Horizontal;2P sim;0;joystick (8-way);good;1;raster;;;;3
+kuniokun;Nekketsu Kouha Kunio-kun (Japan);Arcade;renegade;1986;Technos Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;renegade;;;3
+kuniokun;Nekketsu Kouha Kunio-kun (Japan);Final Burn Alpha;renegade;1986;Technos Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;renegade;;;3
+kuniokun;Nekketsu Kouha Kunio-kun (Japan);MAME (Advance);renegade;1986;Technos Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;renegade;;;3
+kuniokun;Nekketsu Kouha Kunio-kun (Japan);MAME (Libretro);renegade;1986;Technos Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;renegade;;;3
+kuniokun;Nekketsu Kouha Kunio-kun (Japan);MAME (Mame4all);renegade;1986;Technos Japan;Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;renegade;;;3
+magerror;Magical Error wo Sagase;Arcade;;1994;Technosoft / Jaleco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;3
+magerror;Magical Error wo Sagase;MAME (Advance);;1994;Technosoft / Jaleco;Puzzle / Misc.;2P sim;0;joystick (8-way);good;1;raster;;;;3
+magerror;Magical Error wo Sagase;MAME (Libretro);;1994;Technosoft / Jaleco;Puzzle / Misc.;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;;;;
+maniach2;Mania Challenge (set 2);Arcade;maniach;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;maniach;;;2
+maniach2;Mania Challenge (set 2);MAME (Advance);maniach;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;maniach;;;2
+maniach2;Mania Challenge (set 2);MAME (Libretro);maniach;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;maniach;;;2
+maniach2;Mania Challenge (set 2);MAME (Mame4all);maniach;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;maniach;;;2
+maniach;Mania Challenge (set 1);Arcade;;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;;;;2
+maniach;Mania Challenge (set 1);MAME (Advance);;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;;;;2
+maniach;Mania Challenge (set 1);MAME (Libretro);;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;;;;2
+maniach;Mania Challenge (set 1);MAME (Mame4all);;1986;Technos Japan (Taito America license);Sports / Wrestling;2P sim;270;joystick (8-way);good;1;raster;;;;2
+matmania;Mat Mania;Arcade;;1985;Technos Japan (Taito America license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+matmania;Mat Mania;MAME (Advance);;1985;Technos Japan (Taito America license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+matmania;Mat Mania;MAME (Libretro);;1985;Technos Japan (Taito America license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+matmania;Mat Mania;MAME (Mame4all);;1985;Technos Japan (Taito America license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;;;;2
+mmonkey;Minky Monkey;Arcade;;1982;Technos Japan / Roller Tron;Puzzle / Misc.;2P alt;270;joystick (4-way);good;1;raster;;;;1
+mmonkey;Minky Monkey;Final Burn Alpha;;1982;Technos Japan / Roller Tron;Puzzle / Misc.;2P alt;270;joystick (4-way);good;1;raster;;;;1
+mmonkey;Minky Monkey;MAME (Advance);;1982;Technos Japan / Roller Tron;Puzzle / Misc.;2P alt;270;joystick (4-way);good;1;raster;;;;1
+mmonkey;Minky Monkey;MAME (Libretro);;1982;Technos Japan / Roller Tron;Puzzle / Misc.;2P alt;270;joystick (4-way);good;1;raster;;;;1
+mmonkey;Minky Monkey;MAME (Mame4all);;1982;Technos Japan / Roller Tron;Puzzle / Misc.;2P alt;270;joystick (4-way);good;1;raster;;;;1
+mystston;Mysterious Stones - Dr. John's Adventure;Arcade;;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;;;;2
+mystston;Mysterious Stones - Dr. John's Adventure;Final Burn Alpha;;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;;;;2
+mystston;Mysterious Stones - Dr. John's Adventure;MAME (Advance);;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;;;;2
+mystston;Mysterious Stones - Dr. John's Adventure;MAME (Libretro);;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;;;;2
+mystston;Mysterious Stones - Dr. John's Adventure;MAME (Mame4all);;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;;;;2
+myststonoi;Mysterious Stones - Dr. Kick in Adventure (Itisa PCB);Arcade;mystston;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;mystston;;;2
+myststonoi;Mysterious Stones - Dr. Kick in Adventure (Itisa PCB);Final Burn Alpha;mystston;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;mystston;;;2
+myststono;Mysterious Stones - Dr. Kick in Adventure;Arcade;mystston;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;mystston;;;2
+myststono;Mysterious Stones - Dr. Kick in Adventure;Final Burn Alpha;mystston;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way);good;1;raster;mystston;;;2
+myststono;Mysterious Stones - Dr. Kick in Adventure;MAME (Libretro);mystston;1984;Technos Japan;Maze / Shooter Large;2P alt;270;joystick (4-way),joystick (4-way);good;1;raster;mystston;;;
+nkdodge;Nekketsu Koukou Dodgeball Bu (Japan);MAME (Libretro);spdodgeb;1987;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;spdodgeb;;;
+pc_ddrgn;Double Dragon (PlayChoice-10);Arcade;;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_ddrgn;Double Dragon (PlayChoice-10);MAME (Libretro);;1988;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_wcup;Nintendo World Cup (PlayChoice-10);Arcade;;1990;Technos Japan (Nintendo license);Sports / Soccer;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+pc_wcup;Nintendo World Cup (PlayChoice-10);MAME (Libretro);;1990;Technos Japan (Nintendo license);Sports / Soccer;2P sim;0;joystick (8-way);good;2;raster;playch10;;;2
+renegade;Renegade (US);Arcade;;1986;Technos Japan (Taito America license);Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renegade;Renegade (US);Final Burn Alpha;;1986;Technos Japan (Taito America license);Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renegade;Renegade (US);MAME (Advance);;1986;Technos Japan (Taito America license);Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renegade;Renegade (US);MAME (Libretro);;1986;Technos Japan (Taito America license);Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;3
+renegade;Renegade (US);MAME (Mame4all);;1986;Technos Japan (Taito America license);Fighter / 2.5D;2P alt;0;joystick (8-way);good;1;raster;;;;3
+saiyugou;Sai Yu Gou Ma Roku (Japan);Arcade;chinagat;1988;Technos Japan;Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;chinagat;;;3
+saiyugou;Sai Yu Gou Ma Roku (Japan);Final Burn Alpha;chinagat;1988;Technos Japan;Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;chinagat;;;3
+saiyugou;Sai Yu Gou Ma Roku (Japan);MAME (Advance);chinagat;1988;Technos Japan;Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;chinagat;;;3
+saiyugou;Sai Yu Gou Ma Roku (Japan);MAME (Libretro);chinagat;1988;Technos Japan;Platform / Fighter;2P sim;0;joystick (8-way);good;1;raster;chinagat;;;3
+scregg;Scrambled Egg;Arcade;;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+scregg;Scrambled Egg;Final Burn Alpha;;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+scregg;Scrambled Egg;MAME (Advance);;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+scregg;Scrambled Egg;MAME (Libretro);;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+scregg;Scrambled Egg;MAME (Mame4all);;1983;Technos Japan;Maze;2P alt;270;joystick (4-way);good;1;raster;;;;1
+sdodgeb;Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu;Arcade;;1996;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+sdodgeb;Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu;Final Burn Alpha;;1996;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+sdodgeb;Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu;MAME (Advance);;1996;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+sdodgeb;Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu;MAME (Libretro);;1996;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+sdodgeb;Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu;MAME (Mame4all);;1996;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;neogeo;;;4
+shadfrcej;Shadow Force (Japan, Version 2);MAME (Libretro);shadfrce;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;shadfrce;;;
+shadfrcej;Shadow Force (Japan Version 3);Arcade;shadfrce;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadfrce;;;6
+shadfrcej;Shadow Force (Japan Version 3);Final Burn Alpha;shadfrce;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;shadfrce;;;6
+shadfrce;Shadow Force (US Version 2);Arcade;;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;6
+shadfrce;Shadow Force (US Version 2);Final Burn Alpha;;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;6
+shadfrce;Shadow Force (US Version 2);MAME (Advance);;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;6
+shadfrce;Shadow Force (US Version 2);MAME (Libretro);;1993;Technos Japan;Fighter / 2.5D;2P sim;0;joystick (8-way);good;1;raster;;;;6
+solrwarr;Solar-Warrior (US);Arcade;xsleena;1986;Technos Japan (Taito / Memetron license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;xsleena;;;2
+solrwarr;Solar-Warrior (US);Final Burn Alpha;xsleena;1986;Technos Japan (Taito / Memetron license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;xsleena;;;2
+spdodgeb;Super Dodge Ball (US);Arcade;;1987;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;;;;2
+spdodgeb;Super Dodge Ball (US);MAME (Advance);;1987;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;;;;2
+spdodgeb;Super Dodge Ball (US);MAME (Libretro);;1987;Technos Japan;Sports / Dodgeball;2P sim;0;joystick (8-way);good;1;raster;;;;2
+ssozumo;Syusse Oozumou (Japan);Arcade;;1984;Technos Japan;Sports / Sumo;2P alt;270;joystick (8-way);good;1;raster;;;;2
+ssozumo;Syusse Oozumou (Japan);Final Burn Alpha;;1984;Technos Japan;Sports / Sumo;2P alt;270;joystick (8-way);good;1;raster;;;;2
+ssozumo;Syusse Oozumou (Japan);MAME (Advance);;1984;Technos Japan;Sports / Sumo;2P alt;270;joystick (8-way);good;1;raster;;;;2
+ssozumo;Syusse Oozumou (Japan);MAME (Libretro);;1984;Technos Japan;Sports / Sumo;2P alt;270;joystick (8-way);good;1;raster;;;;2
+ssozumo;Syusse Oozumou (Japan);MAME (Mame4all);;1984;Technos Japan;Sports / Sumo;2P alt;270;joystick (8-way);good;1;raster;;;;2
+tagteam;Tag Team Wrestling;Arcade;bigprowr;1983;Technos Japan (Data East license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;bigprowr;;;2
+tagteam;Tag Team Wrestling;MAME (Advance);bigprowr;1983;Technos Japan (Data East license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;bigprowr;;;2
+tagteam;Tag Team Wrestling;MAME (Libretro);bigprowr;1983;Technos Japan (Data East license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;bigprowr;;;2
+tagteam;Tag Team Wrestling;MAME (Mame4all);bigprowr;1983;Technos Japan (Data East license);Sports / Wrestling;2P alt;270;joystick (8-way);good;1;raster;bigprowr;;;2
+tfrceacj;Thunder Force AC (Japan);Arcade;tfrceac;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;tfrceac;;;3
+tfrceacj;Thunder Force AC (Japan);MAME (Advance);tfrceac;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;tfrceac;;;3
+tfrceacj;Thunder Force AC (Japan);MAME (Libretro);tfrceac;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;tfrceac;;;3
+tfrceac;Thunder Force AC;Arcade;;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;;;;3
+tfrceac;Thunder Force AC;MAME (Advance);;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;;;;3
+tfrceac;Thunder Force AC;MAME (Libretro);;1990;Technosoft / Sega;Shooter / Flying Horizontal;1P;0;joystick (8-way);good;1;raster;;;;3
+vball2pj;U.S. Championship V'ball (Japan);Arcade;vball;1988;Technos Japan;Sports / Volleyball;2P sim;0;joystick (8-way);good;1;raster;vball;;;2
+vball2pj;U.S. Championship V'ball (Japan);MAME (Advance);vball;1988;Technos Japan;Sports / Volleyball;2P sim;0;joystick (8-way);good;1;raster;vball;;;2
+vball2pj;U.S. Championship V'ball (Japan);MAME (Libretro);vball;1988;Technos Japan;Sports / Volleyball;2P sim;0;joystick (8-way);good;1;raster;vball;;;2
+vball;U.S. Championship V'ball (US);Arcade;;1988;Technos Japan;Sports / Volleyball;4P sim;0;joystick (8-way);good;1;raster;;;;2
+vball;U.S. Championship V'ball (US);MAME (Advance);;1988;Technos Japan;Sports / Volleyball;4P sim;0;joystick (8-way);good;1;raster;;;;2
+vball;U.S. Championship V'ball (US);MAME (Libretro);;1988;Technos Japan;Sports / Volleyball;4P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfsstarj;WWF Superstars (Japan);Arcade;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstarj;WWF Superstars (Japan);Final Burn Alpha;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstarj;WWF Superstars (Japan);MAME (Libretro);wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;wwfsstar;;;
+wwfsstarua;WWF Superstars (US);Arcade;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstarua;WWF Superstars (US);Final Burn Alpha;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstaru;WWF Superstars (US, Newer);Arcade;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstaru;WWF Superstars (US, Newer);Final Burn Alpha;wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;wwfsstar;;;2
+wwfsstaru;WWF Superstars (US, Newer);MAME (Libretro);wwfsstar;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way),joystick (8-way);good;1;raster;wwfsstar;;;
+wwfsstar;WWF Superstars (Europe);Arcade;;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfsstar;WWF Superstars (Europe);Final Burn Alpha;;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfsstar;WWF Superstars (Europe);MAME (Advance);;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfsstar;WWF Superstars (Europe);MAME (Libretro);;1989;Technos Japan;Sports / Wrestling;2P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfwfesta;WWF WrestleFest (US Tecmo);MAME (Libretro);wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;wwfwfest;;;
+wwfwfestj;WWF WrestleFest (Japan);Arcade;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestj;WWF WrestleFest (Japan);Final Burn Alpha;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestj;WWF WrestleFest (Japan);MAME (Libretro);wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;wwfwfest;;;
+wwfwfestk;WWF WrestleFest (Korea);Arcade;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfestk;WWF WrestleFest (Korea);Final Burn Alpha;wwfwfest;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;wwfwfest;;;2
+wwfwfest;WWF WrestleFest (US set 1);Arcade;;1991;Technos Japan;Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfwfest;WWF WrestleFest (US set 1);Final Burn Alpha;;1991;Technos Japan;Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfwfest;WWF WrestleFest (US set 1);MAME (Advance);;1991;Technos Japan;Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;;;;2
+wwfwfest;WWF WrestleFest (US set 1);MAME (Libretro);;1991;Technos Japan;Sports / Wrestling;4P sim;0;joystick (8-way);good;1;raster;;;;2
+xsleenaj;Xain'd Sleena (Japan);Arcade;xsleena;1986;Technos Japan;Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;xsleena;;;2
+xsleenaj;Xain'd Sleena (Japan);Final Burn Alpha;xsleena;1986;Technos Japan;Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;xsleena;;;2
+xsleena;Xain'd Sleena (World);Arcade;;1986;Technos Japan (Taito license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+xsleena;Xain'd Sleena (World);Final Burn Alpha;;1986;Technos Japan (Taito license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+xsleena;Xain'd Sleena (World);MAME (Advance);;1986;Technos Japan (Taito license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+xsleena;Xain'd Sleena (World);MAME (Libretro);;1986;Technos Japan (Taito license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2
+xsleena;Xain'd Sleena (World);MAME (Mame4all);;1986;Technos Japan (Taito license);Platform / Shooter Scrolling;2P alt;0;joystick (8-way);good;1;raster;;;;2

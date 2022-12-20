@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+aliencha;Alien Challenge (World);PGM;;1994;IGS;;;;;;0;;;;;
+ddp2;Bee Storm - DoDonPachi II (ver. 100);PGM;;2001;IGS;Shooter/Flying;;;;;0;;;;;
+dmnfrnt;Demon Front (ver. 102);PGM;;2002;IGS;Platform;;;;;0;;;;;
+drgnwrld;Dragon World (World, V040O);PGM;;1997;IGS;Puzzle/Mature;;;;;0;;;;;
+drgw2;Dragon World II (ver. 110X, Export);PGM;;1997;IGS;Puzzle;;;;;0;;;;;
+happy6;Happy 6-in-1 (ver. 101CN);PGM;;2004;IGS;Multiplay;;;;;0;;;;;
+kov;Knights of Valour / Sangoku Senki (ver. 117);PGM;;1999;IGS;Fighter;;;;;0;;;;;
+kov2100;Knights of Valour 2 / Sangoku Senki 2 (ver. 100, 100, 100HK);PGM;kov2;2000;IGS;Fighter;;;;;0;;;;;
+kov2;Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);PGM;;2000;IGS;Fighter;;;;;0;;;;;
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sangoku Senki 2 Plus - Nine Dragons (ver. M204XX);PGM;;2001;IGS;Fighter;;;;;0;;;;;
+kovplus;Knights of Valour Plus / Sangoku Senki Plus (ver. 119);PGM;;1999;IGS;Fighter;;;;;0;;;;;
+kovsh;Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN);PGM;;1999;IGS;Fighter;;;;;0;;;;;
+kovqhsgs;Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (ver. 303CN);PGM;kovsh;1999;bootleg;;;;;;0;;;;;
+martmast;Martial Masters (ver. 104, 102, 102US);PGM;;2001;IGS;Fighter;;;;;0;;;;;
+orlegend;Oriental Legend / Xi You Shi E Zhuan (ver. 126);PGM;;1997;IGS;Fighter;;;;;0;;;;;
+olds;Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board);PGM;;1998;IGS;Fighter;;;;;0;;;;;
+oldsplus;Oriental Legend Special Plus / Xi You Shi E Zhuan Super Plus;PGM;;2004;IGS;Fighter;;;;;0;;;;;
+photoy2k;Photo Y2K (ver. 105);PGM;;1999;IGS;Puzzle;;;;;0;;;;;
+puzzli2;Puzzli 2 Super (ver. 200);PGM;;2001;IGS;Puzzle;;;;;0;;;;;
+svg;S.V.G. - Spectral vs Generation (ver. 200);PGM;;2005;IGS;Fighter;;;;;0;;;;;
+theglad;The Gladiator (ver. 100);PGM;;2003;IGS;Fighter;;;;;0;;;;;
+killbld;The Killing Blade (ver. 109, Chinese Board);PGM;;1998;IGS;Fighter;;;;;0;;;;;
+killbldp;The Killing Blade Plus (ver. 300);PGM;;2005;IGS;Fighter;;;;;0;;;;;
+espgal;espgal;PGM; ; ; ; ;;;;;0;;;;;
+ket;ket;PGM; ; ; ; ;;;;;0;;;;;

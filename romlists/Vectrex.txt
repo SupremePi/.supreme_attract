@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Armor.Attack;Armor.Attack;Vectrex;;;;;;;;;;;;;;
+Bedlam;Bedlam;Vectrex;;;;;;;;;;;;;;
+Berzerk;Berzerk;Vectrex;;;;;;;;;;;;;;
+Blitz! - Action Football;Blitz! - Action Football;Vectrex;;;;;;;;;;;;;;
+Clean Sweep;Clean Sweep;Vectrex;;;;;;;;;;;;;;
+Cosmic Chasm;Cosmic Chasm;Vectrex;;;;;;;;;;;;;;
+Fortress of Narzod;Fortress of Narzod;Vectrex;;;;;;;;;;;;;;
+Heads-Up - Action Soccer;Heads-Up - Action Soccer;Vectrex;;;;;;;;;;;;;;
+HyperChase - Auto Race;HyperChase - Auto Race;Vectrex;;;;;;;;;;;;;;
+Mine Storm;Mine Storm;Vectrex;;;;;;;;;;;;;;
+Mine Storm II;Mine Storm II;Vectrex;;;;;;;;;;;;;;
+Polar Rescue;Polar Rescue;Vectrex;;;;;;;;;;;;;;
+Pole Position;Pole Position;Vectrex;;;;;;;;;;;;;;
+Rip Off;Rip Off;Vectrex;;;;;;;;;;;;;;
+Scramble;Scramble;Vectrex;;;;;;;;;;;;;;
+Solar Quest;Solar Quest;Vectrex;;;;;;;;;;;;;;
+Space Wars;Space Wars;Vectrex;;;;;;;;;;;;;;
+Spike;Spike;Vectrex;;;;;;;;;;;;;;
+Spin ball;Spin ball;Vectrex;;;;;;;;;;;;;;
+Star Castle;Star Castle;Vectrex;;;;;;;;;;;;;;
+Star Ship;Star Ship;Vectrex;;;;;;;;;;;;;;
+Star Trek - The Motion Picture;Star Trek - The Motion Picture;Vectrex;;;;;;;;;;;;;;
+StarHawk;StarHawk;Vectrex;;;;;;;;;;;;;;
+WebWarp;WebWarp;Vectrex;;;;;;;;;;;;;;

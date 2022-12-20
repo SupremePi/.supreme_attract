@@ -1,0 +1,18 @@
+Robotron (Europe);Robotron (Europe);Sinclair ZX Spectrum;;1985;Krypton Force;Shooter;;;;;0;;;;;
+Robotron - 2084 (USA);Robotron - 2084 (USA);Atari 7800;;1986;Williams Electronic Games;Shoot-'Em-Up;;;;;0;;;;;
+Robotron 2084 (Europe);Robotron 2084 (Europe);Sinclair ZX Spectrum;;1984;Atarisoft;Shooter;;;;;0;;;;;
+Robotron 2084 (USA);Robotron 2084 (USA);Atari 5200;;1983;Atari;Shooter;;;;;0;;;;;
+Robotron 2084 (USA);Robotron 2084 (USA);Atari ST;;1987;Atari Corp.;Shoot-'Em-Up;;;;;0;;;;;
+Robotron 2084 (USA);Robotron 2084 (USA);Commodore 64;;1983;Atarisoft;Shoot-'Em-Up;;;;;0;;;;;
+Robotron 2084 (USA, Europe);Robotron 2084 (USA, Europe);Atari Lynx;;1991;Shadowsoft;Shoot-'Em-Up;;;;;0;;;;;
+Robotron 64 (USA);Robotron 64 (USA);Nintendo 64;;1998;Crave;Action;;;;;0;;;;;
+Robotron X (USA);Robotron X (USA);Sony PSP;;1996;Midway;Action;;;;;0;;;;;
+Robotron X (USA);Robotron X (USA);Sony PlayStation;;1996;Midway;Action;;;;;0;;;;;
+robotron;Robotron 2084 (Solid Blue label);Arcade;;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotron;Robotron 2084 (Solid Blue label);MAME (Advance);;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotron;Robotron 2084 (Solid Blue label);MAME (Libretro);;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotron;Robotron 2084 (Solid Blue label);MAME (Mame4all);;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotronyo;Robotron 2084 (Yellow/Orange label);Arcade;robotron;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotronyo;Robotron 2084 (Yellow/Orange label);MAME (Advance);robotron;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotronyo;Robotron 2084 (Yellow/Orange label);MAME (Libretro);robotron;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+robotronyo;Robotron 2084 (Yellow/Orange label);MAME (Mame4all);robotron;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;

@@ -1,0 +1,6 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+BuggyBoy;BuggyBoy;Oric 1;;;;;;;;;;;;;;
+Pulsoids;Pulsoids;Oric 1;;;;;;;;;;;;;;
+Quintessential;Quintessential;Oric 1;;;;;;;;;;;;;;
+ZipNZapE;ZipNZapE;Oric 1;;;;;;;;;;;;;;
+barbitoric;barbitoric;Oric 1;;;;;;;;;;;;;;

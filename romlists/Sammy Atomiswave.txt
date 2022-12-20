@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+anmlbskt;Animal Basket;Sammy Atomiswave;;2005;Sammy/Moss;Sports;;;;;0;;;;;
+demofist;Demolish Fist;Sammy Atomiswave;;2003;Sammy/Dimps;Beat-'Em-Up;;;;;0;;;;;
+dirtypig;Dirty Pigskin Football;Sammy Atomiswave;;2004;Sammy;Football/Sports;;;;;0;;;;;
+dolphin;Dolphin Blue;Sammy Atomiswave;;2003;Sammy;Shoot-'Em-Up;;;;;0;;;;;
+xtrmhunt;Extreme Hunting;Sammy Atomiswave;;2005;Sammy;Gun;;;;;0;;;;;
+xtrmhnt2;Extreme Hunting 2;Sammy Atomiswave;;2006;Sega;Gun;;;;;0;;;;;
+ftspeed;Faster Than Speed;Sammy Atomiswave;;2004;Sammy;Driving;;;;;0;;;;;
+fotns;Fist of the North Star (Hokuto No Ken);Sammy Atomiswave;;2005;Sega/ARC System Works;Fighter;;;;;0;;;;;
+Fist of The North Star;Fist of The North Star;Sammy Atomiswave;;2005;Sega/ARC System Works;Fighter;;;;;0;;;;;
+ggisuka;Guilty Gear Isuka;Sammy Atomiswave;;2004;Sammy/ARC System Works;Fighter;;;;;0;;;;;
+ggx15;Guilty Gear X Ver. 1.5;Sammy Atomiswave;;2003;Sammy/Arc System Works;Fighter;;;;;0;;;;;
+kofnw;King of Fighters NeoWave, The;Sammy Atomiswave;;2004;Sammy/SNK Playmore;Fighter;;;;;0;;;;;
+kofxi;King of Fighters XI, The;Sammy Atomiswave;;2005;Sega/SNK Playmore;Fighter;;;;;0;;;;;
+kov7sprt;Knights Of Valour: The Seven Spirits;Sammy Atomiswave;;2004;Sammy/IGS;Beat-'Em-Up;;;;;0;;;;;
+maxspeed;Maximum Speed;Sammy Atomiswave;;2002;Sammy;Driving;;;;;0;;;;;
+mslug6;Metal Slug 6;Sammy Atomiswave;;2006;Sega/SNK Playmore;Platform;;;;;0;;;;;
+mslug6v;Metal Slug 6 Violent;Sammy Atomiswave;;2006;Sega/SNK Playmore;Platform;;;;;0;;;;;
+ngbc;Neo-Geo Battle Coliseum;Sammy Atomiswave;;2005;Sammy/SNK Playmore;Fighter;;;;;0;;;;;
+rangrmsn;Ranger Mission;Sammy Atomiswave;;2004;Sammy;Gun;;;;;0;;;;;
+rumblef2;Rumble Fish 2, The;Sammy Atomiswave;;2004;Sammy/Dimps;Fighter;;;;;0;;;;;
+rumblef;Rumble Fish, The;Sammy Atomiswave;;2004;Sammy/Dimps;Fighter;;;;;0;;;;;
+salmankt;Salary Man Kintaro;Sammy Atomiswave;;2004;Sammy;Adventure;;;;;0;;;;;
+samsptk;Samurai Shodown VI;Sammy Atomiswave;;2005;Sammy/SNK Playmore;Fighter;;;;;0;;;;;
+sprtshot;Sports Shooting USA;Sammy Atomiswave;;2003;Sammy;Gun;;;;;0;;;;;
+#sushibar;Sushi Bar USA;Sammy Atomiswave;;2003;Sammy;Puzzle;;;;;0;;;;;
+vfurlong;Victory Furlong Horse Racing;Sammy Atomiswave;;2005;Sammy;Sports/Horse Racing;;;;;0;;;;;

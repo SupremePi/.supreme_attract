@@ -1,0 +1,23 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+androdun;Andro Dunos (NGM-049)(NGH-049);Visco;;1992;Visco;Shoot-'Em-Up;;;;;0;;;;;
+bangbead;Bang Bead;Visco;;2000;Visco;Sports;;;;;0;;;;;
+flipshot;Battle Flip Shot;Visco;;1998;Visco;Sports;;;;;0;;;;;
+blockcar;Block Carnival / Thunder & Lightning 2;Visco;;1992;Visco;Breakout;;;;;0;;;;;
+breakers;Breakers;Visco;;1996;Visco;Fighter;;;;;0;;;;;
+breakrev;Breakers Revenge;Visco;;1998;Visco;Fighter;;;;;0;;;;;
+ctomaday;Captain Tomaday;Visco;;1999;Visco;Shoot-'Em-Up;;;;;0;;;;;
+drifto94;Drift Out '94 - The Hard Order (Japan);Visco;;1994;Visco;Driving;;;;;0;;;;;
+driftout;Drift Out (Europe);Visco;;1991;Visco;Driving;;;;;0;;;;;
+galmedes;Galmedes (Japan);Visco;;1992;Visco;Shoot-'Em-Up;;;;;0;;;;;
+ganryu;Ganryu / Musashi Ganryuki;Visco;;1999;Visco;Platform;;;;;0;;;;;
+goalx3;Goal! Goal! Goal!;Visco;;1995;Visco;Sports/Soccer;;;;;0;;;;;
+jsk;Joryuu Syougi Kyoushitsu (Japan);Visco;;1997;Visco;Tabletop;;;;;0;;;;;
+koikois;Koi Koi Shimasho;Visco;;1995;Visco;Tabletop;;;;;0;;;;;
+eto;Kokontouzai Eto Monogatari (Japan);Visco;;1994;Visco;Puzzle;;;;;0;;;;;
+neodrift;Neo Drift Out - New Technology;Visco;;1996;Visco;Driving;;;;;0;;;;;
+neomrdo;Neo Mr. Do!;Visco;;1996;Visco;Maze;;;;;0;;;;;
+renju;Renju Kizoku;Visco;;1994;Visco;Tabletop;;;;;0;;;;;
+stmblade;Storm Blade (US);Visco;;1996;Visco;Shoot-'Em-Up;;;;;0;;;;;
+earthjkr;U.N. Defense Force: Earth Joker (Japan);Visco;;1993;Visco;Shoot-'Em-Up;;;;;0;;;;;
+vasara;Vasara;Visco;;2000;Visco;Shoot-'Em-Up;;;;;0;;;;;
+vasara2;Vasara 2 (set 1);Visco;;2001;Visco;Shoot-'Em-Up;;;;;0;;;;;

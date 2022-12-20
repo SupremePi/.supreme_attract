@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Chromium;Chromium;Chromium;;;;;;;;;;;;;;
+Kodi;Kodi;Kodi;;;;;;;;;;;;;;
+Pixel;Pixel;Pixel;;;;;;;;;;;;;;
+#JukeboxGranite;Jukebox Granite;Jukebox;;;;;;;;;;;;;;
+#JukeboxModern;Jukebox Modern;Jukebox;;;;;;;;;;;;;;
+#JukeboxTouchOne;Jukebox TouchOne;Jukebox;;;;;;;;;;;;;;
+#JukeboxWallJuke;Jukebox WallJuke;Jukebox;;;;;;;;;;;;;;
+#JukeboxWallSmall;Jukebox WallSmall;Jukebox;;;;;;;;;;;;;;
+Old Commercial;Old Commercial;@;;;;;;;;;0;;;;;
+steam;Steam;Steam;;;;;;;;;;;;;;

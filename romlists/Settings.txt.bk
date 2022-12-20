@@ -1,0 +1,19 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Audio tools;/ Audio Tools;@;;;;;;;;;0;;;;;
+Controller tools;/ Controller Tools;@;;;;;;;;;0;;;;;
+Emulation tools;/ Emulation Tools;@;;;;;;;;;0;;;;;
+Retropie tools;/ Retropie Tools;@;;;;;;;;;0;;;;;
+Visual tools;/ Visual Tools;@;;;;;;;;;0;;;;;
+Wifi-Bluetooth;/ Wifi & Bluetooth;@;;;;;;;;;0;;;;;
+attract-systems-detection;Systems Detection;Settings;;;;;;;;;;;;;;
+displayutility;Display Utility;Settings;;;;;;;;;;;;;;
+basicinfo;Retropie Basic Infos;Settings;;;;;;;;;;;;;;
+favorites;Favorites Utility;Settings;;;;;;;;;;;;;;
+fixmybuild;Fix My Build;Settings;;;;;;;;;;;;;;
+emulationstation;Reboot To Emulation Station;Settings;;;;;;;;;;;;;;
+supreme-online-tool;Supreme Online Tool;Settings;;;;;;;;;;;;;;
+#systemsnapswitch;Systems snaps switch;Settings;;;;;;;;;;;;;;
+raspiconfig;Raspi Config;Settings;;;;;;;;;;;;;;
+rpsetup;Retropie Setup;Settings;;;;;;;;;;;;;;
+reboot;Reboot;Settings;;;;;;;;;;;;;;
+shutdown;Shutdown;Settings;;;;;;;;;;;;;;

@@ -1,0 +1,14 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+hsf2;hsf2;Arcade;;;;;;;;;;;;;;
+jojo;jojo;Arcade;;;;;;;;;;;;;;
+jojoba;jojoba;Arcade;;;;;;;;;;;;;;
+redearth;redearth;Arcade;;;;;;;;;;;;;;
+sfa;sfa;Arcade;;;;;;;;;;;;;;
+sfa2;sfa2;Arcade;;;;;;;;;;;;;;
+sfa3;sfa3;Arcade;;;;;;;;;;;;;;
+sfiii;sfiii;Arcade;;;;;;;;;;;;;;
+sfiii2;sfiii2;Arcade;;;;;;;;;;;;;;
+sfiii3;sfiii3;Arcade;;;;;;;;;;;;;;
+sfz2al;sfz2al;Arcade;;;;;;;;;;;;;;
+sgemf;sgemf;Arcade;;;;;;;;;;;;;;
+ssf2t;ssf2t;Arcade;;;;;;;;;;;;;;

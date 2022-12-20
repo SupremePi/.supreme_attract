@@ -1,0 +1,14 @@
+All Star Watersports (Europe);All Star Watersports (Europe);Sony PlayStation;;2003;Phoenix Games;Sports/Surfing;;;;;0;;;;;
+All Star Watersports (Europe);All Star Watersports (Europe);Sony PSP;;2003;Phoenix Games;Sports/Surfing;;;;;0;;;;;
+California Surfing (Europe);California Surfing (Europe);Sony PlayStation;;2003;Midas Interactive Entertainment;Sports/Surfing;;;;;0;;;;;
+California Surfing (Europe);California Surfing (Europe);Sony PSP;;2003;Midas Interactive Entertainment;Sports/Surfing;;;;;0;;;;;
+Championship Surfer (USA);Championship Surfer (USA);Sega Dreamcast;;2000;Mattel;Sports/Surfing;;;;;0;;;;;
+Championship Surfer (USA);Championship Surfer (USA);Sony PlayStation;;2001;Mattel;Sports/Surfing;;;;;0;;;;;
+Championship Surfer (USA);Championship Surfer (USA);Sony PSP;;2001;Mattel;Sports/Surfing;;;;;0;;;;;
+Kelly Slater's Pro Surfer (USA, Europe);Kelly Slater's Pro Surfer (USA, Europe);Nintendo Game Boy Advance;;2002;Activision;Sports/Surfing;;;;;0;;;;;
+Surf Champ (Europe);Surf Champ (Europe);Sinclair ZX Spectrum;;1985;New Concepts;Sports/Surfing;;;;;0;;;;;
+Surfer's Paradise - But Danger Below! (Europe);Surfer's Paradise - But Danger Below! (Europe);Atari 2600;;1983;Video Gems;Sports/Surfing;;;;;0;;;;;
+Surf's Up (USA) (En,Fr,Es);Surf's Up (USA) (En,Fr,Es);Nintendo Game Boy Advance;;2007;Ubisoft;Sports/Surfing;;;;;0;;;;;
+Surf's Up (USA) (Proto);Surf's Up (USA) (Proto);Atari 2600;;1983;Amiga;Sports/Surfing;;;;;0;;;;;
+Windsurfers Paradise (Europe);Windsurfers Paradise (Europe);Sony PlayStation;;2002;Midas Interactive Entertainment;Sports/Surfing;;;;;0;;;;;
+Windsurfers Paradise (Europe);Windsurfers Paradise (Europe);Sony PSP;;2002;Midas Interactive Entertainment;Sports/Surfing;;;;;0;;;;;

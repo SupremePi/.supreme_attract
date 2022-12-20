@@ -1,0 +1,24 @@
+Puzzle Link (Europe);Puzzle Link (Europe);SNK Neo Geo Pocket Color;;1999;SNK;Puzzle;;;;;0;;;;;
+Puzzle Bobble Mini (Japan, Europe) (v1.10);Puzzle Bobble Mini (Japan, Europe) (v1.10);SNK Neo Geo Pocket Color;;1999;SNK;Puzzle;;;;;0;;;;;
+Shanghai Mini (World) (En,Ja);Shanghai Mini (World) (En,Ja);SNK Neo Geo Pocket Color;;2000;SNK;Puzzle;;;;;0;;;;;
+Kill Bill;Kill Bill;OpenBOR;;;;;;;;;;;;;;;;;;
+Mortal Kombat II (Japan, USA);Mortal Kombat II (Japan, USA);Sega 32X;;;;;;;;;;;;;;;;;;
+Amazing Spider-Man, The - Web of Fire (USA);Amazing Spider-Man, The - Web of Fire (USA);Sega 32X;;;;;;;;;;;;;;;;;;
+S.O.S - Sink or Swim (Europe);S.O.S - Sink or Swim (Europe);Nintendo Super Nintendo;;;;;;;;;;;;;;
+007 - The World Is Not Enough (USA, Europe);007 - The World Is Not Enough (USA, Europe);Nintendo Game Boy Color;;2001;Electronic Arts;Action;;;;;0;;;;;
+Aladdin (USA, Europe);Aladdin (USA, Europe);Sega Game Gear;;;;;;;;;;;;;;
+Crazy Taxi (USA);Crazy Taxi (USA);Sega Dreamcast;;2000;Sega;Racing;2;;;;;;;;;
+Super Street Fighter II (Europe);Super Street Fighter II (Europe);Nintendo Super Nintendo;;;;;;;;;;;;;;
+Altered Beast (USA, Europe);Altered Beast (USA, Europe);Sega Genesis;;1989;Sega;Beat-'Em-Up;;;;;0;;;;;
+1941;1941: Counter Attack (World 900227);Arcade;;1990;Capcom;Shooter / Flying Vertical;2P sim;270;joystick (8-way);good;1;raster;;;;2
+fotns;Fist of the North Star (Hokuto No Ken);Sammy Atomiswave;;2005;Sega/ARC System Works;Fighter;;;;;0;;;;;
+capsnk;Capcom Vs. SNK Millennium Fight 2000 (000904 JPN, USA, EXP, KOR, AUS) (Rev C);Sega Naomi;;2000;Capcom / SNK;Fighter;;;;;0;;;;;
+Alien Invaders - Plus (USA, Europe);Alien Invaders - Plus (USA, Europe);Magnavox Odyssey 2;;;;;;;;;;;;;;;;;;
+A Tale of Vengeance;A Tale of Vengeance;OpenBOR;;;;;;;;;;;;;;;;;;
+Saint Seiya Death and Rebirth;Saint Seiya Death and Rebirth;OpenBOR;;;;;;;;;;;;;;;;;;
+Super Final Fight Gold;Super Final Fight Gold;OpenBOR;;;;;;;;;;;;;;;;;;
+Alien Invasion (USA);Alien Invasion (USA);Fairchild Channel F;;;;;;;;;;;;;;;;;;
+Terminator (USA);The Terminator (USA);Sega CD;;1993;Virgin Interactive;Platform;;;;;0;;;;;,
+Aqua GT (Europe);Aqua GT (Europe);Sega Dreamcast;;;;;;;;;;;;;;
+Marvel vs. Capcom 2 - New Age of Heroes (USA);Marvel vs. Capcom 2 - New Age of Heroes (USA);Sega Dreamcast;;;;;;;;;;;;;;
+Virtua Tennis (USA);Virtua Tennis (USA);Sega Dreamcast;;2000;Sega;Sports;;;;;;;;;;

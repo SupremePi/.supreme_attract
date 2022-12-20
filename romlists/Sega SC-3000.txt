@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Bomb Jack (Japan);Bomb Jack (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Chack'n Pop (Japan);Chack'n Pop (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Champion Billiards (Japan);Champion Billiards (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Choplifter (Japan);Choplifter (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Drol (Japan);Drol (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Exerion (Japan, Europe);Exerion (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Golgo 13 (Japan);Golgo 13 (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Guzzler (Japan);Guzzler (Japan);Sega SC-3000;;;;;;;;;;;;;;
+H.E.R.O. (Japan);H.E.R.O. (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Hustle Chumy (Japan);Hustle Chumy (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Hyper Sports (Japan);Hyper Sports (Japan);Sega SC-3000;;;;;;;;;;;;;;
+James Bond 007 (Japan);James Bond 007 (Japan);Sega SC-3000;;;;;;;;;;;;;;
+N-Sub (Europe);N-Sub (Europe);Sega SC-3000;;;;;;;;;;;;;;
+Orguss (Japan, Europe);Orguss (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Pacar (Japan, Europe);Pacar (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Pop Flamer (Japan, Europe);Pop Flamer (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Q-bert (Japan);Q-bert (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Safari Race (Europe);Safari Race (Europe);Sega SC-3000;;;;;;;;;;;;;;
+Sindbad Mystery (Japan, Europe);Sindbad Mystery (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Soukoban (Japan);Soukoban (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Space Invaders (Japan);Space Invaders (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Super Tank (Japan);Super Tank (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Yamato (Japan, Europe);Yamato (Japan, Europe);Sega SC-3000;;;;;;;;;;;;;;
+Zaxxon (Japan);Zaxxon (Japan);Sega SC-3000;;;;;;;;;;;;;;
+Zippy Race (Japan);Zippy Race (Japan);Sega SC-3000;;;;;;;;;;;;;;

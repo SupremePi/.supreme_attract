@@ -1,0 +1,18 @@
+Darius Alpha (Japan);Darius Alpha (Japan);NEC PC Engine;;;;;;;
+Darius Plus (Japan);Darius Plus (Japan);NEC PC Engine;;;;;;;
+Darius Twin (USA);Darius Twin (USA);Nintendo SNES;;;;;;;
+darius;darius;Arcade;;;;;;;
+darius2;darius2;Arcade;;;;;;
+darius2d;darius2d;Arcade;;;;;;
+dariuse;dariuse;Arcade;;;;;;
+dariusg;dariusg;Arcade;
+dariusgj;dariusj;Arcade;
+dariusgu;dariusgu;Arcade;
+dariusgx;dariusgx;Arcade;
+dariusj;dariusj;Arcade;
+dariuso;dariuso;Arcade;
+darius2;Darius II (triple screen) (Japan);Taito Classics;;1989;Taito Corporation;Shoot-'Em-Up
+dariusg;Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19);Taito Classics;;1994;Taito Corporation Japan;Shoot-'Em-Up;;;;;0;;;;;
+gdarius2;G-Darius Ver.2 (Ver 2.03J);Taito Classics;;1997;Taito;Shoot-'Em-Up;;;;;0;;;;;
+Darius Gaiden (Japan);Darius Gaiden (Japan);Sony Playstation;;;
+G. Darius (USA);G. Darius (USA);Sony Playstation;;1998;THQ;Shooter;1;;;;;;;;

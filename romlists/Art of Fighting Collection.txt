@@ -1,0 +1,34 @@
+aof2a;Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056);Arcade;aof2;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2a;Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056);Final Burn Alpha;aof2;1994;SNK;;;;;;0;;;;;
+aof2a;Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056);MAME (Advance);aof2;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2a;Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056);MAME (Libretro);aof2;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2a;Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056);MAME (Mame4all);aof2;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2;Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056);Arcade;;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2;Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056);Final Burn Alpha;;1994;SNK;;;;;;0;;;;;
+aof2;Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056);MAME (Advance);;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2;Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056);MAME (Libretro);;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2;Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056);MAME (Mame4all);;1994;SNK;Fighter / Versus;;;;;0;;;;;
+aof2;Art of Fighting 2;SNK Neo Geo AES;;1994;SNK;Action/Fighting;;;;;0;;;;;
+aof3;Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden;Arcade;;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3;Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden;Final Burn Alpha;;1996;SNK;;;;;;0;;;;;
+aof3;Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden;MAME (Advance);;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3;Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden;MAME (Libretro);;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3;Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden;MAME (Mame4all);;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3;Art of Fighting 3 The Path of the Warrior;SNK Neo Geo AES;;1996;SNK;Action/Fighting;;;;;0;;;;;
+aof3k;Art of Fighting 3 - The Path of the Warrior (Korean release);Arcade;aof3;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3k;Art of Fighting 3 - The Path of the Warrior (Korean release);Final Burn Alpha;aof3;1996;SNK;;;;;;0;;;;;
+aof3k;Art of Fighting 3 - The Path of the Warrior (Korean release);MAME (Advance);aof3;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3k;Art of Fighting 3 - The Path of the Warrior (Korean release);MAME (Libretro);aof3;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof3k;Art of Fighting 3 - The Path of the Warrior (Korean release);MAME (Mame4all);aof3;1996;SNK;Fighter / Versus;;;;;0;;;;;
+aof;Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044);Arcade;;1992;SNK;Fighter / Versus;;;;;0;;;;;
+aof;Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044);Final Burn Alpha;;1992;SNK;;;;;;0;;;;;
+aof;Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044);MAME (Advance);;1992;SNK;Fighter / Versus;;;;;0;;;;;
+aof;Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044);MAME (Libretro);;1992;SNK;Fighter / Versus;;;;;0;;;;;
+aof;Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044);MAME (Mame4all);;1992;SNK;Fighter / Versus;;;;;0;;;;;
+aof;Art of Fighting;SNK Neo Geo AES;;1992;SNK;Action/Fighting;;;;;0;;;;;
+aofp;Art of Fighting (Prototype, 19940711);Final Burn Alpha;aof;1994;Sega;;;;;;0;;;;;
+aofu;Art of Fighting (USA);Final Burn Alpha;aof;1994;Sega;;;;;;0;;;;;
+Art of Fighting (USA);Art of Fighting (USA);Sega Genesis;;1994;SNK;Fighter;;;;;0;;;;;
+Art of Fighting (USA);Art of Fighting (USA);Super Nintendo Entertainment System;;1993;SNK;Fighter;;;;;0;;;;;
+
+

@@ -1,0 +1,13 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Amidar (Japan);Amidar (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Dig Dug (Japan);Dig Dug (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Dirty Chameleon (Japan);Dirty Chameleon (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Excite Mahjong (Japan);Excite Mahjong (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Nauty Boy (Japan);Nauty Boy (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Pachinko-UFO (Japan);Pachinko-UFO (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Pooyan (Japan);Pooyan (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Space Panic (Japan);Space Panic (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Super Cobra (Japan);Super Cobra (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Turpin (Japan);Turpin (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Tutankham (Japan);Tutankham (Japan);Casio PV-1000;;;;;;;;;;;;;;
+Warp Warp (Japan);Warp Warp (Japan);Casio PV-1000;;;;;;;;;;;;;;

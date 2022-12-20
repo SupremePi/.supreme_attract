@@ -1,0 +1,2 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+behold;Eye of the Beholder (1991);Microsoft MS-DOS;;1991;Strategic Simulations, Inc.;Role-Playing;1;;;;;;;;;

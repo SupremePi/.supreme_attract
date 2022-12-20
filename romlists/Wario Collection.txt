@@ -1,0 +1,16 @@
+Mario to Wario (Japan);Mario to Wario (Japan);Nintendo Super Famicom;;1993;Game Freak;Puzzle;;;;;0;;;;;
+Virtual Boy Wario Land (Japan, USA);Virtual Boy Wario Land (Japan, USA);Nintendo Virtual Boy;;1995;Nintendo;Platform;;;;;0;;;;;
+wario3;Wario Land 3 (Rus);Final Burn Alpha;puggsy;199?;Glorysun;;;;;;0;;;;;
+Wario Blast Featuring Bomberman! (USA, Europe);Wario Blast Featuring Bomberman! (USA, Europe);Nintendo Game Boy;;1994;Nintendo;Action;;;;;0;;;;;
+Wario Land 3 (World);Wario Land 3 (World);Nintendo Game Boy Color;;2000;Nintendo;Platform;;;;;0;;;;;
+Wario Land 4 (USA, Europe);Wario Land 4 (USA, Europe);Nintendo Game Boy Advance;;2001;Nintendo;Platform;;;;;0;;;;;
+Wario Land II (USA, Europe);Wario Land II (USA, Europe);Nintendo Game Boy;;1998;Nintendo;Platform;;;;;0;;;;;
+Wario Land II (USA, Europe);Wario Land II (USA, Europe);Nintendo Game Boy Color;;1999;Nintendo;Platform;;;;;0;;;;;
+Wario Land - Super Mario Land 3 (World);Wario Land - Super Mario Land 3 (World);Nintendo Game Boy;;1994;Nintendo;Platform;;;;;0;;;;;
+Wario - Master of Disguise (USA);Wario - Master of Disguise;Nintendo DS;;;;;;;;;0;;;;;
+Wario's Woods (USA);Wario's Woods (USA);Nintendo Entertainment System;;1994;Nintendo;Puzzle;;;;;0;;;;;
+Wario's Woods (USA);Wario's Woods (USA);Super Nintendo Entertainment System;;1993;Nintendo;Puzzle;;;;;0;;;;;
+WarioWare - D.I.Y. (USA);WarioWare - D.I.Y.;Nintendo DS;;;;;;;;;0;;;;;
+WarioWare, Inc. - Mega Microgame$! (USA);WarioWare, Inc. - Mega Microgame$! (USA);Nintendo Game Boy Advance;;2003;Nintendo;Puzzle;;;;;0;;;;;
+WarioWare - Touched! (USA);WarioWare - Touched!;Nintendo DS;;;;;;;;;0;;;;;
+WarioWare - Twisted! (USA);WarioWare - Twisted! (USA);Nintendo Game Boy Advance;;2005;Nintendo;Puzzle;;;;;0;;;;;

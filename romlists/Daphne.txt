@@ -1,0 +1,22 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+astron;Astron Belt;Daphne;;1983;Bally Midway;Shoot-'Em-Up;;;;;0;;;;;
+badlands;Badlands;Daphne;;1984;Konami;Adventure;;;;;0;;;;;
+bega;Bega's Battle;Daphne;;1983;Data East;Adventure;;;;;0;;;;;
+cliff;Cliff Hanger;Daphne;;1983;Stern;Adventure;;;;;0;;;;;
+cobraab;Cobra Command;Daphne;;1988;Data East;Flying;;;;;0;;;;;
+lair;Dragons Lair;Daphne;;1983;Cinematronics;Adventure;;;;;0;;;;;
+lair2;Dragons Lair 2;Daphne;;1991;Leland;Adventure;;;;;0;;;;;
+esh;Esh's Arunmilla;Daphne;;1984;Funai;Adventure;;;;;0;;;;;
+gpworld;GP World;Daphne;;1984;Bally Midway;Driving;;;;;0;;;;;
+galaxy;Galaxy Ranger;Daphne;;1983;Bally Midway;Shoot-'Em-Up;;;;;0;;;;;
+interstellar;Interstellar;Daphne;;1983;Funai;Shoot-'Em-Up;;;;;0;;;;;
+mach3;M.A.C.H. 3;Daphne;;1983;Mylstar;Flying;;;;;0;;;;;
+hayate;Ninja Hayate;Daphne;;1984;Taito;Adventure;;;;;0;;;;;
+roadblaster;Road Blaster;Daphne;;1985;Data East;Driving;;;;;0;;;;;
+ace;Space Ace;Daphne;;1984;Cinematronics;Adventure;;;;;0;;;;;
+sdq;Super Don Quix-Ote;Daphne;;1984;Universal;Adventure;;;;;0;;;;;
+tq;Thayer's Quest;Daphne;;1984;RDI Video Systems;Adventure;;;;;0;;;;;
+timegal;Time Gal;Daphne;;1985;Taito;Adventure;;;;;0;;;;;
+timetraveler;Time Traveler;Daphne;;1991;GTE Interactive Media;Adventure;;;;;0;;;;;
+uvt;Us vs Them;Daphne;;1984;Mylstar;Shoot-'Em-Up;;;;;0;;;;;
+dle21;Dragons Lair;Daphne;;1983;Cinematronics;Adventure;;;;;0;;;;;

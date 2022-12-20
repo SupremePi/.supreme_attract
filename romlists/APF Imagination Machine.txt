@@ -1,0 +1,12 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Backgammon (USA);Backgammon (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Baseball (USA);Baseball (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Blackjack (USA);Blackjack (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Bowling_Micro Match (USA);Bowling_Micro Match (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Boxing (USA);Boxing (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Brickdown_Shooting Gallery (USA);Brickdown_Shooting Gallery (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Casino 1 (USA);Casino 1 (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Catena (USA);Catena (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Hangman_Tic-Tac-Toe_Doodle (USA);Hangman_Tic-Tac-Toe_Doodle (USA);APF Imagination Machine;;;;;;;;;;;;;;
+Pinball_Dungeon Hunt_Blockout (USA);Pinball_Dungeon Hunt_Blockout (USA);APF Imagination Machine;;;;;;;;;;;;;;
+UFO_Sea Monster_Break it down_Rebuild_Shoot (USA);UFO_Sea Monster_Break it down_Rebuild_Shoot (USA);APF Imagination Machine;;;;;;;;;;;;;;

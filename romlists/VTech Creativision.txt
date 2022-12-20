@@ -1,0 +1,18 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Air Sea Attack (Asia, Europe);Air Sea Attack (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Astro Pinball (Asia, Europe);Astro Pinball (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Auto Chase (Asia, Europe);Auto Chase (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Chopper Rescue (Asia, Europe);Chopper Rescue (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Crazy Chicky (Asia, Europe);Crazy Chicky (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Crazy Pucker (Asia, Europe);Crazy Pucker (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Deep Sea Adventure (Asia, Europe);Deep Sea Adventure (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Locomotive (Asia, Europe);Locomotive (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Mouse Puzzle (Asia, Europe);Mouse Puzzle (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Music Maker (Asia, Europe);Music Maker (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Planet Defender (Asia, Europe);Planet Defender (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Police Jump (Asia, Europe);Police Jump (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Soccer (Asia, Europe);Soccer (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Sonic Invader (Asia, Europe);Sonic Invader (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Stone Age (Asia, Europe);Stone Age (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Tank Attack (Asia, Europe);Tank Attack (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;
+Tennis (Asia, Europe);Tennis (Asia, Europe);VTech Creativision;;;;;;;;;;;;;;

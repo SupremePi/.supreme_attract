@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+3-D Tetris (USA);3-D Tetris (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Bound High (Unknown) (Proto);Bound High (Unknown) (Proto);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Galactic Pinball (Japan, USA);Galactic Pinball (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Golf (USA);Golf (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Innsmouth no Yakata (Japan);Innsmouth no Yakata (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Jack Bros. (USA);Jack Bros. (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Mario Clash (Japan, USA);Mario Clash (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Mario's Tennis (Japan, USA);Mario's Tennis (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Nester's Funky Bowling (USA);Nester's Funky Bowling (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Niko-chan Battle (Japan) (Proto);Niko-chan Battle (Japan) (Proto);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Panic Bomber (USA);Panic Bomber (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Red Alarm (USA);Red Alarm (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+SD Gundam - Dimension War (Japan);SD Gundam - Dimension War (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Space Invaders - Virtual Collection (Japan);Space Invaders - Virtual Collection (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Space Squash (Japan);Space Squash (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Teleroboxer (Japan, USA);Teleroboxer (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+V-Tetris (Japan);V-Tetris (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Vertical Force (USA);Vertical Force (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Virtual Bowling (Japan);Virtual Bowling (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Virtual Boy Wario Land (Japan, USA);Virtual Boy Wario Land (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Virtual Fishing (Japan);Virtual Fishing (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Virtual Lab (Japan);Virtual Lab (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Virtual League Baseball (USA);Virtual League Baseball (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
+Waterworld (USA);Waterworld (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;;;;;
