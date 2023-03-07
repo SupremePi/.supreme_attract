@@ -1,6 +1,6 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
 +Start-System;+Start Up Emulator Of Choice;Emulation tools;;;;;;;;;;;;;;
 configedit;Config Edition;Emulation tools;;;;;;;;;;;;;;
-emulator;Emulator Information;Emulation tools;;;;;;;;;;;;;;
+#emulator;Emulator Information;Emulation tools;;;;;;;;;;;;;;
 openbormoduleselectionscript;OpenBor Module Selection;Emulation tools;;;;;;;;;;;;;;
 rpc80-savefile;RPC80 Save File Tool;Emulation tools;;;;;;;;;;;;;;
