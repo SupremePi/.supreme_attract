@@ -24,3 +24,4 @@ splashscreen;Splashscreen Utility;RetroPie;;;;;;;;;;;;;;
 systeminfo;System Information;RetroPie;;;;;;;;;;;;;;
 videolaunch;System Unified Launching Videos;RetroPie;;;;;;;;;;;;;;
 wifi;Setup Wifi;RetroPie;;;;;;;;;;;;;;
+

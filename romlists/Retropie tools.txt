@@ -1,19 +1,17 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-#am-latest;Attract mode updater;Retropie tools;;;;;;;;;;;;;;
+bluetooth;Bluetooth;Retropie tools;;;;;;;;;;;;;;
 clearlastplayed;Clear last played gamelist;Retropie tools;;;;;;;;;;;;;;
-#desktop;Pixel Desktop;Retropie tools;;;;;;;;;;;;;;
 escollections;ES Collections Tools;Retropie tools;;;;;;;;;;;;;;
 esgamelist;ES Gamelist Tools;Retropie tools;;;;;;;;;;;;;;
 filefind;File Finder;Retropie tools;;;;;;;;;;;;;;
 filemanager;File Manager;Retropie tools;;;;;;;;;;;;;;
 gpioshutdown,GPIO Shutdown;Retropie tools;;;;;;;;;;;;;;
 overclock;Overclock Utility;Retropie tools;;;;;;;;;;;;;;
-#repairkodi;Repair Kodi;Retropie tools;;;;;;;;;;;;;;
 reference,Reference;Retropie tools;;;;;;;;;;;;;;
-#resettodefault;Reset To Default;Retropie tools;;;;;;;;;;;;;;
+retroarch,Retroarch;Retropie tools;;;;;;;;;;;;;;
 retronetplay;Retroarch Netplay;Retropie tools;;;;;;;;;;;;;;
 runcommand;Run command Utility;Retropie tools;;;;;;;;;;;;;;
+showip;Show IP;Retropie tools;;;;;;;;;;;;;;
 systeminfo;System Info Utility;Retropie tools;;;;;;;;;;;;;;
-#update;Update Utility;Retropie tools;;;;;;;;;;;;;;
-#usbbootmode;USB boot (no SD card);Retropie tools;;;;;;;;;;;;;;
 usb-ext;USB roms ON and OFF;Retropie tools;;;;;;;;;;;;;;
+wifi;Wifi;Retropie tools;;;;;;;;;;;;;;
