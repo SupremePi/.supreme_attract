@@ -1,0 +1,12 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+[05] Player Volume;[05] Player Volume;Volume;;;;;;;;;;;;;;
+[10] Player Volume;[10] Player Volume;Volume;;;;;;;;;;;;;;
+[20] Player Volume;[20] Player Volume;Volume;;;;;;;;;;;;;;
+[30] Player Volume;[30] Player Volume;Volume;;;;;;;;;;;;;;
+[40] Player Volume;[40] Player Volume;Volume;;;;;;;;;;;;;;
+[50] Player Volume;[50] Player Volume;Volume;;;;;;;;;;;;;;
+[60] Player Volume;[60] Player Volume;Volume;;;;;;;;;;;;;;
+[70] Player Volume;[70] Player Volume;Volume;;;;;;;;;;;;;;
+[80] Player Volume;[80] Player Volume;Volume;;;;;;;;;;;;;;
+[90] Player Volume;[90] Player Volume;Volume;;;;;;;;;;;;;;
+[MAX] Player Volume;[MAX] Player Volume;Volume;;;;;;;;;;;;;;

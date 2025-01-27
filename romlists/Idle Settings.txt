@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+[05] Idle IMP Volume;[05] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[10] Idle IMP Volume;[10] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[20] Idle IMP Volume;[20] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[30] Idle IMP Volume;[30] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[40] Idle IMP Volume;[40] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[50] Idle IMP Volume;[50] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[60] Idle IMP Volume;[60] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[70] Idle IMP Volume;[70] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[80] Idle IMP Volume;[80] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[90] Idle IMP Volume;[90] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+[MAX] Idle IMP Volume;[MAX] Idle IMP Volume;Idle Settings;;;;;;;;;;;;;;
+Idle at Screensaver [0ff];Idle at Screensaver [0ff];Idle Settings;;;;;;;;;;;;;;
+Idle at Screensaver [Any] [0n];Idle at Screensaver [Any] [0n];Idle Settings;;;;;;;;;;;;;;
+Idle at Screensaver [Video] [0n];Idle at Screensaver [Video] [0n];Idle Settings;;;;;;;;;;;;;;
+Idle IMP Behavior [Stop];Idle IMP Behavior [Stop];Idle Settings;;;;;;;;;;;;;;
+Idle IMP Behavior [Volume];Idle IMP Behavior [Volume];Idle Settings;;;;;;;;;;;;;;
+Stop IMP at Sleep [0ff];Stop IMP at Sleep [0ff];Idle Settings;;;;;;;;;;;;;;
+Stop IMP Sleep [0n];Stop IMP Sleep [0n];Idle Settings;;;;;;;;;;;;;;
+Stop+Kill Display at Sleep [0n];Stop+Kill Display at Sleep [0n];Idle Settings;;;;;;;;;;;;;;

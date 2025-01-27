@@ -1,0 +1,9 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Fade Volume [0ff];Fade Volume [0ff];General Settings;;;;;;;;;;;;;;
+Fade Volume [x1];Fade Volume [x1];General Settings;;;;;;;;;;;;;;
+Fade Volume [x5];Fade Volume [x5];General Settings;;;;;;;;;;;;;;
+Fade Volume [x10];Fade Volume [x10];General Settings;;;;;;;;;;;;;;
+IMP Lite [Off];IMP Lite [Off];General Settings;;;;;;;;;;;;;;
+IMP Lite [On];IMP Lite [On];General Settings;;;;;;;;;;;;;;
+Infinite IMP [Off];Infinite IMP [Off];General Settings;;;;;;;;;;;;;;
+Infinite IMP [On];Infinite IMP [On];General Settings;;;;;;;;;;;;;;

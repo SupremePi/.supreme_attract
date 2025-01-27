@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+[00] Delay At Game End;[00] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[05] Delay At Game End;[05] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[10] Delay At Game End;[10] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[15] Delay At Game End;[15] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[20] Delay At Game End;[20] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[25] Delay At Game End;[25] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+[30] Delay At Game End;[30] Delay At Game End;Game Settings;;;;;;;;;;;;;;
+Music 0ver Games [Off];Music 0ver Games [Off];Game Settings;;;;;;;;;;;;;;
+Music 0ver Games [On];Music 0ver Games [On];Game Settings;;;;;;;;;;;;;;
+Music Idle 0ver Games [On];Music Idle 0ver Games [On];Game Settings;;;;;;;;;;;;;;

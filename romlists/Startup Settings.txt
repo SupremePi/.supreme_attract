@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+[000] Delay At Startup;[000] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[005] Delay At Startup;[005] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[010] Delay At Startup;[010] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[015] Delay At Startup;[015] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[020] Delay At Startup;[020] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[025] Delay At Startup;[025] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[030] Delay At Startup;[030] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[035] Delay At Startup;[035] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[040] Delay At Startup;[040] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[045] Delay At Startup;[045] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[050] Delay At Startup;[050] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[055] Delay At Startup;[055] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[060] Delay At Startup;[060] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[070] Delay At Startup;[070] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[080] Delay At Startup;[080] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[090] Delay At Startup;[090] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[100] Delay At Startup;[100] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[110] Delay At Startup;[110] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+[120] Delay At Startup;[120] Delay At Startup;Startup Settings;;;;;;;;;;;;;;
+Music At Startup [Off];Music At Startup [Off];Startup Settings;;;;;;;;;;;;;;
+Music At Startup [On];Music At Startup [On];Startup Settings;;;;;;;;;;;;;;
+Shuffle Playlist [Off];Shuffle Playlist [Off];Startup Settings;;;;;;;;;;;;;;
+Shuffle Playlist [On];Shuffle Playlist [On];Startup Settings;;;;;;;;;;;;;;

@@ -1,0 +1,17 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+imp; # Music Player #;@;;;;;;;;;0;;;;;
+Controller tools;/ Controller Tools;@;;;;;;;;;0;;;;;
+Emulation tools;/ Emulation Tools;@;;;;;;;;;0;;;;;
+Retropie tools;/ Retropie Tools;@;;;;;;;;;0;;;;;
+Visual tools;/ Visual Tools;@;;;;;;;;;0;;;;;
+fixmybuild;Fix My Build;Supreme Settings;;;;;;;;;;;;;;
+raspiconfig;Raspi Config;Supreme Settings;;;;;;;;;;;;;;
+rpsetup;Retropie Setup;Supreme Settings;;;;;;;;;;;;;;
+basicinfo;Retropie Basic Infos;Supreme Settings;;;;;;;;;;;;;;
+FE-Switcheroo;Switch Frontend;Supreme Settings;;;;;;;;;;;;;;
+displayutility;Display Utility;Supreme Settings;;;;;;;;;;;;;;
+attract-systems-detection;Systems Detection;Supreme Settings;;;;;;;;;;;;;;
+favorites;Favorites Utility;Supreme Settings;;;;;;;;;;;;;;
+systemsnapswitch;Systems snaps switch;Supreme Settings;;;;;;;;;;;;;;
+reboot;Reboot;Supreme Settings;;;;;;;;;;;;;;
+shutdown;Shutdown;Supreme Settings;;;;;;;;;;;;;;

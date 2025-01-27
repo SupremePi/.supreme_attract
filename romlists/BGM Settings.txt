@@ -1,0 +1,9 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+BGM A-Side [Off];BGM A-Side [Off];BGM Settings;;;;;;;;;;;;;;
+BGM A-Side [On];BGM A-Side [On];BGM Settings;;;;;;;;;;;;;;
+BGM B-Side [Off];BGM B-Side [Off];BGM Settings;;;;;;;;;;;;;;
+BGM B-Side [On];BGM B-Side [On];BGM Settings;;;;;;;;;;;;;;
+Play Quit Song [Off];Play Quit Song [Off];BGM Settings;;;;;;;;;;;;;;
+Play Quit Song [On];Play Quit Song [On];BGM Settings;;;;;;;;;;;;;;
+Play Startup Song [Off];Play Startup Song [Off];BGM Settings;;;;;;;;;;;;;;
+Play Startup Song [On];Play Startup Song [On];BGM Settings;;;;;;;;;;;;;;

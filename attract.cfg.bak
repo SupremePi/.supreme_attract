@@ -3945,6 +3945,3 @@ display	RetroPie
 display	Nintendo Gamecube
 	layout               Basic
 	romlist              Nintendo Gamecube
-display	Nintendo Wii
-	layout               Basic
-	romlist              Nintendo Wii

@@ -1,0 +1,5 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+HTTP Server [Off];HTTP Server [Off];HTTP Server Settings;;;;;;;;;;;;;;
+HTTP Server Log;HTTP Server Log;HTTP Server Log;;;;;;;;;;;;;;
+HTTP Server Music [On];HTTP Server Music [On];HTTP Server Settings;;;;;;;;;;;;;;
+HTTP Server Roms [On];HTTP Server Roms [On];HTTP Server Settings;;;;;;;;;;;;;;

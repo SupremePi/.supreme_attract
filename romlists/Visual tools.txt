@@ -1,6 +1,7 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-bezelproject;Bezel Project;RetroPie;;;;;;;;;;;;;;
-bezels;Easy Bezel On/Off;RetroPie;;;;;;;;;;;;;;
+bezelproject;Bezel Project;Visual tools;;;;;;;;;;;;;;
+bezels;Easy Bezel On/Off;Visual tools;;;;;;;;;;;;;;
+clearlastplayed;clearlastplayed;Visual tools;;;;;;;;;;;;;;
 esthemes;ES Themes;Visual tools;;;;;;;;;;;;;;
 genesis;Sega Genesis/Megadrive Swap;Visual tools;;;;;;;;;;;;;;
 hurstythemes;Hursty Themes;Visual tools;;;;;;;;;;;;;;
@@ -8,7 +9,4 @@ loadingmedia-tool;Loading Media Tools;Visual tools;;;;;;;;;;;;;;
 removemedia;Remove Media;Visual tools;;;;;;;;;;;;;;
 resolution-tool;Resolution Tool;Visual tools;;;;;;;;;;;;;;
 retroarch-tool;Retroarch Visual Settings;Visual tools;;;;;;;;;;;;;;
-retropie-tweak;Retroarch Tweak;Visual tools;;;;;;;;;;;;;;
-skyscraper;Skyscraper;Visual tools;;;;;;;;;;;;;;
 splashscreen;Splashscreen;Visual tools;;;;;;;;;;;;;;
-supreme-marquee-tool;Supreme Marquee Tool;Visual tools;;;;;;;;;;;;;;

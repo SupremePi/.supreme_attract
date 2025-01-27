@@ -1,18 +1,9 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-Audio tools;/ Audio Tools;@;;;;;;;;;0;;;;;
-Controller tools;/ Controller Tools;@;;;;;;;;;0;;;;;
-Emulation tools;/ Emulation Tools;@;;;;;;;;;0;;;;;
-Retropie tools;/ Retropie Tools;@;;;;;;;;;0;;;;;
-Visual tools;/ Visual Tools;@;;;;;;;;;0;;;;;
-fixmybuild;Fix My Build;Settings;;;;;;;;;;;;;;
-raspiconfig;Raspi Config;Settings;;;;;;;;;;;;;;
-rpsetup;Retropie Setup;Settings;;;;;;;;;;;;;;
-basicinfo;Retropie Basic Infos;Settings;;;;;;;;;;;;;;
-FE-Switcheroo;Switch Frontend;Settings;;;;;;;;;;;;;;
-displayutility;Display Utility;Settings;;;;;;;;;;;;;;
-attract-systems-detection;Systems Detection;Settings;;;;;;;;;;;;;;
-favorites;Favorites Utility;Settings;;;;;;;;;;;;;;
-systemsnapswitch;Systems snaps switch;Settings;;;;;;;;;;;;;;
-tamoplus;TAMOPLUS;Settings;;;;;;;;;;;;;;
-reboot;Reboot;Settings;;;;;;;;;;;;;;
-shutdown;Shutdown;Settings;;;;;;;;;;;;;;
+Current Settings;# Current Settings #;Current Settings;;;;;;;;;;;;;;
+General Settings;[General Settings];@;;;;;;;;;0;;;;;
+BGM Settings;{BGM Settings};@;;;;;;;;;0;;;;;
+Game Settings;{Game Settings};@;;;;;;;;;0;;;;;
+HTTP Server Settings;{HTTP Server};@;;;;;;;;;0;;;;;
+Idle Settings;{Idle Settings};@;;;;;;;;;0;;;;;
+Randomizer Settings;{Randomizer Settings};@;;;;;;;;;0;;;;;
+Startup Settings;{Startup Settings};@;;;;;;;;;0;;;;;
