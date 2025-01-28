@@ -54,6 +54,15 @@ display	Extras
 	filter               Favourites
 		rule                 Favourite equals 1
 
+display	RetroPie
+	layout               Basic
+	romlist              RetroPie
+	in_cycle             no
+	in_menu              no
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+		
 display	Supreme Settings
 	layout               Supreme-Settings
 	romlist              Supreme Settings
@@ -1851,6 +1860,24 @@ display	Nintendo 3DS
 	filter               Favourites
 		rule                 Favourite equals 1
 
+display	Nintendo Gamecube
+	layout               Basic
+	romlist              Nintendo Gamecube
+	in_cycle             no
+	in_menu              no
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+		
+display	Nintendo Wii
+	layout               Basic
+	romlist              Nintendo Wii
+	in_cycle             no
+	in_menu              no
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1		
+		
 display	Sega Game Gear
 	layout               HP2-Systems-Menu
 	romlist              Sega Game Gear
@@ -3939,9 +3966,3 @@ plugin	ResFix
 
 plugin	History.dat
 	enabled              no
-display	RetroPie
-	layout               Basic
-	romlist              RetroPie
-display	Nintendo Gamecube
-	layout               Basic
-	romlist              Nintendo Gamecube
