@@ -1,11 +1,13 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
 Current Playlist;# Current Playlist #;Current Playlist;;;;;;;;;;;;;;
 music;/ music;@;;;;;;;;;0;;;;;
+Previous Album;<) Previous Tracklist;imp;;;;;;;;;;;;;;
 Previous Track;<< Previous Track;imp;;;;;;;;;;;;;;
 Play;<> Play;imp;;;;;;;;;;;;;;
 Pause;= Pause;imp;;;;;;;;;;;;;;
 Stop;>< Stop;imp;;;;;;;;;;;;;;
 Next Track;>> Next Track;imp;;;;;;;;;;;;;;
+Next Album;>] Next Tracklist;imp;;;;;;;;;;;;;;
 Shuffle Off;Shuffle Off;imp;;;;;;;;;;;;;;
 Shuffle On;Shuffle On;imp;;;;;;;;;;;;;;
 Start All Music;Start All Music;imp;;;;;;;;;;;;;;

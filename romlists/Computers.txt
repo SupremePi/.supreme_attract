@@ -22,7 +22,6 @@
 #MGT Sam Coupe;MGT Sam Coupe;@;;;;;;;;;0;;;;;								 
 #OpenBOR;OpenBOR;@;;;;;;;;;0;;;;;
 #PC;PC;@;;;;;;;;;0;;;;;
-#Ports;Ports;@;;;;;;;;;0;;;;;
 #ResidualVM;ResidualVM;@;;;;;;;;;0;;;;;
 #ScummVM;ScummVM;@;;;;;;;;;0;;;;;
 #Sega SC-3000;Sega SC-3000;@;;;;;;;;;0;;;;;

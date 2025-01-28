@@ -22,7 +22,6 @@
 #MGT Sam Coupe;MGT Sam Coupe;@;;;;;;;;;0;;;;;								 
 #OpenBOR;OpenBOR;@;;;;;;;;;0;;;;;
 #PC;PC;@;;;;;;;;;0;;;;;
-Ports;Ports;@;;;;;;;;;0;;;;;
 #ResidualVM;ResidualVM;@;;;;;;;;;0;;;;;
 #ScummVM;ScummVM;@;;;;;;;;;0;;;;;
 #Sega SC-3000;Sega SC-3000;@;;;;;;;;;0;;;;;
@@ -35,4 +34,4 @@ Ports;Ports;@;;;;;;;;;0;;;;;
 #Tandy TRS-80 Color Computer;Tandy TRS-80 Color Computer;@;;;;;;;;;0;;;;;
 #Tangerine Oric;Tangerine Oric;@;;;;;;;;;0;;;;;
 #Texas Instruments TI 99-4A;Texas Instruments TI 99-4A;@;;;;;;;;;0;;;;;
-ZMachine;ZMachine;@;;;;;;;;;0;;;;;
+#ZMachine;ZMachine;@;;;;;;;;;0;;;;;
